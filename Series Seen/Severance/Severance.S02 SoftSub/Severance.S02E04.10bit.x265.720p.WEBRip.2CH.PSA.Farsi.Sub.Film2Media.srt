@@ -1,0 +1,1693 @@
+﻿1
+00:00:35,065 --> 00:00:36,191
+Hello!
+
+2
+00:00:41,279 --> 00:00:42,739
+Hello!
+
+3
+00:00:49,579 --> 00:00:50,580
+Irving!
+
+4
+00:00:52,707 --> 00:00:55,293
+- It's me. I'm up here!
+- Mark!
+
+5
+00:00:55,877 --> 00:00:57,127
+Yeah!
+
+6
+00:00:57,128 --> 00:00:58,213
+Hey!
+
+7
+00:01:01,299 --> 00:01:02,758
+What's happening?
+
+8
+00:01:02,759 --> 00:01:04,092
+Where are we?
+
+9
+00:01:04,093 --> 00:01:06,388
+I have no fucking idea,
+
+10
+00:01:07,305 --> 00:01:10,892
+but there's a path up the cliff
+right down there!
+
+11
+00:01:12,561 --> 00:01:14,187
+Do you want me to come up?
+
+12
+00:01:15,522 --> 00:01:16,857
+Well, yeah!
+
+13
+00:01:19,818 --> 00:01:23,780
+I'm on the ice. I'm on the fucking ice!
+
+14
+00:01:24,406 --> 00:01:26,783
+Maybe get off of it. Come on!
+
+15
+00:01:33,582 --> 00:01:34,583
+I'm coming!
+
+16
+00:01:42,007 --> 00:01:43,008
+I'm--
+
+17
+00:01:44,426 --> 00:01:45,467
+I'm coming!
+
+18
+00:01:45,468 --> 00:01:46,761
+Be careful!
+
+19
+00:02:01,067 --> 00:02:02,694
+It's very steep!
+
+20
+00:02:25,634 --> 00:02:26,635
+Irving.
+
+21
+00:02:27,302 --> 00:02:28,512
+Helly!
+
+22
+00:02:30,514 --> 00:02:31,848
+Where did you come from?
+
+23
+00:02:32,390 --> 00:02:33,682
+I don't know.
+
+24
+00:02:33,683 --> 00:02:35,101
+What are we doing out here?
+
+25
+00:02:35,852 --> 00:02:37,312
+Up here!
+
+26
+00:02:38,021 --> 00:02:40,732
+Follow my voice!
+
+27
+00:02:43,235 --> 00:02:44,236
+Mark!
+
+28
+00:02:48,949 --> 00:02:49,950
+Mark!
+
+29
+00:02:50,617 --> 00:02:52,118
+Up here!
+
+30
+00:02:55,580 --> 00:02:56,831
+Mark.
+
+31
+00:02:56,832 --> 00:02:58,249
+Hey!
+
+32
+00:02:58,250 --> 00:02:59,334
+Are you okay?
+
+33
+00:03:00,210 --> 00:03:01,877
+- Did you wake up on the ice too?
+- Yeah.
+
+34
+00:03:01,878 --> 00:03:03,964
+- What about you?
+- On the cliff.
+
+35
+00:03:05,048 --> 00:03:06,675
+Oh, my God.
+
+36
+00:03:09,135 --> 00:03:11,345
+- Is it you?
+- Of course it's us.
+
+37
+00:03:11,346 --> 00:03:12,848
+Holy shit!
+
+38
+00:03:13,515 --> 00:03:15,600
+Out-fucking-side.
+
+39
+00:03:16,184 --> 00:03:19,562
+Oh, my God. I mean,
+I knew there was no actual ceiling,
+
+40
+00:03:19,563 --> 00:03:21,231
+but this is fucking insane.
+
+41
+00:03:22,649 --> 00:03:23,650
+Hello?
+
+42
+00:03:25,193 --> 00:03:26,820
+Hello?
+
+43
+00:03:35,745 --> 00:03:36,788
+What is that?
+
+44
+00:04:30,592 --> 00:04:32,219
+<i>Good morning, Refiners.</i>
+
+45
+00:04:33,220 --> 00:04:36,347
+<i>This is Mr. Milchick from work,
+and I'm thrilled to welcome you</i>
+
+46
+00:04:36,348 --> 00:04:38,516
+<i>to your first ever</i>
+
+47
+00:04:38,517 --> 00:04:42,979
+<i>outdoor retreat
+and team-building occurrence.</i>
+
+48
+00:04:44,231 --> 00:04:49,819
+<i>This ORTBO is in response
+to your desire to see the outside world.</i>
+
+49
+00:04:50,362 --> 00:04:51,946
+<i>With your outies' blessings,</i>
+
+50
+00:04:51,947 --> 00:04:56,075
+<i>you will spend the next two calendar days
+walking the meadows,</i>
+
+51
+00:04:56,076 --> 00:05:01,581
+<i>thickets, brambles and brooks that
+make up the Dieter Eagan National Forest.</i>
+
+52
+00:05:03,291 --> 00:05:05,210
+Who the fuck is Dieter Eagan?
+
+53
+00:05:07,921 --> 00:05:09,214
+<i>Dieter Eagan?</i>
+
+54
+00:05:10,090 --> 00:05:12,884
+<i>Some of you may be
+quietly yearning to learn more.</i>
+
+55
+00:05:13,760 --> 00:05:17,848
+<i>The truth you seek lies
+within the fourth appendix.</i>
+
+56
+00:05:19,099 --> 00:05:23,352
+<i>Kier dictated a fourth
+appendix in his final hours of life,</i>
+
+57
+00:05:23,353 --> 00:05:28,275
+<i>a text of such sanctity that it
+is forbidden upon the severed floor.</i>
+
+58
+00:05:29,609 --> 00:05:32,404
+<i>It's waiting for you in Scissor Cave,</i>
+
+59
+00:05:33,613 --> 00:05:34,738
+<i>the very same grotto</i>
+
+60
+00:05:34,739 --> 00:05:38,827
+<i>where Kier Eagan tamed the four
+tempers for the very first time.</i>
+
+61
+00:05:39,953 --> 00:05:41,163
+<i>And do remember,</i>
+
+62
+00:05:42,038 --> 00:05:47,669
+<i>"Stray not from Kier's path,
+lest you roil nature's wrath."</i>
+
+63
+00:05:50,213 --> 00:05:52,048
+<i>There will be help along the way.</i>
+
+64
+00:05:54,843 --> 00:05:56,469
+<i>Happy fortunes, MDR.</i>
+
+65
+00:06:04,978 --> 00:06:06,313
+Scissor Cave.
+
+66
+00:06:17,115 --> 00:06:18,450
+What the fuck is that?
+
+67
+00:06:28,835 --> 00:06:30,962
+He looks like Mark.
+
+68
+00:06:42,891 --> 00:06:46,061
+Milchick said there'd
+be help along the way.
+
+69
+00:06:46,853 --> 00:06:50,064
+I wouldn't trust a word out of that
+mountebank's mouth.
+
+70
+00:06:50,065 --> 00:06:51,525
+Not even televisually.
+
+71
+00:07:05,622 --> 00:07:08,500
+Not like we have a lot of
+other options right now, Irv.
+
+72
+00:09:48,285 --> 00:09:49,286
+Wait.
+
+73
+00:10:32,996 --> 00:10:34,289
+{\an8}"Chapter one.
+
+74
+00:10:36,666 --> 00:10:38,502
+{\an8}I was not born into this world alone.
+
+75
+00:10:39,753 --> 00:10:42,506
+The lodgings of my mother's
+womb I shared with another,
+
+76
+00:10:43,131 --> 00:10:45,050
+a twin brother who was called Dieter."
+
+77
+00:10:47,302 --> 00:10:48,720
+Kier had a twin?
+
+78
+00:10:50,639 --> 00:10:52,474
+That's what those things are.
+
+79
+00:10:53,225 --> 00:10:54,267
+Yeah.
+
+80
+00:10:55,560 --> 00:10:59,940
+"In infancy, he was my bosom friend.
+But as we blossomed into boyhood,
+
+81
+00:11:00,732 --> 00:11:03,693
+he beseeched me to take to
+the wood with him to live as paupers.
+
+82
+00:11:05,237 --> 00:11:08,156
+My love for my twin
+unbalancing my judgment,
+
+83
+00:11:08,824 --> 00:11:12,160
+I acceded, and we ventured
+into the wood towards"...
+
+84
+00:11:14,454 --> 00:11:15,956
+"Woe's Hollow."
+
+85
+00:11:23,171 --> 00:11:28,635
+So,
+we're to walk in the brothers' footsteps.
+
+86
+00:11:33,014 --> 00:11:36,768
+{\an8}"He always crept like this at this hour.
+
+87
+00:11:37,811 --> 00:11:41,230
+{\an8}- Once concealed by flora, my brother"...
+- <i>...flora, my brother</i>
+
+88
+00:11:41,231 --> 00:11:43,649
+<i>unfastened himself.</i>
+
+89
+00:11:43,650 --> 00:11:50,740
+<i>The din of his fervor fell strangely
+into concert with the music of the wood.</i>
+
+90
+00:11:51,449 --> 00:11:54,326
+<i>His every thrust found rhythm</i>
+
+91
+00:11:54,327 --> 00:11:57,246
+- <i>with the trill of the crickets...</i>
+- ..."trill of the crickets"...
+
+92
+00:11:57,247 --> 00:11:59,916
+- <i>...and the moaning of the wind...</i>
+- ..."and the moaning of the wind"...
+
+93
+00:12:00,458 --> 00:12:04,003
+- <i>...and the snowfall's yearly thaw.</i>
+- ..."and the snowfall's yearly thaw."
+
+94
+00:12:04,004 --> 00:12:06,714
+<i>Dieter became, on that night</i>
+
+95
+00:12:06,715 --> 00:12:09,300
+- <i>an instrument of nature...</i>
+- ..."an instrument of nature"...
+
+96
+00:12:09,301 --> 00:12:12,970
+- <i>...and nature played Dieter...</i>
+- "and nature played Dieter with elegance.
+
+97
+00:12:12,971 --> 00:12:16,307
+I had no choice but to listen
+
+98
+00:12:16,308 --> 00:12:20,437
+as he spilt his lineage upon the soil."
+
+99
+00:12:43,210 --> 00:12:44,544
+Now there's a me one.
+
+100
+00:13:28,755 --> 00:13:29,798
+You okay?
+
+101
+00:13:31,091 --> 00:13:32,092
+Yeah.
+
+102
+00:13:33,051 --> 00:13:35,053
+I just wish I knew where we were going.
+
+103
+00:13:59,411 --> 00:14:00,412
+Fuck.
+
+104
+00:14:24,394 --> 00:14:27,272
+What were you and Helly
+talking about back there?
+
+105
+00:14:37,032 --> 00:14:38,033
+When?
+
+106
+00:14:39,701 --> 00:14:41,661
+I don't trust her.
+
+107
+00:14:42,662 --> 00:14:45,957
+I think she might be lying
+about what her outie saw.
+
+108
+00:14:46,541 --> 00:14:47,792
+Why would you think that?
+
+109
+00:14:48,502 --> 00:14:49,920
+Night gardeners.
+
+110
+00:14:52,047 --> 00:14:54,632
+It's clear you do not have
+an objective perspective
+
+111
+00:14:54,633 --> 00:14:56,008
+due to your feelings for her.
+
+112
+00:14:56,009 --> 00:14:59,179
+My feelings for her have
+nothing to do with anything, okay--
+
+113
+00:15:20,742 --> 00:15:22,118
+What the fuck?
+
+114
+00:15:24,996 --> 00:15:26,289
+What is it?
+
+115
+00:15:27,207 --> 00:15:28,208
+I don't know.
+
+116
+00:15:29,584 --> 00:15:32,003
+Looks like a seal.
+
+117
+00:15:37,050 --> 00:15:38,844
+Why does it look so messed up?
+
+118
+00:15:40,762 --> 00:15:43,431
+I don't know.
+Maybe this is what dead things look like.
+
+119
+00:15:46,268 --> 00:15:47,269
+We should eat it.
+
+120
+00:15:48,270 --> 00:15:49,270
+Pardon me?
+
+121
+00:15:49,271 --> 00:15:51,606
+We don't know if there's
+food waiting at the hollow.
+
+122
+00:15:52,816 --> 00:15:54,942
+We don't even know where we are.
+
+123
+00:15:54,943 --> 00:15:56,903
+They can't let anything happen to us.
+
+124
+00:15:57,487 --> 00:15:58,445
+It's an ORTBO.
+
+125
+00:15:58,446 --> 00:16:01,866
+Outdoor retreat team-building occurrence.
+Right, Mark?
+
+126
+00:16:01,867 --> 00:16:03,618
+We don't know what this is.
+
+127
+00:16:04,578 --> 00:16:07,581
+- We don't know anything!
+- Irving, calm down.
+
+128
+00:16:09,124 --> 00:16:12,126
+We all know you had a bad experience
+the last time you were outside--
+
+129
+00:16:12,127 --> 00:16:14,587
+Who said I had a bad experience?
+
+130
+00:16:14,588 --> 00:16:15,797
+Oh, my God.
+
+131
+00:16:17,883 --> 00:16:19,633
+What did you tell him, dumbass?
+
+132
+00:16:19,634 --> 00:16:22,470
+Nothing! What the fuck?
+
+133
+00:16:23,763 --> 00:16:25,599
+Let's just get to the hollow.
+
+134
+00:17:19,945 --> 00:17:22,029
+Kier's twin was always with him.
+
+135
+00:17:24,407 --> 00:17:27,035
+That's why we provided
+the very same for each of you.
+
+136
+00:17:28,119 --> 00:17:30,079
+Fuck you all. I was right.
+
+137
+00:17:30,080 --> 00:17:31,414
+Mr. Milchick.
+
+138
+00:17:32,582 --> 00:17:35,126
+This is the tallest waterfall
+on the planet.
+
+139
+00:17:37,128 --> 00:17:42,425
+You have followed the path of Kier
+and Dieter, and reached Woe's Hollow.
+
+140
+00:17:43,760 --> 00:17:45,470
+You stand upon sacred earth.
+
+141
+00:17:47,430 --> 00:17:49,057
+We're starving, Mr. Milchick.
+
+142
+00:17:50,350 --> 00:17:51,351
+Are you?
+
+143
+00:17:52,936 --> 00:17:55,480
+I thought the waterfall's
+grandeur would satiate you.
+
+144
+00:17:59,401 --> 00:18:01,111
+I'm teasing, of course.
+
+145
+00:18:02,404 --> 00:18:04,739
+Lumon will always protect and provide.
+
+146
+00:18:05,866 --> 00:18:06,867
+Right this way.
+
+147
+00:19:06,468 --> 00:19:12,098
+Miss Huang has been readying the grill for
+which we brought in copious luxury meats.
+
+148
+00:19:14,100 --> 00:19:17,187
+The fire will be used for
+marshmallows and a recital later.
+
+149
+00:19:18,188 --> 00:19:20,982
+The tents, as you can see, are MDR blue
+
+150
+00:19:21,900 --> 00:19:26,446
+and the outhouse is stocked
+with four-ply washroom tissue.
+
+151
+00:19:28,615 --> 00:19:29,616
+Wow.
+
+152
+00:19:30,659 --> 00:19:32,077
+Wow, indeed, Helly R.
+
+153
+00:19:33,662 --> 00:19:38,416
+Also, for your
+comfort and safety, torches,
+
+154
+00:19:39,042 --> 00:19:41,753
+which can provide both
+a heat and a light source.
+
+155
+00:19:43,255 --> 00:19:44,256
+Double duty.
+
+156
+00:19:46,049 --> 00:19:47,551
+It's beautiful.
+
+157
+00:19:49,845 --> 00:19:51,221
+Pretty cool, right?
+
+158
+00:19:54,099 --> 00:19:56,142
+Yes, lovely.
+
+159
+00:20:02,399 --> 00:20:03,400
+Irving?
+
+160
+00:20:03,900 --> 00:20:04,901
+Enter.
+
+161
+00:20:18,582 --> 00:20:20,041
+Made you a snow seal.
+
+162
+00:20:27,549 --> 00:20:28,967
+In case you were hungry.
+
+163
+00:20:31,595 --> 00:20:32,596
+Yeah.
+
+164
+00:20:33,513 --> 00:20:38,601
+I feel silly for suggesting
+we eat that animal.
+
+165
+00:20:38,602 --> 00:20:43,647
+I suppose
+it sounded alarmist and paranoid.
+
+166
+00:20:43,648 --> 00:20:44,690
+Irrational.
+
+167
+00:20:44,691 --> 00:20:47,819
+No. It was fine. We were all a little...
+
+168
+00:20:54,743 --> 00:20:55,744
+Yeah.
+
+169
+00:21:03,293 --> 00:21:06,671
+What did you really see
+during the overtime contingency?
+
+170
+00:21:14,179 --> 00:21:15,180
+I told you.
+
+171
+00:21:17,599 --> 00:21:18,600
+It's okay.
+
+172
+00:21:20,101 --> 00:21:21,561
+It won't change anything.
+
+173
+00:21:31,279 --> 00:21:32,280
+Irving.
+
+174
+00:21:43,917 --> 00:21:45,210
+Okay.
+
+175
+00:22:06,606 --> 00:22:09,025
+"Dieter lay unwashed in his bedroll,
+
+176
+00:22:09,734 --> 00:22:12,320
+though the hollow's pool
+was primed for bathing.
+
+177
+00:22:13,405 --> 00:22:15,322
+We ate of the hare we'd caught
+
+178
+00:22:15,323 --> 00:22:19,369
+and told each other rhyming jokes
+till our gullets ached.
+
+179
+00:22:20,620 --> 00:22:25,333
+But at last,
+the thought tickling my mouth emerged.
+
+180
+00:22:26,751 --> 00:22:29,212
+'We must return to Father,' I said.
+
+181
+00:22:30,213 --> 00:22:32,924
+'But I promise to look
+after you in the ether mill.'
+
+182
+00:22:34,467 --> 00:22:39,264
+When at last a sound came from him,
+it was a bewailing whimper.
+
+183
+00:22:39,973 --> 00:22:44,978
+He believed, I suppose,
+that we'd be woodland paupers forever.
+
+184
+00:22:48,899 --> 00:22:51,318
+I was looking at him
+when his eye came out.
+
+185
+00:22:52,110 --> 00:22:53,737
+It popped from the socket,
+
+186
+00:22:54,613 --> 00:22:59,201
+driven by a sudden torrent of pus
+from his skull.
+
+187
+00:23:01,703 --> 00:23:04,788
+And he reached up to grasp at his hair,
+
+188
+00:23:04,789 --> 00:23:09,377
+which was suddenly moss that tore
+easily from his bleeding scalp."
+
+189
+00:23:10,337 --> 00:23:11,587
+Good heavens.
+
+190
+00:23:11,588 --> 00:23:15,841
+"And as the pus
+from his eye thickened into sap,
+
+191
+00:23:15,842 --> 00:23:20,847
+I turned from my gargling brother
+and walked to the pool of the hollow,
+
+192
+00:23:21,348 --> 00:23:26,520
+where I knew the waterfall
+would drown out my brother's cries."
+
+193
+00:23:28,104 --> 00:23:29,397
+That's actually really smart.
+
+194
+00:23:30,106 --> 00:23:35,070
+"And it was here that I
+first encountered the temper Woe,
+
+195
+00:23:36,279 --> 00:23:41,701
+a gaunt bride,
+half the height of a natural woman.
+
+196
+00:24:00,637 --> 00:24:04,099
+She spoke to me
+directly from her eyes and said,
+
+197
+00:24:05,433 --> 00:24:06,726
+'This is your doing.
+
+198
+00:24:08,103 --> 00:24:10,730
+You suffered his wantonness.
+
+199
+00:24:12,148 --> 00:24:14,150
+Now he's no one's brother.
+
+200
+00:24:15,235 --> 00:24:17,487
+Only chaos's whore.'"
+
+201
+00:24:27,747 --> 00:24:28,748
+The end.
+
+202
+00:24:35,380 --> 00:24:38,633
+Perhaps in the morning,
+we'll have time for the next chapter...
+
+203
+00:24:39,843 --> 00:24:42,512
+"Kier and the Thieving Nanny."
+
+204
+00:24:44,723 --> 00:24:45,557
+Creepy.
+
+205
+00:24:47,726 --> 00:24:51,271
+Did his brother really die that way,
+Mr. Milchick?
+
+206
+00:24:54,733 --> 00:24:58,445
+The handbook enriches our work
+with tales of the founder's life.
+
+207
+00:25:00,322 --> 00:25:01,698
+Every word is truth.
+
+208
+00:25:06,369 --> 00:25:09,163
+I'm sorry. Sorry.
+
+209
+00:25:09,164 --> 00:25:10,248
+Helly.
+
+210
+00:25:12,584 --> 00:25:13,418
+What?
+
+211
+00:25:17,964 --> 00:25:20,634
+- Helly R.?
+- You guys...
+
+212
+00:25:21,134 --> 00:25:22,427
+He melted, right?
+
+213
+00:25:23,303 --> 00:25:25,805
+He turned into the forest
+because he masturbated.
+
+214
+00:25:28,266 --> 00:25:31,353
+I mean, seriously, that's actually
+the dumbest thing I've ever heard.
+
+215
+00:25:33,855 --> 00:25:36,733
+Right? He jerked off
+in front of his brother...
+
+216
+00:25:37,901 --> 00:25:40,403
+and he got punished for it.
+
+217
+00:25:41,404 --> 00:25:43,030
+Wha... You can't say that.
+
+218
+00:25:43,031 --> 00:25:45,909
+- He just said it.
+- Wha... He did.
+
+219
+00:25:47,786 --> 00:25:49,412
+I... It's...
+
+220
+00:25:51,581 --> 00:25:54,543
+You know, we often laugh
+at what we don't understand.
+
+221
+00:25:59,506 --> 00:26:02,717
+The team I thought I knew
+would have processed more thoughtfully.
+
+222
+00:26:06,304 --> 00:26:07,305
+Miss Huang.
+
+223
+00:26:11,393 --> 00:26:12,811
+The marshmallows, please.
+
+224
+00:26:22,362 --> 00:26:23,989
+Throw them in the fire.
+
+225
+00:26:25,198 --> 00:26:27,826
+Mr. Milchick, come on.
+
+226
+00:26:28,493 --> 00:26:30,620
+Now, Miss Huang.
+
+227
+00:26:35,333 --> 00:26:37,335
+- Oh, my...
+- Why?
+
+228
+00:26:38,628 --> 00:26:41,590
+Marshmallows are for team players, Dylan.
+
+229
+00:26:42,549 --> 00:26:44,342
+They don't just hand them out.
+
+230
+00:26:50,223 --> 00:26:51,224
+What?
+
+231
+00:26:54,269 --> 00:26:55,270
+Good night.
+
+232
+00:27:04,654 --> 00:27:05,739
+Wow.
+
+233
+00:27:06,531 --> 00:27:08,283
+Oh, my God.
+
+234
+00:27:09,075 --> 00:27:11,328
+Hey, what do you think
+his dick turned into?
+
+235
+00:27:19,669 --> 00:27:20,921
+It isn't funny.
+
+236
+00:27:22,214 --> 00:27:23,839
+I don't know. It's pretty funny.
+
+237
+00:27:23,840 --> 00:27:26,050
+- Well, it's not.
+- Okay.
+
+238
+00:27:26,051 --> 00:27:28,929
+And stop making goo-goo eyes at her.
+
+239
+00:27:31,556 --> 00:27:34,391
+- I'm not.
+- Stop.
+
+240
+00:27:34,392 --> 00:27:35,477
+"Goo-goo eyes"?
+
+241
+00:27:38,480 --> 00:27:40,065
+Just tell us, Helly.
+
+242
+00:27:41,691 --> 00:27:42,691
+What?
+
+243
+00:27:42,692 --> 00:27:44,276
+Come on. Tell us.
+
+244
+00:27:44,277 --> 00:27:45,862
+Tell us what?
+
+245
+00:27:47,155 --> 00:27:48,532
+Just tell us about him.
+
+246
+00:27:49,908 --> 00:27:50,909
+Who?
+
+247
+00:27:53,995 --> 00:27:55,330
+The night gardener.
+
+248
+00:27:58,041 --> 00:27:59,543
+Irv, come on.
+
+249
+00:28:00,293 --> 00:28:01,711
+Did he have a flashlight?
+
+250
+00:28:05,674 --> 00:28:06,757
+What was he wearing?
+
+251
+00:28:06,758 --> 00:28:08,175
+What is your deal right now, dude?
+
+252
+00:28:08,176 --> 00:28:10,345
+What color was his shirt?
+
+253
+00:28:11,888 --> 00:28:13,181
+Did he have on a vest?
+
+254
+00:28:14,683 --> 00:28:17,726
+- A luminescent vest? Tell us...
+- Okay.
+
+255
+00:28:17,727 --> 00:28:19,687
+- ...exactly what he was wear--
+- Irving. That's enough.
+
+256
+00:28:19,688 --> 00:28:21,647
+- Enough?
+- Yeah.
+
+257
+00:28:21,648 --> 00:28:24,484
+Using your pupils to make love to her
+
+258
+00:28:25,193 --> 00:28:27,862
+while your outie's wife
+rots away somewhere.
+
+259
+00:28:27,863 --> 00:28:29,071
+Hey, shut up.
+
+260
+00:28:29,072 --> 00:28:30,699
+Yeah. Fuck you, Irv.
+
+261
+00:28:33,118 --> 00:28:35,412
+So it's three against one now, huh?
+
+262
+00:28:40,083 --> 00:28:41,084
+It's okay.
+
+263
+00:28:42,502 --> 00:28:45,839
+We all know Irving's upset
+because he can't ever see Burt again.
+
+264
+00:28:50,635 --> 00:28:52,053
+And he's really lonely.
+
+265
+00:29:19,581 --> 00:29:21,040
+Hey, Irv.
+
+266
+00:29:21,041 --> 00:29:22,334
+Fuck you all.
+
+267
+00:30:08,672 --> 00:30:11,633
+Probably a carrot.
+
+268
+00:30:14,052 --> 00:30:15,053
+What?
+
+269
+00:30:19,975 --> 00:30:21,226
+Dieter's penis.
+
+270
+00:30:27,107 --> 00:30:30,443
+Yeah, or some other root vegetable.
+
+271
+00:30:46,918 --> 00:30:49,713
+That was mean of me...
+
+272
+00:30:51,798 --> 00:30:53,258
+to say that to Irving.
+
+273
+00:30:59,055 --> 00:31:03,560
+I mean, he kind of deserved it.
+
+274
+00:31:10,609 --> 00:31:13,320
+And I can make goo-goo eyes
+at anyone I want.
+
+275
+00:31:22,037 --> 00:31:23,288
+Are you okay?
+
+276
+00:31:29,127 --> 00:31:31,296
+Sorry if I'm distracting you from...
+
+277
+00:31:34,174 --> 00:31:35,175
+From what?
+
+278
+00:31:38,553 --> 00:31:42,182
+From looking for your wife.
+
+279
+00:31:46,394 --> 00:31:47,979
+Hey, it's okay.
+
+280
+00:31:48,939 --> 00:31:52,901
+I know we'll find her,
+and you've already helped so much.
+
+281
+00:32:00,033 --> 00:32:01,034
+I have?
+
+282
+00:32:01,952 --> 00:32:02,953
+Yeah.
+
+283
+00:32:08,291 --> 00:32:09,292
+Okay.
+
+284
+00:33:56,608 --> 00:33:58,235
+Mr. Milchick!
+
+285
+00:34:01,488 --> 00:34:03,114
+Mr. Milchick!
+
+286
+00:34:04,866 --> 00:34:05,867
+Miss Huang!
+
+287
+00:34:08,453 --> 00:34:10,120
+Mr. Milchick!
+
+288
+00:34:17,087 --> 00:34:18,463
+Miss Huang!
+
+289
+00:34:59,713 --> 00:35:01,506
+Mr. Milchick!
+
+290
+00:36:23,380 --> 00:36:25,757
+I didn't like who I was on the outside.
+
+291
+00:36:31,346 --> 00:36:32,722
+I was ashamed.
+
+292
+00:36:43,650 --> 00:36:44,651
+Who were you?
+
+293
+00:37:00,333 --> 00:37:02,586
+I don't care who you are out there.
+
+294
+00:37:05,088 --> 00:37:07,048
+I care who you are with me.
+
+295
+00:37:11,303 --> 00:37:12,304
+That's all.
+
+296
+00:37:14,055 --> 00:37:15,223
+Okay?
+
+297
+00:37:26,735 --> 00:37:27,736
+Are you okay?
+
+298
+00:37:34,075 --> 00:37:35,076
+What happened?
+
+299
+00:37:36,870 --> 00:37:38,038
+Are you okay?
+
+300
+00:37:38,747 --> 00:37:39,748
+Yeah.
+
+301
+00:37:43,710 --> 00:37:44,711
+Okay.
+
+302
+00:41:32,189 --> 00:41:33,190
+Helly?
+
+303
+00:41:35,442 --> 00:41:36,443
+Helly?
+
+304
+00:41:38,820 --> 00:41:39,820
+Hey, where's Helly?
+
+305
+00:41:39,821 --> 00:41:42,740
+I don't know. Irv never came back
+last night, and he's not in his tent.
+
+306
+00:41:42,741 --> 00:41:43,908
+What?
+
+307
+00:41:43,909 --> 00:41:45,160
+Mr. Milchick?
+
+308
+00:41:46,119 --> 00:41:47,119
+Helly!
+
+309
+00:41:47,120 --> 00:41:48,413
+Mr. Milchick!
+
+310
+00:41:50,332 --> 00:41:51,333
+Mark.
+
+311
+00:41:52,667 --> 00:41:55,419
+Mark. Dylan, what's happened?
+
+312
+00:41:55,420 --> 00:41:56,921
+Helly and Irv are missing.
+
+313
+00:41:56,922 --> 00:41:58,215
+What the fuck is going on?
+
+314
+00:42:31,206 --> 00:42:32,457
+Hey, kid.
+
+315
+00:42:34,626 --> 00:42:35,627
+Irving.
+
+316
+00:42:40,465 --> 00:42:43,885
+What are you doing down here?
+
+317
+00:42:49,266 --> 00:42:50,976
+What are you doing down here?
+
+318
+00:42:52,602 --> 00:42:54,145
+I slept outside.
+
+319
+00:42:55,605 --> 00:42:57,399
+I almost froze to death.
+
+320
+00:43:03,280 --> 00:43:05,073
+What you said to me last night,
+
+321
+00:43:06,241 --> 00:43:07,576
+it was cruel.
+
+322
+00:43:11,329 --> 00:43:12,998
+Helly was never cruel.
+
+323
+00:43:16,543 --> 00:43:17,586
+I'm right here.
+
+324
+00:43:24,467 --> 00:43:26,511
+So if you're not her...
+
+325
+00:43:28,805 --> 00:43:30,182
+then who are you?
+
+326
+00:43:32,893 --> 00:43:36,938
+Who would have the power to send
+their outie to the severed floor?
+
+327
+00:43:48,241 --> 00:43:49,242
+I'm sorry.
+
+328
+00:43:51,077 --> 00:43:52,078
+No! Irving!
+
+329
+00:43:53,288 --> 00:43:54,747
+Mr. Milchick!
+
+330
+00:43:54,748 --> 00:43:57,042
+- No. No!
+- Come on.
+
+331
+00:43:58,376 --> 00:44:01,337
+- Irving. Stop. Irving, no.
+- Mr. Milchick!
+
+332
+00:44:01,338 --> 00:44:02,422
+Please, stop.
+
+333
+00:44:03,423 --> 00:44:04,424
+Help!
+
+334
+00:44:06,343 --> 00:44:08,011
+- Mr. Milchick!
+- No!
+
+335
+00:44:13,141 --> 00:44:14,142
+Irving?
+
+336
+00:44:14,643 --> 00:44:16,561
+Mr. Milchick!
+
+337
+00:44:17,562 --> 00:44:18,563
+Irving!
+
+338
+00:44:20,190 --> 00:44:21,690
+Mr. Milchick!
+
+339
+00:44:21,691 --> 00:44:23,860
+- Come!
+- Mark!
+
+340
+00:44:24,611 --> 00:44:25,862
+Mr. Milchick!
+
+341
+00:44:27,989 --> 00:44:29,825
+Mr. Milchick!
+
+342
+00:44:30,367 --> 00:44:32,076
+- Mark!
+- Helly!
+
+343
+00:44:32,077 --> 00:44:34,745
+- Turn her back, Mr. Milchick!
+- Help!
+
+344
+00:44:34,746 --> 00:44:35,830
+What are you doing, man?
+
+345
+00:44:35,831 --> 00:44:39,000
+- Turn her back!
+- Irv, what the fuck?
+
+346
+00:44:39,584 --> 00:44:41,628
+She's an outie!
+
+347
+00:44:42,128 --> 00:44:44,213
+- Hey! Irving, stop it!
+- Hey! Irv, cut it out!
+
+348
+00:44:44,214 --> 00:44:46,465
+- Stop!
+- She's been an outie the whole time,
+
+349
+00:44:46,466 --> 00:44:48,050
+ever since she came back!
+
+350
+00:44:48,051 --> 00:44:51,762
+- Irving, you stop now!
+- Stop it!
+
+351
+00:44:51,763 --> 00:44:53,430
+Irving, stop this!
+
+352
+00:44:53,431 --> 00:44:55,391
+She's a fucking mole!
+
+353
+00:44:55,392 --> 00:44:56,892
+What are you doing?
+
+354
+00:44:56,893 --> 00:44:59,020
+- Irving!
+- I'm gonna kill her, Mr. Milchick!
+
+355
+00:45:00,480 --> 00:45:02,399
+Irving! Irving!
+
+356
+00:45:03,275 --> 00:45:06,111
+Stop! Stop this!
+
+357
+00:45:07,070 --> 00:45:08,195
+She's not Helly!
+
+358
+00:45:08,196 --> 00:45:09,698
+She's an Eagan!
+
+359
+00:45:10,282 --> 00:45:13,951
+Turn her back, Mr. Milchick!
+Turn her back!
+
+360
+00:45:13,952 --> 00:45:16,078
+Goddamn it, Seth, do it!
+
+361
+00:45:16,079 --> 00:45:19,332
+Yes! Do it, Seth!
+
+362
+00:45:21,751 --> 00:45:23,170
+Hey!
+
+363
+00:45:29,176 --> 00:45:32,220
+It's Milchick.
+Remove the Glasgow block now.
+
+364
+00:45:36,308 --> 00:45:37,184
+Now!
+
+365
+00:45:48,945 --> 00:45:49,946
+I'm sorry.
+
+366
+00:45:51,114 --> 00:45:53,366
+I'm so sorry, Helly.
+
+367
+00:45:55,327 --> 00:45:56,745
+What's happening?
+
+368
+00:46:01,625 --> 00:46:02,667
+Helly!
+
+369
+00:46:10,926 --> 00:46:12,093
+I'm sorry, Helly.
+
+370
+00:46:18,225 --> 00:46:21,144
+Irving B., stand.
+
+371
+00:46:26,024 --> 00:46:29,528
+You have threatened collegial murder
+in the pond of Woe's Hollow.
+
+372
+00:46:30,028 --> 00:46:34,366
+For this, there can be no penalty
+but immediate and permanent dismissal.
+
+373
+00:46:35,408 --> 00:46:39,246
+There shall be no formal valediction,
+catered or otherwise.
+
+374
+00:46:40,372 --> 00:46:42,666
+Your outie will be notified forthwith.
+
+375
+00:46:44,334 --> 00:46:48,128
+Irv! I'm sorry!
+
+376
+00:46:48,129 --> 00:46:49,798
+I should have listened!
+
+377
+00:46:51,424 --> 00:46:55,095
+It's okay. It's all okay.
+
+378
+00:46:58,306 --> 00:47:01,476
+Just remember, hang in there.
+
+379
+00:47:03,353 --> 00:47:05,813
+Please refrain from any further speech,
+
+380
+00:47:05,814 --> 00:47:09,859
+as you are no longer authorized
+to consort with any severed employee,
+
+381
+00:47:09,860 --> 00:47:11,277
+nor they with you.
+
+382
+00:47:11,278 --> 00:47:15,907
+Leave him alone!
+Turn around!
+
+383
+00:47:23,206 --> 00:47:25,500
+Leave him alone!
+
+384
+00:47:56,448 --> 00:47:58,283
+Walk into the forest.
+
+385
+00:48:08,552 --> 00:48:14,716
+<i>Subtitle extract by: Dream Ports</i>
+insta: @Dream_Ports
+
+386
+00:48:30,398 --> 00:48:32,316
+Your workspace will be cleared
+
+387
+00:48:32,317 --> 00:48:35,945
+and any personal items discarded.
+
+388
+00:48:35,946 --> 00:48:40,533
+Your file, including any
+and all professional interactions
+
+389
+00:48:40,534 --> 00:48:41,951
+and personal relations,
+
+390
+00:48:41,952 --> 00:48:45,747
+will be purged and destroyed.
+
+391
+00:48:46,748 --> 00:48:50,125
+It will be as if you, Irving B.,
+
+392
+00:48:50,126 --> 00:48:52,503
+never even existed
+
+393
+00:48:52,504 --> 00:48:56,758
+nor drew a single breath upon this Earth.
+
+394
+00:49:02,973 --> 00:49:08,603
+May Kier's mercy follow you
+into the eternal dark.
+
+395
+00:49:13,817 --> 00:49:15,151
+Now.
+
