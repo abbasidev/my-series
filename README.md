@@ -1,1 +1,1 @@
-# my-series
+# My Series
