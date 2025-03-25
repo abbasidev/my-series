@@ -1,0 +1,2728 @@
+1
+00:00:06,560 --> 00:00:08,080
+<font color="#ffffff">Doward,</font>
+
+2
+00:00:08,080 --> 00:00:10,280
+<font color="#ffffff">is the device gone?</font>
+
+3
+00:00:10,280 --> 00:00:11,680
+<font color="#ffffff">Aye, sir.</font>
+
+4
+00:00:11,680 --> 00:00:13,080
+<font color="#ffffff">Where's DCI Silva?</font>
+
+5
+00:00:13,080 --> 00:00:14,560
+<font color="#ffffff">She's gone to shower.</font>
+
+6
+00:00:17,680 --> 00:00:19,600
+<font color="#ffffff">And what about her suit -</font>
+<font color="#ffffff">where's that?</font>
+
+7
+00:00:19,600 --> 00:00:20,720
+<font color="#ffffff">I'm getting rid of it.</font>
+
+8
+00:00:20,720 --> 00:00:22,680
+<font color="#ffffff">No, no, don't do that. I need it.</font>
+
+9
+00:00:23,920 --> 00:00:25,240
+<font color="#ffffff">OK.</font>
+
+10
+00:00:33,200 --> 00:00:34,320
+<font color="#ffffff">OK.</font>
+
+11
+00:00:34,320 --> 00:00:35,440
+<font color="#ffffff">OK, good job.</font>
+
+12
+00:00:35,440 --> 00:00:37,680
+<font color="#ffffff">Get Walsh to wash you down.</font>
+<font color="#ffffff">I can stay if I'm needed, sir.</font>
+
+13
+00:00:37,680 --> 00:00:40,440
+<font color="#ffffff">No, no, no. It's fine. Get washed</font>
+<font color="#ffffff">down and get out of here.</font>
+
+14
+00:00:40,440 --> 00:00:41,760
+<font color="#ffffff">Come on, arms up.</font>
+
+15
+00:00:41,760 --> 00:00:43,640
+<font color="#ffffff">Might sting a wee bit.</font>
+
+16
+00:00:48,240 --> 00:00:51,040
+<font color="#ffffff">Oh, my God, help!</font>
+
+17
+00:00:51,040 --> 00:00:53,040
+<font color="#ffffff">Help, please!</font>
+
+18
+00:00:55,120 --> 00:00:56,560
+<font color="#ffffff">I'll clean up here.</font>
+
+19
+00:00:56,560 --> 00:00:59,720
+<font color="#ffffff">You go get a hazmat suit and</font>
+<font color="#ffffff">go and fix our comms wire.</font>
+
+20
+00:00:59,720 --> 00:01:01,480
+<font color="#ffffff">Thank you, sir.</font>
+
+21
+00:01:01,480 --> 00:01:02,600
+<font color="#ffffff">I won't let you down.</font>
+
+22
+00:01:02,600 --> 00:01:04,320
+<font color="#ffffff">Yeah, I don't doubt it.</font>
+
+23
+00:01:04,320 --> 00:01:06,200
+<font color="#ffffff">Best man for the job.</font>
+
+24
+00:01:06,200 --> 00:01:07,280
+<font color="#ffffff">Go on, then.</font>
+
+25
+00:01:11,920 --> 00:01:13,880
+<font color="#ffffff">Help! Ah, ah...</font>
+
+26
+00:01:15,120 --> 00:01:17,920
+<font color="#ffffff">Aargh! Help!</font>
+
+27
+00:01:21,040 --> 00:01:22,800
+<font color="#ffffff">Help!</font>
+
+28
+00:01:30,960 --> 00:01:34,440
+Fuel To Fire
+<font color="#ffffff">by Agnes Obel</font>
+
+29
+00:01:34,440 --> 00:01:36,360
+<font color="#ffffff"># Do you want me on your mind?</font>
+
+30
+00:01:36,360 --> 00:01:41,160
+<font color="#ffffff"># Or do you want me to go on?</font>
+
+31
+00:01:44,560 --> 00:01:50,560
+<font color="#ffffff"># I might be yours</font>
+<font color="#ffffff">as sure as I can say</font>
+
+32
+00:01:50,560 --> 00:01:54,400
+<font color="#ffffff"># Be gone be faraway</font>
+
+33
+00:01:57,320 --> 00:02:02,520
+<font color="#ffffff"># Ooh, ooh, ooh-ooh</font>
+
+34
+00:02:05,440 --> 00:02:10,880
+<font color="#ffffff"># Ooh, ooh, ooh-ooh ooh. #</font>
+
+35
+00:02:22,400 --> 00:02:24,440
+<font color="#ffffff">Sir, they're using sonobuoys</font>
+<font color="#ffffff">to find us.</font>
+
+36
+00:02:24,440 --> 00:02:26,320
+<font color="#ffffff">More and more are being laid</font>
+<font color="#ffffff">all the time,</font>
+
+37
+00:02:26,320 --> 00:02:28,320
+<font color="#ffffff">both in front of us and behind us.</font>
+
+38
+00:02:30,560 --> 00:02:32,760
+<font color="#ffffff">They've tried to disable us.</font>
+
+39
+00:02:32,760 --> 00:02:35,240
+<font color="#ffffff">Now they're hunting us.</font>
+
+40
+00:02:35,240 --> 00:02:39,480
+<font color="#ffffff">And we have no intel and no orders</font>
+<font color="#ffffff">until that comms wire is fixed.</font>
+
+41
+00:03:22,400 --> 00:03:23,720
+<font color="#ffffff">Where's DCI Silva?</font>
+
+42
+00:03:23,720 --> 00:03:25,560
+<font color="#ffffff">Er, she's getting cleaned-up.</font>
+
+43
+00:03:25,560 --> 00:03:30,080
+<font color="#ffffff">Sir, engineer's asking permission to</font>
+<font color="#ffffff">commence the decontamination?</font>
+
+44
+00:03:30,080 --> 00:03:31,800
+<font color="#ffffff">Tell them to go ahead.</font>
+
+45
+00:03:36,480 --> 00:03:40,520
+<font color="#ffffff">Commencing bleach decontamination of</font>
+<font color="#ffffff">the missile compartment, all levels.</font>
+
+46
+00:03:44,760 --> 00:03:46,560
+<font color="#ffffff">There's no guarantee it'll work,</font>
+<font color="#ffffff">sir,</font>
+
+47
+00:03:46,560 --> 00:03:48,400
+<font color="#ffffff">so we'll need to limit access.</font>
+
+48
+00:03:48,400 --> 00:03:52,160
+<font color="#ffffff">EBS masks and a limited exposure</font>
+<font color="#ffffff">time for anyone who has to go in.</font>
+
+49
+00:03:52,160 --> 00:03:54,880
+<font color="#ffffff">Yes, sir.</font><font color="#ffffff"> The coxswain requires</font>
+<font color="#ffffff">specialist treatment.</font>
+
+50
+00:03:54,880 --> 00:03:56,360
+<font color="#ffffff">He's deteriorating.</font>
+
+51
+00:04:03,600 --> 00:04:05,880
+<font color="#ffffff">Look at those screens.</font>
+
+52
+00:04:05,880 --> 00:04:09,880
+<font color="#ffffff">We still can't send or receive</font>
+<font color="#ffffff">messages, but even if we could,</font>
+
+53
+00:04:09,880 --> 00:04:12,360
+<font color="#ffffff">we can't signal for</font>
+<font color="#ffffff">a Casualty Evacuation.</font>
+
+54
+00:04:12,360 --> 00:04:16,360
+<font color="#ffffff">Not until we have a handle on</font>
+<font color="#ffffff">the tactical situation.</font>
+
+55
+00:04:16,360 --> 00:04:19,200
+<font color="#ffffff">If we don't get him</font>
+<font color="#ffffff">the drugs he needs,</font>
+
+56
+00:04:19,200 --> 00:04:21,000
+<font color="#ffffff">I don't think he'll survive.</font>
+
+57
+00:04:22,800 --> 00:04:24,160
+<font color="#ffffff">Understood.</font>
+
+58
+00:04:25,400 --> 00:04:26,960
+<font color="#ffffff">I'm sorry.</font>
+
+59
+00:05:15,160 --> 00:05:16,640
+<font color="#ffffff">What are you doing?</font>
+
+60
+00:05:16,640 --> 00:05:18,800
+<font color="#ffffff">It sounded like he was choking.</font>
+<font color="#ffffff">Out, out!</font>
+
+61
+00:05:18,800 --> 00:05:20,240
+<font color="#ffffff">It's all right.</font>
+
+62
+00:05:20,240 --> 00:05:21,520
+<font color="#ffffff">I've got you.</font>
+
+63
+00:05:21,520 --> 00:05:22,640
+<font color="#ffffff">OK...</font>
+
+64
+00:05:26,520 --> 00:05:29,480
+<font color="#ffffff">Sir, my eyes were playing up</font>
+<font color="#ffffff">and so I came to get checked.</font>
+
+65
+00:05:29,480 --> 00:05:31,840
+<font color="#ffffff">Right. Well, there's obviously</font>
+<font color="#ffffff">nothing we can do now,</font>
+
+66
+00:05:31,840 --> 00:05:34,120
+<font color="#ffffff">so get back on watch</font>
+<font color="#ffffff">and do the best you can.</font>
+
+67
+00:05:34,120 --> 00:05:35,480
+<font color="#ffffff">Aye, sir.</font>
+
+68
+00:05:35,480 --> 00:05:36,840
+<font color="#ffffff">That's it, nice and easy.</font>
+
+69
+00:06:43,000 --> 00:06:46,560
+<font color="#ffffff">Ben</font><font color="#ffffff"> Oakley, I'm arresting you</font>
+<font color="#ffffff">on suspicion of conspiracy</font>
+
+70
+00:06:46,560 --> 00:06:48,440
+<font color="#ffffff">to murder Jade Antoniak.</font>
+
+71
+00:06:48,440 --> 00:06:49,960
+<font color="#ffffff">You are not obliged to say anything,</font>
+
+72
+00:06:49,960 --> 00:06:53,160
+<font color="#ffffff">but anything you do say will be</font>
+<font color="#ffffff">noted and may be used in evidence.</font>
+
+73
+00:06:53,160 --> 00:06:54,560
+<font color="#ffffff">Do you understand?</font>
+
+74
+00:06:58,720 --> 00:07:02,480
+<font color="#ffffff">This is you with the GRU officer</font>
+
+75
+00:07:02,480 --> 00:07:04,680
+<font color="#ffffff">known as Peter Ingles.</font>
+
+76
+00:07:05,640 --> 00:07:07,920
+<font color="#ffffff">I don't deny knowing him.</font>
+
+77
+00:07:07,920 --> 00:07:10,520
+<font color="#ffffff">What was your relationship with him?</font>
+
+78
+00:07:10,520 --> 00:07:14,400
+<font color="#ffffff">I'll talk to anyone</font>
+<font color="#ffffff">who's opposed to nuclear weapons.</font>
+
+79
+00:07:14,400 --> 00:07:18,480
+<font color="#ffffff">He said he wanted Russia</font>
+<font color="#ffffff">to de-militarise.</font>
+
+80
+00:07:18,480 --> 00:07:21,760
+<font color="#ffffff">Russia can't do that</font>
+<font color="#ffffff">unless we let go of Trident.</font>
+
+81
+00:07:21,760 --> 00:07:25,320
+<font color="#ffffff">He helped out with some things</font>
+<font color="#ffffff">that were useful to our operations.</font>
+
+82
+00:07:25,320 --> 00:07:27,680
+<font color="#ffffff">I suggested a few people</font>
+<font color="#ffffff">he could talk to.</font>
+
+83
+00:07:27,680 --> 00:07:29,480
+<font color="#ffffff">That is it.</font>
+
+84
+00:07:29,480 --> 00:07:32,240
+<font color="#ffffff">You have a photo</font>
+<font color="#ffffff">on your phone of Ingles</font>
+
+85
+00:07:32,240 --> 00:07:34,360
+<font color="#ffffff">and a member of the Royal Navy.</font>
+
+86
+00:07:34,360 --> 00:07:37,120
+<font color="#ffffff">I'd like you to give us your PIN</font>
+<font color="#ffffff">so that we can take a look at it.</font>
+
+87
+00:07:37,120 --> 00:07:40,320
+<font color="#ffffff">You've arrested me for something</font>
+<font color="#ffffff">I didn't do.</font>
+
+88
+00:07:40,320 --> 00:07:42,680
+<font color="#ffffff">And that picture is</font>
+<font color="#ffffff">private property.</font>
+
+89
+00:07:45,160 --> 00:07:47,320
+<font color="#ffffff">When did you take this photo?</font>
+
+90
+00:07:47,320 --> 00:07:48,960
+<font color="#ffffff">A while ago.</font>
+
+91
+00:07:48,960 --> 00:07:50,080
+<font color="#ffffff">Weeks ago.</font>
+
+92
+00:07:50,080 --> 00:07:51,440
+<font color="#ffffff">Weeks ago? That is odd.</font>
+
+93
+00:07:53,400 --> 00:07:57,560
+<font color="#ffffff">Because this is Jade taking</font>
+<font color="#ffffff">that exact photograph.</font>
+
+94
+00:07:59,560 --> 00:08:03,440
+<font color="#ffffff">You took a copy of that photo</font>
+<font color="#ffffff">and then deleted it from her laptop.</font>
+
+95
+00:08:03,440 --> 00:08:06,120
+<font color="#ffffff">Digital forensics are working</font>
+<font color="#ffffff">on that laptop right now</font>
+
+96
+00:08:06,120 --> 00:08:08,280
+<font color="#ffffff">and they'll be able to</font>
+<font color="#ffffff">get your phone open.</font>
+
+97
+00:08:08,280 --> 00:08:09,840
+<font color="#ffffff">I need to see that photo you stole.</font>
+
+98
+00:08:09,840 --> 00:08:11,040
+<font color="#ffffff">Now.</font>
+
+99
+00:08:11,040 --> 00:08:14,440
+<font color="#ffffff">I need to be clear with you</font>
+<font color="#ffffff">about...what happened.</font>
+
+100
+00:08:14,440 --> 00:08:16,440
+<font color="#ffffff">What is your PIN?</font>
+
+101
+00:08:23,480 --> 00:08:25,120
+<font color="#ffffff">4547.</font>
+
+102
+00:08:38,200 --> 00:08:40,080
+<font color="#ffffff">Oh, my God.</font>
+
+103
+00:08:43,040 --> 00:08:44,200
+<font color="#ffffff">Branning.</font>
+
+104
+00:08:44,200 --> 00:08:45,560
+<font color="#ffffff">It's Burke's replacement,</font>
+
+105
+00:08:45,560 --> 00:08:47,000
+<font color="#ffffff">the guy who flew out with Amy.</font>
+
+106
+00:08:47,000 --> 00:08:49,240
+<font color="#ffffff">He's the one who's been</font>
+<font color="#ffffff">working with Ingles.</font>
+
+107
+00:08:50,640 --> 00:08:52,640
+<font color="#ffffff">Sir?</font>
+
+108
+00:08:52,640 --> 00:08:55,280
+<font color="#ffffff">The police have a name</font>
+<font color="#ffffff">for the Russian operative.</font>
+
+109
+00:08:55,280 --> 00:08:57,720
+<font color="#ffffff">It's the sonar operator,</font>
+<font color="#ffffff">Matthew Doward.</font>
+
+110
+00:09:34,160 --> 00:09:35,600
+<font color="#ffffff">I love you.</font>
+
+111
+00:09:42,560 --> 00:09:44,640
+<font color="#ffffff">I'm going be with you...</font>
+
+112
+00:09:46,080 --> 00:09:48,040
+<font color="#ffffff">..for the whole of your life.</font>
+
+113
+00:09:58,080 --> 00:09:59,960
+<font color="#ffffff">I...</font><font color="#ffffff"> Mm-hm.</font>
+
+114
+00:10:09,840 --> 00:10:11,480
+<font color="#ffffff">You can't even say it, can you?</font>
+
+115
+00:10:26,440 --> 00:10:28,040
+<font color="#ffffff">Oh...</font>
+
+116
+00:10:42,480 --> 00:10:44,080
+<font color="#ffffff">Come on.</font>
+
+117
+00:10:52,560 --> 00:10:54,120
+<font color="#ffffff">Sir?</font>
+
+118
+00:10:55,640 --> 00:10:57,640
+<font color="#ffffff">I'm picking up banging in the boat.</font>
+
+119
+00:10:57,640 --> 00:10:58,800
+<font color="#ffffff">Banging?</font>
+
+120
+00:11:03,880 --> 00:11:05,240
+<font color="#ffffff">What is...?</font>
+
+121
+00:11:06,920 --> 00:11:08,320
+<font color="#ffffff">Well, that's Morse code.</font>
+
+122
+00:11:08,320 --> 00:11:11,040
+<font color="#ffffff">Where's it coming from?</font>
+<font color="#ffffff">Somewhere near the bow.</font>
+
+123
+00:11:15,960 --> 00:11:18,280
+<font color="#ffffff">Hey, come on...</font>
+
+124
+00:11:18,280 --> 00:11:20,480
+<font color="#ffffff">Oh, fucking come on!</font>
+
+125
+00:11:23,960 --> 00:11:25,160
+<font color="#ffffff">I can't make it out.</font>
+
+126
+00:11:25,160 --> 00:11:27,520
+<font color="#ffffff">You said it's coming from the bow.</font>
+<font color="#ffffff">Can you narrow it down?</font>
+
+127
+00:11:27,520 --> 00:11:29,440
+<font color="#ffffff">It's marking stronger</font>
+<font color="#ffffff">in the lower decks, sir.</font>
+
+128
+00:11:29,440 --> 00:11:30,920
+<font color="#ffffff">Maybe the fore-ends.</font>
+
+129
+00:11:32,880 --> 00:11:34,600
+<font color="#ffffff">All right. I'll go check.</font>
+
+130
+00:11:37,640 --> 00:11:39,200
+<font color="#ffffff">What was that?</font>
+
+131
+00:11:39,200 --> 00:11:40,800
+<font color="#ffffff">Banging.</font>
+
+132
+00:11:47,760 --> 00:11:49,920
+<font color="#ffffff">Sir, may I go off watch?</font>
+
+133
+00:11:49,920 --> 00:11:51,600
+<font color="#ffffff">I'm really not feeling good.</font>
+
+134
+00:11:51,600 --> 00:11:53,760
+<font color="#ffffff">You'll have to wait</font>
+<font color="#ffffff">until your shift's over.</font>
+
+135
+00:11:53,760 --> 00:11:54,960
+<font color="#ffffff">I'm going to be sick.</font>
+
+136
+00:11:54,960 --> 00:11:56,480
+<font color="#ffffff">OK, Christ... Get out of here.</font>
+
+137
+00:12:52,280 --> 00:12:54,840
+<font color="#ffffff">Sir, the ballast hull valve's open.</font>
+
+138
+00:12:54,840 --> 00:12:57,160
+<font color="#ffffff">High level bilge warnings</font>
+<font color="#ffffff">from AMS 1, sir..</font>
+
+139
+00:12:57,160 --> 00:12:59,040
+<font color="#ffffff">Ballast hull valve AMS 1 open.</font>
+
+140
+00:12:59,040 --> 00:13:00,520
+<font color="#ffffff">Ship Control, emergency stations.</font>
+
+141
+00:13:00,520 --> 00:13:03,080
+<font color="#ffffff">That's more than a tonne of water</font>
+<font color="#ffffff">a second coming onto the boat.</font>
+
+142
+00:13:03,080 --> 00:13:04,680
+<font color="#ffffff">How does that end up open?</font>
+
+143
+00:13:04,680 --> 00:13:06,720
+<font color="#ffffff">It's sabotage.</font>
+
+144
+00:13:06,720 --> 00:13:08,560
+<font color="#ffffff">Put guards on all essential systems.</font>
+
+145
+00:13:08,560 --> 00:13:09,720
+<font color="#ffffff">Aye, sir.</font>
+
+146
+00:13:11,080 --> 00:13:13,000
+Shut bulkhead doors.
+
+147
+00:13:14,160 --> 00:13:16,560
+<font color="#ffffff">Emergency stations,</font>
+<font color="#ffffff">emergency stations...</font>
+
+148
+00:13:16,560 --> 00:13:19,240
+<font color="#ffffff">Ballast hull valve open AMS 1.</font>
+
+149
+00:13:19,240 --> 00:13:20,680
+<font color="#ffffff">Make the battle short.</font>
+
+150
+00:13:20,680 --> 00:13:22,640
+<font color="#ffffff">Shut bulkhead doors.</font>
+
+151
+00:13:24,200 --> 00:13:27,960
+<font color="#ffffff">117 bulkhead door shut and locked.</font>
+
+152
+00:13:27,960 --> 00:13:29,360
+<font color="#ffffff">Bulkhead shutdown.</font>
+
+153
+00:13:29,360 --> 00:13:31,040
+<font color="#ffffff">117 bulkhead door shut and locked.</font>
+
+154
+00:13:31,040 --> 00:13:32,840
+<font color="#ffffff">117 bulkhead shutdown.</font>
+
+155
+00:13:57,240 --> 00:13:58,920
+<font color="#ffffff">Shit!</font>
+
+156
+00:14:01,080 --> 00:14:02,240
+<font color="#ffffff">No...</font>
+
+157
+00:14:06,720 --> 00:14:08,480
+<font color="#ffffff">Ah... It won't go.</font>
+
+158
+00:14:09,480 --> 00:14:11,480
+<font color="#ffffff">Shit!</font>
+
+159
+00:14:11,480 --> 00:14:12,960
+<font color="#ffffff">Go, go.</font>
+
+160
+00:14:15,120 --> 00:14:17,320
+<font color="#ffffff">Yeah, the ballast hull valve's</font>
+<font color="#ffffff">been fouled.</font>
+
+161
+00:14:17,320 --> 00:14:19,840
+<font color="#ffffff">Come on!</font><font color="#ffffff"> We can't shut it.</font>
+
+162
+00:14:19,840 --> 00:14:22,120
+<font color="#ffffff">No, no, the tank top's off.</font>
+
+163
+00:14:22,120 --> 00:14:24,000
+<font color="#ffffff">It's buggered!</font>
+
+164
+00:14:24,000 --> 00:14:26,240
+<font color="#ffffff">We can't stop the water</font>
+<font color="#ffffff">flooding the tanks.</font>
+
+165
+00:14:29,840 --> 00:14:32,680
+<font color="#ffffff">This is Commander Fleming</font>
+<font color="#ffffff">on board HMS Archer.</font>
+
+166
+00:14:32,680 --> 00:14:35,280
+<font color="#ffffff">We've picked up a sound that</font>
+<font color="#ffffff">may be Vigil in distress.</font>
+
+167
+00:14:35,280 --> 00:14:37,560
+<font color="#ffffff">We have the file ready, sir.</font>
+
+168
+00:14:46,240 --> 00:14:47,640
+<font color="#ffffff">What is that?</font>
+
+169
+00:14:47,640 --> 00:14:48,840
+<font color="#ffffff">It's still being analysed,</font>
+
+170
+00:14:48,840 --> 00:14:51,360
+<font color="#ffffff">but it's below the surface</font>
+<font color="#ffffff">and it's ongoing.</font>
+
+171
+00:14:51,360 --> 00:14:54,640
+<font color="#ffffff">Five Russian ships have changed</font>
+<font color="#ffffff">course towards that sound.</font>
+
+172
+00:14:54,640 --> 00:14:58,480
+<font color="#ffffff">If they maintain course,</font>
+<font color="#ffffff">they'll converge around here.</font>
+
+173
+00:14:58,480 --> 00:15:01,240
+<font color="#ffffff">Carry on.</font>
+<font color="#ffffff">What else have we got in the area?</font>
+
+174
+00:15:01,240 --> 00:15:03,120
+<font color="#ffffff">The Russians are a lot closer.</font>
+
+175
+00:15:04,160 --> 00:15:07,240
+<font color="#ffffff">Our nearest Type 23 is</font>
+<font color="#ffffff">30 minutes behind.</font>
+
+176
+00:15:08,760 --> 00:15:10,240
+<font color="#ffffff">What's this?</font>
+
+177
+00:15:10,240 --> 00:15:12,160
+<font color="#ffffff">That's the USS Delaware.</font>
+
+178
+00:15:14,240 --> 00:15:17,040
+<font color="#ffffff">This is an attack on us,</font>
+<font color="#ffffff">and as our long-standing ally</font>
+
+179
+00:15:17,040 --> 00:15:19,400
+<font color="#ffffff">and under the terms of</font>
+<font color="#ffffff">the NATO agreement,</font>
+
+180
+00:15:19,400 --> 00:15:21,200
+<font color="#ffffff">I'm requesting your assistance.</font>
+
+181
+00:15:21,200 --> 00:15:22,640
+<font color="#ffffff">To do what?</font>
+
+182
+00:15:22,640 --> 00:15:24,480
+<font color="#ffffff">Delaware's in the area.</font>
+
+183
+00:15:24,480 --> 00:15:28,080
+<font color="#ffffff">Flood them with active sonar</font>
+<font color="#ffffff">and open the bow-caps.</font>
+
+184
+00:15:28,080 --> 00:15:31,680
+<font color="#ffffff">And how do you think they'll respond</font>
+<font color="#ffffff">to the Delaware getting ready</font>
+
+185
+00:15:31,680 --> 00:15:33,320
+<font color="#ffffff">to fire torpedoes?</font>
+
+186
+00:15:34,560 --> 00:15:37,040
+<font color="#ffffff">I'm hoping</font>
+<font color="#ffffff">they'll shit their uniforms.</font>
+
+187
+00:15:38,320 --> 00:15:40,000
+<font color="#ffffff">They believe they're unopposed.</font>
+
+188
+00:15:40,000 --> 00:15:43,320
+<font color="#ffffff">It's our job to change</font>
+<font color="#ffffff">that perception.</font>
+
+189
+00:15:43,320 --> 00:15:44,760
+<font color="#ffffff">I'll talk to my people.</font>
+
+190
+00:15:44,760 --> 00:15:45,920
+<font color="#ffffff">Thank you.</font>
+
+191
+00:15:52,360 --> 00:15:55,120
+<font color="#ffffff">Sir, we're getting really heavy.</font>
+
+192
+00:15:55,120 --> 00:15:56,600
+<font color="#ffffff">What's our depth now?</font>
+
+193
+00:15:56,600 --> 00:15:59,880
+<font color="#ffffff">200 metres.</font><font color="#ffffff"> That's the weight of</font>
+<font color="#ffffff">the water we're taking on.</font>
+
+194
+00:15:59,880 --> 00:16:01,360
+<font color="#ffffff">Hadlow, what are we looking at?</font>
+
+195
+00:16:01,360 --> 00:16:03,240
+<font color="#ffffff">Valve fully open at 200m depth,</font>
+
+196
+00:16:03,240 --> 00:16:05,480
+<font color="#ffffff">so the water pressure's</font>
+<font color="#ffffff">about 20 bar.</font>
+
+197
+00:16:05,480 --> 00:16:07,120
+<font color="#ffffff">Unlock the emergency blows.</font>
+
+198
+00:16:07,120 --> 00:16:10,440
+<font color="#ffffff">Sir, I think we've got less</font>
+<font color="#ffffff">than ten minutes.</font>
+
+199
+00:16:10,440 --> 00:16:13,040
+<font color="#ffffff">After that we'll be too heavy to get</font>
+<font color="#ffffff">back up, no matter what we do.</font>
+
+200
+00:16:13,040 --> 00:16:14,480
+<font color="#ffffff">Understood.</font>
+
+201
+00:16:36,920 --> 00:16:38,160
+<font color="#ffffff">You're not listening to me!</font>
+
+202
+00:16:38,160 --> 00:16:40,200
+<font color="#ffffff">I loved you.</font>
+<font color="#ffffff">And I wanted to know you,</font>
+
+203
+00:16:40,200 --> 00:16:42,120
+<font color="#ffffff">and you don't even like that</font>
+<font color="#ffffff">about me.</font>
+
+204
+00:16:44,480 --> 00:16:46,040
+<font color="#ffffff">Kirsten...</font>
+
+205
+00:16:50,040 --> 00:16:51,600
+<font color="#ffffff">I'm sorry.</font>
+
+206
+00:17:05,040 --> 00:17:06,560
+<font color="#ffffff">Don't go.</font>
+
+207
+00:17:48,040 --> 00:17:49,560
+<font color="#ffffff">Christ!</font>
+
+208
+00:17:57,240 --> 00:17:58,440
+<font color="#ffffff">Oh...</font>
+
+209
+00:18:01,640 --> 00:18:02,840
+<font color="#ffffff">OK.</font>
+
+210
+00:18:11,040 --> 00:18:13,520
+<font color="#ffffff">OK, come on.</font>
+
+211
+00:18:13,520 --> 00:18:15,320
+<font color="#ffffff">Doward...</font>
+
+212
+00:18:15,320 --> 00:18:17,000
+<font color="#ffffff">He's the reason Burke was killed.</font>
+
+213
+00:18:18,160 --> 00:18:19,600
+<font color="#ffffff">To get Doward on the boat.</font>
+
+214
+00:18:21,120 --> 00:18:22,440
+<font color="#ffffff">Christ...</font>
+
+215
+00:18:22,440 --> 00:18:23,800
+<font color="#ffffff">Where's Glover?</font>
+
+216
+00:18:23,800 --> 00:18:25,240
+<font color="#ffffff">He's unconscious.</font>
+
+217
+00:18:25,240 --> 00:18:27,440
+<font color="#ffffff">Can you stand up?</font><font color="#ffffff"> Stand up.</font>
+
+218
+00:18:31,720 --> 00:18:33,480
+<font color="#ffffff">Doward will go after him.</font>
+
+219
+00:18:33,480 --> 00:18:35,640
+<font color="#ffffff">Y-you need to tell them,</font>
+<font color="#ffffff">you need to tell them.</font>
+
+220
+00:18:37,240 --> 00:18:39,760
+<font color="#ffffff">Ship Control, this is Pre...</font>
+
+221
+00:18:39,760 --> 00:18:41,480
+<font color="#ffffff">Their fucking line's dead.</font>
+
+222
+00:18:41,480 --> 00:18:43,920
+<font color="#ffffff">Right, come on. We have to go</font>
+<font color="#ffffff">through the missile deck.</font>
+
+223
+00:18:43,920 --> 00:18:45,200
+<font color="#ffffff">Come on. On me.</font>
+
+224
+00:18:45,200 --> 00:18:46,400
+<font color="#ffffff">Let's go.</font>
+
+225
+00:18:46,400 --> 00:18:48,640
+<font color="#ffffff">Come on. Let's keep going.</font>
+<font color="#ffffff">Let's keep going.</font>
+
+226
+00:18:48,640 --> 00:18:49,840
+<font color="#ffffff">Come on.</font>
+
+227
+00:18:52,800 --> 00:18:55,120
+<font color="#ffffff">This area's out of bounds, sir.</font>
+<font color="#ffffff">You know that.</font>
+
+228
+00:18:58,840 --> 00:19:00,480
+<font color="#ffffff">Doward, I've already reported you.</font>
+
+229
+00:19:00,480 --> 00:19:03,240
+<font color="#ffffff">No, you haven't. I cut the wiring.</font>
+
+230
+00:19:03,240 --> 00:19:04,800
+<font color="#ffffff">What's the point?</font>
+
+231
+00:19:04,800 --> 00:19:06,920
+<font color="#ffffff">You've sunk the boat.</font>
+<font color="#ffffff">You've killed us all.</font>
+
+232
+00:19:06,920 --> 00:19:11,040
+<font color="#ffffff">Newsome's going to surface this boat</font>
+<font color="#ffffff">and we're all going to evacuate.</font>
+
+233
+00:19:11,040 --> 00:19:14,120
+<font color="#ffffff">Well, some of us are.</font>
+
+234
+00:19:14,120 --> 00:19:16,960
+<font color="#ffffff">I need you to run now.</font>
+<font color="#ffffff">You've got to tell them.</font>
+
+235
+00:19:18,680 --> 00:19:20,520
+<font color="#ffffff">Fucking...!</font>
+
+236
+00:19:27,160 --> 00:19:29,840
+<font color="#ffffff">Run! Run now!</font>
+
+237
+00:19:47,280 --> 00:19:49,120
+<font color="#ffffff">Go!</font>
+
+238
+00:20:55,480 --> 00:20:57,680
+<font color="#ffffff">Where is the XO?</font>
+
+239
+00:20:57,680 --> 00:21:00,760
+<font color="#ffffff">Depth?</font><font color="#ffffff"> 350 metres.</font>
+
+240
+00:21:03,400 --> 00:21:05,200
+<font color="#ffffff">What if we run the hover?</font>
+
+241
+00:21:05,200 --> 00:21:08,320
+<font color="#ffffff">If we can get it online, it'll help</font>
+<font color="#ffffff">pump out water, slow our descent?</font>
+
+242
+00:21:08,320 --> 00:21:11,000
+<font color="#ffffff">It's not designed for</font>
+<font color="#ffffff">anything deeper than 150 metres.</font>
+
+243
+00:21:11,000 --> 00:21:13,480
+<font color="#ffffff">I know, but we do not have</font>
+<font color="#ffffff">another option.</font>
+
+244
+00:21:13,480 --> 00:21:15,440
+<font color="#ffffff">We are taking on water</font>
+<font color="#ffffff">in tonnes per second</font>
+
+245
+00:21:15,440 --> 00:21:19,960
+<font color="#ffffff">and pumping it out at tonnes per</font>
+<font color="#ffffff">minute. We're going to the bottom.</font>
+
+246
+00:21:19,960 --> 00:21:21,960
+<font color="#ffffff">Anderton, initiate the hover.</font>
+
+247
+00:21:24,280 --> 00:21:25,880
+<font color="#ffffff">Hover initiated, sir.</font>
+
+248
+00:22:19,680 --> 00:22:22,560
+<font color="#ffffff">You can't hide in here forever.</font>
+
+249
+00:22:22,560 --> 00:22:24,280
+<font color="#ffffff">That bleach will burn your lungs.</font>
+
+250
+00:22:49,440 --> 00:22:52,560
+<font color="#ffffff">We need to get the spanner</font>
+<font color="#ffffff">out of that valve!</font>
+
+251
+00:22:52,560 --> 00:22:54,480
+<font color="#ffffff">The bastard's stuck hard!</font>
+
+252
+00:22:55,520 --> 00:22:58,560
+<font color="#ffffff">Ah, open the valve! Full open.</font>
+
+253
+00:22:58,560 --> 00:23:01,040
+<font color="#ffffff">Are you fucking mad?!</font>
+<font color="#ffffff">Come on, we need to get it loose!</font>
+
+254
+00:23:01,040 --> 00:23:03,080
+<font color="#ffffff">If it gets stuck open,</font>
+<font color="#ffffff">we'll sink this boat!</font>
+
+255
+00:23:03,080 --> 00:23:05,320
+<font color="#ffffff">Open that fucking valve!</font>
+
+256
+00:23:26,400 --> 00:23:28,080
+<font color="#ffffff">Ship Control.</font>
+
+257
+00:23:28,080 --> 00:23:30,520
+<font color="#ffffff">Ship Control, Walsh here.</font>
+
+258
+00:23:30,520 --> 00:23:33,280
+<font color="#ffffff">Yeah, yeah, comms wire streaming.</font>
+<font color="#ffffff">Reception starting to come in.</font>
+
+259
+00:23:33,280 --> 00:23:34,440
+<font color="#ffffff">Roger.</font>
+
+260
+00:23:35,600 --> 00:23:37,440
+<font color="#ffffff">The forward bilge tanks</font>
+<font color="#ffffff">are nearly full.</font>
+
+261
+00:23:37,440 --> 00:23:39,600
+<font color="#ffffff">I need to get that hull valve shut.</font>
+
+262
+00:23:39,600 --> 00:23:42,480
+<font color="#ffffff">Sir, communications fully restored!</font>
+
+263
+00:23:42,480 --> 00:23:45,080
+<font color="#ffffff">We're to contact base immediately,</font>
+<font color="#ffffff">sir. They advise caution -</font>
+
+264
+00:23:45,080 --> 00:23:47,200
+<font color="#ffffff">a lot of Russian units</font>
+<font color="#ffffff">closing in on our position.</font>
+
+265
+00:23:47,200 --> 00:23:48,720
+<font color="#ffffff">We can't bloody get back up!</font>
+
+266
+00:23:48,720 --> 00:23:51,520
+<font color="#ffffff">Sir, they're saying</font>
+<font color="#ffffff">Doward is a Russian spy.</font>
+
+267
+00:23:59,240 --> 00:24:01,080
+<font color="#ffffff">Attention, all stations.</font>
+
+268
+00:24:01,080 --> 00:24:04,200
+<font color="#ffffff">Sonar operator Matthew Doward</font>
+<font color="#ffffff">is a traitor.</font>
+
+269
+00:24:04,200 --> 00:24:06,200
+<font color="#ffffff">He has sabotaged Vigil.</font>
+
+270
+00:24:06,200 --> 00:24:09,240
+<font color="#ffffff">Apprehend him if you can.</font>
+<font color="#ffffff">Kill him if you can't. But find him.</font>
+
+271
+00:25:28,520 --> 00:25:32,200
+<font color="#ffffff">Everyone knows what you've done.</font>
+<font color="#ffffff">Leave her alone!</font>
+
+272
+00:25:32,200 --> 00:25:34,320
+<font color="#ffffff">Shut up. I'll slit her throat.</font>
+
+273
+00:25:36,960 --> 00:25:39,040
+<font color="#ffffff">I'll kill you for this.</font>
+
+274
+00:25:39,040 --> 00:25:41,040
+<font color="#ffffff">Control room, now.</font>
+
+275
+00:25:42,560 --> 00:25:44,200
+<font color="#ffffff">Move now!</font>
+
+276
+00:25:54,040 --> 00:25:57,440
+<font color="#ffffff">Fucking come on!</font>
+<font color="#ffffff">It's coming, it's coming.</font>
+
+277
+00:25:57,440 --> 00:26:00,080
+<font color="#ffffff">Yeah, got it! The valve, shut it!</font>
+
+278
+00:26:04,720 --> 00:26:05,800
+<font color="#ffffff">Come on!</font>
+
+279
+00:26:12,560 --> 00:26:15,680
+<font color="#ffffff">Get in!</font>
+
+280
+00:26:19,360 --> 00:26:22,080
+<font color="#ffffff">Sir, ballast hull valve is shut.</font>
+
+281
+00:26:22,080 --> 00:26:24,920
+<font color="#ffffff">Sir, we're still dropping.</font>
+<font color="#ffffff">The hover won't take much more.</font>
+
+282
+00:26:24,920 --> 00:26:26,280
+<font color="#ffffff">They can't cool it fast enough.</font>
+
+283
+00:26:26,280 --> 00:26:29,880
+<font color="#ffffff">We have to give it more time</font>
+<font color="#ffffff">to pump more water out.</font>
+
+284
+00:26:29,880 --> 00:26:33,200
+<font color="#ffffff">Full ahead. Then on my mark,</font>
+<font color="#ffffff">full rise on the fore planes,</font>
+
+285
+00:26:33,200 --> 00:26:37,080
+<font color="#ffffff">full rise on the after planes.</font>
+<font color="#ffffff">Wait for my mark.</font><font color="#ffffff"> Full ahead, sir.</font>
+
+286
+00:26:44,000 --> 00:26:45,040
+<font color="#ffffff">Keep your distance.</font>
+
+287
+00:26:47,040 --> 00:26:49,440
+<font color="#ffffff">Sir, the hover motor is smoking.</font>
+<font color="#ffffff">Keep it running.</font>
+
+288
+00:26:49,440 --> 00:26:52,160
+<font color="#ffffff">Depth?</font><font color="#ffffff"> 540 metres.</font>
+
+289
+00:26:52,160 --> 00:26:54,400
+<font color="#ffffff">Ten more metres</font>
+<font color="#ffffff">and we'll hit crush depth.</font>
+
+290
+00:26:54,400 --> 00:26:56,080
+<font color="#ffffff"> Captain...</font>
+
+291
+00:26:56,080 --> 00:26:58,280
+<font color="#ffffff">..the chain of command is changing.</font>
+
+292
+00:26:58,280 --> 00:27:01,520
+<font color="#ffffff">I'm going to give you instructions,</font>
+<font color="#ffffff">and you're going to execute them</font>
+
+293
+00:27:01,520 --> 00:27:04,520
+<font color="#ffffff">without arguing, or I will slit</font>
+<font color="#ffffff">this woman's throat.</font>
+
+294
+00:27:04,520 --> 00:27:06,680
+<font color="#ffffff">You understand?</font>
+
+295
+00:27:06,680 --> 00:27:08,080
+<font color="#ffffff">We are going to surface</font>
+
+296
+00:27:08,080 --> 00:27:11,600
+<font color="#ffffff">and make contact with</font>
+<font color="#ffffff">one of the Russian vessels.</font>
+
+297
+00:27:11,600 --> 00:27:14,160
+<font color="#ffffff">Emergency surface</font>
+<font color="#ffffff">this submarine now.</font>
+
+298
+00:27:14,160 --> 00:27:16,600
+<font color="#ffffff">Is that an order?</font>
+<font color="#ffffff">Don't fuck around with me!</font>
+
+299
+00:27:16,600 --> 00:27:20,200
+<font color="#ffffff">Sir, we are still dropping.</font>
+<font color="#ffffff">545 metres.</font>
+
+300
+00:27:22,560 --> 00:27:23,600
+<font color="#ffffff">All right.</font>
+
+301
+00:27:25,720 --> 00:27:28,640
+<font color="#ffffff">Team, on my mark, execute my orders.</font>
+
+302
+00:27:33,400 --> 00:27:34,440
+<font color="#ffffff">Mark.</font>
+
+303
+00:27:48,440 --> 00:27:51,360
+<font color="#ffffff">Ship Control, do not surface</font>
+<font color="#ffffff">the submarine.</font>
+
+304
+00:27:51,360 --> 00:27:54,600
+<font color="#ffffff">Come to periscope depth. I will not</font>
+<font color="#ffffff">give them the satisfaction.</font>
+
+305
+00:27:54,600 --> 00:27:57,160
+<font color="#ffffff">Matthew Doward, I'm arresting you</font>
+<font color="#ffffff">on suspicion of the murder</font>
+
+306
+00:27:57,160 --> 00:28:00,080
+<font color="#ffffff">of Lieutenant Commander Prentice.</font>
+<font color="#ffffff">You're not obliged to say anything,</font>
+
+307
+00:28:00,080 --> 00:28:04,440
+<font color="#ffffff">but anything you do say may be noted</font>
+<font color="#ffffff">and used in evidence.</font>
+
+308
+00:28:04,440 --> 00:28:05,760
+<font color="#ffffff">Do you understand?</font>
+
+309
+00:28:22,400 --> 00:28:25,640
+<font color="#ffffff">Plot their course</font>
+<font color="#ffffff">over the last hour.</font>
+
+310
+00:28:35,240 --> 00:28:38,440
+<font color="#ffffff">That's where the Delaware</font>
+<font color="#ffffff">opened her bow caps.</font>
+
+311
+00:28:38,440 --> 00:28:40,680
+<font color="#ffffff">And in response, all</font>
+<font color="#ffffff">the Russian units have dispersed</font>
+
+312
+00:28:40,680 --> 00:28:42,320
+<font color="#ffffff">from their original positions.</font>
+
+313
+00:28:46,560 --> 00:28:49,000
+<font color="#ffffff">Any more flooding noise?</font><font color="#ffffff"> No, sir.</font>
+
+314
+00:28:49,000 --> 00:28:50,360
+<font color="#ffffff">Nothing more.</font>
+
+315
+00:28:52,880 --> 00:28:54,680
+<font color="#ffffff">Well done, everyone.</font>
+
+316
+00:28:54,680 --> 00:28:56,320
+<font color="#ffffff">Get this intel to Vigil.</font>
+
+317
+00:28:58,080 --> 00:29:00,680
+<font color="#ffffff">And if she signals home, I want her</font>
+<font color="#ffffff">100 miles from anyone</font>
+
+318
+00:29:00,680 --> 00:29:01,720
+<font color="#ffffff">when she does it.</font>
+
+319
+00:29:05,960 --> 00:29:09,080
+<font color="#ffffff">I didn't go through Jade's laptop.</font>
+
+320
+00:29:09,080 --> 00:29:12,040
+<font color="#ffffff">She came to me with the photo.</font>
+<font color="#ffffff">I recognised Peter.</font>
+
+321
+00:29:13,280 --> 00:29:15,440
+<font color="#ffffff">Did she say why she took it?</font>
+
+322
+00:29:15,440 --> 00:29:18,120
+<font color="#ffffff">Well, she'd seen him</font>
+<font color="#ffffff">around Dunloch before.</font>
+
+323
+00:29:18,120 --> 00:29:19,600
+<font color="#ffffff">She was convinced he was MI5</font>
+
+324
+00:29:19,600 --> 00:29:22,640
+<font color="#ffffff">and she wanted to make a big story</font>
+<font color="#ffffff">out of it in the press.</font>
+
+325
+00:29:22,640 --> 00:29:25,600
+<font color="#ffffff">So you told Peter about it</font>
+<font color="#ffffff">before she could?</font>
+
+326
+00:29:25,600 --> 00:29:26,840
+<font color="#ffffff">No, I...</font>
+
+327
+00:29:26,840 --> 00:29:29,520
+<font color="#ffffff">I told Peter to be more careful</font>
+<font color="#ffffff">in future, that's all.</font>
+
+328
+00:29:30,800 --> 00:29:32,400
+<font color="#ffffff">I thought that was the end of it.</font>
+
+329
+00:29:33,640 --> 00:29:36,040
+<font color="#ffffff">But then you arranged for them</font>
+<font color="#ffffff">to meet.</font>
+
+330
+00:29:36,040 --> 00:29:37,600
+<font color="#ffffff">He asked to meet her.</font>
+
+331
+00:29:38,880 --> 00:29:41,360
+<font color="#ffffff">He said he wanted to work with her</font>
+<font color="#ffffff">like we did,</font>
+
+332
+00:29:41,360 --> 00:29:44,520
+<font color="#ffffff">and that he could tell her</font>
+<font color="#ffffff">what really happened to Craig Burke.</font>
+
+333
+00:29:46,560 --> 00:29:48,640
+<font color="#ffffff">So what happened at this meeting?</font>
+
+334
+00:29:55,680 --> 00:29:57,760
+<font color="#ffffff">We met at the place</font>
+<font color="#ffffff">that was arranged.</font>
+
+335
+00:30:00,160 --> 00:30:02,160
+<font color="#ffffff">He was supposed to talk to her...</font>
+
+336
+00:30:04,600 --> 00:30:07,000
+<font color="#ffffff">..but he grabbed her,</font>
+
+337
+00:30:07,000 --> 00:30:08,400
+<font color="#ffffff">dragged her into the water.</font>
+
+338
+00:30:10,240 --> 00:30:12,320
+<font color="#ffffff">I didn't understand</font>
+<font color="#ffffff">what was happening.</font>
+
+339
+00:30:14,240 --> 00:30:16,080
+<font color="#ffffff">Then he started drowning her.</font>
+
+340
+00:30:16,080 --> 00:30:17,800
+<font color="#ffffff">I just...</font>
+
+341
+00:30:17,800 --> 00:30:20,640
+<font color="#ffffff">I had no idea he was going to do</font>
+<font color="#ffffff">anything like that.</font>
+
+342
+00:30:20,640 --> 00:30:22,240
+<font color="#ffffff">I ran over.</font>
+
+343
+00:30:22,240 --> 00:30:24,280
+<font color="#ffffff">I would have tried to stop him.</font>
+
+344
+00:30:26,280 --> 00:30:27,520
+<font color="#ffffff">But it was too late.</font>
+
+345
+00:30:29,440 --> 00:30:31,640
+<font color="#ffffff">Did you take her out of the water?</font>
+
+346
+00:30:33,760 --> 00:30:35,480
+<font color="#ffffff">Did you try mouth-to-mouth?</font>
+
+347
+00:30:37,880 --> 00:30:39,240
+<font color="#ffffff">Did you call an ambulance?</font>
+
+348
+00:30:40,240 --> 00:30:41,280
+<font color="#ffffff">I wanted to.</font>
+
+349
+00:30:44,200 --> 00:30:46,400
+<font color="#ffffff">He'd made it look like I was</font>
+<font color="#ffffff">his accomplice.</font>
+
+350
+00:30:48,240 --> 00:30:49,640
+<font color="#ffffff">You can see that, can't you?</font>
+
+351
+00:30:51,120 --> 00:30:53,120
+<font color="#ffffff">You could have talked to us.</font>
+
+352
+00:30:54,160 --> 00:30:56,080
+<font color="#ffffff">Jade wanted that photograph</font>
+<font color="#ffffff">out there,</font>
+
+353
+00:30:56,080 --> 00:30:58,120
+<font color="#ffffff">to get rid of the deterrent.</font>
+
+354
+00:30:58,120 --> 00:31:00,360
+<font color="#ffffff">You would have covered it up.</font>
+
+355
+00:31:00,360 --> 00:31:03,160
+<font color="#ffffff">I thought if I could at least do</font>
+<font color="#ffffff">that...</font><font color="#ffffff"> You tried to claim asylum</font>
+
+356
+00:31:03,160 --> 00:31:06,120
+<font color="#ffffff">so that we wouldn't be able</font>
+<font color="#ffffff">to arrest you for Jade's murder.</font>
+
+357
+00:31:08,000 --> 00:31:09,960
+<font color="#ffffff">You just ran.</font>
+
+358
+00:31:09,960 --> 00:31:11,640
+<font color="#ffffff">So don't play the hero with me.</font>
+
+359
+00:31:11,640 --> 00:31:13,800
+<font color="#ffffff">I tried to do the right thing.</font>
+
+360
+00:31:13,800 --> 00:31:15,240
+<font color="#ffffff">She trusted you...</font>
+
+361
+00:31:16,800 --> 00:31:19,960
+<font color="#ffffff">..and then you sold her out to a man</font>
+<font color="#ffffff">who you knew to be a Russian spy,</font>
+
+362
+00:31:19,960 --> 00:31:22,320
+<font color="#ffffff">and then you helped them</font>
+<font color="#ffffff">cover up her murder.</font>
+
+363
+00:31:25,280 --> 00:31:29,320
+<font color="#ffffff">You're going to go to prison</font>
+<font color="#ffffff">for that for a long time.</font>
+
+364
+00:31:39,880 --> 00:31:41,480
+<font color="#ffffff">Come on.</font>
+
+365
+00:31:47,480 --> 00:31:49,840
+<font color="#ffffff">Hey. Hey!</font>
+
+366
+00:31:53,840 --> 00:31:55,640
+<font color="#ffffff">Hey, it's all good.</font>
+
+367
+00:31:56,880 --> 00:31:58,680
+<font color="#ffffff">They arrested Doward.</font>
+
+368
+00:31:58,680 --> 00:32:00,080
+<font color="#ffffff">The boat's safe.</font>
+
+369
+00:32:02,400 --> 00:32:03,640
+<font color="#ffffff">You're going to be OK.</font>
+
+370
+00:32:54,680 --> 00:32:56,560
+<font color="#ffffff">If he hadn't have heard me</font>
+<font color="#ffffff">in there...</font>
+
+371
+00:32:58,560 --> 00:32:59,600
+<font color="#ffffff">..I'd have died.</font>
+
+372
+00:33:03,000 --> 00:33:04,320
+<font color="#ffffff">He did his job.</font>
+
+373
+00:33:05,840 --> 00:33:06,960
+<font color="#ffffff">He did it well.</font>
+
+374
+00:33:08,960 --> 00:33:10,600
+<font color="#ffffff">He'd have known that.</font>
+
+375
+00:33:14,360 --> 00:33:15,840
+<font color="#ffffff">What will your report cover?</font>
+
+376
+00:33:18,720 --> 00:33:22,080
+<font color="#ffffff">I'll report my findings</font>
+<font color="#ffffff">on Jackie, Burke and Doward.</font>
+
+377
+00:33:22,080 --> 00:33:24,320
+<font color="#ffffff">I'll give the Crown Office</font>
+<font color="#ffffff">the evidence they need</font>
+
+378
+00:33:24,320 --> 00:33:25,560
+<font color="#ffffff">to make their case.</font>
+
+379
+00:33:27,120 --> 00:33:28,160
+<font color="#ffffff">And that's it.</font>
+
+380
+00:33:29,440 --> 00:33:32,600
+<font color="#ffffff">Sir, five minutes</font>
+<font color="#ffffff">till the helicopter arrives.</font>
+
+381
+00:33:49,240 --> 00:33:51,280
+<font color="#ffffff">Sir, we've treated DCI Silva.</font>
+
+382
+00:33:51,280 --> 00:33:53,760
+<font color="#ffffff">And she'll be monitored</font>
+<font color="#ffffff">until she's released.</font>
+
+383
+00:33:53,760 --> 00:33:56,080
+<font color="#ffffff">We have stocked up on</font>
+<font color="#ffffff">atropine and pralidoxime</font>
+
+384
+00:33:56,080 --> 00:33:58,120
+<font color="#ffffff">in case anybody else gets exposed.</font>
+
+385
+00:33:58,120 --> 00:34:00,400
+<font color="#ffffff">Adams is stable,</font>
+<font color="#ffffff">not likely to get worse.</font>
+
+386
+00:34:00,400 --> 00:34:03,400
+<font color="#ffffff">And Hadlow, Walsh and Kierly, we've</font>
+<font color="#ffffff">treated for nerve agent exposure,</font>
+
+387
+00:34:03,400 --> 00:34:05,880
+<font color="#ffffff">but they're refusing medevac.</font>
+
+388
+00:34:05,880 --> 00:34:08,280
+<font color="#ffffff">But Vanquish takes over our patrol</font>
+<font color="#ffffff">in three days.</font>
+
+389
+00:34:08,280 --> 00:34:13,080
+<font color="#ffffff">We can run on a reduced crew.</font>
+<font color="#ffffff">Sir, with respect, I want to stay.</font>
+
+390
+00:34:13,080 --> 00:34:14,760
+<font color="#ffffff">Me too, sir.</font>
+
+391
+00:34:16,360 --> 00:34:18,600
+<font color="#ffffff">Me too. I'll see it through.</font>
+
+392
+00:34:21,520 --> 00:34:23,960
+<font color="#ffffff">Lieutenant Surgeon,</font>
+<font color="#ffffff">I shall defer to your judgment.</font>
+
+393
+00:34:23,960 --> 00:34:26,760
+<font color="#ffffff">Well, it's a risk,</font>
+<font color="#ffffff">but it's only a risk to them.</font>
+
+394
+00:34:26,760 --> 00:34:28,160
+<font color="#ffffff">Carry on, then.</font>
+
+395
+00:34:42,640 --> 00:34:45,520
+<font color="#ffffff">Godspeed, my friend. I'll see you</font>
+<font color="#ffffff">when we get alongside.</font>
+
+396
+00:34:46,800 --> 00:34:47,840
+<font color="#ffffff">Carry on.</font>
+
+397
+00:35:24,920 --> 00:35:25,960
+<font color="#ffffff">Thank you.</font>
+
+398
+00:35:27,880 --> 00:35:30,560
+<font color="#ffffff">I speak on behalf</font>
+<font color="#ffffff">of the entire ship's company.</font>
+
+399
+00:35:33,040 --> 00:35:34,280
+<font color="#ffffff">Good luck.</font>
+
+400
+00:35:54,200 --> 00:35:56,240
+<font color="#ffffff"> Suspect Matthew Doward</font>
+<font color="#ffffff">is detained</font>
+
+401
+00:35:56,240 --> 00:35:58,680
+<font color="#ffffff">and requires secure transportation.</font>
+
+402
+00:35:58,680 --> 00:36:01,920
+<font color="#ffffff">Warrant Officer Elliott Glover</font>
+<font color="#ffffff">needs urgent medical assistance</font>
+
+403
+00:36:01,920 --> 00:36:03,920
+<font color="#ffffff">for nerve gas inhalation.</font>
+
+404
+00:36:03,920 --> 00:36:07,720
+<font color="#ffffff">DCI Amy Silva to be taken</font>
+<font color="#ffffff">for precautionary assessment.</font>
+
+405
+00:37:57,120 --> 00:37:58,160
+<font color="#ffffff">Welcome home.</font>
+
+406
+00:38:00,680 --> 00:38:01,720
+<font color="#ffffff">Thanks.</font>
+
+407
+00:38:03,040 --> 00:38:07,600
+<font color="#ffffff">Hey, welcome back! How are you?</font>
+
+408
+00:38:07,600 --> 00:38:09,960
+<font color="#ffffff">Good. Erm...</font>
+
+409
+00:38:09,960 --> 00:38:11,920
+<font color="#ffffff">I just want some answers.</font>
+
+410
+00:38:11,920 --> 00:38:14,120
+<font color="#ffffff">MI5 are in. They got your report.</font>
+
+411
+00:38:14,120 --> 00:38:16,160
+<font color="#ffffff">They're ready to have a crack</font>
+<font color="#ffffff">at Doward.</font>
+
+412
+00:38:16,160 --> 00:38:18,040
+<font color="#ffffff">Do you want to take a look?</font>
+<font color="#ffffff">Yeah, please.</font>
+
+413
+00:38:18,040 --> 00:38:21,080
+<font color="#ffffff">Maybe you should rest.</font>
+<font color="#ffffff">No, I really want to see this.</font>
+
+414
+00:38:21,080 --> 00:38:22,560
+<font color="#ffffff">Shall we go through?</font>
+
+415
+00:38:24,160 --> 00:38:25,200
+<font color="#ffffff">Yeah, sure.</font>
+
+416
+00:38:28,840 --> 00:38:30,480
+<font color="#ffffff">Matthew Doward, you are here</font>
+
+417
+00:38:30,480 --> 00:38:34,920
+<font color="#ffffff">because we want answers about the</font>
+<font color="#ffffff">actions you took on board HMS Vigil.</font>
+
+418
+00:38:34,920 --> 00:38:39,640
+<font color="#ffffff">We have more than enough evidence to</font>
+<font color="#ffffff">convict from DCI Silva's report...</font>
+
+419
+00:38:39,640 --> 00:38:41,080
+<font color="#ffffff">Are you all right?</font>
+
+420
+00:38:41,080 --> 00:38:43,640
+<font color="#ffffff">..but we'd like your account</font>
+<font color="#ffffff">of what happened.</font>
+
+421
+00:38:46,440 --> 00:38:49,160
+<font color="#ffffff">What do I get if I help you?</font>
+
+422
+00:38:49,160 --> 00:38:50,680
+<font color="#ffffff">We can talk to the judge</font>
+
+423
+00:38:50,680 --> 00:38:53,800
+<font color="#ffffff">and request a lighter sentence</font>
+<font color="#ffffff">for your co-operation.</font>
+
+424
+00:38:55,200 --> 00:38:57,240
+<font color="#ffffff">We can put you</font>
+<font color="#ffffff">somewhere comfortable,</font>
+
+425
+00:38:57,240 --> 00:39:00,640
+<font color="#ffffff">or we can put you in a cage</font>
+<font color="#ffffff">where you shit in a bucket.</font>
+
+426
+00:39:03,400 --> 00:39:04,480
+<font color="#ffffff">So...</font>
+
+427
+00:39:06,720 --> 00:39:07,760
+<font color="#ffffff">..Jackie Hamilton?</font>
+
+428
+00:39:17,280 --> 00:39:19,120
+<font color="#ffffff">I was told what Jackie</font>
+<font color="#ffffff">was going to do</font>
+
+429
+00:39:19,120 --> 00:39:21,200
+<font color="#ffffff">in exchange for them</font>
+<font color="#ffffff">getting her son out.</font>
+
+430
+00:39:21,200 --> 00:39:23,040
+<font color="#ffffff">And the reason that Burke was killed</font>
+
+431
+00:39:23,040 --> 00:39:25,960
+<font color="#ffffff">was because he had the same job</font>
+<font color="#ffffff">as you?</font>
+
+432
+00:39:30,840 --> 00:39:35,880
+<font color="#ffffff">There's a guy at the Peace Camp -</font>
+<font color="#ffffff">some old-school CND type.</font>
+
+433
+00:39:36,960 --> 00:39:40,080
+<font color="#ffffff">He told the Russians</font>
+<font color="#ffffff">to approach Burke.</font>
+
+434
+00:39:40,080 --> 00:39:42,440
+<font color="#ffffff">They went ahead, made an approach...</font>
+
+435
+00:39:43,920 --> 00:39:44,960
+<font color="#ffffff">..but Burke...</font>
+
+436
+00:39:47,040 --> 00:39:48,360
+<font color="#ffffff">..turned them down flat.</font>
+
+437
+00:39:50,240 --> 00:39:55,440
+<font color="#ffffff">So now you've got Burke,</font>
+<font color="#ffffff">this mouthy wee guy,</font>
+
+438
+00:39:55,440 --> 00:39:59,640
+<font color="#ffffff">knowing crews are being approached</font>
+<font color="#ffffff">and knowing who Peter Ingles is.</font>
+
+439
+00:39:59,640 --> 00:40:02,760
+<font color="#ffffff">Are you saying that's why</font>
+<font color="#ffffff">they chose to kill Burke?</font>
+
+440
+00:40:02,760 --> 00:40:05,440
+<font color="#ffffff">It had to be one of</font>
+<font color="#ffffff">the sonar operators, didn't it,</font>
+
+441
+00:40:05,440 --> 00:40:07,080
+<font color="#ffffff">to get you on board?</font>
+
+442
+00:40:07,080 --> 00:40:09,760
+<font color="#ffffff">But this way, they're getting rid</font>
+<font color="#ffffff">of someone</font>
+
+443
+00:40:09,760 --> 00:40:11,520
+<font color="#ffffff">who could identify Ingles as well.</font>
+
+444
+00:40:12,840 --> 00:40:14,720
+<font color="#ffffff">You'd have to ask THEM that.</font>
+
+445
+00:40:14,720 --> 00:40:18,160
+<font color="#ffffff">What was the plan</font>
+<font color="#ffffff">behind the nerve agent?</font>
+
+446
+00:40:21,160 --> 00:40:24,000
+<font color="#ffffff">Jackie Hamilton released</font>
+<font color="#ffffff">the nerve agent.</font>
+
+447
+00:40:24,000 --> 00:40:25,880
+<font color="#ffffff">She set it off accidentally.</font>
+
+448
+00:40:25,880 --> 00:40:28,800
+<font color="#ffffff">We know that from</font>
+<font color="#ffffff">DCI Silva's report.</font>
+
+449
+00:40:28,800 --> 00:40:33,120
+<font color="#ffffff">You had threatened her when she</font>
+<font color="#ffffff">didn't deliver it as you'd ordered.</font>
+
+450
+00:40:33,120 --> 00:40:35,400
+<font color="#ffffff">She opened it</font>
+<font color="#ffffff">because she didn't trust you</font>
+
+451
+00:40:35,400 --> 00:40:38,320
+<font color="#ffffff">and she wanted to protect the crew.</font>
+
+452
+00:40:38,320 --> 00:40:41,840
+<font color="#ffffff">Your job was to force an evacuation</font>
+<font color="#ffffff">of the submarine,</font>
+
+453
+00:40:41,840 --> 00:40:44,040
+<font color="#ffffff">with Russian boats standing by</font>
+<font color="#ffffff">to meet you.</font>
+
+454
+00:40:47,280 --> 00:40:49,920
+<font color="#ffffff">What were you told</font>
+<font color="#ffffff">would happen next?</font>
+
+455
+00:40:49,920 --> 00:40:51,080
+<font color="#ffffff">Nothing.</font>
+
+456
+00:40:52,320 --> 00:40:55,160
+<font color="#ffffff">A few photographs</font>
+<font color="#ffffff">and the offer of a tow home.</font>
+
+457
+00:40:55,160 --> 00:40:57,360
+<font color="#ffffff">What?! So he's just...?</font>
+
+458
+00:40:58,880 --> 00:41:01,640
+<font color="#ffffff">He's saying it was just a PR stunt.</font>
+
+459
+00:41:01,640 --> 00:41:04,200
+<font color="#ffffff">We think Russia's aim was</font>
+<font color="#ffffff">to make the deterrent look bad.</font>
+
+460
+00:41:04,200 --> 00:41:06,040
+<font color="#ffffff">There's a vote coming up</font>
+<font color="#ffffff">on its funding,</font>
+
+461
+00:41:06,040 --> 00:41:08,200
+<font color="#ffffff">and if questions</font>
+<font color="#ffffff">were raised about it...</font>
+
+462
+00:41:08,200 --> 00:41:09,840
+<font color="#ffffff">People were killed for that?!</font><font color="#ffffff"> No.</font>
+
+463
+00:41:09,840 --> 00:41:11,800
+<font color="#ffffff">But a lot of MPs want Trident gone</font>
+
+464
+00:41:11,800 --> 00:41:14,440
+<font color="#ffffff">but don't want to look soft</font>
+<font color="#ffffff">on defence. And this...</font>
+
+465
+00:41:14,440 --> 00:41:17,120
+<font color="#ffffff">This would have given them an excuse</font>
+<font color="#ffffff">to vote against it.</font>
+
+466
+00:41:17,120 --> 00:41:19,760
+<font color="#ffffff">Russia dupes Britain</font>
+<font color="#ffffff">into scrapping its deterrent -</font>
+
+467
+00:41:19,760 --> 00:41:21,840
+<font color="#ffffff">that's modern warfare.</font>
+
+468
+00:41:21,840 --> 00:41:25,280
+<font color="#ffffff">You seem...relaxed,</font>
+<font color="#ffffff">given your situation.</font>
+
+469
+00:41:25,280 --> 00:41:27,400
+<font color="#ffffff">I think we all know</font>
+<font color="#ffffff">how these things work -</font>
+
+470
+00:41:27,400 --> 00:41:29,760
+<font color="#ffffff">one of them for one of me.</font>
+
+471
+00:41:29,760 --> 00:41:32,920
+<font color="#ffffff">And you're confident</font>
+<font color="#ffffff">Russia want you?</font>
+
+472
+00:41:36,160 --> 00:41:38,200
+<font color="#ffffff">You don't want a trial.</font>
+
+473
+00:41:39,960 --> 00:41:41,560
+<font color="#ffffff">Me giving evidence...</font>
+
+474
+00:41:42,960 --> 00:41:45,760
+<font color="#ffffff">..that's your worst nightmare.</font>
+<font color="#ffffff">Well, it'll be a closed trial.</font>
+
+475
+00:41:45,760 --> 00:41:47,680
+<font color="#ffffff">And after that, you'll be</font>
+<font color="#ffffff">kept in isolation -</font>
+
+476
+00:41:47,680 --> 00:41:52,600
+<font color="#ffffff">no visitors, no phone calls,</font>
+<font color="#ffffff">just you becoming an old man.</font>
+
+477
+00:41:56,840 --> 00:41:59,880
+<font color="#ffffff">We're not going to tell the Russians</font>
+<font color="#ffffff">that we've got you.</font>
+
+478
+00:41:59,880 --> 00:42:03,000
+<font color="#ffffff">And they're hardly going to come</font>
+<font color="#ffffff">asking for you, are they?</font>
+
+479
+00:42:05,480 --> 00:42:06,720
+<font color="#ffffff">So, if you think about it...</font>
+
+480
+00:42:08,080 --> 00:42:09,720
+<font color="#ffffff">..you don't really exist.</font>
+
+481
+00:42:11,760 --> 00:42:14,280
+<font color="#ffffff">Why did you decide to work</font>
+<font color="#ffffff">for Russia?</font>
+
+482
+00:42:25,440 --> 00:42:26,480
+<font color="#ffffff">No comment.</font>
+
+483
+00:42:28,160 --> 00:42:29,480
+<font color="#ffffff">He's a narcissist.</font>
+
+484
+00:42:31,880 --> 00:42:34,000
+<font color="#ffffff">It made him feel special.</font>
+<font color="#ffffff">Gave him power.</font>
+
+485
+00:42:35,240 --> 00:42:36,640
+<font color="#ffffff">That's all I need to see.</font>
+
+486
+00:42:39,640 --> 00:42:41,960
+<font color="#ffffff">Do you want me to drive you home?</font>
+<font color="#ffffff">I can take you.</font>
+
+487
+00:42:41,960 --> 00:42:43,720
+<font color="#ffffff">No. I want to see Poppy.</font>
+
+488
+00:42:44,760 --> 00:42:47,000
+<font color="#ffffff">She's missed you.</font>
+
+489
+00:42:47,000 --> 00:42:48,440
+<font color="#ffffff">What?</font>
+
+490
+00:42:48,440 --> 00:42:51,440
+<font color="#ffffff">I dropped her off a present.</font>
+<font color="#ffffff">It was on your calendar.</font>
+
+491
+00:42:55,720 --> 00:42:56,920
+<font color="#ffffff">Come with me.</font>
+
+492
+00:42:58,440 --> 00:42:59,640
+<font color="#ffffff">To see Poppy?</font>
+
+493
+00:43:03,880 --> 00:43:05,000
+<font color="#ffffff">OK.</font>
+
+494
+00:43:42,480 --> 00:43:45,400
+<font color="#ffffff">What are you going to say</font>
+<font color="#ffffff">to the press?</font>
+
+495
+00:43:45,400 --> 00:43:47,920
+<font color="#ffffff">You're going to have a hard time</font>
+<font color="#ffffff">getting MPs to sign off</font>
+
+496
+00:43:47,920 --> 00:43:50,040
+<font color="#ffffff">on new warheads with THIS story</font>
+<font color="#ffffff">breaking.</font>
+
+497
+00:43:50,040 --> 00:43:52,040
+<font color="#ffffff">I just don't think</font>
+<font color="#ffffff">they'll vote for it.</font>
+
+498
+00:43:52,040 --> 00:43:54,160
+<font color="#ffffff">Well, that's certainly what</font>
+<font color="#ffffff">Russia will be hoping.</font>
+
+499
+00:43:54,160 --> 00:43:55,600
+<font color="#ffffff">Are you going to help them?</font>
+
+500
+00:43:55,600 --> 00:43:57,880
+<font color="#ffffff">The Russians tried to bury</font>
+<font color="#ffffff">this photo.</font>
+
+501
+00:43:57,880 --> 00:44:00,360
+<font color="#ffffff">People were killed to try</font>
+<font color="#ffffff">and stop this story from coming out.</font>
+
+502
+00:44:00,360 --> 00:44:02,440
+<font color="#ffffff">This was when they had an operative</font>
+<font color="#ffffff">in the field.</font>
+
+503
+00:44:02,440 --> 00:44:04,720
+<font color="#ffffff">The story's over now.</font>
+<font color="#ffffff">He's been arrested.</font>
+
+504
+00:44:04,720 --> 00:44:07,880
+<font color="#ffffff">Now a victory for Russia</font>
+<font color="#ffffff">would be you telling the world</font>
+
+505
+00:44:07,880 --> 00:44:09,920
+<font color="#ffffff">that they managed to get a spy</font>
+<font color="#ffffff">onboard Vigil.</font>
+
+506
+00:44:09,920 --> 00:44:11,840
+<font color="#ffffff">Which they did!</font><font color="#ffffff"> Which they did.</font>
+
+507
+00:44:13,160 --> 00:44:16,480
+<font color="#ffffff">So your argument amounts to, "Please</font>
+<font color="#ffffff">let the Navy get away with this"?</font>
+
+508
+00:44:16,480 --> 00:44:18,960
+<font color="#ffffff">It's not just about protecting</font>
+<font color="#ffffff">the Navy, is it?</font>
+
+509
+00:44:18,960 --> 00:44:20,520
+<font color="#ffffff">It's about protecting Britain.</font>
+
+510
+00:44:20,520 --> 00:44:22,840
+<font color="#ffffff">And how exactly does the deterrent</font>
+<font color="#ffffff">achieve that?</font>
+
+511
+00:44:22,840 --> 00:44:24,880
+<font color="#ffffff">The Cold War is over.</font>
+
+512
+00:44:24,880 --> 00:44:27,440
+<font color="#ffffff">Admiral, there are better ways</font>
+<font color="#ffffff">to exert our influence</font>
+
+513
+00:44:27,440 --> 00:44:29,440
+<font color="#ffffff">in the world than</font>
+<font color="#ffffff">the threat of mutual distrust.</font>
+
+514
+00:44:29,440 --> 00:44:32,000
+<font color="#ffffff">Yes, so says China,</font>
+<font color="#ffffff">so says Russia, so says France.</font>
+
+515
+00:44:32,000 --> 00:44:34,000
+<font color="#ffffff">We all agree. Everyone agrees.</font>
+
+516
+00:44:34,000 --> 00:44:36,120
+<font color="#ffffff">But no-one moves till we all move.</font>
+
+517
+00:44:38,080 --> 00:44:41,080
+<font color="#ffffff">All the more reason for us</font>
+<font color="#ffffff">to set an example.</font>
+
+518
+00:44:41,080 --> 00:44:43,320
+<font color="#ffffff">And we should start by owning up</font>
+<font color="#ffffff">to what happened</font>
+
+519
+00:44:43,320 --> 00:44:45,760
+<font color="#ffffff">to the five Scottish trawlermen</font>
+<font color="#ffffff">who drowned.</font>
+
+520
+00:44:45,760 --> 00:44:48,400
+<font color="#ffffff">Their families deserve some closure.</font>
+
+521
+00:44:50,560 --> 00:44:52,920
+<font color="#ffffff">Or are you going to blame that</font>
+<font color="#ffffff">on Russia as well?</font>
+
+522
+00:44:55,760 --> 00:44:57,400
+<font color="#ffffff"> Of course you will.</font>
+
+523
+00:44:58,680 --> 00:45:01,560
+<font color="#ffffff">I think I need to remind you</font>
+<font color="#ffffff">of your own actions.</font>
+
+524
+00:45:01,560 --> 00:45:04,760
+<font color="#ffffff">You had photographic evidence</font>
+<font color="#ffffff">that there was a Russian spy</font>
+
+525
+00:45:04,760 --> 00:45:07,640
+<font color="#ffffff">on board a British</font>
+<font color="#ffffff">Vanguard Class Submarine...</font>
+
+526
+00:45:07,640 --> 00:45:09,280
+<font color="#ffffff">We had no idea that man</font>
+<font color="#ffffff">was on Vigil.</font>
+
+527
+00:45:09,280 --> 00:45:11,920
+<font color="#ffffff">..which you choose to hang onto</font>
+<font color="#ffffff">for political gain</font>
+
+528
+00:45:11,920 --> 00:45:14,080
+<font color="#ffffff">rather than hand it over</font>
+<font color="#ffffff">to the security services.</font>
+
+529
+00:45:14,080 --> 00:45:15,640
+<font color="#ffffff">Because you would have</font>
+<font color="#ffffff">covered it up,</font>
+
+530
+00:45:15,640 --> 00:45:18,160
+<font color="#ffffff">just like you did at Port Havers!</font>
+
+531
+00:45:18,160 --> 00:45:20,560
+<font color="#ffffff">We intended to publish</font>
+<font color="#ffffff">then go straight to the police.</font>
+
+532
+00:45:20,560 --> 00:45:23,320
+<font color="#ffffff">You're talking a matter of hours.</font>
+<font color="#ffffff">So you say. It doesn't play well,</font>
+
+533
+00:45:23,320 --> 00:45:25,680
+<font color="#ffffff">though, does it? And in this game,</font>
+<font color="#ffffff">every second counts.</font>
+
+534
+00:45:25,680 --> 00:45:27,360
+<font color="#ffffff">Minutes before that man</font>
+<font color="#ffffff">was arrested,</font>
+
+535
+00:45:27,360 --> 00:45:29,280
+<font color="#ffffff">he killed one of my officers.</font>
+
+536
+00:45:29,280 --> 00:45:31,520
+<font color="#ffffff">How do you feel about that story</font>
+<font color="#ffffff">getting out?</font>
+
+537
+00:45:39,080 --> 00:45:41,480
+<font color="#ffffff">I'd like to get this matter</font>
+<font color="#ffffff">wrapped up today if possible.</font>
+
+538
+00:45:41,480 --> 00:45:44,760
+<font color="#ffffff">I don't see how this benefits anyone</font>
+<font color="#ffffff">except Russia. But it's up to you.</font>
+
+539
+00:45:48,240 --> 00:45:50,360
+<font color="#ffffff">We'll keep it from the press</font>
+<font color="#ffffff">this time.</font>
+
+540
+00:45:52,520 --> 00:45:55,000
+</font><font color="#ffffff"> They're ready for you, sir.</font>
+
+541
+00:45:59,640 --> 00:46:02,840
+<font color="#ffffff">We will get nuclear weapons</font>
+<font color="#ffffff">out of Scotland within my lifetime.</font>
+
+542
+00:46:05,120 --> 00:46:06,880
+<font color="#ffffff">I don't doubt your commitment.</font>
+
+543
+00:46:18,440 --> 00:46:21,200
+<font color="#ffffff">Amy, when I was last here,</font>
+<font color="#ffffff">Morag and Gordon,</font>
+
+544
+00:46:21,200 --> 00:46:24,560
+<font color="#ffffff">they mentioned the conversations</font>
+<font color="#ffffff">you've been having about custody,</font>
+
+545
+00:46:24,560 --> 00:46:26,640
+<font color="#ffffff">and they thought that I knew.</font>
+
+546
+00:46:26,640 --> 00:46:29,440
+<font color="#ffffff">But you don't need to say anything.</font>
+<font color="#ffffff">It's just...</font>
+
+547
+00:46:29,440 --> 00:46:32,400
+<font color="#ffffff">Well, it's just in case</font>
+<font color="#ffffff">it comes up. They...</font>
+
+548
+00:46:32,400 --> 00:46:34,120
+<font color="#ffffff">They know we're not together now.</font>
+
+549
+00:46:39,560 --> 00:46:42,160
+<font color="#ffffff">OK, I owe you an explanation...</font>
+<font color="#ffffff">No, you really don't need to...</font>
+
+550
+00:46:42,160 --> 00:46:44,440
+<font color="#ffffff">No, let me just... I want to.</font>
+<font color="#ffffff">Just let me try.</font>
+
+551
+00:46:52,840 --> 00:46:54,200
+<font color="#ffffff">I got scared.</font>
+
+552
+00:46:58,640 --> 00:46:59,680
+<font color="#ffffff">Why?</font>
+
+553
+00:47:02,440 --> 00:47:03,600
+<font color="#ffffff">I don't know. I just...</font>
+
+554
+00:47:08,400 --> 00:47:11,800
+<font color="#ffffff">Because when it was you and me,</font>
+<font color="#ffffff">on our own, that was...</font>
+
+555
+00:47:14,440 --> 00:47:16,040
+<font color="#ffffff">Like, I was really happy.</font>
+
+556
+00:47:18,320 --> 00:47:19,600
+<font color="#ffffff">I was happy too.</font>
+
+557
+00:47:22,000 --> 00:47:24,320
+<font color="#ffffff">It's just when we had to be</font>
+<font color="#ffffff">out in the world...</font>
+
+558
+00:47:24,320 --> 00:47:29,240
+<font color="#ffffff">No. I know, I know. I mean,</font>
+<font color="#ffffff">I can see how it changed you.</font>
+
+559
+00:47:31,520 --> 00:47:33,680
+<font color="#ffffff">I could see it happen.</font>
+
+560
+00:47:33,680 --> 00:47:35,040
+<font color="#ffffff">Well, it's like you always said.</font>
+
+561
+00:47:35,040 --> 00:47:36,960
+<font color="#ffffff">I have to put everything</font>
+<font color="#ffffff">in its own little box,</font>
+
+562
+00:47:36,960 --> 00:47:40,920
+<font color="#ffffff">so I just put Poppy in one</font>
+<font color="#ffffff">and work in another.</font>
+
+563
+00:47:40,920 --> 00:47:44,440
+<font color="#ffffff">And you...</font><font color="#ffffff"> I</font><font color="#ffffff"> never wanted just</font>
+<font color="#ffffff">the parts of you that were easy.</font>
+
+564
+00:47:44,440 --> 00:47:46,160
+<font color="#ffffff">Ever.</font>
+
+565
+00:47:51,520 --> 00:47:53,800
+<font color="#ffffff">I know I hurt you, and I'm sorry.</font>
+
+566
+00:47:57,400 --> 00:48:00,040
+<font color="#ffffff">You did hurt me.</font><font color="#ffffff"> I just didn't know</font>
+<font color="#ffffff">how to bring Poppy into this,</font>
+
+567
+00:48:00,040 --> 00:48:02,000
+<font color="#ffffff">not when I had so many questions.</font>
+
+568
+00:48:05,520 --> 00:48:07,080
+<font color="#ffffff">Well, how do you feel now?</font>
+
+569
+00:48:13,000 --> 00:48:16,480
+<font color="#ffffff">You always made it sound so easy</font>
+<font color="#ffffff">when you said you loved me.</font><font color="#ffffff"> Hm.</font>
+
+570
+00:48:17,880 --> 00:48:20,120
+<font color="#ffffff">Aye, well, I don't think</font>
+<font color="#ffffff">that should be hard.</font>
+
+571
+00:48:23,680 --> 00:48:24,800
+<font color="#ffffff">I find it hard.</font>
+
+572
+00:48:27,760 --> 00:48:30,440
+<font color="#ffffff">But it doesn't mean</font>
+<font color="#ffffff">that I don't feel it.</font>
+
+573
+00:48:35,480 --> 00:48:37,600
+<font color="#ffffff">I want us to try.</font>
+
+574
+00:48:42,160 --> 00:48:44,560
+<font color="#ffffff">I don't want to go back</font>
+<font color="#ffffff">to the way things were.</font>
+
+575
+00:48:44,560 --> 00:48:46,240
+<font color="#ffffff">I know...</font><font color="#ffffff"> No, I really don't.</font>
+
+576
+00:48:46,240 --> 00:48:49,280
+<font color="#ffffff">I mean, what if you wake up</font>
+<font color="#ffffff">in 12 months' time</font>
+
+577
+00:48:49,280 --> 00:48:51,280
+<font color="#ffffff">and you're back where you started?</font>
+
+578
+00:48:51,280 --> 00:48:53,160
+<font color="#ffffff">I don't want that to happen.</font>
+
+579
+00:48:58,640 --> 00:49:01,120
+<font color="#ffffff">You know, when I was down there</font>
+<font color="#ffffff">and I was trapped...</font>
+
+580
+00:49:03,200 --> 00:49:05,880
+<font color="#ffffff">..like, all I could think about</font>
+<font color="#ffffff">was Poppy...</font>
+
+581
+00:49:07,800 --> 00:49:08,960
+<font color="#ffffff">..and you.</font>
+
+582
+00:49:15,080 --> 00:49:16,840
+<font color="#ffffff">Do you love me?</font>
+
+583
+00:49:20,000 --> 00:49:21,400
+<font color="#ffffff">Yeah.</font>
+
+584
+00:49:28,400 --> 00:49:29,440
+<font color="#ffffff">I love you.</font>
+
+585
+00:49:32,560 --> 00:49:36,360
+<font color="#ffffff">Earlier this month, a Scottish</font>
+<font color="#ffffff">fishing trawler, the Mhairi Finnea,</font>
+
+586
+00:49:36,360 --> 00:49:39,400
+<font color="#ffffff">went down south of Barra Head,</font>
+<font color="#ffffff">on the west coast of Scotland.</font>
+
+587
+00:49:40,440 --> 00:49:41,880
+<font color="#ffffff">On examination of the wreck,</font>
+
+588
+00:49:41,880 --> 00:49:46,320
+<font color="#ffffff">we found strong evidence that the</font>
+<font color="#ffffff">Mhairi Finnea had been dragged down</font>
+
+589
+00:49:46,320 --> 00:49:51,280
+<font color="#ffffff">by a Russian submarine</font>
+<font color="#ffffff">that snagged her nets.</font>
+
+590
+00:49:51,280 --> 00:49:53,840
+<font color="#ffffff">This submarine was</font>
+<font color="#ffffff">operating illegally</font>
+
+591
+00:49:53,840 --> 00:49:56,800
+<font color="#ffffff">inside British territorial waters.</font>
+
+592
+00:49:56,800 --> 00:49:59,720
+<font color="#ffffff">We believe the sinking</font>
+<font color="#ffffff">was probably an accident.</font>
+
+593
+00:49:59,720 --> 00:50:06,560
+<font color="#ffffff">However, this is evidence</font>
+<font color="#ffffff">of Russian aggression</font>
+
+594
+00:50:06,560 --> 00:50:09,680
+<font color="#ffffff">and Russian incompetence.</font>
+
+595
+00:50:11,360 --> 00:50:15,800
+<font color="#ffffff">I think today has to be</font>
+<font color="#ffffff">a wake-up call for a lot of people.</font>
+
+596
+00:50:15,800 --> 00:50:20,920
+<font color="#ffffff">We have in this country to be ready</font>
+<font color="#ffffff">for a new kind of peacekeeping,</font>
+
+597
+00:50:20,920 --> 00:50:23,440
+<font color="#ffffff">on the battlefields of tomorrow,</font>
+
+598
+00:50:23,440 --> 00:50:27,680
+<font color="#ffffff">which will be under the surface</font>
+<font color="#ffffff">of the sea.</font>
+
+599
+00:50:27,680 --> 00:50:30,080
+<font color="#ffffff">Parliament will shortly be</font>
+<font color="#ffffff">voting on...</font>
+
+600
+00:50:51,480 --> 00:50:52,520
+<font color="#ffffff">Jade...</font>
+
+601
+00:50:53,520 --> 00:50:55,640
+<font color="#ffffff">..I don't want this world to burn.</font>
+
+602
+00:50:57,000 --> 00:50:59,080
+<font color="#ffffff">And I know you don't want that</font>
+<font color="#ffffff">either.</font>
+
+603
+00:51:01,200 --> 00:51:02,480
+<font color="#ffffff">I want it safe...</font>
+
+604
+00:51:04,480 --> 00:51:06,360
+<font color="#ffffff">..so we can be in it together.</font>
+
+605
+00:51:14,520 --> 00:51:16,520
+<font color="#ffffff"> I got up</font>
+<font color="#ffffff">early today.</font>
+
+606
+00:51:17,840 --> 00:51:19,360
+<font color="#ffffff">It was still dark, but...</font>
+
+607
+00:51:20,520 --> 00:51:22,240
+<font color="#ffffff">I went down by the side of the loch.</font>
+
+608
+00:51:27,440 --> 00:51:29,000
+<font color="#ffffff">Mum?</font>
+
+609
+00:51:32,800 --> 00:51:37,640
+<font color="#ffffff">I saw the sun come up over the sea</font>
+<font color="#ffffff">and birds out flying...</font>
+
+610
+00:51:48,200 --> 00:51:50,680
+<font color="#ffffff">..and I thought of how beautiful</font>
+<font color="#ffffff">this world is...</font>
+
+611
+00:51:57,720 --> 00:52:00,600
+<font color="#ffffff">..and how much I miss</font>
+<font color="#ffffff">when I'm under the water.</font>
+
+612
+00:52:09,320 --> 00:52:14,000
+<font color="#ffffff">Hey! Hi!</font><font color="#ffffff"> Mummy!</font><font color="#ffffff"> Hi, darling! Hi!</font>
+
+613
+00:52:15,240 --> 00:52:16,360
+<font color="#ffffff">How are you?</font>
+
+614
+00:52:17,880 --> 00:52:22,800
+<font color="#ffffff">Are you OK? I missed you.</font>
+<font color="#ffffff">I missed you. I missed you.</font>
+
+615
+00:52:27,000 --> 00:52:28,880
+<font color="#ffffff"> And then I thought of you.</font>
