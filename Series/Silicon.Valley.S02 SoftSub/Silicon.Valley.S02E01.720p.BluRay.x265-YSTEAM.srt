@@ -1,0 +1,2561 @@
+﻿1
+00:00:07,120 --> 00:00:08,121
+<font color="#DF01D7">(PEOPLE CHATTERING)</font>
+
+2
+00:00:08,200 --> 00:00:09,201
+<font color="#DF01D7">(DRAMATIC MUSIC PLAYING)</font>
+
+3
+00:00:18,200 --> 00:00:20,407
+Ooh, fuck. Yeah, it doesn't matter.
+
+4
+00:00:20,480 --> 00:00:22,244
+Whoa. You okay there, Richard?
+
+5
+00:00:22,360 --> 00:00:24,203
+Uh... Yeah, I'm fine.
+
+6
+00:00:24,280 --> 00:00:26,009
+Sorry, I can't really throw it any slower.
+
+7
+00:00:26,080 --> 00:00:27,320
+Give it another cut, Richard.
+
+8
+00:00:27,400 --> 00:00:29,164
+No, I'm fine. I don't want to.
+
+9
+00:00:29,240 --> 00:00:32,130
+Maybe someone else wants to. Who's next?
+
+10
+00:00:32,200 --> 00:00:34,885
+If someone has to go, I'll go,
+but it seems very frightening.
+
+11
+00:00:34,960 --> 00:00:36,689
+You sure? You got us for the whole hour.
+
+12
+00:00:36,760 --> 00:00:40,128
+- Anyone?
+- Would it hurt your feelings if no one went?
+
+13
+00:00:42,720 --> 00:00:44,006
+<font color="#404040">MAN:</font> <font color="#DF01D7">(ON PA.)</font> <i>Ladies and gentlemen,</i>
+
+14
+00:00:44,080 --> 00:00:47,050
+<i>welcome to the annual
+Stern Taylor Fall Classic.</i>
+
+15
+00:00:47,120 --> 00:00:50,010
+<i>I'd like to start by making a toast
+to our very special guest tonight,</i>
+
+16
+00:00:50,080 --> 00:00:52,731
+<i>- Richard Hendricks.</i>
+-<font color="#DF01D7">  (APPLAUSE)</font>
+
+17
+00:00:52,800 --> 00:00:57,567
+<i>Richard, after your perfect game
+at TechCrunch Disrupt a few weeks ago,</i>
+
+18
+00:00:57,640 --> 00:00:59,404
+<i>we fell in love with you and your tech.</i>
+
+19
+00:00:59,520 --> 00:01:01,648
+<i>Look, we know everyone
+in the Valley is after you,</i>
+
+20
+00:01:02,280 --> 00:01:06,251
+<i>and we know that you're probably
+going to go with Peter Gregory,</i>
+
+21
+00:01:06,320 --> 00:01:08,891
+<i>but we'd love to have you
+come play on our team.</i>
+
+22
+00:01:08,960 --> 00:01:10,962
+<i>Let Stern Taylor Capital Fund in</i>
+
+23
+00:01:11,040 --> 00:01:14,328
+<i>on your Series A financing,
+because together, Richard,</i>
+
+24
+00:01:14,400 --> 00:01:15,890
+<i>we'd be</i>
+
+25
+00:01:15,960 --> 00:01:19,169
+a <i>home run!</i>
+
+26
+00:01:19,240 --> 00:01:21,971
+<font color="#DF01D7">(ORGAN PLAYS CHARGE)
+(APPLAUSE)</font>
+
+27
+00:01:22,120 --> 00:01:23,849
+<i>- Oh, fight.
+- What do you say, Richard?</i>
+
+28
+00:01:26,600 --> 00:01:28,125
+I'll do what I can.
+
+29
+00:01:29,760 --> 00:01:31,524
+<i>All right. Have fun, everybody.</i>
+
+30
+00:01:33,000 --> 00:01:34,445
+<font color="#DF01D7">(INDISTINCT CONVERSATIONS)</font>
+
+31
+00:01:34,520 --> 00:01:35,521
+I don't know, man.
+
+32
+00:01:35,600 --> 00:01:38,046
+It's starting to feel weird
+letting all these firms suck up to us,
+
+33
+00:01:38,160 --> 00:01:39,924
+even though we're not gonna
+take their money.
+
+34
+00:01:40,000 --> 00:01:43,607
+Richard, Peter Gregory hasn't officially
+given us the term sheet yet.
+
+35
+00:01:43,680 --> 00:01:45,762
+Yes, but he will tomorrow when he gets back.
+
+36
+00:01:45,840 --> 00:01:49,765
+If you can't enjoy this many people
+kissing our ass at this level,
+
+37
+00:01:49,880 --> 00:01:51,006
+then I feel sorry for you.
+
+38
+00:01:51,880 --> 00:01:54,531
+Would you just relax
+and take it in for a second?
+
+39
+00:01:54,600 --> 00:01:58,207
+I mean, we are getting our dicks sucked
+at the AT&T Park.
+
+40
+00:01:59,560 --> 00:02:02,723
+We're standing on the field of
+the World Series champions.
+
+41
+00:02:03,720 --> 00:02:04,801
+It's totally lost on me.
+
+42
+00:02:04,880 --> 00:02:06,564
+Yeah, I don't give a shit, either.
+
+43
+00:02:06,640 --> 00:02:09,484
+Hey! I'm Nicole Stein.
+
+44
+00:02:09,560 --> 00:02:11,449
+I lead the Growth Team at Stern Taylor.
+
+45
+00:02:11,520 --> 00:02:14,603
+- Oh. I'm Dinesh.
+- I'm Gilfoyle.
+
+46
+00:02:14,680 --> 00:02:17,365
+I love it. So what do you two do at Pied Piper?
+
+47
+00:02:17,440 --> 00:02:19,124
+I'm the CTO.
+
+48
+00:02:19,240 --> 00:02:21,720
+Ah, he's joking. I'm the CTO.
+
+49
+00:02:21,800 --> 00:02:23,325
+Fuck you, I'm joking.
+
+50
+00:02:23,400 --> 00:02:25,607
+Okay, how could you be
+the Chief Technology Officer?
+
+51
+00:02:25,680 --> 00:02:30,083
+I get it. You hear the word "chief,"
+and you think "lndian Chief."
+
+52
+00:02:30,160 --> 00:02:31,491
+But you're the other kind of Indian.
+
+53
+00:02:31,560 --> 00:02:34,086
+Okay. One, fuck you. I'm Pakistani.
+
+54
+00:02:34,160 --> 00:02:36,527
+And two, how could you be CTO of anything?
+
+55
+00:02:36,600 --> 00:02:37,886
+You have to be able to organize,
+
+56
+00:02:37,960 --> 00:02:39,485
+you have to be able to delegate,
+you have to be...
+
+57
+00:02:39,560 --> 00:02:42,006
+I delegate you to go get me a fucking beer
+
+58
+00:02:42,080 --> 00:02:43,684
+while I talk to Nicole.
+
+59
+00:02:44,320 --> 00:02:47,244
+George Silver,
+operating partner at Stern Taylor.
+
+60
+00:02:47,960 --> 00:02:50,611
+So, what do you do at Pied Piper?
+
+61
+00:02:51,600 --> 00:02:53,250
+He's the CTO.
+
+62
+00:02:55,120 --> 00:02:56,121
+<font color="#DF01D7">(JAZZ MUSIC PLAYING)</font>
+
+63
+00:02:57,280 --> 00:02:58,441
+<font color="#404040">ERLICH:</font> That's Drew Houston.
+
+64
+00:02:58,520 --> 00:03:00,921
+We've been circling each other
+for the last 20 minutes.
+
+65
+00:03:01,440 --> 00:03:02,487
+Ooh!
+
+66
+00:03:02,560 --> 00:03:03,686
+The Winklevoss twins.
+
+67
+00:03:03,760 --> 00:03:06,809
+Look at them. They're like
+two genetically enhanced Ken dolls.
+
+68
+00:03:06,880 --> 00:03:08,723
+Do you know
+how much Bitcoin they're worth?
+
+69
+00:03:09,240 --> 00:03:10,765
+Oh, shit, they're splitting up.
+
+70
+00:03:11,800 --> 00:03:13,484
+Cameron's the left dominant one, right?
+
+71
+00:03:13,560 --> 00:03:15,847
+- I can't tell them apart.
+- I'm gonna come at him from the right side,
+
+72
+00:03:15,920 --> 00:03:18,810
+try and herd them back together
+without spooking them.
+
+73
+00:03:19,080 --> 00:03:20,320
+Watch this.
+
+74
+00:03:20,400 --> 00:03:22,368
+Cameron! Cameron!
+
+75
+00:03:22,840 --> 00:03:24,888
+- Okay.
+- <font color="#404040">JAVEED:</font> Well, well, well,
+
+76
+00:03:24,960 --> 00:03:27,167
+look who's the big swinging dick.
+
+77
+00:03:27,240 --> 00:03:30,369
+Hey, Javeed, everything okay at Goolybib?
+
+78
+00:03:30,480 --> 00:03:32,847
+You gotta ask them. They canned me.
+
+79
+00:03:32,920 --> 00:03:34,809
+- What?
+- Yeah.
+
+80
+00:03:34,880 --> 00:03:37,565
+Our investors got spooked
+by a possible down round,
+
+81
+00:03:37,640 --> 00:03:39,608
+so they shoved
+an acquisition down my throat.
+
+82
+00:03:39,680 --> 00:03:42,889
+Yeah, an acquisition of $200 million, right?
+
+83
+00:03:42,960 --> 00:03:46,965
+Yeah, they all made out.
+I had a reverse vest with no triggers,
+
+84
+00:03:47,320 --> 00:03:49,687
+then I lost all my shares when they fired me.
+
+85
+00:03:50,640 --> 00:03:52,722
+I blew my whole signing bonus
+renting that house.
+
+86
+00:03:52,800 --> 00:03:55,007
+I'm looking into suing 'em.
+
+87
+00:03:55,640 --> 00:03:56,971
+Jeez.
+
+88
+00:03:57,040 --> 00:03:59,008
+Look, all I can say is,
+
+89
+00:03:59,080 --> 00:04:01,048
+don't get fucked, all right?
+
+90
+00:04:01,120 --> 00:04:04,442
+You take money from the wrong dudes,
+and you'll get smoked as bad as I did.
+
+91
+00:04:05,160 --> 00:04:06,446
+Just be careful.
+
+92
+00:04:06,520 --> 00:04:08,170
+Everyone is watching you now.
+
+93
+00:04:08,240 --> 00:04:10,846
+Yeah. Totally. I know. Thanks, Javeed.
+
+94
+00:04:10,920 --> 00:04:15,289
+No. I mean, they're watching you right now.
+
+95
+00:04:16,960 --> 00:04:17,961
+<font color="#DF01D7">(ORGAN PLAYS CHARGE)</font>
+
+96
+00:04:18,040 --> 00:04:19,849
+- Yeah.
+-<font color="#DF01D7">  (APPLAUSE)</font>
+
+97
+00:04:19,920 --> 00:04:21,649
+Damn it. Where is that camera?
+
+98
+00:04:22,120 --> 00:04:23,485
+<font color="#DF01D7">(THEME MUSIC PLAYING)</font>
+
+99
+00:04:33,160 --> 00:04:34,810
+<font color="#404040">DINESH:</font> I can't believe
+how many gifts we're getting.
+
+100
+00:04:34,920 --> 00:04:38,242
+<font color="#404040">GILFOYLE:</font> Gifts I'm getting.
+That Oculus rig is addressed to the CTO.
+
+101
+00:04:38,320 --> 00:04:39,970
+<font color="#404040">DINESH:</font> No, I'm the CTO.
+
+102
+00:04:40,040 --> 00:04:43,089
+As your superior,
+I order you to give me that Oculus.
+
+103
+00:04:43,720 --> 00:04:45,927
+You can't make me do stuff.
+You're not the boss of me.
+
+104
+00:04:46,000 --> 00:04:47,764
+- Actually, I am the boss of you.
+- Okay.
+
+105
+00:04:47,840 --> 00:04:49,046
+GILFOYLEI Richard, tell him I'm CTO.
+
+106
+00:04:49,120 --> 00:04:50,963
+<font color="#404040">DINESH:</font> No, you already told that fat guy
+that I'm the CTO.
+
+107
+00:04:51,040 --> 00:04:52,724
+Stop, stop, stop. Please stop.
+
+108
+00:04:53,720 --> 00:04:55,609
+I have a ton of work to do.
+You have work to do.
+
+109
+00:04:55,680 --> 00:04:57,728
+Maybe let's do the work instead of that.
+
+110
+00:04:59,240 --> 00:05:01,561
+Jared, we were supposed
+to get a term sheet today.
+
+111
+00:05:01,640 --> 00:05:03,165
+- Have we heard from Peter Gregory?
+-<font color="#DF01D7">  (KEYBOARD CLICKING)</font>
+
+112
+00:05:04,040 --> 00:05:05,929
+Peter Gregory is dead.
+
+113
+00:05:06,720 --> 00:05:07,721
+What?
+
+114
+00:05:09,040 --> 00:05:10,690
+<font color="#DF01D7">(KEYBOARD CLICKING)</font>
+
+115
+00:05:15,600 --> 00:05:17,409
+Holy shit.
+
+116
+00:05:25,960 --> 00:05:28,122
+<font color="#404040">MONICA:</font> He was the smartest,
+
+117
+00:05:28,200 --> 00:05:31,010
+shrewdest, <font color="#DF01D7">(SCOFFS)</font>
+
+118
+00:05:31,080 --> 00:05:33,560
+strangest man I've ever known.
+
+119
+00:05:35,560 --> 00:05:37,688
+I can't believe that he's gone.
+
+120
+00:05:38,040 --> 00:05:41,249
+<font color="#DF01D7">(CLEARS THROAT)</font> Can I ask what happened?
+
+121
+00:05:41,360 --> 00:05:43,124
+Yeah. Um...
+
+122
+00:05:43,200 --> 00:05:46,044
+He was in the Serengeti on safari...
+
+123
+00:05:46,120 --> 00:05:48,691
+- Ah.
+-...and he had just gone into his tent
+
+124
+00:05:48,760 --> 00:05:51,730
+when a hippo wandered into the camp.
+
+125
+00:05:52,200 --> 00:05:53,565
+Oh, wow.
+
+126
+00:05:54,600 --> 00:05:55,931
+He was attacked by a hippo?
+
+127
+00:05:56,040 --> 00:05:57,201
+No. No.
+
+128
+00:05:57,280 --> 00:06:00,921
+I guess the hippo started to charge
+
+129
+00:06:01,000 --> 00:06:03,446
+when the guide grabbed his rifle
+and shot at it,
+
+130
+00:06:05,120 --> 00:06:08,203
+but his aim was off, and...
+
+131
+00:06:10,000 --> 00:06:12,765
+And he shot Peter Gregory by accident?
+
+132
+00:06:12,840 --> 00:06:15,286
+- Yeah.
+- No, he missed...
+
+133
+00:06:16,080 --> 00:06:19,448
+But I guess the sound of the gun
+startled Peter,
+
+134
+00:06:19,520 --> 00:06:23,002
+who ran out of his tent and...
+
+135
+00:06:25,160 --> 00:06:26,889
+Ran right into the hippo?
+
+136
+00:06:26,960 --> 00:06:29,884
+No, the hippo was also startled by the noise
+
+137
+00:06:30,480 --> 00:06:34,849
+and had run off prior to Peter exiting his tent.
+
+138
+00:06:38,880 --> 00:06:40,644
+So, what happened to Peter?
+
+139
+00:06:41,280 --> 00:06:45,205
+He hadn't run in a long time,
+
+140
+00:06:46,000 --> 00:06:50,005
+maybe ever, and you know, he just...
+
+141
+00:06:53,800 --> 00:06:54,847
+That was it.
+
+142
+00:07:00,160 --> 00:07:01,207
+- Uh.
+- Uh.
+
+143
+00:07:01,280 --> 00:07:04,841
+- That is so very strange.
+-<font color="#DF01D7"> (CLEARS THROAT)</font>
+
+144
+00:07:04,920 --> 00:07:07,685
+- Very sad and tragic. Wow.
+- Very sad and strange.
+
+145
+00:07:09,360 --> 00:07:10,885
+See you.
+
+146
+00:07:12,440 --> 00:07:13,487
+Man, that is so weird.
+
+147
+00:07:13,560 --> 00:07:16,848
+I mean, one minute Peter Gregory is here,
+the next, he's just gone.
+
+148
+00:07:16,920 --> 00:07:18,126
+<font color="#404040">ERLICH:</font> Jared, it's Erlich.
+
+149
+00:07:18,200 --> 00:07:21,283
+I need you to set up
+all the other VC meetings, ASAP.
+
+150
+00:07:21,360 --> 00:07:23,044
+Line 'em up nuts to butts.
+
+151
+00:07:23,120 --> 00:07:25,771
+Erlich, what are you doing?
+Monica just said they're still gonna fund us.
+
+152
+00:07:25,880 --> 00:07:26,961
+We should just sit tight.
+
+153
+00:07:27,040 --> 00:07:30,965
+Look, I loved Peter Gregory
+maybe even more than he loved me,
+
+154
+00:07:31,040 --> 00:07:32,280
+but there's something
+you need to know here,
+
+155
+00:07:32,360 --> 00:07:35,364
+something that Monica
+isn't exactly volunteering up,
+
+156
+00:07:35,440 --> 00:07:38,091
+and that's that all of these one-man firms
+have a key-man clause.
+
+157
+00:07:38,160 --> 00:07:39,650
+- Do you know what that means?
+- No.
+
+158
+00:07:39,720 --> 00:07:42,200
+It means that now that Peter Gregory is gone,
+
+159
+00:07:42,280 --> 00:07:43,691
+all the Raviga investors
+
+160
+00:07:43,760 --> 00:07:46,604
+have the contractual right
+to cash out and walk away,
+
+161
+00:07:46,680 --> 00:07:50,002
+which means that by the end of the day,
+there may not be a Raviga.
+
+162
+00:07:50,080 --> 00:07:52,651
+- Seriously?
+- Yes, so we have to prepare for that.
+
+163
+00:07:52,720 --> 00:07:55,769
+Now, I know that it makes me
+sound like a terrible person,
+
+164
+00:07:55,840 --> 00:07:57,001
+but we have a company to run.
+
+165
+00:07:57,120 --> 00:07:59,327
+And do you know who
+the first person to agree with me would be?
+
+166
+00:07:59,400 --> 00:08:00,731
+Peter Gregory.
+
+167
+00:08:02,480 --> 00:08:04,403
+<font color="#DF01D7">(DRAMATIC MUSIC PLAYING)</font>
+
+168
+00:08:10,880 --> 00:08:13,360
+And that is the very first spot
+in our new campaign
+
+169
+00:08:13,440 --> 00:08:15,408
+heralding the upcoming release of Nucleus
+
+170
+00:08:15,480 --> 00:08:17,164
+this January at CES.
+
+171
+00:08:17,760 --> 00:08:20,161
+- Any questions?
+- I have a question.
+
+172
+00:08:20,240 --> 00:08:21,241
+That was horrible.
+
+173
+00:08:22,040 --> 00:08:25,522
+I just got humiliated
+by a fucking teenager at TechCrunch Disrupt,
+
+174
+00:08:25,600 --> 00:08:28,365
+and you give me this tampon ad?
+
+175
+00:08:28,440 --> 00:08:30,442
+A girl with diabetes on a swing?
+
+176
+00:08:30,520 --> 00:08:32,443
+- I think she has cancer.
+- <font color="#404040">MAN:</font> Yeah.
+
+177
+00:08:32,520 --> 00:08:34,204
+At least that's how I read it.
+
+178
+00:08:34,280 --> 00:08:35,805
+I don't care what kind of disease she had!
+
+179
+00:08:35,880 --> 00:08:40,044
+All I care about is that
+Nucleus is better than Pied Piper.
+
+180
+00:08:40,120 --> 00:08:41,770
+Hendricks just left us all in the dust.
+
+181
+00:08:42,440 --> 00:08:44,124
+If we get this wrong,
+
+182
+00:08:44,200 --> 00:08:46,601
+we could blow
+the business opportunity of a lifetime!
+
+183
+00:08:46,680 --> 00:08:49,206
+Data creation is exploding.
+
+184
+00:08:49,280 --> 00:08:54,161
+With all the selfies and useless files
+people refuse to delete on the cloud,
+
+185
+00:08:54,640 --> 00:08:59,885
+92% of the world's data
+was created in the last two years alone.
+
+186
+00:08:59,960 --> 00:09:01,041
+At the current rate,
+
+187
+00:09:01,120 --> 00:09:05,170
+the world's data storage capacity
+will be overtaken by next spring.
+
+188
+00:09:05,240 --> 00:09:07,641
+It will be nothing short of a catastrophe.
+
+189
+00:09:07,720 --> 00:09:11,770
+Data shortages, data rationing,
+data black markets.
+
+190
+00:09:11,840 --> 00:09:15,401
+Someone's compression
+will save the world from data-geddon,
+
+191
+00:09:15,480 --> 00:09:19,121
+and it sure as hell better be Nucleus
+and not goddamn Pied Piper!
+
+192
+00:09:20,800 --> 00:09:22,290
+I don't know about you people,
+
+193
+00:09:22,360 --> 00:09:23,646
+but I don't wanna live in a world
+
+194
+00:09:23,720 --> 00:09:27,805
+where someone else makes the world
+a better place better than we do.
+
+195
+00:09:33,480 --> 00:09:37,405
+"Data-geddon." Is he married to that, or...
+
+196
+00:09:37,480 --> 00:09:39,687
+There's just been a lot of "geddons" lately.
+
+197
+00:09:39,760 --> 00:09:42,411
+That's true.
+"Snow-mageddon," "car-mageddon."
+
+198
+00:09:42,480 --> 00:09:44,528
+There's that movie Armageddon.
+
+199
+00:09:49,640 --> 00:09:51,688
+Laurie, you wanted to see me?
+
+200
+00:09:51,760 --> 00:09:53,808
+Monica, come in, come in.
+I'm sure you've heard by now
+
+201
+00:09:53,880 --> 00:09:55,723
+that I've been named
+our new managing partner.
+
+202
+00:09:55,800 --> 00:09:57,529
+<font color="#404040">MONICA:</font> Yes. Congratulations.
+
+203
+00:09:57,600 --> 00:10:00,763
+Did the limited partners tell you
+how they made their decision?
+
+204
+00:10:01,200 --> 00:10:03,168
+Oh. They looked at the portfolio performances
+
+205
+00:10:03,240 --> 00:10:05,481
+of each of the senior partners
+over the last several funds,
+
+206
+00:10:05,560 --> 00:10:08,086
+and my numbers were,
+objectively, the most favorable.
+
+207
+00:10:08,160 --> 00:10:09,764
+Therefore, I was selected.
+
+208
+00:10:09,840 --> 00:10:14,482
+Yeah, it's just managing partner
+is all about meeting with people
+
+209
+00:10:14,560 --> 00:10:16,369
+and interacting with people.
+
+210
+00:10:16,440 --> 00:10:18,329
+You can sit down if you want to.
+Do you want to?
+
+211
+00:10:18,400 --> 00:10:20,050
+- Oh...
+- Or should we stand?
+
+212
+00:10:20,280 --> 00:10:21,964
+Uh... I... Whatever...
+
+213
+00:10:22,040 --> 00:10:23,041
+- I'm standing...
+- Okay.
+
+214
+00:10:23,120 --> 00:10:24,281
+But you don't have to.
+
+215
+00:10:24,880 --> 00:10:27,770
+- Okay.
+- Would it make you feel awkward to sit?
+
+216
+00:10:27,840 --> 00:10:29,251
+I'm okay to stand.
+
+217
+00:10:30,640 --> 00:10:33,086
+- Monica...
+- Of course.
+
+218
+00:10:33,440 --> 00:10:35,090
+Peter Gregory is dead.
+
+219
+00:10:36,040 --> 00:10:37,804
+Yes, I know.
+
+220
+00:10:37,880 --> 00:10:42,169
+On a personal note, his death is very sad.
+
+221
+00:10:42,240 --> 00:10:45,084
+But on a professional level, it's untenable.
+
+222
+00:10:45,160 --> 00:10:46,321
+I've been reviewing his files.
+
+223
+00:10:46,400 --> 00:10:48,880
+He was pursuing a number
+of extremely dubious positions.
+
+224
+00:10:49,000 --> 00:10:53,642
+Are you aware that we own
+a $30 million ostrich farm in Morocco,
+
+225
+00:10:53,720 --> 00:10:56,644
+or that we are the majority stakeholders
+
+226
+00:10:56,920 --> 00:10:59,400
+in three companies that
+specialize in invisibility?
+
+227
+00:10:59,560 --> 00:11:04,282
+This box is filled with napkins covered
+with notes detailing Peter's conviction
+
+228
+00:11:04,400 --> 00:11:08,291
+that genetically-modified cranberry fungus
+would become the next cotton.
+
+229
+00:11:08,400 --> 00:11:10,448
+- That... That one I remember.
+- Yes.
+
+230
+00:11:11,560 --> 00:11:12,971
+- Monica.
+- Mmm-hmm.
+
+231
+00:11:13,920 --> 00:11:15,570
+Peter Gregory is dead.
+
+232
+00:11:16,880 --> 00:11:18,530
+- Yes.
+- We need to seem competitive,
+
+233
+00:11:18,600 --> 00:11:20,011
+now more than ever,
+
+234
+00:11:20,080 --> 00:11:23,289
+to our investors as well
+as to the industry at large.
+
+235
+00:11:23,360 --> 00:11:24,361
+Well, I mean,
+
+236
+00:11:24,440 --> 00:11:28,411
+Pied Piper is probably the hottest
+early investment in town right now,
+
+237
+00:11:28,480 --> 00:11:29,720
+and we have them.
+
+238
+00:11:29,800 --> 00:11:31,450
+Do we?
+
+239
+00:11:32,200 --> 00:11:35,568
+But why then are they speaking to other firms
+about investing in their Series A?
+
+240
+00:11:35,640 --> 00:11:38,450
+No, no.
+I just told them to sit tight for a day or two
+
+241
+00:11:38,520 --> 00:11:39,760
+until we sorted things out.
+
+242
+00:11:39,840 --> 00:11:44,050
+It seems that that advanced
+a sense of uncertainty,
+
+243
+00:11:44,120 --> 00:11:46,327
+and now we're at risk of losing their round.
+
+244
+00:11:46,400 --> 00:11:48,846
+This could jeopardize the firm
+
+245
+00:11:48,920 --> 00:11:51,890
+and, by extension, your career here, Monica,
+
+246
+00:11:51,960 --> 00:11:53,450
+as an associate partner.
+
+247
+00:11:53,520 --> 00:11:56,205
+Well, I guess I was just kind of in shock.
+
+248
+00:11:56,280 --> 00:11:57,361
+Monica...
+
+249
+00:11:57,440 --> 00:11:58,441
+<font color="#DF01D7">(SIGHS)</font>
+
+250
+00:12:00,520 --> 00:12:02,329
+Peter Gregory is dead.
+
+251
+00:12:04,800 --> 00:12:07,201
+Yes. I know.
+
+252
+00:12:08,960 --> 00:12:10,200
+ERLICHI This is great.
+
+253
+00:12:10,280 --> 00:12:12,726
+I mean, do you know how many times
+I've gone into these rooms
+
+254
+00:12:12,800 --> 00:12:15,770
+with nothing but a half of an ass in my hand?
+
+255
+00:12:15,880 --> 00:12:20,647
+We're walking in there with 3-foot cocks
+covered in Elvis dust.
+
+256
+00:12:20,760 --> 00:12:21,761
+<font color="#DF01D7">(PHONE RINGING)</font>
+
+257
+00:12:21,840 --> 00:12:24,491
+- Really?
+- Richard Hendricks? They're ready for you.
+
+258
+00:12:25,320 --> 00:12:27,971
+- This is a fucking layup, guys.
+- <font color="#404040">RICHARD:</font> Okay, let's do this.
+
+259
+00:12:29,640 --> 00:12:31,130
+<font color="#404040">ERLICH:</font> Not you, Jared.
+
+260
+00:12:31,840 --> 00:12:33,763
+Now, with proper funding,
+
+261
+00:12:33,840 --> 00:12:38,607
+we should be able to put together
+a functioning beta in time for CES
+
+262
+00:12:38,680 --> 00:12:43,049
+and compress Nucleus out of the marketplace.
+
+263
+00:12:43,120 --> 00:12:44,451
+<font color="#DF01D7">(BOTH CHUCKLE)</font>
+
+264
+00:12:46,240 --> 00:12:47,810
+Yeah.
+
+265
+00:12:47,880 --> 00:12:48,927
+I don't know.
+
+266
+00:12:49,960 --> 00:12:51,450
+You don't... What?
+
+267
+00:12:52,080 --> 00:12:54,048
+It just doesn't seem worked out to me.
+
+268
+00:12:54,880 --> 00:12:59,363
+Well, I mean, it was worked out enough
+to win TechCrunch Disrupt.
+
+269
+00:12:59,440 --> 00:13:02,284
+Yes, and congratulations, you won 50 grand,
+
+270
+00:13:02,360 --> 00:13:05,807
+but you're asking us for 200 times that.
+
+271
+00:13:05,880 --> 00:13:10,681
+Richard, look, we all know
+about your amazing compression rate,
+
+272
+00:13:10,760 --> 00:13:12,888
+but let's not be naive here.
+
+273
+00:13:12,960 --> 00:13:16,043
+You can't expect to just
+throw money at an algorithm
+
+274
+00:13:16,120 --> 00:13:19,966
+and beat one of the largest
+tech companies in the world.
+
+275
+00:13:20,040 --> 00:13:21,690
+So why don't you rework this a little
+
+276
+00:13:21,760 --> 00:13:24,491
+and come back in with a little more?
+
+277
+00:13:24,560 --> 00:13:26,210
+Maybe next week?
+
+278
+00:13:28,160 --> 00:13:29,207
+And?
+
+279
+00:13:29,600 --> 00:13:31,682
+That was really weird.
+
+280
+00:13:31,760 --> 00:13:34,730
+I guess we don't have
+as much Elvis dust on us as I thought.
+
+281
+00:13:34,800 --> 00:13:37,485
+You see?
+This is why I wanted to go with Peter Gregory.
+
+282
+00:13:37,560 --> 00:13:38,607
+This is bullshit.
+
+283
+00:13:38,680 --> 00:13:42,321
+I mean, that guy throws this huge party for us
+and then acts like he doesn't even want us?
+
+284
+00:13:42,400 --> 00:13:43,925
+I mean, I fucking hate parties.
+
+285
+00:13:44,000 --> 00:13:45,889
+And then he says, "Come back next week
+when you have more."
+
+286
+00:13:45,960 --> 00:13:48,691
+More? More than 5.2 on Weissman? <font color="#DF01D7">(SCOFFS)</font>
+
+287
+00:13:48,760 --> 00:13:50,444
+No. No.
+
+288
+00:13:50,520 --> 00:13:53,729
+Fuck that guy. Fuck this place.
+Fuck this whole place.
+
+289
+00:13:54,240 --> 00:13:56,322
+- Watch me fuck this place.
+- No, wait! Wait, wait!
+
+290
+00:13:57,960 --> 00:14:01,362
+Hey. You remember when you told me
+to come back when I had more?
+
+291
+00:14:01,440 --> 00:14:03,010
+And then I said I would?
+
+292
+00:14:03,080 --> 00:14:06,687
+Well, I'm not going to. Ever.
+This doesn't count. Okay.
+
+293
+00:14:06,760 --> 00:14:09,366
+I'm covered in dust. I'm a 3-foot dick,
+
+294
+00:14:09,440 --> 00:14:11,966
+and I've got half an ass
+to go to some other company
+
+295
+00:14:12,080 --> 00:14:15,050
+who's never gonna put me on a Jumbotron
+or throw balls at me.
+
+296
+00:14:18,520 --> 00:14:19,760
+Bye.
+
+297
+00:14:27,200 --> 00:14:29,885
+Are you feeling unwell?
+Do you need protein?
+
+298
+00:14:29,960 --> 00:14:31,325
+I don't know what happened.
+
+299
+00:14:31,400 --> 00:14:34,688
+Between Peter dying
+and Raviga maybe being gone, I just...
+
+300
+00:14:34,760 --> 00:14:36,762
+I just wanna get funded and build Pied Piper.
+
+301
+00:14:36,840 --> 00:14:38,205
+I hate this part.
+
+302
+00:14:38,960 --> 00:14:40,883
+- <font color="#404040">ERLICH:</font> Well, if one thing is for sure...
+-<font color="#DF01D7"> (CELL PHONE CHIMES)</font>
+
+303
+00:14:40,960 --> 00:14:44,203
+...if we're gonna get any traction,
+I need to step up my game.
+
+304
+00:14:44,320 --> 00:14:46,004
+It's an email from Ron LaFlamme.
+
+305
+00:14:47,320 --> 00:14:49,721
+"Just got a term sheet from Stern Taylor.
+
+306
+00:14:49,800 --> 00:14:53,964
+"They offered $5 million
+at $25 million post-money valuation.
+
+307
+00:14:54,080 --> 00:14:55,320
+"More than I thought."
+
+308
+00:14:55,400 --> 00:14:56,890
+Shit. They were negging us.
+
+309
+00:14:57,000 --> 00:14:58,968
+- Negging?
+"Neggifig is going negative.
+
+310
+00:14:59,040 --> 00:15:02,442
+It's a manipulative sex strategy
+used by lonely chauvinists.
+
+311
+00:15:02,520 --> 00:15:03,726
+<font color="#404040">ERLICH:</font> See, everybody wants us.
+
+312
+00:15:03,840 --> 00:15:08,084
+But, by shitting all over us,
+they try and bring our price down.
+
+313
+00:15:08,160 --> 00:15:12,085
+But you shitting all over them
+counteracted their shitting all over us.
+
+314
+00:15:12,160 --> 00:15:15,403
+You negged a neg.
+Richard, this could be good.
+
+315
+00:15:15,480 --> 00:15:17,847
+- Where do we have next?
+- Ross Loma Capital.
+
+316
+00:15:17,920 --> 00:15:19,410
+Should I keep doing it?
+Should I keep negging?
+
+317
+00:15:19,520 --> 00:15:20,965
+No, no, I'll handle this.
+
+318
+00:15:21,040 --> 00:15:23,691
+If they want to negotiate
+using hostility and rudeness,
+
+319
+00:15:24,960 --> 00:15:26,689
+well, they picked the wrong guy.
+
+320
+00:15:27,520 --> 00:15:30,330
+Well, you see, our main concern
+
+321
+00:15:30,400 --> 00:15:33,688
+is how you're going to achieve
+escape velocity on your growth rate.
+
+322
+00:15:33,760 --> 00:15:35,364
+-<font color="#DF01D7"> (CHUCKLING)</font>
+-if critical mass...
+
+323
+00:15:36,840 --> 00:15:39,002
+I'm sorry. What's funny?
+
+324
+00:15:39,080 --> 00:15:41,242
+It's just that painting behind you.
+
+325
+00:15:41,320 --> 00:15:43,049
+It's awful.
+
+326
+00:15:43,120 --> 00:15:46,761
+It looks like harlequin Kama-sutra
+done poorly.
+
+327
+00:15:47,400 --> 00:15:49,801
+So, I agree,
+
+328
+00:15:49,880 --> 00:15:51,723
+bad culture fit.
+
+329
+00:15:51,800 --> 00:15:53,643
+I think we all just move on.
+
+330
+00:15:53,720 --> 00:15:55,131
+Look, I didn't say anything about a culture fit.
+
+331
+00:15:55,200 --> 00:15:56,725
+No, I did.
+
+332
+00:15:57,320 --> 00:15:59,971
+Okay. Well,
+
+333
+00:16:00,040 --> 00:16:01,326
+thank you for meeting with us.
+
+334
+00:16:01,400 --> 00:16:03,289
+We have a bunch of these things to go to,
+
+335
+00:16:03,360 --> 00:16:06,091
+hopefully with more tasteful artwork.
+
+336
+00:16:06,160 --> 00:16:09,642
+And your logo looks like a sideways vagina.
+
+337
+00:16:09,720 --> 00:16:12,291
+I find that to be racist, don't you?
+
+338
+00:16:15,800 --> 00:16:16,961
+Okay, here's my concern...
+
+339
+00:16:17,080 --> 00:16:20,801
+Here's my concern.
+Who the hell picked out that shirt for you?
+
+340
+00:16:20,880 --> 00:16:22,041
+What?
+
+341
+00:16:23,080 --> 00:16:25,321
+Oh, I see. With the pants.
+
+342
+00:16:25,400 --> 00:16:28,085
+So I guess it's a whole thing.
+
+343
+00:16:28,160 --> 00:16:29,730
+My wife picked these out.
+
+344
+00:16:29,840 --> 00:16:31,171
+Then you married poorly.
+
+345
+00:16:31,440 --> 00:16:34,330
+Do you care about Pied Piper?
+
+346
+00:16:34,400 --> 00:16:37,290
+Do I care about Pied Piper? Well, of course.
+
+347
+00:16:37,360 --> 00:16:39,681
+Cause if you do, I'm not seeing it.
+
+348
+00:16:39,880 --> 00:16:44,647
+In fact, what I think I'm seeing
+is the human equivalent of a flaccid penis.
+
+349
+00:16:45,760 --> 00:16:48,411
+"Flak-sid." It's actually pronounced "flak-sid."
+
+350
+00:16:48,480 --> 00:16:49,891
+Not a lot of people know that.
+
+351
+00:16:49,960 --> 00:16:51,769
+Well, we are definitely interested,
+
+352
+00:16:51,840 --> 00:16:54,366
+but I think we need to...
+
+353
+00:16:54,440 --> 00:16:56,568
+I'm sorry. ls something wrong?
+
+354
+00:16:56,800 --> 00:16:59,531
+No, this is all wrong.
+
+355
+00:16:59,600 --> 00:17:01,887
+I am sensing a general lack of vision.
+
+356
+00:17:03,120 --> 00:17:04,690
+Your muffins smell like shit.
+
+357
+00:17:04,760 --> 00:17:06,444
+So do your ideas.
+
+358
+00:17:07,160 --> 00:17:10,050
+One of you is the least attractive person
+I've ever seen,
+
+359
+00:17:10,120 --> 00:17:12,009
+and I'm not gonna say who.
+
+360
+00:17:13,480 --> 00:17:15,881
+Should we leave or should you?
+
+361
+00:17:15,960 --> 00:17:19,328
+We just got offered eight at 40.
+
+362
+00:17:19,400 --> 00:17:20,970
+We're five for five, gentlemen.
+
+363
+00:17:21,040 --> 00:17:23,646
+And Galveston Capital Fund
+and Yountville Ventures called.
+
+364
+00:17:23,720 --> 00:17:25,882
+They want to move their meetings up
+before everyone else.
+
+365
+00:17:25,960 --> 00:17:28,725
+Hey, let me try.
+I want to be rude at this next one.
+
+366
+00:17:28,800 --> 00:17:30,040
+Go for it.
+
+367
+00:17:30,120 --> 00:17:31,406
+So, with some proper funding,
+
+368
+00:17:31,480 --> 00:17:34,165
+we should be able to get
+a functioning beta in time for CES.
+
+369
+00:17:35,240 --> 00:17:37,527
+And if you don't fund us,
+
+370
+00:17:37,600 --> 00:17:39,728
+you're a fucking slut.
+
+371
+00:17:42,920 --> 00:17:44,160
+<font color="#DF01D7">(SNIFFING)</font> Oh...
+
+372
+00:17:44,240 --> 00:17:46,766
+What's that smell? Is that a fart?
+
+373
+00:17:47,760 --> 00:17:49,000
+Are you a farter?
+
+374
+00:17:50,000 --> 00:17:54,050
+Now, can I have a pastry?
+Or are you guys gonna eat 'em all?
+
+375
+00:17:55,400 --> 00:17:57,323
+'Cause you're gonna get fat.
+
+376
+00:17:59,840 --> 00:18:03,970
+It's not your fault, Richard.
+This is just something that can't be taught,
+
+377
+00:18:04,040 --> 00:18:07,567
+so leave the next one to me.
+I can feel a big one coming on.
+
+378
+00:18:07,640 --> 00:18:08,641
+What are you gonna do?
+
+379
+00:18:09,200 --> 00:18:11,362
+I'm not sure yet, but give me room.
+
+380
+00:18:11,440 --> 00:18:13,966
+There's something inside of me
+that has to come out,
+
+381
+00:18:14,040 --> 00:18:15,565
+and who am I to stop it?
+
+382
+00:18:16,600 --> 00:18:17,601
+<font color="#DF01D7">(COMPUTER BEEPS)</font>
+
+383
+00:18:18,000 --> 00:18:19,161
+His balls?
+
+384
+00:18:19,640 --> 00:18:21,404
+He put his balls on the table?
+
+385
+00:18:21,480 --> 00:18:23,608
+- Right on the table.
+- On purpose?
+
+386
+00:18:23,680 --> 00:18:26,206
+I don't see how it could be by accident.
+
+387
+00:18:26,280 --> 00:18:29,443
+Richard, I just got an email
+from the guys at Midland-Oak.
+
+388
+00:18:29,520 --> 00:18:31,887
+Apparently, there is a line, and I crossed it...
+
+389
+00:18:32,880 --> 00:18:36,805
+The line between $12 and $15 million!
+
+390
+00:18:37,040 --> 00:18:38,246
+Ba-bam!
+
+391
+00:18:38,320 --> 00:18:39,970
+Midland-Oak's offerjust came in.
+
+392
+00:18:40,040 --> 00:18:44,443
+Gentlemen, we are valued at 75 million,
+fully diluted.
+
+393
+00:18:44,560 --> 00:18:45,721
+Are you shitting me?
+
+394
+00:18:45,800 --> 00:18:47,404
+Take a look at these term sheets.
+
+395
+00:18:47,520 --> 00:18:49,602
+There is a linear correlation
+
+396
+00:18:49,680 --> 00:18:51,330
+between how intolerable I was...
+
+397
+00:18:51,440 --> 00:18:53,044
+-<font color="#DF01D7"> (KNOCKING)</font>
+-...and the height of valuation.
+
+398
+00:18:53,720 --> 00:18:56,041
+Hey, YOU guys. Um...
+
+399
+00:18:56,120 --> 00:18:59,124
+This is Laurie Bream,
+the new managing partner at Raviga.
+
+400
+00:18:59,240 --> 00:19:02,483
+Oh, uh... Hi. I'm Richard Hendricks.
+
+401
+00:19:02,560 --> 00:19:05,404
+Yes. I recognize you from your photograph.
+
+402
+00:19:05,480 --> 00:19:08,529
+- It's very nice to meet you in person.
+- Yeah.
+
+403
+00:19:08,600 --> 00:19:09,681
+Okay, so we did that.
+
+404
+00:19:09,760 --> 00:19:12,047
+Gentlemen, I am aware
+of the degree of interest
+
+405
+00:19:12,120 --> 00:19:13,246
+you are receiving from other firms.
+
+406
+00:19:13,320 --> 00:19:17,450
+I am aware that participation in your Series A
+will require a very competitive offer,
+
+407
+00:19:17,520 --> 00:19:20,444
+but for numerous reasons,
+I believe it to be the prudent decision.
+
+408
+00:19:21,000 --> 00:19:25,130
+Now I am presenting you with this.
+
+409
+00:19:25,760 --> 00:19:29,810
+$20 million at $100 million valuation?
+
+410
+00:19:29,880 --> 00:19:31,689
+I don't... Uh...
+
+411
+00:19:31,760 --> 00:19:34,366
+This is way more than any other offer.
+
+412
+00:19:34,440 --> 00:19:35,521
+Correct.
+
+413
+00:19:36,760 --> 00:19:38,000
+That is very much intentional.
+
+414
+00:19:38,400 --> 00:19:41,210
+So, I believe that satisfies your requirements?
+
+415
+00:19:41,280 --> 00:19:43,681
+Monica will arrange a time
+to formalize the details.
+
+416
+00:19:43,760 --> 00:19:45,330
+Thank you. Have a good day.
+
+417
+00:19:46,160 --> 00:19:47,400
+Uh, thank you.
+
+418
+00:19:48,920 --> 00:19:49,921
+Yes.
+
+419
+00:19:53,000 --> 00:19:55,765
+Congratulations, guys. I am so glad...
+
+420
+00:19:55,880 --> 00:19:56,881
+<font color="#DF01D7">(ENGINE STARTS)</font>
+
+421
+00:19:56,960 --> 00:19:59,645
+Oh, shit! She's my ride home.
+I'll call you, Richard.
+
+422
+00:19:59,760 --> 00:20:01,205
+Uh, yeah, okay.
+
+423
+00:20:01,800 --> 00:20:04,326
+- Thanks for stopping...
+- <font color="#404040">MONICA:</font> Wait! Laurie, hold on!
+
+424
+00:20:04,880 --> 00:20:06,041
+<font color="#DF01D7">(LAUGHS)</font>
+
+425
+00:20:06,120 --> 00:20:08,122
+Guys, I think we're funded.
+
+426
+00:20:08,200 --> 00:20:10,567
+- Yes! Richie!
+- Yeah!
+
+427
+00:20:12,480 --> 00:20:13,481
+<font color="#DF01D7">(SIGHS)</font>
+
+428
+00:20:14,680 --> 00:20:17,650
+<font color="#404040">ERLICH:</font> So, I push my dick to the side,
+unbutton the bottom two buttons and...
+
+429
+00:20:17,720 --> 00:20:18,721
+Bam!
+
+430
+00:20:20,320 --> 00:20:21,446
+Ah!
+
+431
+00:20:21,520 --> 00:20:23,249
+- What are you doing?
+- Shit. Sorry, sorry. Sorry.
+
+432
+00:20:24,680 --> 00:20:26,842
+<font color="#DF01D7">(STAMMERS)</font>
+Meet me on the side of the house.
+
+433
+00:20:26,920 --> 00:20:28,888
+-L... Okay.
+- Okay. Okay. Go.
+
+434
+00:20:30,320 --> 00:20:32,243
+- Hey.
+- Hey, what's up?
+
+435
+00:20:32,320 --> 00:20:35,722
+If anyone finds out that I came back here,
+I will get fired, okay?
+
+436
+00:20:35,800 --> 00:20:37,484
+Okay.
+
+437
+00:20:37,560 --> 00:20:40,404
+- Don't take this deal.
+- What?
+
+438
+00:20:40,480 --> 00:20:43,051
+You are worth half that at best.
+
+439
+00:20:43,520 --> 00:20:45,568
+Oh, wow. Thanks for the compliment.
+
+440
+00:20:45,680 --> 00:20:48,126
+No. The credit to you guys.
+You negotiated your asses off,
+
+441
+00:20:48,200 --> 00:20:50,567
+but this is a classic runaway valuation.
+
+442
+00:20:51,400 --> 00:20:53,050
+What's wrong with that?
+
+443
+00:20:53,120 --> 00:20:58,206
+Pied Piper will be tied to this crazy valuation
+that you will never be able to live up to.
+
+444
+00:20:58,840 --> 00:21:02,128
+If you don't keep increasing
+in value in the next round,
+
+445
+00:21:02,200 --> 00:21:04,521
+if you have a down round, you are fucked.
+
+446
+00:21:04,600 --> 00:21:07,604
+It is the kiss of death for a young CEO.
+
+447
+00:21:07,680 --> 00:21:11,366
+You want to start with a realistic valuation
+and grow at a reasonable pace.
+
+448
+00:21:11,440 --> 00:21:15,968
+Okay, well, if it's such a shitty deal,
+then why did your boss offer it to us?
+
+449
+00:21:16,040 --> 00:21:18,088
+Because she's competitive as hell.
+
+450
+00:21:18,160 --> 00:21:20,970
+She needs Pied Piper
+to keep Raviga afloat, Richard.
+
+451
+00:21:21,040 --> 00:21:22,690
+- Okay.
+- Look, I respect Laurie,
+
+452
+00:21:23,120 --> 00:21:25,805
+but this is the exact type of thing
+Peter never did.
+
+453
+00:21:27,080 --> 00:21:29,128
+Richard, come on. I own shares in Pied Piper.
+
+454
+00:21:29,200 --> 00:21:31,282
+If this high evaluation
+was good in the long-term,
+
+455
+00:21:31,360 --> 00:21:33,249
+would I be standing here, risking my job?
+
+456
+00:21:34,480 --> 00:21:35,561
+Don't take our offer.
+
+457
+00:21:35,640 --> 00:21:38,007
+Maybe go with the lowest offer you got.
+
+458
+00:21:38,080 --> 00:21:39,809
+Even that might be too high.
+
+459
+00:21:39,880 --> 00:21:42,804
+<font color="#DF01D7">(SCOFFS)</font> Again,
+thank you for the compliment.
+
+460
+00:21:43,600 --> 00:21:47,924
+Also, I didn't see anything in there.
+
+461
+00:21:48,000 --> 00:21:50,002
+No. Yeah, thank you.
+
+462
+00:21:50,120 --> 00:21:52,407
+I was gonna say if you had,
+you'd have to show me yours, too.
+
+463
+00:21:52,480 --> 00:21:53,527
+<font color="#DF01D7">(CHUCKLES)</font>
+
+464
+00:21:55,160 --> 00:21:56,764
+- Um...
+-<font color="#DF01D7"> (CLEARS THROAT)</font>
+
+465
+00:21:56,840 --> 00:21:59,923
+- Okay.
+- Okay. Thanks for the...
+
+466
+00:22:00,000 --> 00:22:01,001
+Okay.
+
+467
+00:22:15,960 --> 00:22:17,371
+Yeah, sorry about that party.
+
+468
+00:22:18,240 --> 00:22:19,969
+I was in kind of a bad way that night.
+
+469
+00:22:20,040 --> 00:22:23,442
+And truth is, I'm actually doing okay.
+
+470
+00:22:23,880 --> 00:22:26,167
+- Good. That's great.
+- Yeah.
+
+471
+00:22:26,280 --> 00:22:29,170
+I mean, I could run the scenarios
+about what happened all I want,
+
+472
+00:22:29,600 --> 00:22:33,491
+<font color="#DF01D7">(SIGHING)</font> but I finallyjust realized
+there's just nothing I can do, you know?
+
+473
+00:22:33,560 --> 00:22:34,846
+Yeah.
+
+474
+00:22:34,920 --> 00:22:37,685
+So, I'm at peace with it all.
+
+475
+00:22:37,760 --> 00:22:40,081
+I was thinking, actually, um,
+
+476
+00:22:40,160 --> 00:22:42,766
+what if you had asked for less?
+
+477
+00:22:44,240 --> 00:22:45,287
+What?
+
+478
+00:22:45,400 --> 00:22:47,448
+Well, what if you could've gone to someone
+
+479
+00:22:47,520 --> 00:22:50,126
+and asked for less than
+what they offered that first round?
+
+480
+00:22:50,440 --> 00:22:52,602
+Like, you mean, negotiating them down?
+
+481
+00:22:53,240 --> 00:22:55,049
+- Yeah.
+- Can you even do that?
+
+482
+00:22:55,120 --> 00:22:58,090
+- Well, yeah. I mean, why not?
+- Yeah, but...
+
+483
+00:22:59,800 --> 00:23:03,202
+I mean, I guess, technically, I could have.
+
+484
+00:23:03,280 --> 00:23:04,327
+Mmm...
+
+485
+00:23:04,440 --> 00:23:05,646
+Huh.
+
+486
+00:23:05,720 --> 00:23:09,486
+Yeah, I suppose you could argue
+that it might've been easier
+
+487
+00:23:09,560 --> 00:23:13,281
+to hit more realistic benchmarks
+
+488
+00:23:13,640 --> 00:23:14,846
+and reach cash flow break-even.
+
+489
+00:23:14,920 --> 00:23:16,285
+Yeah, that's what I'm saying.
+
+490
+00:23:17,280 --> 00:23:21,763
+And then, <font color="#DF01D7">(SIGHS)</font>
+we wouldn't have faced that down round.
+
+491
+00:23:23,560 --> 00:23:25,005
+And...
+
+492
+00:23:26,640 --> 00:23:28,847
+We wouldn't have
+had to settle for acquisition.
+
+493
+00:23:30,480 --> 00:23:31,766
+All that money
+
+494
+00:23:32,720 --> 00:23:33,767
+fucked me.
+
+495
+00:23:33,840 --> 00:23:35,888
+Wow. I mean, I don't know about...
+
+496
+00:23:35,960 --> 00:23:37,610
+- Shit!
+- Maybe.
+
+497
+00:23:37,680 --> 00:23:41,730
+- Look... Hey...
+- No, no, no. We could've done a legit Series B.
+
+498
+00:23:41,800 --> 00:23:43,450
+Right? I'd still be CEO.
+
+499
+00:23:43,520 --> 00:23:46,000
+I'd have my job,
+
+500
+00:23:46,080 --> 00:23:47,445
+my kick-ass house.
+
+501
+00:23:47,520 --> 00:23:49,648
+I'd probably still have my girlfriend...
+
+502
+00:23:52,040 --> 00:23:54,566
+- Fuck!
+- Okay.
+
+503
+00:23:54,640 --> 00:23:57,689
+Why the fuck didn't anyone tell me
+I could take less?
+
+504
+00:23:57,840 --> 00:23:59,842
+I don't know. I don't know.
+
+505
+00:24:01,000 --> 00:24:02,126
+Ideas come up and then...
+
+506
+00:24:02,200 --> 00:24:03,611
+Fuck!
+
+507
+00:24:03,680 --> 00:24:06,206
+I'll take a cab, so I'll leave you to it.
+
+508
+00:24:06,280 --> 00:24:07,520
+Thanks for meeting me here.
+
+509
+00:24:08,160 --> 00:24:09,161
+Fuck!
+
+510
+00:24:16,520 --> 00:24:17,806
+Richard.
+
+511
+00:24:18,880 --> 00:24:21,724
+Richard, I'm Laurie Bream.
+I was inside your home yesterday.
+
+512
+00:24:21,800 --> 00:24:23,723
+Have you made a decision
+regarding our proposal?
+
+513
+00:24:23,800 --> 00:24:29,045
+Yeah, yeah, we'll go with you guys,
+but we need to renegotiate the terms.
+
+514
+00:24:29,120 --> 00:24:32,169
+I'm afraid that's untenable.
+We're offering as much money as we can.
+
+515
+00:24:32,280 --> 00:24:35,443
+Uh, no, no, we wanna go lower.
+We want less... A lot less, actually.
+
+516
+00:24:36,400 --> 00:24:37,367
+We'll go with Raviga
+
+517
+00:24:37,440 --> 00:24:41,286
+if you guys do $10 million
+at a $50 million valuation,
+
+518
+00:24:41,360 --> 00:24:42,771
+not 20 at 100.
+
+519
+00:24:43,320 --> 00:24:44,845
+I think this is more reasonable,
+
+520
+00:24:44,960 --> 00:24:48,681
+and it's my final offer. Take it or leave it.
+
+521
+00:24:48,760 --> 00:24:50,000
+I was not anticipating this,
+
+522
+00:24:50,080 --> 00:24:52,924
+but I think it will be workable from our end.
+
+523
+00:24:54,760 --> 00:24:57,843
+And one more thing,
+Monica votes for Raviga's board seat.
+
+524
+00:24:59,280 --> 00:25:01,521
+Certainly that seems unimportant.
+
+525
+00:25:02,160 --> 00:25:05,448
+I will telephone your lawyer tomorrow,
+and we can speak about the relevant details.
+
+526
+00:25:05,520 --> 00:25:06,726
+Good.
+
+527
+00:25:08,680 --> 00:25:10,444
+<font color="#DF01D7">(BLUES MUSIC PLAYING)</font>
+
+528
+00:25:15,280 --> 00:25:19,046
+<i>Peter was one of the few
+who genuinely took action</i>
+
+529
+00:25:19,160 --> 00:25:22,209
+<i>to use technology to help humanity thrive.</i>
+
+530
+00:25:22,280 --> 00:25:24,203
+<i>But how exactly can we quantify</i>
+
+531
+00:25:24,280 --> 00:25:26,760
+<i>another human's contributions to mankind?</i>
+
+532
+00:25:28,280 --> 00:25:30,726
+<i>Let's break it down into
+its three component elements.</i>
+
+533
+00:25:31,240 --> 00:25:32,241
+<font color="#DF01D7">(CLICKING)</font>
+
+534
+00:25:36,040 --> 00:25:40,762
+<i>I met Peter when he was thinking about
+investing in my company, Zettasphere,</i>
+
+535
+00:25:40,840 --> 00:25:42,444
+<i>although I think he was hesitant</i>
+
+536
+00:25:42,560 --> 00:25:45,530
+<i>after his disappointing
+initial return from Snapchat.</i>
+
+537
+00:25:45,600 --> 00:25:50,003
+<i>He came on board, anyway,
+and</i> every <i>month</i> we <i>would meet.</i>
+
+538
+00:25:50,240 --> 00:25:51,969
+<i>Peter was always an honest man,</i>
+
+539
+00:25:52,200 --> 00:25:54,726
+<i>and I know that
+if Peter were here with us today,</i>
+
+540
+00:25:54,800 --> 00:25:57,121
+<i>he would say that
+he was not disappointed in Snapchat.</i>
+
+541
+00:25:57,640 --> 00:26:01,201
+<i>And he would forgive you, Lev,
+for your misunderstanding.</i>
+
+542
+00:26:01,280 --> 00:26:03,521
+<i>That's just the kind of guy that Peter was,</i>
+
+543
+00:26:03,600 --> 00:26:06,080
+<i>warm, generous,</i>
+
+544
+00:26:06,160 --> 00:26:09,050
+<i>and not disappointed in Snapchat.</i>
+
+545
+00:26:13,960 --> 00:26:14,961
+<i><font color="#DF01D7">(CLEARS THROAT)</font></i>
+
+546
+00:26:15,760 --> 00:26:19,162
+<i>I'll never forget the first time I met Peter.</i>
+
+547
+00:26:19,240 --> 00:26:22,483
+<i>It was in his mom's garage,
+where we started our first business together</i>
+
+548
+00:26:22,600 --> 00:26:25,604
+<i>manufacturing VGA graphics cards
+for IBM clones.</i>
+
+549
+00:26:26,880 --> 00:26:28,006
+<i>We never looked back.</i>
+
+550
+00:26:28,080 --> 00:26:29,809
+<i>And you know, the last time I saw him,</i>
+
+551
+00:26:29,880 --> 00:26:33,168
+<i>it was at a restaurant,
+not a half-mile away from that same garage.</i>
+
+552
+00:26:33,240 --> 00:26:34,810
+<i>We talked, as old friends do,</i>
+
+553
+00:26:34,880 --> 00:26:37,531
+<i>he asked me about Jackson Hole,</i>
+
+554
+00:26:37,600 --> 00:26:40,683
+<i>I asked him about Pilates.</i>
+
+555
+00:26:41,200 --> 00:26:43,851
+<i>And yet, something was wrong.</i>
+
+556
+00:26:44,840 --> 00:26:48,845
+<i>Underneath it all,
+there was an unmistakable tension.</i>
+
+557
+00:26:49,520 --> 00:26:51,522
+<i>A tension I will forever regret.</i>
+
+558
+00:26:52,040 --> 00:26:54,486
+<i>It's no secret Peter and I had our differences.</i>
+
+559
+00:26:55,280 --> 00:26:57,282
+<i>We let business get between us.</i>
+
+560
+00:26:57,360 --> 00:26:59,089
+<i>NOW?</i>
+
+561
+00:26:59,160 --> 00:27:01,447
+<i>Now I wish I could say I'm sorry for that.</i>
+
+562
+00:27:01,520 --> 00:27:03,727
+<i>Now it's too late. He's gone.</i>
+
+563
+00:27:04,480 --> 00:27:08,087
+<i>And it makes me realize
+the importance of forgiveness,</i>
+
+564
+00:27:08,160 --> 00:27:11,687
+<i>of doing things with love
+and compassion in your heart,</i>
+
+565
+00:27:11,760 --> 00:27:13,888
+<i>and not vengeance and competition.</i>
+
+566
+00:27:15,160 --> 00:27:18,323
+<i>I mean, we owe that to each other, don't we?</i>
+
+567
+00:27:18,400 --> 00:27:19,447
+<i>And to him?</i>
+
+568
+00:27:20,280 --> 00:27:23,489
+<i>After all, this valley is the place
+Peter himself helped build.</i>
+
+569
+00:27:23,920 --> 00:27:26,844
+<i>Where we come together as dreamers,</i>
+
+570
+00:27:26,920 --> 00:27:28,251
+<i>all of us,</i>
+
+571
+00:27:28,320 --> 00:27:31,051
+<i>to truly make the world a better place.</i>
+
+572
+00:27:32,360 --> 00:27:35,330
+<i>This is Florence during the Renaissance.</i>
+
+573
+00:27:35,400 --> 00:27:37,004
+<i>This is Camelot.</i>
+
+574
+00:27:37,520 --> 00:27:41,730
+<i>This is the place Peter himself called
+"the cradle of innovation."</i>
+
+575
+00:27:44,680 --> 00:27:45,681
+<font color="#DF01D7">(SIGHS)</font>
+
+576
+00:27:45,760 --> 00:27:47,410
+<i>I will miss my friend.</i>
+
+577
+00:27:50,200 --> 00:27:51,850
+<i>Bye, Pete.</i>
+
+578
+00:27:55,000 --> 00:27:56,968
+Maybe he is a human, after all.
+
+579
+00:27:57,960 --> 00:27:59,371
+<font color="#DF01D7">(CELL PHONE CHIMES)</font>
+
+580
+00:28:00,760 --> 00:28:02,285
+I'm sorry.
+
+581
+00:28:02,640 --> 00:28:04,165
+It's from Ron LaFlamme.
+
+582
+00:28:05,560 --> 00:28:07,324
+"Gavin Belson is suing you.
+
+583
+00:28:07,400 --> 00:28:09,767
+"Filed claims today that
+you stole Pied Piper from Hooli."
+
+584
+00:28:10,560 --> 00:28:11,800
+Shit.
+
+585
+00:28:19,280 --> 00:28:21,248
+Gavin Belson is suing us.
+

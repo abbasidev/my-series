@@ -1,0 +1,2602 @@
+﻿1
+00:00:14,000 --> 00:00:15,445
+<font color="#DF01D7">(APPLAUSE)</font>
+
+2
+00:00:17,120 --> 00:00:19,327
+Pardon me, is that seat taken?
+
+3
+00:00:19,400 --> 00:00:21,641
+<font color="#DF01D7">(LAUGHS)</font> Gavin.
+
+4
+00:00:21,720 --> 00:00:23,051
+<font color="#404040">MAN:</font> Classic Gavin.
+
+5
+00:00:23,600 --> 00:00:25,443
+<font color="#404040">DINESH:</font> Let's hope this sucks.
+
+6
+00:00:25,520 --> 00:00:28,000
+<font color="#404040">JARED:</font> Oh, good. Monica made it just in time.
+
+7
+00:00:28,080 --> 00:00:31,562
+Carla, looks like you won't be
+the only woman in the house for a change.
+
+8
+00:00:31,640 --> 00:00:32,721
+Christ.
+
+9
+00:00:33,440 --> 00:00:35,408
+One thing worse than being
+the only woman in a company
+
+10
+00:00:35,480 --> 00:00:37,926
+-is being one of only two.
+- Why's that?
+
+11
+00:00:38,000 --> 00:00:40,321
+Everybody puts this super-weird
+pressure on you to be friends.
+
+12
+00:00:40,400 --> 00:00:42,562
+- It's creepy.
+- Hey, did I miss it?
+
+13
+00:00:42,640 --> 00:00:43,926
+- No.
+- Good.
+
+14
+00:00:44,800 --> 00:00:48,043
+Monica, I'd like to introduce you to Carla.
+
+15
+00:00:48,120 --> 00:00:50,566
+Carla, Monica.
+
+16
+00:00:50,640 --> 00:00:52,483
+Monica, Carla.
+
+17
+00:00:53,480 --> 00:00:55,050
+- What's up?
+- Nice to meet you.
+
+18
+00:00:55,120 --> 00:00:57,043
+I knew you two would hit it off.
+
+19
+00:00:57,880 --> 00:00:59,962
+- Hey. Monica?
+-<font color="#DF01D7"> (MONITOR BEEPS)</font>
+
+20
+00:01:00,080 --> 00:01:01,081
+It's starting.
+
+21
+00:01:01,160 --> 00:01:03,128
+<i>ANNOUNCER". Tonight, for the first time ever,</i>
+
+22
+00:01:03,200 --> 00:01:06,488
+<i>streaming live in 4K resolution
+over the Internet,</i>
+
+23
+00:01:06,560 --> 00:01:09,325
+<i>UFC Fight Night, powered by Nucleus!</i>
+
+24
+00:01:09,400 --> 00:01:12,404
+<i>No networks. No more middleman.
+No bullshit.</i>
+
+25
+00:01:12,480 --> 00:01:14,369
+<i>We're bringing the fight straight to the fans.</i>
+
+26
+00:01:14,440 --> 00:01:18,570
+<i>We're cutting the cord forever
+with UFC Fight Pass, powered by Nucleus.</i>
+
+27
+00:01:19,040 --> 00:01:22,761
+<i>Tonight, you'll get Ultimate Fighting
+at the ultimate resolution.</i>
+
+28
+00:01:22,840 --> 00:01:25,241
+<i>Nucleus puts 4K UHD video</i>
+
+29
+00:01:25,320 --> 00:01:27,607
+<i>in a Iossless compression chokehold</i>
+
+30
+00:01:27,680 --> 00:01:29,887
+<i>and forces the competition to tap out.</i>
+
+31
+00:01:30,800 --> 00:01:31,961
+-<font color="#DF01D7"> (GRUNTS)</font>
+-<font color="#DF01D7"> (GLASS SHATTERING)</font>
+
+32
+00:01:35,880 --> 00:01:37,405
+on! <font color="#DF01D7">(LAUGHS)</font>
+
+33
+00:01:37,480 --> 00:01:38,561
+Who's douchebag?
+
+34
+00:01:38,640 --> 00:01:40,404
+He sure likes to break stuff.
+
+35
+00:01:44,200 --> 00:01:46,123
+<font color="#404040">ANNOUNCER:</font> We are <i>live</i> in Las Vegas.
+
+36
+00:01:46,200 --> 00:01:48,248
+The picture looks amazing.
+
+37
+00:01:48,320 --> 00:01:51,290
+<i><font color="#404040">ANNOUNCER:</font> Man, Joe, this is a fight
+we have been looking forward to</i>
+
+38
+00:01:51,360 --> 00:01:53,124
+<i>for a long, long time.</i>
+
+39
+00:01:53,200 --> 00:01:55,282
+Are we getting a contact high off Erlich,
+
+40
+00:01:55,360 --> 00:01:57,044
+or is the edge starting to warble?
+
+41
+00:01:57,120 --> 00:02:00,044
+No, I see it. Are they
+converting down to 24 frames?
+
+42
+00:02:01,760 --> 00:02:03,250
+<font color="#404040">ANNOUNCER:</font> The defense so far. Wow!
+
+43
+00:02:03,600 --> 00:02:05,648
+The jerkiness is not a Nucleus issue, right?
+
+44
+00:02:05,720 --> 00:02:07,688
+I mean, it's not going out
+to the world like that, is it?
+
+45
+00:02:07,760 --> 00:02:08,807
+I think it looks great.
+
+46
+00:02:08,880 --> 00:02:11,406
+You see that frame judder
+as the camera pans?
+
+47
+00:02:11,480 --> 00:02:14,689
+The picture's so blocky.
+It looks like Minecraft.
+
+48
+00:02:14,760 --> 00:02:17,081
+It doesn't make sense.
+It's supposed to be totally lossless.
+
+49
+00:02:17,560 --> 00:02:19,244
+Let me dump their bit stream
+to disk and take a look.
+
+50
+00:02:19,320 --> 00:02:21,163
+She's really smart.
+
+51
+00:02:21,640 --> 00:02:23,165
+But not afraid to be bawdy.
+
+52
+00:02:25,880 --> 00:02:28,360
+<font color="#404040">RICHARD:</font> Oh, my God.
+<font color="#404040">DINESH:</font> They are so fucked.
+
+53
+00:02:28,720 --> 00:02:29,926
+Yeah, this is bad.
+
+54
+00:02:31,160 --> 00:02:32,571
+<i>-<font color="#DF01D7"> (CROWD CHEERING)</font>
+- <font color="#404040">ANNOUNCER:</font> Attack with the left!</i>
+
+55
+00:02:32,640 --> 00:02:34,608
+<i>He's hurt! With the right! He's down!</i>
+
+56
+00:02:34,680 --> 00:02:35,806
+<i>He's hit! Oh!</i>
+
+57
+00:02:36,080 --> 00:02:37,491
+It's frozen.
+
+58
+00:02:37,760 --> 00:02:39,330
+- It's frozen.
+- <font color="#404040">ANNOUNCER:</font> Oh, my goodness!
+
+59
+00:02:39,600 --> 00:02:41,329
+<i>It is all over!</i>
+
+60
+00:02:41,400 --> 00:02:43,050
+<i>Unbelievable!</i>
+
+61
+00:02:43,120 --> 00:02:47,523
+<i>I have never, in all my years
+of watching fighting,</i>
+
+62
+00:02:47,600 --> 00:02:51,764
+<i>seen a finishing combination more ferocious!</i>
+
+63
+00:02:51,960 --> 00:02:54,691
+<i>What a spectacular finish by Molina!</i>
+
+64
+00:02:54,760 --> 00:02:57,525
+<i>We're being told
+that the Nucleus live stream...</i>
+
+65
+00:02:57,600 --> 00:03:00,410
+<i>- Fuck!
+-...may have cut out during that exchange.</i>
+
+66
+00:03:00,480 --> 00:03:03,370
+<i>If that is true, what a travesty!</i>
+
+67
+00:03:03,440 --> 00:03:04,521
+- <font color="#404040">GAVIN:</font> Fuck!
+-<font color="#DF01D7"> (DOOR SLAMS)</font>
+
+68
+00:03:04,600 --> 00:03:05,601
+<i><font color="#404040">ANNOUNCER:</font> Joe, you're absolutely right.</i>
+
+69
+00:03:05,680 --> 00:03:07,682
+<font color="#DF01D7">(THEME MUSIC PLAYING)</font>
+
+70
+00:03:16,240 --> 00:03:18,925
+Gavin Belson just shit everyone's pants.
+
+71
+00:03:19,280 --> 00:03:20,327
+<font color="#404040">CARLA:</font> He sure did.
+
+72
+00:03:20,400 --> 00:03:22,687
+The encoding is totally underpowered
+to cover up their defects.
+
+73
+00:03:23,080 --> 00:03:26,129
+Nucleus just can't keep up
+with 4K live stream yet.
+
+74
+00:03:26,200 --> 00:03:29,409
+Hey. Could Pied Piper handle live 4K video?
+
+75
+00:03:29,520 --> 00:03:32,683
+I could deploy a live video stream that
+would be way better than theirs right now.
+
+76
+00:03:32,960 --> 00:03:36,362
+Jump on it. Now.
+Like, do our own live stream.
+
+77
+00:03:36,440 --> 00:03:37,726
+Partner with someone like Gavin did.
+
+78
+00:03:37,800 --> 00:03:39,086
+Look at you two.
+
+79
+00:03:40,120 --> 00:03:43,169
+Hold on. Live streaming's not really
+our primary business here.
+
+80
+00:03:43,240 --> 00:03:46,449
+Yeah, but beating Nucleus is.
+The blogs would go nuts.
+
+81
+00:03:46,520 --> 00:03:47,885
+We're built for it on my end.
+
+82
+00:03:47,960 --> 00:03:50,201
+I mean, if it's just me
+hosting seeds and manifests,
+
+83
+00:03:50,280 --> 00:03:51,850
+I'm good on my end.
+
+84
+00:03:51,960 --> 00:03:54,884
+I'm prepared to brag about it
+and release some publicity.
+
+85
+00:03:54,960 --> 00:03:57,645
+Well, peer-to-peer delivery
+is good to go here. Just let me know.
+
+86
+00:03:58,080 --> 00:04:00,924
+Oh, Carla, do you want to
+show Monica your work station?
+
+87
+00:04:01,000 --> 00:04:02,240
+- No thanks.
+-<font color="#DF01D7"> (CHUCKLES)</font>
+
+88
+00:04:04,240 --> 00:04:08,404
+Okay, but Hooli had a deal
+with UFC that would stream a fight.
+
+89
+00:04:08,480 --> 00:04:10,130
+I mean, what do we even do?
+
+90
+00:04:10,200 --> 00:04:11,611
+Don't really have a lot of time here.
+
+91
+00:04:11,680 --> 00:04:13,205
+That's real.
+
+92
+00:04:13,560 --> 00:04:16,291
+We could find an event
+that's already in motion.
+
+93
+00:04:16,520 --> 00:04:17,726
+Can I make a suggestion?
+
+94
+00:04:17,800 --> 00:04:21,088
+There is a nesting pair of California condors
+
+95
+00:04:21,160 --> 00:04:23,686
+on the closed-circuit feed
+at the Natural History Museum.
+
+96
+00:04:23,880 --> 00:04:27,009
+There's an egg in the nest right now.
+It's very compelling.
+
+97
+00:04:27,120 --> 00:04:29,361
+Why don't we just live stream me killing you?
+
+98
+00:04:29,440 --> 00:04:30,601
+I wouldn't be so dismissive.
+
+99
+00:04:30,680 --> 00:04:34,162
+There was a live stream of an eagle's nest
+last year that went viral,
+
+100
+00:04:34,240 --> 00:04:35,571
+and was getting millions of hits.
+
+101
+00:04:35,640 --> 00:04:37,449
+And I don't wanna be inflammatory,
+
+102
+00:04:37,520 --> 00:04:40,808
+but next to a condor, an eagle looks like a...
+
+103
+00:04:40,880 --> 00:04:42,006
+Common cackling.
+
+104
+00:04:42,080 --> 00:04:44,606
+Fuck that, Jared. I've got it.
+
+105
+00:04:44,720 --> 00:04:46,882
+I'm very good friends with Aaron Anderson.
+
+106
+00:04:47,720 --> 00:04:50,200
+Double-A? The guy who
+owns Homicide Energy Drink?
+
+107
+00:04:50,280 --> 00:04:53,887
+Uh, is Homicide
+the extra douchey energy drink?
+
+108
+00:04:53,960 --> 00:04:55,086
+- <font color="#404040">DINESH:</font> It sure is.
+-<font color="#DF01D7"> (MUSIC PLAYING OVER SPEAKERS)</font>
+
+109
+00:04:55,160 --> 00:04:58,084
+There's a bunch of stunts
+and crazy shit on here.
+
+110
+00:04:58,160 --> 00:05:02,529
+That video player quality is terrible.
+It's a perfect candidate.
+
+111
+00:05:02,600 --> 00:05:05,524
+And Double-A loves me.
+He'd definitely hook us up.
+
+112
+00:05:05,600 --> 00:05:07,648
+How do you know him?
+
+113
+00:05:07,720 --> 00:05:11,088
+From college.
+He was a sophomore when I was a senior.
+
+114
+00:05:11,160 --> 00:05:13,162
+He and his roommates
+used to live down the hall.
+
+115
+00:05:13,240 --> 00:05:15,402
+I used to party in their room all the time.
+
+116
+00:05:15,480 --> 00:05:18,245
+Uh, kind of a mentor-mentee sort of thing.
+
+117
+00:05:18,680 --> 00:05:20,682
+Coming from a manatee sort of thing.
+
+118
+00:05:21,120 --> 00:05:24,647
+You look like a ferret that gave up on himself
+six months ago, Gilfoyle.
+
+119
+00:05:24,760 --> 00:05:27,366
+- I'm going to ping Double-A.
+- Wait. <font color="#DF01D7">(SIGHS)</font>
+
+120
+00:05:27,440 --> 00:05:29,249
+What if he says yes?
+
+121
+00:05:29,320 --> 00:05:32,130
+You know? Are we really gonna
+drop everything to do this?
+
+122
+00:05:32,200 --> 00:05:33,247
+What if we don't get it right?
+
+123
+00:05:33,720 --> 00:05:36,610
+I mean, it could hurt us just like it hurt them.
+
+124
+00:05:37,120 --> 00:05:38,929
+<font color="#DF01D7">(SIGHS)</font> Shit. I don't know.
+
+125
+00:05:39,480 --> 00:05:40,766
+Now, this is critical, Richard.
+
+126
+00:05:40,840 --> 00:05:42,842
+Maybe we should SWOT this decision.
+
+127
+00:05:42,920 --> 00:05:44,968
+I don't know what that is, but no.
+
+128
+00:05:45,040 --> 00:05:46,530
+- SWOT analysis.
+- <font color="#404040">DINESH:</font> No.
+
+129
+00:05:46,600 --> 00:05:48,682
+S-W-O-T? No?
+
+130
+00:05:48,760 --> 00:05:49,966
+<font color="#DF01D7">(CHUCKLES)</font> Holy cow.
+
+131
+00:05:50,040 --> 00:05:52,691
+Did he really just say "holy cow"?
+
+132
+00:05:52,760 --> 00:05:55,684
+I've had a board ready
+forjust such an occasion.
+
+133
+00:05:55,760 --> 00:05:58,684
+I've booby-trapped the house
+with corporate resources.
+
+134
+00:06:02,000 --> 00:06:04,810
+SWOT is a way of evaluating a decision.
+
+135
+00:06:05,360 --> 00:06:07,966
+And you just break it down into "strengths,"
+
+136
+00:06:08,040 --> 00:06:10,805
+"weaknesses," "opportunities," and "threats."
+
+137
+00:06:11,280 --> 00:06:12,725
+You're fucking joking.
+
+138
+00:06:12,800 --> 00:06:14,006
+Not at all.
+
+139
+00:06:14,080 --> 00:06:17,971
+You can SWOT a concept,
+a department, or a new initiative.
+
+140
+00:06:18,040 --> 00:06:19,371
+You can even SWOT a person.
+
+141
+00:06:19,480 --> 00:06:21,801
+Although you have to be careful,
+they might SWOT you back.
+
+142
+00:06:21,880 --> 00:06:23,564
+- I wanna SWOT you.
+- Well, you can.
+
+143
+00:06:23,640 --> 00:06:25,210
+Because now you have the tools.
+
+144
+00:06:25,320 --> 00:06:28,051
+Okay. Um, shout them out
+and I'll tack them up.
+
+145
+00:06:28,120 --> 00:06:30,646
+Jared, I'm... I'm really sorry, but I have to go.
+
+146
+00:06:31,160 --> 00:06:33,128
+You know, would it make more sense
+if I worked something up
+
+147
+00:06:33,200 --> 00:06:35,806
+and then I got back to you guys, and...
+
+148
+00:06:36,160 --> 00:06:38,322
+Okay, great. I'm on it.
+
+149
+00:06:39,840 --> 00:06:42,923
+People love condors.
+
+150
+00:06:44,440 --> 00:06:45,441
+Strengths.
+
+151
+00:06:45,520 --> 00:06:49,127
+<font color="#404040">AARON:</font> On top of the roof,
+Blaine is gonna launch off this ramp.
+
+152
+00:06:49,600 --> 00:06:50,761
+It's pretty gnarly.
+
+153
+00:06:50,840 --> 00:06:54,208
+If everything goes right,
+he'll fly over the street
+
+154
+00:06:54,280 --> 00:06:56,601
+and land on this 15-story building here.
+
+155
+00:06:56,680 --> 00:06:59,524
+We've got 27 cameras, a couple in the car.
+
+156
+00:06:59,600 --> 00:07:01,443
+Feed a live edit back here to the data center.
+
+157
+00:07:01,520 --> 00:07:03,921
+We put everything through
+your incredible compression, Richard,
+
+158
+00:07:04,120 --> 00:07:05,326
+and up onto the web.
+
+159
+00:07:05,640 --> 00:07:06,766
+So, what do you think, Richard?
+
+160
+00:07:06,840 --> 00:07:10,128
+I think this is awesome, Double-A.
+
+161
+00:07:10,240 --> 00:07:11,765
+I mean, it is incredible.
+
+162
+00:07:11,840 --> 00:07:15,686
+You really have built
+a giant monument to awesomeness.
+
+163
+00:07:15,760 --> 00:07:17,808
+I think my aid in helping you achieve this
+
+164
+00:07:17,880 --> 00:07:20,611
+is what inspired me
+to start my own incubator.
+
+165
+00:07:20,680 --> 00:07:23,411
+Uh, so, Richard, you ready for this?
+
+166
+00:07:23,480 --> 00:07:24,970
+Oh, yeah. I think so. Yeah...
+
+167
+00:07:25,040 --> 00:07:27,008
+Double-A, we are psyched.
+
+168
+00:07:27,080 --> 00:07:29,560
+And we can do whatever you need.
+
+169
+00:07:29,640 --> 00:07:30,971
+Okay, thanks, Kool-Aid.
+
+170
+00:07:31,040 --> 00:07:33,168
+Kool-Aid? What's that? Are you Kool-Aid?
+
+171
+00:07:33,240 --> 00:07:34,924
+Yeah, it's just a term of endearment.
+
+172
+00:07:35,000 --> 00:07:37,606
+You know, nickname.
+That's how we used to rock it back in the day
+
+173
+00:07:37,680 --> 00:07:39,842
+'cause I was cool and supportive.
+
+174
+00:07:39,920 --> 00:07:43,003
+Yeah. Oh hey, guys, this is Gina,
+she's one of our event managers.
+
+175
+00:07:43,080 --> 00:07:46,766
+Hey, Gina, can you take Dinesh
+and Gilfoyle to the data center, please?
+
+176
+00:07:46,840 --> 00:07:48,490
+Sure. You wanna follow me?
+
+177
+00:07:48,560 --> 00:07:50,688
+Only if we get hats, Gina.
+
+178
+00:07:50,760 --> 00:07:52,364
+You can just take mine.
+
+179
+00:07:54,800 --> 00:07:56,609
+Did you see that? She gave me her hat.
+
+180
+00:07:56,680 --> 00:07:59,160
+Pretend you've seen a woman before.
+
+181
+00:07:59,240 --> 00:08:00,730
+Are those Homicide drinks for free?
+
+182
+00:08:00,800 --> 00:08:02,484
+Uh, yeah. Knock yourself out.
+
+183
+00:08:02,560 --> 00:08:03,925
+Homicide!
+
+184
+00:08:07,720 --> 00:08:11,725
+Is there any way that it could be maybe
+more like just you and me talking,
+
+185
+00:08:11,800 --> 00:08:13,245
+and not Erlich?
+
+186
+00:08:13,720 --> 00:08:16,849
+What do you mean? Aren't you guys friends?
+I thought you go way back.
+
+187
+00:08:16,920 --> 00:08:18,251
+We do. But...
+
+188
+00:08:19,440 --> 00:08:21,283
+<font color="#DF01D7">(WHISPERING)</font>
+To be honest, I could never stand the guy.
+
+189
+00:08:22,400 --> 00:08:25,609
+I mean, just hearing his voice
+again is giving me PTSD.
+
+190
+00:08:26,440 --> 00:08:28,727
+Right. But you just called him cool.
+
+191
+00:08:28,800 --> 00:08:32,441
+- No, I called him Kool-Aid. We all did.
+- Right.
+
+192
+00:08:32,520 --> 00:08:35,000
+Because he's like
+the Kool-Aid pitcher from the ads.
+
+193
+00:08:35,080 --> 00:08:36,969
+As in, every fucking time
+we were hanging out without him,
+
+194
+00:08:37,040 --> 00:08:38,530
+he would come smashing through a wall.
+
+195
+00:08:38,600 --> 00:08:39,806
+But you still hung outwith him.
+
+196
+00:08:39,880 --> 00:08:42,850
+Yeah, 'cause we were 19,
+and he had weed and beer.
+
+197
+00:08:42,920 --> 00:08:44,809
+But even drunk and high I couldn't take it.
+
+198
+00:08:44,920 --> 00:08:48,242
+I mean, it's like he's fucking allergic
+to letting other people talk.
+
+199
+00:08:48,320 --> 00:08:49,890
+It's like he's always gotta
+say something. You know?
+
+200
+00:08:49,960 --> 00:08:51,291
+<font color="#404040">ERLICH:</font> Hey, Richard.
+
+201
+00:08:52,680 --> 00:08:54,284
+Homicide!
+
+202
+00:08:55,440 --> 00:08:56,441
+<font color="#DF01D7">(CHUCKLES)</font>
+
+203
+00:08:57,120 --> 00:08:59,168
+So, Dinesh, I have a question.
+
+204
+00:08:59,240 --> 00:09:02,926
+You're obviously Pakistani,
+but the name Dinesh is Indian, isn't it?
+
+205
+00:09:03,000 --> 00:09:05,480
+Yeah. Wow. That's exactly right.
+
+206
+00:09:05,840 --> 00:09:07,922
+You know, most people, ignorant people,
+
+207
+00:09:08,000 --> 00:09:10,367
+don't even know
+those are two separate countries.
+
+208
+00:09:10,440 --> 00:09:12,442
+<font color="#404040">GILFOYLE:</font> And they don't care either.
+
+209
+00:09:13,720 --> 00:09:16,121
+- How do you know about my name?
+- I'm an Army brat.
+
+210
+00:09:16,240 --> 00:09:18,083
+My dad was stationed in Karachi
+when I was a kid.
+
+211
+00:09:18,200 --> 00:09:21,409
+It was a beautiful place,
+full of beautiful people.
+
+212
+00:09:21,800 --> 00:09:23,404
+Kind of like this room, right?
+
+213
+00:09:23,480 --> 00:09:25,403
+<font color="#DF01D7">(CHUCKLES)</font> Oh... Oh!
+
+214
+00:09:25,480 --> 00:09:26,720
+Hold on a sec. I'll be right back.
+
+215
+00:09:26,800 --> 00:09:29,167
+- Don't take too long.
+- Ew.
+
+216
+00:09:31,840 --> 00:09:34,002
+This is awesome.
+I don't know if it's what's in this,
+
+217
+00:09:34,080 --> 00:09:36,447
+but I, like... I've, like,
+all these killer lines coming to me.
+
+218
+00:09:36,520 --> 00:09:39,171
+I'm on fucking fire right now. Oh!
+
+219
+00:09:39,240 --> 00:09:40,480
+She likes me, right?
+
+220
+00:09:41,640 --> 00:09:43,005
+Yeah, she's totally into you.
+
+221
+00:09:43,640 --> 00:09:47,008
+Just not as into you
+as she is into that guy's mouth.
+
+222
+00:09:49,320 --> 00:09:51,926
+He's definitely gonna fuck her later,
+and she's not gonna think of you
+
+223
+00:09:52,000 --> 00:09:53,126
+while it's happening.
+
+224
+00:09:53,200 --> 00:09:55,441
+God damn it. Fuck.
+
+225
+00:09:56,640 --> 00:09:59,689
+Now I'm just shaking.
+What do they put in this shit?
+
+226
+00:10:00,440 --> 00:10:01,930
+- Milk thistle?
+-<font color="#DF01D7"> (CAN CLATTERS)</font>
+
+227
+00:10:03,200 --> 00:10:04,690
+He)</font>'. guys! Come out here!
+
+228
+00:10:05,720 --> 00:10:07,404
+Juliet calls.
+
+229
+00:10:10,400 --> 00:10:12,641
+Guys, this is Blaine.
+
+230
+00:10:12,720 --> 00:10:14,324
+He's the guy doing the stunt.
+
+231
+00:10:14,400 --> 00:10:18,405
+Blaine, these are the genius coders
+who are helping us with the live stream.
+
+232
+00:10:18,480 --> 00:10:21,131
+- They're rock stars.
+- Okay.
+
+233
+00:10:21,720 --> 00:10:25,247
+- So this is the car you're jumping?
+- Yes, it is.
+
+234
+00:10:25,320 --> 00:10:27,368
+And that's what your ramp's gonna look like?
+
+235
+00:10:28,040 --> 00:10:30,611
+- Yeah.
+- Cool. Well, have you...
+
+236
+00:10:30,680 --> 00:10:33,047
+Yeah, and because
+I know that you're gonna ask,
+
+237
+00:10:33,120 --> 00:10:34,724
+yes, I've done this before.
+
+238
+00:10:34,800 --> 00:10:37,451
+And yes, it's fucking dangerous.
+
+239
+00:10:38,440 --> 00:10:41,762
+Listen, I got a lot of work
+to do to get this right.
+
+240
+00:10:41,840 --> 00:10:43,171
+Okay?
+
+241
+00:10:45,560 --> 00:10:46,891
+Okay.
+
+242
+00:10:48,560 --> 00:10:50,847
+Hey, you see what I saw?
+
+243
+00:10:50,960 --> 00:10:53,850
+Yeah, I saw.
+He's got the velocity calculated wrong.
+
+244
+00:10:53,920 --> 00:10:56,890
+It's for a flat plane.
+He doesn't account for the curve in the ramp.
+
+245
+00:10:56,960 --> 00:10:59,770
+Exactly. He's probably
+used to doing straight ramps.
+
+246
+00:10:59,840 --> 00:11:02,764
+I mean, the chart says he's gonna
+launch at 81 miles per hour,
+
+247
+00:11:02,840 --> 00:11:04,649
+-but it's going to be more like...
+- Under 70.
+
+248
+00:11:05,320 --> 00:11:06,765
+The downforce is ridiculous.
+
+249
+00:11:06,840 --> 00:11:09,605
+He's gonna lose speed
+and hit the side of that wall.
+
+250
+00:11:10,320 --> 00:11:12,607
+- And die.
+- So we should probably...
+
+251
+00:11:14,440 --> 00:11:16,090
+Okay. All right.
+
+252
+00:11:18,160 --> 00:11:19,969
+Hey, uh, Blaine?
+
+253
+00:11:21,120 --> 00:11:22,531
+- One small thing.
+- <font color="#404040">BLAINE:</font> No.
+
+254
+00:11:22,600 --> 00:11:23,840
+I'm gonna stop you right there, Glasses.
+
+255
+00:11:23,920 --> 00:11:27,083
+'Cause I told you once already,
+and I was very clear.
+
+256
+00:11:27,160 --> 00:11:30,448
+I am too fucking busy to deal with you.
+
+257
+00:11:31,480 --> 00:11:34,529
+Okay? I'm just being cool here.
+
+258
+00:11:34,600 --> 00:11:35,886
+All right?
+
+259
+00:11:38,560 --> 00:11:40,642
+What do we do here?
+
+260
+00:11:40,760 --> 00:11:42,250
+This is a tough one.
+
+261
+00:11:43,000 --> 00:11:45,844
+So, Richard, in terms of a player window,
+what do you see?
+
+262
+00:11:45,920 --> 00:11:48,526
+- Well, um, I think it's pretty straightforward.
+- <font color="#404040">ERLICH:</font> I'll handle this, Richard.
+
+263
+00:11:48,600 --> 00:11:50,921
+- You don't have to.
+- The whole reason we're doing this, friend,
+
+264
+00:11:51,000 --> 00:11:52,206
+is for branding value.
+
+265
+00:11:52,280 --> 00:11:54,408
+So we're gonna need a banner that says
+
+266
+00:11:54,480 --> 00:11:56,687
+"Powered by Pied Piper"
+underneath the video window.
+
+267
+00:11:56,760 --> 00:12:00,048
+It doesn't have to be too big,
+but you don't want it to be too small either.
+
+268
+00:12:00,120 --> 00:12:03,249
+Although, there's nothing
+small about Homicide, Double-A.
+
+269
+00:12:03,320 --> 00:12:04,810
+At least as far as I can tell.
+
+270
+00:12:04,880 --> 00:12:07,690
+Also, if it's, if it's possible, what we'd like to...
+
+271
+00:12:07,760 --> 00:12:09,125
+Let me stop you right there, Richard.
+
+272
+00:12:09,800 --> 00:12:14,328
+We're gonna need to have our logos
+on the car, Blaine's suit, his helmet.
+
+273
+00:12:14,400 --> 00:12:17,449
+If he wants to get a Flash tattoo
+or something on his neck,
+
+274
+00:12:17,520 --> 00:12:18,646
+that's on him.
+
+275
+00:12:20,280 --> 00:12:22,442
+<font color="#404040">RICHARD:</font> Actually, um, in all honesty,
+
+276
+00:12:22,520 --> 00:12:25,251
+Erlich just pretty much said
+exactly what I was gonna say. Um...
+
+277
+00:12:25,320 --> 00:12:26,560
+Uh-huh. Um...
+
+278
+00:12:26,680 --> 00:12:28,205
+So, Richard...
+
+279
+00:12:28,280 --> 00:12:29,406
+- Yes?
+- Yeah?
+
+280
+00:12:29,480 --> 00:12:32,882
+Do you think you can
+make the preview window full resolution?
+
+281
+00:12:33,520 --> 00:12:35,010
+- Richard can give you whatever you need.
+- Yes...
+
+282
+00:12:35,080 --> 00:12:36,923
+But as far as the video player goes...
+
+283
+00:12:37,000 --> 00:12:42,370
+Guys, I'm sorry. I just remembered
+that I've got somewhere else to be.
+
+284
+00:12:43,800 --> 00:12:45,768
+All right. Well, Double-A, I'll see you soon.
+
+285
+00:12:45,840 --> 00:12:48,605
+I'm just gonna grab a shirt
+and we'll check you later.
+
+286
+00:12:48,680 --> 00:12:51,650
+<font color="#DF01D7">(WHISPERING)</font> What the fuck, dude?
+Hey, I love your tech.
+
+287
+00:12:51,720 --> 00:12:54,724
+But come back tomorrow without Kool-Aid,
+or don't come back at all.
+
+288
+00:12:54,800 --> 00:12:55,926
+Honestly.
+
+289
+00:13:01,960 --> 00:13:05,009
+- Richard, what's going on?
+- What do you mean?
+
+290
+00:13:05,080 --> 00:13:07,481
+I'm catching kind of a vibe.
+
+291
+00:13:08,200 --> 00:13:11,044
+A weird vibe with you and Double-A.
+
+292
+00:13:11,120 --> 00:13:12,645
+Right. That. Well...
+
+293
+00:13:12,720 --> 00:13:15,291
+I'm not gonna sugarcoat it, Richard.
+I don't think he likes you.
+
+294
+00:13:15,720 --> 00:13:18,564
+I mean, he literally rolled his eyes at you.
+
+295
+00:13:19,920 --> 00:13:21,888
+Why don't you just trust me on this one?
+
+296
+00:13:21,960 --> 00:13:24,406
+Let Kool-Aid do the talking tomorrow.
+
+297
+00:13:25,960 --> 00:13:28,327
+Take this stuff.
+I'm gonna grab a couple more drinks
+
+298
+00:13:28,400 --> 00:13:29,561
+and another hat.
+
+299
+00:13:29,640 --> 00:13:31,085
+I'm gonna get a box.
+
+300
+00:13:31,800 --> 00:13:33,643
+<font color="#404040">GAVIN:</font> This is a total fucking disaster.
+
+301
+00:13:33,720 --> 00:13:35,404
+If my engineers had just
+told me they weren't ready,
+
+302
+00:13:35,480 --> 00:13:37,721
+I never would have
+pushed for this live stream.
+
+303
+00:13:37,800 --> 00:13:41,441
+Even worse, now I hear
+those little Pied Piper fuckers
+
+304
+00:13:41,520 --> 00:13:44,251
+are doing their own live stream
+with Homicide.
+
+305
+00:13:45,400 --> 00:13:47,289
+- The energy drink?
+- Yes.
+
+306
+00:13:47,360 --> 00:13:49,681
+Meanwhile, I've demanded
+to see internal testing
+
+307
+00:13:49,760 --> 00:13:52,047
+from every facet of the Nucleus platform.
+
+308
+00:13:52,120 --> 00:13:54,885
+So I can see for myself where I stand.
+
+309
+00:13:54,960 --> 00:13:58,567
+Because all I hear
+from everybody is good news.
+
+310
+00:13:58,640 --> 00:14:00,847
+Have I just surrounded myself
+with sycophants,
+
+311
+00:14:00,920 --> 00:14:03,366
+who are just telling me
+whatever I want to hear,
+
+312
+00:14:03,440 --> 00:14:05,249
+regardless of the truth?
+
+313
+00:14:08,520 --> 00:14:09,726
+No.
+
+314
+00:14:11,960 --> 00:14:14,884
+Thank you, Denpok.
+I really needed to hear that.
+
+315
+00:14:16,760 --> 00:14:20,242
+This might be morbid,
+but the cold, hard fact is
+
+316
+00:14:20,320 --> 00:14:23,529
+that if Blaine dies on our live stream,
+this could be good for us.
+
+317
+00:14:23,600 --> 00:14:26,524
+I mean, we'd get a lot more traffic.
+
+318
+00:14:26,600 --> 00:14:30,082
+Well, and it would probably lead to
+calls for regulations in the stunt industry.
+
+319
+00:14:30,160 --> 00:14:33,642
+So, in the long term, we're saving lives.
+
+320
+00:14:36,440 --> 00:14:39,728
+Although, there is the moral problem
+with letting him die.
+
+321
+00:14:40,520 --> 00:14:42,488
+Though he did tell us to shut up.
+
+322
+00:14:43,080 --> 00:14:44,525
+And his name is Blaine.
+
+323
+00:14:45,320 --> 00:14:47,448
+And Gina is super hot.
+
+324
+00:14:48,400 --> 00:14:50,289
+And this would make her single.
+
+325
+00:14:51,800 --> 00:14:56,089
+She'd probably need consoling,
+so there's an opportunity.
+
+326
+00:14:56,160 --> 00:14:57,491
+Qpportunity.
+
+327
+00:14:58,520 --> 00:15:00,329
+DINESHI Should We SWOT this?
+
+328
+00:15:04,920 --> 00:15:07,366
+Bereaved women do tend to act out sexually.
+
+329
+00:15:07,440 --> 00:15:09,169
+Yeah, so that's a strength.
+
+330
+00:15:09,240 --> 00:15:12,210
+<i>- Hey, Kool-Aid!
+- Yeah!</i>
+
+331
+00:15:16,000 --> 00:15:17,206
+And? So?
+
+332
+00:15:18,080 --> 00:15:19,764
+And? It...
+
+333
+00:15:20,480 --> 00:15:22,608
+it wasn't meant to be a flattering nickname.
+
+334
+00:15:22,680 --> 00:15:24,250
+It was an insult.
+
+335
+00:15:24,360 --> 00:15:26,089
+I'm not sure I agree with that.
+
+336
+00:15:26,160 --> 00:15:29,084
+I mean, the dancing pitcher
+breaks through walls
+
+337
+00:15:29,160 --> 00:15:32,004
+to give tasty beverages to kids in need.
+
+338
+00:15:32,080 --> 00:15:35,368
+Why would you infer from this
+that Double-A doesn't like me?
+
+339
+00:15:35,440 --> 00:15:39,411
+Well, um, I wasn't inferring anything.
+
+340
+00:15:39,480 --> 00:15:42,051
+He told me to my face that he doesn't like you.
+
+341
+00:15:42,120 --> 00:15:43,770
+But why wouldn't he like me?
+
+342
+00:15:44,240 --> 00:15:46,004
+Well, uh...
+
+343
+00:15:46,080 --> 00:15:48,811
+You have a tendency sometimes to...
+
+344
+00:15:48,880 --> 00:15:50,803
+Why on earth wouldn't he like me?
+
+345
+00:15:50,880 --> 00:15:54,123
+Because, Erlich, you tend to not let...
+
+346
+00:15:54,200 --> 00:15:56,202
+I was his mentor. You know?
+
+347
+00:15:56,280 --> 00:15:58,282
+You know, there's no remote possibility...
+
+348
+00:15:58,360 --> 00:16:00,203
+Because you don't let people talk!
+
+349
+00:16:00,880 --> 00:16:02,291
+It just happened.
+
+350
+00:16:02,360 --> 00:16:03,361
+Um...
+
+351
+00:16:04,200 --> 00:16:05,645
+And he told me that if you came tomorrow
+
+352
+00:16:05,720 --> 00:16:08,849
+that he would pull the plug
+on the whole live stream, so...
+
+353
+00:16:10,600 --> 00:16:11,601
+<font color="#DF01D7">(SIGHS)</font>
+
+354
+00:16:12,560 --> 00:16:13,800
+I see.
+
+355
+00:16:14,520 --> 00:16:15,646
+Sorry.
+
+356
+00:16:15,720 --> 00:16:17,722
+Are you done talking now?
+
+357
+00:16:19,920 --> 00:16:21,046
+Yes.
+
+358
+00:16:21,560 --> 00:16:24,166
+Do Dinesh and Gilfoyle know about this?
+
+359
+00:16:24,800 --> 00:16:27,565
+- No, I came straight to you.
+- What about Jared?
+
+360
+00:16:28,640 --> 00:16:29,721
+Nope.
+
+361
+00:16:30,160 --> 00:16:31,889
+Okay, here's what you need to do.
+
+362
+00:16:31,960 --> 00:16:35,931
+You need to go in tomorrow,
+and you need to do that live stream.
+
+363
+00:16:36,880 --> 00:16:40,566
+And put my feelings aside,
+you know, don't quit on account of me.
+
+364
+00:16:41,040 --> 00:16:43,327
+I wasn't gonna... I wasn't gonna quit.
+
+365
+00:16:43,400 --> 00:16:45,971
+There is something you should know, though.
+
+366
+00:16:47,760 --> 00:16:50,889
+Aaron Anderson wasn't
+very well liked in college.
+
+367
+00:16:50,960 --> 00:16:53,645
+In fact, people used to
+call him Double-Asshole.
+
+368
+00:16:55,600 --> 00:16:57,364
+So watch out for that guy.
+
+369
+00:16:59,800 --> 00:17:01,484
+Are you sure you're okay with this?
+
+370
+00:17:01,920 --> 00:17:05,163
+Yes, Richard.
+It's time for me to be the bigger man.
+
+371
+00:17:05,240 --> 00:17:06,730
+The cooler man.
+
+372
+00:17:07,360 --> 00:17:09,681
+I am Kool-Aid, after all.
+
+373
+00:17:15,040 --> 00:17:18,761
+Ladies and gentlemen, for the last 90 minutes
+you have had an opportunity
+
+374
+00:17:18,840 --> 00:17:22,640
+to explore a standard Hooliphone
+upgraded with a brand new operating system
+
+375
+00:17:22,720 --> 00:17:23,881
+called Nucleus.
+
+376
+00:17:23,960 --> 00:17:25,041
+<i>Thank you all for being here,</i>
+
+377
+00:17:25,120 --> 00:17:28,567
+Allen, Lisa, Josh, Yana, Katie, Ramén.
+
+378
+00:17:29,000 --> 00:17:31,207
+I'd like to get everyone's first impressions.
+
+379
+00:17:31,320 --> 00:17:33,687
+Who'd like to jump in? Anyone?
+
+380
+00:17:35,760 --> 00:17:37,364
+How about you, Ramén?
+
+381
+00:17:37,440 --> 00:17:38,726
+It's just stupid.
+
+382
+00:17:39,440 --> 00:17:42,683
+<i>Okay, so Ramén feels the phone is stupid.</i>
+
+383
+00:17:43,160 --> 00:17:44,571
+Could you elaborate, Ramén?
+
+384
+00:17:44,840 --> 00:17:48,890
+Stupid how?
+Please be as specific as possible, Ramén.
+
+385
+00:17:49,400 --> 00:17:51,289
+Well, it's slow.
+
+386
+00:17:52,120 --> 00:17:53,929
+The apps keep quitting on me.
+
+387
+00:17:54,000 --> 00:17:56,810
+I tried to watch a movie,
+and it kept freezing up.
+
+388
+00:17:57,160 --> 00:17:59,811
+And when I'm typing, like, there's a delay.
+
+389
+00:17:59,880 --> 00:18:01,769
+Then all the letters pop up at once.
+
+390
+00:18:01,840 --> 00:18:04,605
+You took a good phone
+and you made it all, like, shitty.
+
+391
+00:18:04,680 --> 00:18:07,001
+Keep in mind, I didn't design the phone.
+
+392
+00:18:07,080 --> 00:18:09,731
+- It pissed me off.
+- I appreciate your honesty, Ramén.
+
+393
+00:18:09,800 --> 00:18:11,404
+That's just one guy's opinion.
+
+394
+00:18:11,480 --> 00:18:14,086
+Who else feels this product is stupid?
+
+395
+00:18:15,320 --> 00:18:18,722
+Allen, Lisa, Josh, Yana, Katie.
+
+396
+00:18:19,200 --> 00:18:21,885
+And did it piss off anyone else?
+
+397
+00:18:23,760 --> 00:18:26,843
+- Allen, Lisa, Josh, Yana, Katie.
+- Okay.
+
+398
+00:18:26,920 --> 00:18:30,367
+Christina, how bad is this? Be honest.
+
+399
+00:18:31,240 --> 00:18:33,368
+Is this Windows Vista bad?
+
+400
+00:18:35,240 --> 00:18:37,846
+It's not iPhone 4 bad, is it?
+
+401
+00:18:39,720 --> 00:18:42,610
+Fuck. Don't tell me this is Zune bad.
+
+402
+00:18:44,040 --> 00:18:45,804
+I'm sorry, Gavin.
+
+403
+00:18:45,880 --> 00:18:47,484
+It's Apple Maps bad.
+
+404
+00:18:48,480 --> 00:18:51,324
+And who else felt this product is messed up?
+
+405
+00:18:52,280 --> 00:18:54,248
+Allen, Lisa, Josh, Yana...
+
+406
+00:18:54,360 --> 00:18:56,044
+GAVIN; <font color="#DF01D7">(YELLING)</font> Fuck!
+
+407
+00:18:56,960 --> 00:19:00,601
+I'm sorry for the disturbance,
+Allen, Lisa, Josh, Yana...
+
+408
+00:19:00,680 --> 00:19:03,001
+So I can definitely get you
+full res on the preview window.
+
+409
+00:19:03,120 --> 00:19:05,088
+- Oh, sweet.
+- Cool. I'll get right on that.
+
+410
+00:19:05,160 --> 00:19:07,891
+You see how much smoother this all runs
+without Erlich hanging around?
+
+411
+00:19:08,000 --> 00:19:09,570
+Right, yeah.
+
+412
+00:19:09,640 --> 00:19:13,361
+Hey, did you ever send me the mockup
+for the logo placement of the player window?
+
+413
+00:19:13,440 --> 00:19:15,841
+Seriously, you should think
+about dropping that guy.
+
+414
+00:19:15,920 --> 00:19:18,321
+But what do I know?
+I just built a billion-dollar company.
+
+415
+00:19:18,400 --> 00:19:20,004
+Yeah. Yeah, okay.
+
+416
+00:19:20,080 --> 00:19:22,367
+But about the mockup
+for the logo placement...
+
+417
+00:19:22,440 --> 00:19:24,488
+Hey, I gotta go Skype
+with my European distributor.
+
+418
+00:19:24,600 --> 00:19:26,125
+Keep cranking it, okay?
+
+419
+00:19:26,200 --> 00:19:27,611
+Sure, uh, will do.
+
+420
+00:19:34,440 --> 00:19:35,566
+Excuse me.
+
+421
+00:19:36,640 --> 00:19:39,086
+That's not the final graphic
+for the live stream, is it?
+
+422
+00:19:39,160 --> 00:19:41,401
+Yep. Double-A signed off on it.
+
+423
+00:19:41,480 --> 00:19:44,768
+- Just that? There's nothing else?
+- <font color="#404040">MAN:</font> Nope.
+
+424
+00:19:46,400 --> 00:19:47,447
+Hmm.
+
+425
+00:19:48,560 --> 00:19:52,360
+Blaine doesn't die,
+but he is horribly incapacitated.
+
+426
+00:19:52,440 --> 00:19:56,286
+And then while he's in the hospital
+he gets a flesh-eating virus,
+
+427
+00:19:56,360 --> 00:19:57,964
+and then he dies.
+
+428
+00:19:59,280 --> 00:20:00,964
+Well, obviously...
+
+429
+00:20:01,800 --> 00:20:04,087
+His incessant suffering will be a strength.
+
+430
+00:20:04,160 --> 00:20:07,164
+But our ability to enjoy it is an opportunity.
+
+431
+00:20:07,240 --> 00:20:10,005
+What if before he dies
+
+432
+00:20:10,080 --> 00:20:11,525
+Gina catches the virus?
+
+433
+00:20:11,600 --> 00:20:15,241
+And then she spreads it
+from her vagina to your penis.
+
+434
+00:20:16,480 --> 00:20:18,482
+Wait, so in this scenario,
+
+435
+00:20:18,560 --> 00:20:20,483
+I get to have sex with Gina?
+
+436
+00:20:20,560 --> 00:20:21,641
+That's an opportunity.
+
+437
+00:20:21,720 --> 00:20:24,246
+- Okay, how about this?
+- I'm listening.
+
+438
+00:20:24,920 --> 00:20:26,046
+We let Blaine die,
+
+439
+00:20:26,160 --> 00:20:28,242
+but then he's not around
+to stop someone else
+
+440
+00:20:28,320 --> 00:20:30,766
+from committing
+some huge fucked-up act of evil?
+
+441
+00:20:30,840 --> 00:20:33,002
+- The "Kill Hitler" scenario.
+- Right.
+
+442
+00:20:33,080 --> 00:20:34,605
+-<font color="#DF01D7"> (KNOCKING)</font>
+-<font color="#DF01D7"> (DOOR OPENS)</font>
+
+443
+00:20:34,680 --> 00:20:36,603
+Hey, guys? You guys busy?
+
+444
+00:20:37,040 --> 00:20:38,041
+Uh...
+
+445
+00:20:39,000 --> 00:20:41,048
+<font color="#404040">BLAINE:</font> Cool. Um...
+
+446
+00:20:41,920 --> 00:20:43,001
+I got something I gotta say.
+
+447
+00:20:43,400 --> 00:20:47,803
+Listen. I know that I was really rude
+to both of you yesterday.
+
+448
+00:20:48,360 --> 00:20:49,850
+It's just, um...
+
+449
+00:20:51,040 --> 00:20:53,930
+When I got a stunt coming up,
+I'm a bundle of nerves,
+
+450
+00:20:54,000 --> 00:20:57,049
+and sometimes I can
+take that out on other people.
+
+451
+00:20:57,840 --> 00:21:01,208
+You know, even with all the support
+that I get from Gina and our kids.
+
+452
+00:21:01,320 --> 00:21:02,685
+- Kids.
+- I don't know why.
+
+453
+00:21:03,600 --> 00:21:05,602
+But... And then again,
+
+454
+00:21:05,680 --> 00:21:08,604
+I'm a guy who needs to
+risk his life jumping over stuff.
+
+455
+00:21:08,680 --> 00:21:10,523
+So, what's that all about, right? <font color="#DF01D7">(CHUCKLES)</font>
+
+456
+00:21:12,920 --> 00:21:15,844
+You know, actuallyjust an hour ago
+I spotted an error in my math.
+
+457
+00:21:15,960 --> 00:21:18,611
+Would have had me smeared
+across the side of that building.
+
+458
+00:21:20,400 --> 00:21:22,801
+Anyway, now I'm just totally rambling.
+
+459
+00:21:23,240 --> 00:21:25,049
+Typical Blaine.
+
+460
+00:21:25,120 --> 00:21:28,886
+What I wanted to say was that I'm sorry.
+
+461
+00:21:30,720 --> 00:21:32,370
+Are we cool?
+
+462
+00:21:33,040 --> 00:21:35,805
+Yeah, we're cool. Thanks for stopping by.
+
+463
+00:21:35,880 --> 00:21:39,362
+Yeah, you should go quickly,
+'cause we have work to do.
+
+464
+00:21:39,440 --> 00:21:40,441
+Okay.
+
+465
+00:21:43,960 --> 00:21:45,246
+What's this?
+
+466
+00:21:46,120 --> 00:21:47,804
+What is that?
+
+467
+00:21:47,880 --> 00:21:49,405
+"Let Blaine die"?
+
+468
+00:21:49,880 --> 00:21:50,927
+Oh!
+
+469
+00:21:51,000 --> 00:21:53,606
+Shit. We... We write in code. We write in code.
+
+470
+00:21:53,680 --> 00:21:55,569
+- This is compression...
+-"Strengths.
+
+471
+00:21:55,640 --> 00:21:58,644
+"Blaine's last moment
+is realizing face is gone"?
+
+472
+00:21:59,080 --> 00:22:01,082
+"Weaknesses. Blaine dies super fast."
+
+473
+00:22:01,160 --> 00:22:04,084
+Yeah, you really shouldn't be looking at that.
+That's all proprietary.
+
+474
+00:22:04,160 --> 00:22:06,401
+"Opportunities, fuck Gina"?
+
+475
+00:22:07,840 --> 00:22:10,207
+Would you believe
+that was here when we came in?
+
+476
+00:22:10,280 --> 00:22:12,681
+Double-A? Can I talk to you for a second?
+
+477
+00:22:12,760 --> 00:22:14,330
+Yeah. Leave me alone for a sec.
+
+478
+00:22:14,400 --> 00:22:16,482
+- What's up?
+- Well, okay.
+
+479
+00:22:16,560 --> 00:22:18,642
+I just saw a version of the player window
+
+480
+00:22:18,720 --> 00:22:22,611
+that apparently you approved of
+that says Powered by Homicide on it?
+
+481
+00:22:22,680 --> 00:22:24,682
+Oh, yeah, it does.
+
+482
+00:22:25,640 --> 00:22:27,529
+Right. Well, there's no Pied Piper logo.
+
+483
+00:22:27,600 --> 00:22:30,285
+Like, anywhere. So what's up with that?
+
+484
+00:22:30,360 --> 00:22:31,805
+Oh, well...
+
+485
+00:22:32,440 --> 00:22:33,885
+Homicide is an energy drink,
+
+486
+00:22:33,960 --> 00:22:36,042
+and "power" means energy.
+
+487
+00:22:36,120 --> 00:22:38,805
+So that's kind of confusing to the consumer,
+
+488
+00:22:39,440 --> 00:22:41,090
+so I think we're gonna keep it the way it is.
+
+489
+00:22:41,160 --> 00:22:44,004
+Uh, the whole point of doing this
+
+490
+00:22:44,080 --> 00:22:46,811
+was so that we could
+get our name out there. Remember?
+
+491
+00:22:47,560 --> 00:22:49,403
+I tell you what. Let's see how it goes this time,
+
+492
+00:22:49,480 --> 00:22:50,891
+the next time we'll work something out.
+
+493
+00:22:50,960 --> 00:22:54,726
+No. No. We...
+We can't see how it goes this time.
+
+494
+00:22:54,800 --> 00:22:56,211
+There is no next time. Okay?
+
+495
+00:22:56,280 --> 00:22:58,726
+We are racing to get
+our platform ready for CES.
+
+496
+00:22:58,800 --> 00:23:02,885
+And we took time away from doing that
+to do this so we could get PR value.
+
+497
+00:23:02,960 --> 00:23:05,770
+If no one sees the logo,
+then there's no PR value at all.
+
+498
+00:23:05,840 --> 00:23:08,491
+Oh, man. I'm sorry. But you get it.
+
+499
+00:23:08,880 --> 00:23:10,370
+No, I don't get it.
+
+500
+00:23:10,440 --> 00:23:12,408
+Okay, look, you have to put
+our logo in the viewer.
+
+501
+00:23:12,480 --> 00:23:13,447
+That's it, period.
+
+502
+00:23:13,520 --> 00:23:16,808
+Mmm... Actually,
+I don't have to do a damn thing.
+
+503
+00:23:16,880 --> 00:23:18,291
+- Yeah, you do.
+- No, I don't.
+
+504
+00:23:18,360 --> 00:23:19,725
+Okay, then neither do I.
+
+505
+00:23:19,800 --> 00:23:23,088
+Richard, don't be an asshole
+like your buddy Kool-Aid. Okay?
+
+506
+00:23:23,160 --> 00:23:25,606
+Just finish the build, okay?
+
+507
+00:23:27,280 --> 00:23:28,930
+You know what, Double-A?
+
+508
+00:23:30,480 --> 00:23:32,369
+Erlich was right.
+
+509
+00:23:32,440 --> 00:23:33,521
+You are an asshole.
+
+510
+00:23:34,800 --> 00:23:36,928
+In fact, you're a double-asshole!
+
+511
+00:23:42,320 --> 00:23:43,924
+What did you call me?
+
+512
+00:23:44,560 --> 00:23:47,370
+I... I called you a double-asshole.
+
+513
+00:23:47,720 --> 00:23:49,768
+'Cause, you know, you're being an asshole.
+
+514
+00:23:50,360 --> 00:23:52,089
+Double-A, Double-Asshole. You know?
+
+515
+00:23:52,200 --> 00:23:55,522
+You're twice the asshole.
+Twice-Hole. Double-Asshole.
+
+516
+00:23:57,960 --> 00:24:00,327
+Oh. Ew. Is that a colostomy bag?
+
+517
+00:24:01,400 --> 00:24:04,324
+Do you have any idea
+what it's like to be 10 years old
+
+518
+00:24:04,400 --> 00:24:07,290
+and carry your own shit around in a bag?
+
+519
+00:24:07,360 --> 00:24:10,091
+To have two assholes?
+
+520
+00:24:10,160 --> 00:24:11,605
+All right. I... I didn't know...
+
+521
+00:24:11,720 --> 00:24:13,802
+- <font color="#404040">DINESH:</font> Hey, Richard?
+- We should go.
+
+522
+00:24:13,880 --> 00:24:16,531
+<font color="#404040">BLAINE:</font> "Opportunities:
+urinate on Blaine's grave"?
+
+523
+00:24:17,080 --> 00:24:20,084
+"Grief threesome with Gina and Blaine's
+hot mom, question mark"?
+
+524
+00:24:20,160 --> 00:24:21,650
+- What the fuck?
+- I didn't...
+
+525
+00:24:21,720 --> 00:24:25,008
+- <font color="#404040">DINESH:</font> Richard, quickly!
+- But, I mean, you were being an asshole.
+
+526
+00:24:25,560 --> 00:24:26,971
+Okay, good luck.
+
+527
+00:24:27,280 --> 00:24:28,327
+<font color="#DF01D7">(ERLICH LAUGHING)</font>
+
+528
+00:24:29,040 --> 00:24:30,485
+To his face?
+
+529
+00:24:30,560 --> 00:24:32,449
+You called him that to his face?
+
+530
+00:24:32,520 --> 00:24:34,761
+How could you not mention
+the colostomy bag?
+
+531
+00:24:35,040 --> 00:24:38,487
+Because it's a very private
+and personal matter.
+
+532
+00:24:38,560 --> 00:24:41,882
+-It's not a laughing matter!
+- But you called him Double-Asshole first.
+
+533
+00:24:42,000 --> 00:24:44,685
+- Remember? In college?
+- Yeah, but not to his face.
+
+534
+00:24:44,760 --> 00:24:48,560
+Never to his face!
+Not even I'm that fucking cruel!
+
+535
+00:24:48,640 --> 00:24:50,165
+But you are!
+
+536
+00:24:50,240 --> 00:24:51,526
+I'm actually not.
+
+537
+00:24:51,600 --> 00:24:55,491
+You tore Double-Asshole a third asshole!
+
+538
+00:24:55,680 --> 00:24:56,681
+<font color="#DF01D7">(LAUGHING)</font>
+
+539
+00:24:58,080 --> 00:24:59,570
+Triple-A!
+
+540
+00:25:01,320 --> 00:25:03,766
+- Yeah, that was all my fault somehow?
+- <font color="#404040">ERLICH:</font> God!
+
+541
+00:25:04,320 --> 00:25:05,845
+<font color="#DF01D7">(ERLICH CONTINUES LAUGHING)</font>
+
+542
+00:25:07,440 --> 00:25:09,522
+<font color="#404040">DINESH:</font> Yeah, that was a big wank.
+
+543
+00:25:11,760 --> 00:25:15,446
+Since we're already set up for a live stream,
+might I make a suggestion?
+
+544
+00:25:18,000 --> 00:25:19,001
+Wow.
+
+545
+00:25:19,800 --> 00:25:21,802
+It looks even better than I thought it would.
+
+546
+00:25:24,160 --> 00:25:25,730
+<font color="#404040">DINESH:</font> Is that a still image?
+
+547
+00:25:25,800 --> 00:25:27,040
+It's not frozen, is it?
+
+548
+00:25:27,120 --> 00:25:29,487
+No, it's live. It's just not moving very much
+
+549
+00:25:29,560 --> 00:25:31,369
+because it's a fucking egg.
+
+550
+00:25:31,800 --> 00:25:34,326
+But think of the wonderful things
+going on inside that egg.
+
+551
+00:25:34,400 --> 00:25:37,483
+The resolution in your imagination is infinite.
+
+552
+00:25:37,560 --> 00:25:39,847
+Oh, hey, we're up to 17 views.
+
+553
+00:25:39,920 --> 00:25:43,811
+Okay, well, this isn't the PR coup
+that we'd envisioned,
+
+554
+00:25:43,880 --> 00:25:46,645
+but Nucleus fucked up way worse.
+
+555
+00:25:47,320 --> 00:25:50,563
+At least we can go back to work knowing
+that we're the only middle-out compression
+
+556
+00:25:50,640 --> 00:25:51,846
+that actually functions.
+
+557
+00:25:51,920 --> 00:25:53,888
+New Zealand Sauvignon Blanc?
+
+558
+00:25:53,960 --> 00:25:56,531
+Steel-aged, drinks great during the day.
+
+559
+00:25:56,600 --> 00:25:58,170
+I can move, so you guys
+can stand next to each other.
+
+560
+00:25:58,240 --> 00:25:59,366
+- Jared, no.
+- God, dude, no.
+
+561
+00:25:59,440 --> 00:26:01,204
+-<font color="#DF01D7"> (CELL PHONE VIBRATING)</font>
+- <font color="#404040">MONICA:</font> Come on.
+
+562
+00:26:01,280 --> 00:26:03,408
+- Russ, hey.
+- Good job, my man!
+
+563
+00:26:03,480 --> 00:26:04,766
+Fucking live stream looks amazing!
+
+564
+00:26:04,840 --> 00:26:07,650
+- It does?
+- Yeah, Homicide must be stoked!
+
+565
+00:26:07,720 --> 00:26:10,121
+<i>- Homicide?</i> What?
+<i>- I love the new name. It's kick-ass.</i>
+
+566
+00:26:10,200 --> 00:26:12,202
+<i>I always thought Pied Piper
+was kind of a limp-dick name.</i>
+
+567
+00:26:12,280 --> 00:26:13,361
+EndFrame is way cooler.
+
+568
+00:26:13,440 --> 00:26:15,010
+EndFrame? What?
+
+569
+00:26:17,080 --> 00:26:20,323
+<font color="#404040">ANNOUNCER:</font> Three, two, one! Yeah!
+
+570
+00:26:21,680 --> 00:26:24,729
+- He made it. Farewell, sweet Gina.
+-<font color="#DF01D7"> (CROWD CHEERING)</font>
+
+571
+00:26:25,240 --> 00:26:27,163
+"Powered by EndFrame."
+
+572
+00:26:27,240 --> 00:26:29,083
+Who the fuck is EndFrame?
+
+573
+00:26:29,160 --> 00:26:31,731
+Why is their fucking logo on this live stream?
+
+574
+00:26:31,800 --> 00:26:32,847
+EndFrame isn't you guys?
+
+575
+00:26:32,920 --> 00:26:36,561
+Oh, fuck! EndFrame is those guys
+that brain-raped us at Branscomb Ventures.
+
+576
+00:26:36,680 --> 00:26:38,603
+"EndFrame is a compression company
+
+577
+00:26:38,680 --> 00:26:41,684
+"specializing in
+middle-out compression technology."
+
+578
+00:26:42,240 --> 00:26:44,641
+Those pricks! They stole my algorithm!
+
+579
+00:26:44,720 --> 00:26:47,451
+I know guys at the FBI we could call.
+Were you fucking hacked?
+
+580
+00:26:48,960 --> 00:26:49,961
+Uh...
+
+581
+00:26:50,040 --> 00:26:51,451
+Actually, no.
+
+582
+00:26:51,520 --> 00:26:52,726
+Well, how did they get it then?
+
+583
+00:26:52,840 --> 00:26:55,286
+<i>- I'm sorry'?
+- How did they get it then, Richard?</i>
+
+584
+00:26:55,360 --> 00:26:56,441
+<font color="#404040">RICHARD:</font> How did they get it?
+
+585
+00:26:56,520 --> 00:26:59,922
+Well, we... We kind of found ourselves
+in their conference room,
+
+586
+00:27:00,000 --> 00:27:04,483
+and accidentally sketched out
+our key components
+
+587
+00:27:04,600 --> 00:27:07,285
+to our algorithm's data model
+on their Whiteboards.
+
+588
+00:27:07,360 --> 00:27:08,850
+<font color="#DF01D7">(CHUCKLES NERVOUSLY)</font>
+
+589
+00:27:08,920 --> 00:27:10,206
+- <font color="#404040">RUSS:</font> You fucking...
+-<font color="#DF01D7"> (LINE DISCONNECTS)</font>
+
+590
+00:27:10,880 --> 00:27:12,120
+Russ?
+
+591
+00:27:13,920 --> 00:27:15,410
+He hung up.
+
+592
+00:27:15,880 --> 00:27:18,724
+I'd file this one under "weakness," Jared.
+

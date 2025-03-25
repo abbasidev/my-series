@@ -1,0 +1,2830 @@
+﻿1
+00:00:02,170 --> 00:00:05,090
+[Rusty] <i>Ray, Ray, Ray? You okay? Hey, hey.</i>
+
+2
+00:00:05,090 --> 00:00:07,968
+- [Lorraine] <i>I'm his wife. I'm his wife.</i>
+- [Rusty] <i>Hey, somebody call an ambulance!</i>
+
+3
+00:00:07,968 --> 00:00:09,052
+<i>Did you call an ambulance?</i>
+
+4
+00:00:10,345 --> 00:00:11,888
+[medical personnel clamoring]
+
+5
+00:00:11,888 --> 00:00:13,765
+[paramedic]
+Loss of consciousness upon arrival.
+
+6
+00:00:13,765 --> 00:00:15,892
+- [doctor] Sensing erratic pulse.
+- [paramedic] IV started in the right arm.
+
+7
+00:00:15,892 --> 00:00:18,478
+[doctor] Okay. Let's make sure his O2 is
+at eight liters.
+
+8
+00:00:18,478 --> 00:00:22,857
+He's gonna need a 12-lead EKG,
+a full blood panel, CBC and cross.
+
+9
+00:00:30,490 --> 00:00:32,324
+He's going into V-tach, check his pulse.
+
+10
+00:00:35,579 --> 00:00:36,663
+We've lost the pulse.
+
+11
+00:00:43,461 --> 00:00:47,507
+[monitors beeping]
+
+12
+00:00:57,851 --> 00:00:59,853
+[sirens wailing in distance]
+
+13
+00:01:08,403 --> 00:01:10,989
+[phone buzzing]
+
+14
+00:01:14,618 --> 00:01:16,912
+- Hey, honey.
+- [Barbara] <i>I'm home with the kids.</i>
+
+15
+00:01:16,912 --> 00:01:18,455
+<i>How is he?</i>
+
+16
+00:01:18,955 --> 00:01:20,165
+He's still in surgery.
+
+17
+00:01:20,165 --> 00:01:21,750
+- [reporter on TV] <i>As Raymond Horgan...</i>
+- Okay.
+
+18
+00:01:21,750 --> 00:01:24,044
+- [Rusty] <i>I'll keep you posted, okay?</i>
+- Okay. Okay.
+
+19
+00:01:24,044 --> 00:01:25,295
+- <i>I love you.</i>
+- Yeah. Bye.
+
+20
+00:01:25,295 --> 00:01:27,839
+[reporter] <i>...after suffering
+from an apparent cardiac arrest.</i>
+
+21
+00:01:27,839 --> 00:01:29,966
+- <i>Definitely an unexpected turn of events.</i>
+- [sighs] God.
+
+22
+00:01:29,966 --> 00:01:34,054
+{\an8}<i>We're not hearing at all if this trial is
+actually going to continue at this point.</i>
+
+23
+00:01:34,054 --> 00:01:37,515
+{\an8}<i>Rae, is there any precedent at all
+for this type of thing happening?</i>
+
+24
+00:01:37,515 --> 00:01:40,227
+<i>A defendant jumping in
+and saving his attorney's life?</i>
+
+25
+00:01:40,227 --> 00:01:42,771
+[Rae] <i>You know,
+it typically works the other way around.</i>
+
+26
+00:01:42,771 --> 00:01:45,482
+<i>But to answer your question,
+there's no rule.</i>
+
+27
+00:01:45,482 --> 00:01:46,650
+<i>It's up to the judge.</i>
+
+28
+00:01:46,650 --> 00:01:50,654
+{\an8}<i>And given the one we have here,
+I'd say anything goes at this time.</i>
+
+29
+00:01:50,654 --> 00:01:52,739
+- [TV continues, indistinct]
+- Okay, so if it's a mistrial,
+
+30
+00:01:52,739 --> 00:01:53,907
+they do it all over again?
+
+31
+00:01:53,907 --> 00:01:54,991
+It seems so.
+
+32
+00:01:54,991 --> 00:01:56,952
+[sighs] This is so fucked.
+
+33
+00:01:56,952 --> 00:01:58,453
+[anchor] ...<i>pandemonium there
+at the courtroom.</i>
+
+34
+00:01:58,453 --> 00:02:00,997
+<i>I'm guessing it's the same
+way over at the emergency room.</i>
+
+35
+00:02:05,502 --> 00:02:07,462
+Hey, you want something to drink?
+
+36
+00:02:07,462 --> 00:02:09,381
+You want some water
+or something like that?
+
+37
+00:02:10,257 --> 00:02:11,591
+Yeah.
+
+38
+00:02:11,591 --> 00:02:12,676
+- Yeah, thank you.
+- Yeah?
+
+39
+00:02:18,890 --> 00:02:22,394
+Lorraine, I just want to say I'm so sorry.
+
+40
+00:02:22,394 --> 00:02:23,979
+And, uh, if there's any way I can help...
+
+41
+00:02:23,979 --> 00:02:28,066
+I know that rings hollow...
+but, um, whatever I can do...
+
+42
+00:02:29,651 --> 00:02:30,652
+Um...
+
+43
+00:02:32,237 --> 00:02:34,114
+- Thank you.
+- Yeah.
+
+44
+00:02:34,114 --> 00:02:35,949
+- Okay.
+- [Lorraine] Thanks.
+
+45
+00:02:35,949 --> 00:02:37,158
+- [doctor] Mrs. Horgan?
+- Yeah?
+
+46
+00:02:37,158 --> 00:02:39,202
+- Mrs... Mrs. Horgan?
+- Yeah.
+
+47
+00:02:39,202 --> 00:02:41,538
+He's gonna be okay. Improved, even.
+
+48
+00:02:41,538 --> 00:02:43,164
+- Really?
+- [doctor] It wasn't a coronary.
+
+49
+00:02:43,164 --> 00:02:44,583
+- It was a bradycardia.
+- [Lorraine] Oh, my...
+
+50
+00:02:44,583 --> 00:02:47,794
+It's an... an electrical issue that
+slowed his heart rate down to a near stop.
+
+51
+00:02:47,794 --> 00:02:50,338
+We gave him a pacemaker.
+There's no neurological damage.
+
+52
+00:02:50,964 --> 00:02:54,384
+- He'll walk out improved.
+- Thank you, Doctor. [chuckles]
+
+53
+00:02:54,384 --> 00:02:56,219
+S... So he's gonna be okay?
+
+54
+00:02:56,219 --> 00:02:57,721
+- He's gonna be all right, fine.
+- Yeah.
+
+55
+00:02:57,721 --> 00:02:59,973
+Better. He's in recovery right now.
+
+56
+00:02:59,973 --> 00:03:02,684
+He'll be in his room in a few hours
+and you'll be able to see him then.
+
+57
+00:03:02,684 --> 00:03:04,352
+Oh, my God. [cries, sniffles]
+
+58
+00:03:04,352 --> 00:03:06,396
+- Thank you. Thank you.
+- [doctor] Yeah. You're welcome.
+
+59
+00:03:06,396 --> 00:03:09,190
+- Yeah? [chuckles]
+- [cries]
+
+60
+00:03:18,617 --> 00:03:20,035
+[Nico] We got a problem.
+
+61
+00:03:21,953 --> 00:03:23,038
+Yeah, we got a problem.
+
+62
+00:03:23,038 --> 00:03:28,084
+[sighs] Uh, the jury just saw Rusty
+go all hero an...
+
+63
+00:03:29,085 --> 00:03:30,837
+We need to move for a mistrial.
+
+64
+00:03:31,421 --> 00:03:32,797
+- What?
+- Yeah.
+
+65
+00:03:32,797 --> 00:03:34,341
+- We... We...
+- We're winning.
+
+66
+00:03:34,341 --> 00:03:37,636
+- [chuckling] I'm not so sure of that.
+- A mistrial and he walks.
+
+67
+00:03:37,636 --> 00:03:40,180
+- No. We don't know that.
+- [Tommy] Yes, we do. Come on.
+
+68
+00:03:40,180 --> 00:03:41,890
+Second time through,
+he's gonna know our hand.
+
+69
+00:03:41,890 --> 00:03:45,435
+Think about this. As-As lying,
+cheating psychopaths go,
+
+70
+00:03:45,435 --> 00:03:47,354
+- he's a pretty charming guy, right?
+- It doesn't...
+
+71
+00:03:47,354 --> 00:03:50,607
+And he just saved a human life
+in front of the jury.
+
+72
+00:03:50,607 --> 00:03:53,652
+It can also be argued that
+the jury just saw him act impulsively,
+
+73
+00:03:53,652 --> 00:03:55,195
+physically in a way
+that they saw him snap.
+
+74
+00:03:55,195 --> 00:03:56,821
+But you have to just trust the jury.
+
+75
+00:03:57,781 --> 00:04:00,450
+Know that they're more equipped
+to visualize what happened that night
+
+76
+00:04:00,450 --> 00:04:01,910
+than either of us.
+
+77
+00:04:03,787 --> 00:04:05,497
+{\an8}[podcaster 1]
+<i>So, the question is, "Now what?"</i>
+
+78
+00:04:05,497 --> 00:04:08,458
+{\an8}[scoffs] <i>You can't keep going
+without your head counsel</i>
+
+79
+00:04:08,458 --> 00:04:10,460
+{\an8}<i>this deep into a murder trial.</i>
+
+80
+00:04:10,460 --> 00:04:12,170
+[podcaster 2]
+<i>Maybe they put things on pause?</i>
+
+81
+00:04:12,170 --> 00:04:14,214
+[podcaster 1] <i>I'm pretty sure
+that's not how it works.</i>
+
+82
+00:04:14,214 --> 00:04:17,050
+<i>From everything I'm reading
+from legal experts, it...</i>
+
+83
+00:04:40,282 --> 00:04:42,284
+[reporters clamoring]
+
+84
+00:04:47,372 --> 00:04:49,207
+[Laryn] So what are we thinking?
+
+85
+00:04:50,500 --> 00:04:51,501
+Are we thinking?
+
+86
+00:04:51,501 --> 00:04:52,586
+[inhales sharply]
+
+87
+00:04:52,586 --> 00:04:56,339
+Mr. Delay Guardia,
+you certainly seem cognitively overdue.
+
+88
+00:04:57,007 --> 00:05:00,468
+Mmm. I'm just weighing
+the principles of judicial economics
+
+89
+00:05:00,468 --> 00:05:02,095
+versus those of fairness, you know?
+
+90
+00:05:02,095 --> 00:05:04,806
+We recognize, as agents of the court,
+that we have a duty
+
+91
+00:05:04,806 --> 00:05:07,434
+to ensure proceedings are free
+of prejudice and undue bias.
+
+92
+00:05:07,434 --> 00:05:08,727
+What the fuck are you talking about?
+
+93
+00:05:08,727 --> 00:05:10,395
+We left law school years ago.
+
+94
+00:05:10,395 --> 00:05:12,480
+- What are you talking about?
+- [Nico] I'm saying that
+
+95
+00:05:12,480 --> 00:05:14,316
+we think a mistrial is justified.
+
+96
+00:05:14,316 --> 00:05:16,192
+- Well, that's all you had to say.
+- We oppose.
+
+97
+00:05:18,320 --> 00:05:19,613
+[Laryn scoffs]
+
+98
+00:05:19,613 --> 00:05:21,072
+You wanna keep going?
+
+99
+00:05:22,324 --> 00:05:23,533
+I'm prepared to take over.
+
+100
+00:05:24,034 --> 00:05:26,202
+- Immediately?
+- You're gonna take over?
+
+101
+00:05:27,996 --> 00:05:29,789
+Tomorrow. I'd like a day.
+
+102
+00:05:30,373 --> 00:05:31,875
+Mr. Delay Guardia?
+
+103
+00:05:32,459 --> 00:05:35,879
+Uh... [chuckles] S-S-Sorry.
+
+104
+00:05:35,879 --> 00:05:39,049
+Yeah. Yeah.
+The prosecution stands ready to proceed.
+
+105
+00:05:40,759 --> 00:05:42,385
+I'd like to represent myself.
+
+106
+00:05:47,432 --> 00:05:48,475
+I'm sorry?
+
+107
+00:05:48,475 --> 00:05:52,062
+I'd like to take over as lead counsel.
+My appearance is already on record
+
+108
+00:05:52,062 --> 00:05:53,980
+and Ms. Winslow's experience
+is more limited than my own.
+
+109
+00:05:53,980 --> 00:05:56,233
+- No, a person cannot stand as a witness...
+- [Rusty] She can serve as second chair.
+
+110
+00:05:56,233 --> 00:05:57,817
+...and an advocate in the same proceeding.
+
+111
+00:05:57,817 --> 00:05:59,986
+I will not stand as a witness.
+I'll stipulate that right now.
+
+112
+00:05:59,986 --> 00:06:02,530
+You will be a witness. You're gonna be
+the most clever witness of all time
+
+113
+00:06:02,530 --> 00:06:04,950
+'cause you'll get to put your point
+of view and your demeanor to the jury...
+
+114
+00:06:04,950 --> 00:06:07,285
+- My lead counsel is incapacitated.
+- ...without facing cross-examination.
+
+115
+00:06:07,285 --> 00:06:09,371
+I will not offer
+anything evidentiary or testimonial.
+
+116
+00:06:09,371 --> 00:06:12,207
+And may I remind the court
+that it is my right.
+
+117
+00:06:12,207 --> 00:06:14,876
+Then the court will remind you,
+Mr. Sabich,
+
+118
+00:06:14,876 --> 00:06:16,753
+if you even hint at
+giving your version of events,
+
+119
+00:06:16,753 --> 00:06:20,382
+I will allow prosecution
+to put you into that witness chair,
+
+120
+00:06:20,382 --> 00:06:23,552
+where you will be subject
+to full cross-examination.
+
+121
+00:06:23,552 --> 00:06:25,512
+And should you blow a hole in your foot,
+
+122
+00:06:25,512 --> 00:06:28,098
+you will not be granted appeal
+on Sixth Amendment grounds
+
+123
+00:06:28,098 --> 00:06:30,433
+of having a fool for an attorney.
+
+124
+00:06:30,433 --> 00:06:31,893
+You're gonna go <i>pro per</i>?
+
+125
+00:06:31,893 --> 00:06:34,521
+[Laryn] So long as he doesn't give
+testimony, there's no bar to it.
+
+126
+00:06:35,772 --> 00:06:37,190
+I understand, Your Honor.
+
+127
+00:06:37,190 --> 00:06:38,233
+[scoffs]
+
+128
+00:06:38,233 --> 00:06:39,401
+Bad idea.
+
+129
+00:06:41,069 --> 00:06:42,571
+But you're free to indulge it.
+
+130
+00:06:44,781 --> 00:06:48,368
+I'll instruct the jury,
+and we shall resume tomorrow at 10:00 a.m.
+
+131
+00:06:52,289 --> 00:06:53,957
+You might wanna rethink.
+
+132
+00:06:58,044 --> 00:07:01,256
+How-How can this be?
+You promised me that you would shield him.
+
+133
+00:07:01,256 --> 00:07:03,675
+- We'll do our best.
+- [Caldwell] You'll do your best?
+
+134
+00:07:03,675 --> 00:07:05,135
+You'll do your best?
+
+135
+00:07:06,720 --> 00:07:08,805
+Is no one watching out for my son?
+
+136
+00:07:08,805 --> 00:07:12,225
+He will now be cross-examined
+by the very man who murdered his mother.
+
+137
+00:07:12,225 --> 00:07:14,811
+- It is his right, right to represent...
+- He's a fucking murderer!
+
+138
+00:07:18,481 --> 00:07:21,318
+{\an8}[anchor] <i>Even for a case involving
+such twists and turns,</i>
+
+139
+00:07:21,318 --> 00:07:22,944
+<i>this is still a shocker.</i>
+
+140
+00:07:22,944 --> 00:07:26,323
+<i>And, Eleanor, this whole idea
+of Rusty Sabich representing himself,</i>
+
+141
+00:07:26,323 --> 00:07:28,450
+- <i>what are your thoughts on that?</i>
+- Mom, this is nuts.
+
+142
+00:07:28,450 --> 00:07:30,327
+[Barbara]
+Don't underestimate your father, honey.
+
+143
+00:07:30,327 --> 00:07:32,537
+- Not in that room.
+- Mom, come on.
+
+144
+00:07:33,246 --> 00:07:34,372
+Come the fuck on.
+
+145
+00:07:34,372 --> 00:07:36,249
+- Honey!
+- [thunder rumbles]
+
+146
+00:07:41,338 --> 00:07:44,382
+[footsteps approach]
+
+147
+00:07:48,261 --> 00:07:49,304
+[no audible dialogue]
+
+148
+00:07:53,934 --> 00:07:56,353
+Stop! Stop. [gasps, grunts]
+
+149
+00:07:57,312 --> 00:07:58,521
+[pants, sighs]
+
+150
+00:08:01,691 --> 00:08:04,027
+[reporters clamoring]
+
+151
+00:08:10,033 --> 00:08:11,993
+[reporter 1] Come on, this way!
+This way, please!
+
+152
+00:08:33,847 --> 00:08:35,100
+[sighs]
+
+153
+00:08:37,060 --> 00:08:39,062
+[tap running]
+
+154
+00:08:47,529 --> 00:08:48,613
+[Tommy clears throat]
+
+155
+00:09:01,877 --> 00:09:03,336
+All right, I'll see you in there.
+
+156
+00:09:37,746 --> 00:09:39,748
+[spectators chattering]
+
+157
+00:10:00,936 --> 00:10:02,729
+Please excuse my tardiness, Your Honor.
+
+158
+00:10:19,621 --> 00:10:21,248
+[monitors beeping]
+
+159
+00:10:28,964 --> 00:10:30,298
+Mr. Sabich.
+
+160
+00:10:32,801 --> 00:10:37,222
+Hello, Michael.
+First, let me offer my deep condolences.
+
+161
+00:10:37,222 --> 00:10:39,307
+I cannot imagine
+the pain of losing your mom.
+
+162
+00:10:39,307 --> 00:10:40,642
+You killed my mother.
+
+163
+00:10:49,651 --> 00:10:51,570
+[Rusty] You used to go
+to your mother's house a lot
+
+164
+00:10:52,529 --> 00:10:54,406
+and just watch?
+
+165
+00:10:55,407 --> 00:10:57,117
+To see her life. To see the...
+
+166
+00:10:59,202 --> 00:11:01,913
+the life that she didn't want you
+to be a part of.
+
+167
+00:11:02,581 --> 00:11:03,748
+Yes.
+
+168
+00:11:03,748 --> 00:11:06,918
+Did she ever tell you why she didn't want
+you to be a part of her life?
+
+169
+00:11:08,336 --> 00:11:09,629
+No.
+
+170
+00:11:09,629 --> 00:11:13,425
+Did your father ever tell you
+why she didn't want to?
+
+171
+00:11:15,969 --> 00:11:16,845
+No.
+
+172
+00:11:17,846 --> 00:11:19,681
+Well, that must have made you
+pretty angry.
+
+173
+00:11:20,432 --> 00:11:21,933
+Is that a fair statement?
+
+174
+00:11:22,851 --> 00:11:23,852
+Not enough to kill her.
+
+175
+00:11:23,852 --> 00:11:24,936
+Careful.
+
+176
+00:11:24,936 --> 00:11:27,772
+- Raymond.
+- I'm just watching. [chuckles]
+
+177
+00:11:27,772 --> 00:11:30,859
+That's interesting, Michael,
+'cause in the last few weeks of her life,
+
+178
+00:11:30,859 --> 00:11:35,322
+you had a number of text exchanges
+with your mother.
+
+179
+00:11:37,949 --> 00:11:40,952
+Did you write her,
+"It would be easier if you were dead"?
+
+180
+00:11:40,952 --> 00:11:42,037
+Did you text her that?
+
+181
+00:11:42,787 --> 00:11:44,080
+She didn't just hurt me.
+
+182
+00:11:44,080 --> 00:11:45,290
+She hurt my father.
+
+183
+00:11:45,290 --> 00:11:49,002
+{\an8}"Just really fucking mad at you.
+You ruined my life."
+
+184
+00:11:50,212 --> 00:11:51,588
+Did you text her that?
+
+185
+00:11:53,256 --> 00:11:54,799
+You wished for her death.
+
+186
+00:11:56,426 --> 00:11:58,887
+No, I said it would be easier.
+
+187
+00:11:59,471 --> 00:12:01,056
+People move on from death.
+
+188
+00:12:01,056 --> 00:12:02,515
+Divorce is harder.
+
+189
+00:12:02,515 --> 00:12:04,017
+That's what I meant.
+
+190
+00:12:05,227 --> 00:12:07,812
+Okay. Leave it there. Just... That's good.
+
+191
+00:12:07,812 --> 00:12:09,189
+[Rusty] <i>You took this video of me</i>
+
+192
+00:12:09,189 --> 00:12:11,024
+entering your mother's house
+on the night that she died,
+
+193
+00:12:11,024 --> 00:12:13,610
+and you testified that
+you had seen me go there before.
+
+194
+00:12:13,610 --> 00:12:15,820
+So you were aware
+that your mother and I were lovers.
+
+195
+00:12:19,491 --> 00:12:20,325
+Yes.
+
+196
+00:12:20,325 --> 00:12:23,745
+[Rusty] The idea that
+she didn't want you in her life,
+
+197
+00:12:23,745 --> 00:12:27,832
+but that she would have affection for me,
+that didn't make you hate me at all?
+
+198
+00:12:27,832 --> 00:12:30,252
+I hate you because you killed her.
+
+199
+00:12:32,128 --> 00:12:33,505
+Go easy, Rusty.
+
+200
+00:12:35,590 --> 00:12:37,050
+[spectators murmuring]
+
+201
+00:12:37,050 --> 00:12:41,805
+So after you took this video,
+what did you do?
+
+202
+00:12:41,805 --> 00:12:42,973
+[Michael] I left.
+
+203
+00:12:42,973 --> 00:12:46,476
+And how long after you saw me
+enter her house did you leave?
+
+204
+00:12:46,476 --> 00:12:48,478
+- Pretty much right away.
+- And where did you go?
+
+205
+00:12:48,478 --> 00:12:49,646
+I went home.
+
+206
+00:12:50,397 --> 00:12:51,648
+Who was at home?
+
+207
+00:12:51,648 --> 00:12:52,816
+My father.
+
+208
+00:12:54,442 --> 00:12:56,152
+Just-Just the two of you?
+
+209
+00:12:56,945 --> 00:12:57,904
+[Michael] Yeah.
+
+210
+00:12:57,904 --> 00:12:59,072
+[Rusty] Anybody else?
+
+211
+00:12:59,781 --> 00:13:01,032
+No, it was just us.
+
+212
+00:13:01,032 --> 00:13:04,452
+So nobody to vouch for you but him.
+
+213
+00:13:04,953 --> 00:13:07,706
+And nobody to vouch for him but you.
+
+214
+00:13:07,706 --> 00:13:09,332
+- Objection.
+- Overruled.
+
+215
+00:13:09,332 --> 00:13:12,711
+Did you tell your father that you saw
+your mother's lover go into her house?
+
+216
+00:13:15,338 --> 00:13:17,257
+[Laryn]
+Please answer the question, Michael.
+
+217
+00:13:19,801 --> 00:13:21,678
+I don't remember if I told him anything.
+
+218
+00:13:22,596 --> 00:13:23,930
+So it is possible...
+
+219
+00:13:25,140 --> 00:13:28,018
+it is possible that you told your father
+
+220
+00:13:28,018 --> 00:13:30,937
+that you saw your mother's lover
+go into her house
+
+221
+00:13:30,937 --> 00:13:32,230
+the night that she was killed?
+
+222
+00:13:35,358 --> 00:13:37,193
+I don't remember telling him anything.
+
+223
+00:13:37,193 --> 00:13:39,779
+There are a number of
+documents that were confiscated
+
+224
+00:13:39,779 --> 00:13:42,574
+by the police department on your computer.
+
+225
+00:13:42,574 --> 00:13:46,119
+And it showed that you had a very keen
+interest in your mother's past cases.
+
+226
+00:13:46,119 --> 00:13:49,122
+You went on some true crime websites
+and you were digging for information
+
+227
+00:13:49,122 --> 00:13:50,999
+that wasn't available
+in the mainstream media,
+
+228
+00:13:50,999 --> 00:13:53,585
+including Bunny Davis.
+
+229
+00:13:53,585 --> 00:13:56,296
+- Objection.
+- Sustained. Ask questions, counsel.
+
+230
+00:13:56,296 --> 00:13:57,505
+He's got to be careful.
+
+231
+00:13:57,505 --> 00:13:58,840
+- Did you kill your mother?
+- Objection!
+
+232
+00:13:58,840 --> 00:14:00,342
+How about your father?
+Did he kill your mother?
+
+233
+00:14:00,342 --> 00:14:02,594
+- Wow.
+- Tell me you have a good faith basis.
+
+234
+00:14:02,594 --> 00:14:06,014
+I have grounds to accuse
+neither the witness or his father.
+
+235
+00:14:06,014 --> 00:14:06,973
+How could I possibly?
+
+236
+00:14:06,973 --> 00:14:09,351
+After the briefest and most negligent...
+
+237
+00:14:09,351 --> 00:14:11,269
+- [clamoring]
+- ...of investigations by the police,
+
+238
+00:14:11,269 --> 00:14:13,313
+they were both dismissed
+by the state attorney's office...
+
+239
+00:14:13,313 --> 00:14:14,522
+- He's out of control...
+- [Tommy] Your Honor!
+
+240
+00:14:14,522 --> 00:14:16,399
+For the record, did you kill your mother?
+
+241
+00:14:16,399 --> 00:14:18,109
+Hey! You sick fuck!
+
+242
+00:14:18,735 --> 00:14:19,694
+Dad!
+
+243
+00:14:19,694 --> 00:14:22,656
+- That's enough! Enough!
+- Mr. Caldwell, step back.
+
+244
+00:14:22,656 --> 00:14:23,949
+Are you fucking serious?
+
+245
+00:14:23,949 --> 00:14:26,284
+- [bailiff 1] Move.
+- Step back, Mr. Caldwell.
+
+246
+00:14:26,284 --> 00:14:27,869
+You're supposed to be watching him.
+
+247
+00:14:29,204 --> 00:14:30,747
+[spectators chattering]
+
+248
+00:14:36,336 --> 00:14:39,422
+[reporter 1] Mr. Sabich, were you scared
+when Dalton Caldwell came after you?
+
+249
+00:14:39,422 --> 00:14:41,675
+[reporter 2] Can the prosecution recover
+from such a misstep?
+
+250
+00:14:41,675 --> 00:14:43,468
+[reporter 1]
+Were the Caldwells in this together?
+
+251
+00:14:43,468 --> 00:14:45,971
+[reporter 3] Why do you think so many
+loose ends weren't investigated?
+
+252
+00:15:04,656 --> 00:15:08,577
+[Nico] You know, Raymond used to have
+this saying when a case went south.
+
+253
+00:15:08,577 --> 00:15:13,915
+He'd say there's medium-rare fucked,
+there's medium-plus, there's well-done.
+
+254
+00:15:13,915 --> 00:15:16,001
+I think we might be well-done fucked.
+
+255
+00:15:16,001 --> 00:15:17,085
+[Tommy] He came off as desperate.
+
+256
+00:15:17,085 --> 00:15:19,129
+He's pointing the finger
+at everyone but himself.
+
+257
+00:15:19,129 --> 00:15:20,797
+[Nico] All right. [sighs]
+
+258
+00:15:20,797 --> 00:15:22,340
+All right. All right. Shh.
+
+259
+00:15:22,340 --> 00:15:26,887
+So they established that somebody
+with hatred toward Carolyn Polhemus was
+
+260
+00:15:26,887 --> 00:15:30,807
+at the scene who may have known
+details of the Bunny Davis case.
+
+261
+00:15:30,807 --> 00:15:32,767
+They pinged Liam Reynolds
+
+262
+00:15:33,852 --> 00:15:37,105
+and then the father,
+who went fucking psycho.
+
+263
+00:15:37,939 --> 00:15:41,067
+So we... we... Rigo.
+
+264
+00:15:41,067 --> 00:15:42,485
+- We call fucking Rigo.
+- Rigo?
+
+265
+00:15:42,485 --> 00:15:44,446
+- No, Rigo is firmly in Rusty's camp.
+- Yeah.
+
+266
+00:15:44,446 --> 00:15:46,406
+So was Eugenia.
+It's all about asking the right questions.
+
+267
+00:15:46,406 --> 00:15:48,825
+- Rigo hates me.
+- She doesn't hate me. I can take her.
+
+268
+00:15:48,825 --> 00:15:50,660
+- No.
+- Yeah.
+
+269
+00:15:50,660 --> 00:15:51,828
+- Yeah. Yeah.
+- No.
+
+270
+00:15:51,828 --> 00:15:53,246
+No, I'll tell you why.
+
+271
+00:15:53,246 --> 00:15:54,414
+'Cause if we don't,
+
+272
+00:15:54,414 --> 00:15:57,709
+we're well-done
+beyond-a-reasonable-doubt fucked.
+
+273
+00:16:01,338 --> 00:16:03,840
+- [Rusty] What is Rigo going to say?
+- [Eugenia] I don't know.
+
+274
+00:16:03,840 --> 00:16:05,842
+No, come on. Bullshit.
+You two are friends.
+
+275
+00:16:05,842 --> 00:16:08,011
+- Just tell me what she's go...
+- No, you two are friends.
+
+276
+00:16:08,011 --> 00:16:11,056
+[stammers] She is gonna testify to what?
+
+277
+00:16:11,640 --> 00:16:16,102
+Probably as to what I saw, Rusty,
+and what I'm fucking seeing right now.
+
+278
+00:16:16,102 --> 00:16:17,062
+What does that mean?
+
+279
+00:16:17,062 --> 00:16:20,523
+You're fucking going rogue,
+like you are right here, right now.
+
+280
+00:16:20,523 --> 00:16:22,275
+- [Rusty] Wh...
+- [sighs]
+
+281
+00:16:23,026 --> 00:16:25,695
+You know I didn't want to testify, right?
+
+282
+00:16:26,529 --> 00:16:28,531
+I know that you know that.
+
+283
+00:16:28,531 --> 00:16:30,450
+[sighs] Oh, my God.
+
+284
+00:16:32,953 --> 00:16:34,746
+Did I get this whole thing wrong?
+
+285
+00:16:37,249 --> 00:16:38,375
+- Did I get...
+- What do...
+
+286
+00:16:39,542 --> 00:16:40,627
+Carolyn was a drug.
+
+287
+00:16:40,627 --> 00:16:43,588
+You had an addiction.
+Addictions destroy lives.
+
+288
+00:16:45,131 --> 00:16:48,009
+God. It's one thing to destroy you,
+
+289
+00:16:48,009 --> 00:16:51,179
+but you weren't about
+to let her destroy your family.
+
+290
+00:16:52,597 --> 00:16:56,351
+[cries] Oh, my God.
+
+291
+00:16:56,351 --> 00:16:58,061
+I think she told you that night...
+
+292
+00:16:59,980 --> 00:17:02,524
+that she was gonna keep the baby,
+didn't she?
+
+293
+00:17:03,650 --> 00:17:09,030
+Did she tell you that she was gonna keep
+the baby that night?
+
+294
+00:17:09,823 --> 00:17:11,741
+She was gonna keep that kid.
+
+295
+00:17:12,367 --> 00:17:14,119
+- Your kid.
+- Get out of my car.
+
+296
+00:17:18,707 --> 00:17:20,000
+Get out of my car.
+
+297
+00:17:34,222 --> 00:17:35,432
+[door closes]
+
+298
+00:17:57,704 --> 00:18:00,165
+[Nico] <i>Liam Reynolds was not involved
+in Carolyn Polhemus's murder,</i>
+
+299
+00:18:00,165 --> 00:18:02,834
+and yet the two of you went back to prison
+to see Liam Reynolds.
+
+300
+00:18:02,834 --> 00:18:05,545
+- Is that right?
+- We did.
+
+301
+00:18:06,338 --> 00:18:07,464
+Why?
+
+302
+00:18:07,464 --> 00:18:10,383
+[stammers] We'll let Rusty tell us.
+
+303
+00:18:13,386 --> 00:18:15,263
+[Rusty]
+<i>Even if you did have Carolyn killed,</i>
+
+304
+00:18:17,140 --> 00:18:18,516
+<i>it could work in your favor.</i>
+
+305
+00:18:20,268 --> 00:18:24,814
+<i>You'd have to have an accomplice,
+which means you'd have something to trade.</i>
+
+306
+00:18:24,814 --> 00:18:27,025
+<i>Okay, so just imagine,</i>
+
+307
+00:18:28,068 --> 00:18:32,113
+<i>right now, you're serving
+a life sentence for killing Bunny Davis.</i>
+
+308
+00:18:32,113 --> 00:18:33,698
+<i>But by pointing us to Carolyn,</i>
+
+309
+00:18:33,698 --> 00:18:36,409
+<i>you could possibly see
+the street again, you know?</i>
+
+310
+00:18:36,409 --> 00:18:39,371
+<i>Or even if you had a hand
+in the murder too.</i>
+
+311
+00:18:39,871 --> 00:18:41,748
+Now that... that is perversity.
+
+312
+00:18:41,748 --> 00:18:47,379
+So... So, uh, just to be clear, uh,
+you're telling me incriminating myself...
+
+313
+00:18:47,379 --> 00:18:49,130
+- If you had an accomplice.
+- ...in a prosecutor's murder,
+
+314
+00:18:49,130 --> 00:18:51,299
+- could lead to my freedom?
+- [Rusty] Yes.
+
+315
+00:18:51,800 --> 00:18:56,471
+What's certain is that you are currently
+serving a life sentence without parole.
+
+316
+00:18:56,972 --> 00:18:59,641
+And I am offering you an
+opportunity to change that.
+
+317
+00:19:01,726 --> 00:19:04,729
+Oh, God. [chuckles]
+
+318
+00:19:06,815 --> 00:19:08,275
+<i>This is beautiful.</i>
+
+319
+00:19:08,942 --> 00:19:11,861
+No! God Almighty.
+
+320
+00:19:13,780 --> 00:19:18,118
+I just... I had no fucking idea.
+
+321
+00:19:18,743 --> 00:19:20,203
+[Reynolds] <i>You're desperate.</i>
+
+322
+00:19:21,162 --> 00:19:25,500
+[Nico] A reduced sentence in return for
+confessing to Carolyn Polhemus's murder.
+
+323
+00:19:26,418 --> 00:19:28,879
+I wasn't present.
+I didn't know he was gonna do that.
+
+324
+00:19:28,879 --> 00:19:30,297
+Did you take issue
+with this attempted bribe?
+
+325
+00:19:30,297 --> 00:19:31,339
+Objection!
+
+326
+00:19:31,339 --> 00:19:32,382
+- Sustained.
+- [Nico] I apologize.
+
+327
+00:19:32,382 --> 00:19:35,427
+Did you take issue with this approach?
+
+328
+00:19:36,177 --> 00:19:40,515
+I did. When he told me what happened,
+I said I thought he way crossed the line.
+
+329
+00:19:40,515 --> 00:19:41,600
+Yeah.
+
+330
+00:19:43,560 --> 00:19:44,895
+And did he respond?
+
+331
+00:19:47,898 --> 00:19:49,858
+Yeah, he said something to the effect of...
+
+332
+00:19:49,858 --> 00:19:53,069
+It's my life on the line.
+I'll do whatever I have to.
+
+333
+00:19:53,653 --> 00:19:54,571
+What a hero.
+
+334
+00:19:54,571 --> 00:19:56,865
+When you were first assigned this case
+by the defendant,
+
+335
+00:19:56,865 --> 00:20:00,869
+were you given any particular directives
+as to the collection of evidence?
+
+336
+00:20:02,037 --> 00:20:06,583
+All evidence, forensics and otherwise,
+was to go straight to him and only him.
+
+337
+00:20:06,583 --> 00:20:08,627
+And were you given
+any particular directives
+
+338
+00:20:08,627 --> 00:20:10,420
+as to whom the evidence
+
+339
+00:20:10,420 --> 00:20:13,924
+and the forensics and otherwise
+should be particularly shielded from?
+
+340
+00:20:14,883 --> 00:20:16,176
+Mr. Molto and you.
+
+341
+00:20:17,761 --> 00:20:19,054
+[Nico] That's disappointing.
+
+342
+00:20:24,351 --> 00:20:25,352
+Your witness.
+
+343
+00:20:27,604 --> 00:20:28,605
+[clears throat]
+
+344
+00:20:34,986 --> 00:20:35,987
+Here we go.
+
+345
+00:20:36,488 --> 00:20:40,867
+I was desperate to prove my innocence,
+at all times,
+
+346
+00:20:40,867 --> 00:20:43,119
+of charges that I felt wrongly accused of.
+
+347
+00:20:43,119 --> 00:20:44,329
+Is that a fair statement?
+
+348
+00:20:45,121 --> 00:20:46,122
+Okay.
+
+349
+00:20:46,122 --> 00:20:48,708
+And I steadfastly maintained my innocence
+
+350
+00:20:48,708 --> 00:20:51,545
+in the death of Carolyn Polhemus
+at all times.
+
+351
+00:20:52,504 --> 00:20:54,172
+- Did I not?
+- You did.
+
+352
+00:20:55,715 --> 00:20:59,678
+And in your experience, Detective,
+is it unusual for a prosecutor to ask you
+
+353
+00:20:59,678 --> 00:21:01,680
+to keep information
+between the two of them?
+
+354
+00:21:02,639 --> 00:21:04,182
+In my experience, no, it's not.
+
+355
+00:21:06,142 --> 00:21:11,314
+And you're aware that I asked you
+to keep the evidence between the two of us
+
+356
+00:21:11,314 --> 00:21:13,400
+precisely because I did not trust
+
+357
+00:21:13,400 --> 00:21:16,820
+that Mr. Molto or Mr. Della Guardia
+would conduct a fair investigation.
+
+358
+00:21:16,820 --> 00:21:18,780
+Is that also a fair statement?
+
+359
+00:21:20,282 --> 00:21:21,199
+Yes.
+
+360
+00:21:24,911 --> 00:21:25,912
+Thank you.
+
+361
+00:22:03,992 --> 00:22:05,994
+[panting]
+
+362
+00:22:09,831 --> 00:22:11,833
+- [Barbara] Hi.
+- Hey.
+
+363
+00:22:13,251 --> 00:22:14,878
+[Barbara sighs]
+
+364
+00:22:22,260 --> 00:22:23,261
+How are you doing?
+
+365
+00:22:25,388 --> 00:22:28,391
+[panting] Yeah, you know...
+[stammers] ...they...
+
+366
+00:22:28,391 --> 00:22:30,977
+they pulled up two witnesses
+to assert my...
+
+367
+00:22:30,977 --> 00:22:35,899
+And I was a little too zealous
+in my assertion of my innocence.
+
+368
+00:22:35,899 --> 00:22:38,568
+You know, whatever.
+So what? Case is still good. We're good.
+
+369
+00:22:38,568 --> 00:22:40,695
+- [pants]
+- You went back to using these?
+
+370
+00:22:40,695 --> 00:22:43,031
+[panting]
+
+371
+00:22:44,157 --> 00:22:44,991
+[Barbara] Hmm?
+
+372
+00:22:47,619 --> 00:22:48,787
+I mean, I need to focus.
+
+373
+00:22:51,915 --> 00:22:54,542
+How am I supposed to do that, huh?
+
+374
+00:22:57,337 --> 00:22:58,338
+Mmm.
+
+375
+00:23:05,637 --> 00:23:08,431
+[sighs] You just should've told me, Rusty.
+
+376
+00:23:11,476 --> 00:23:14,104
+[sighs, panting]
+
+377
+00:23:40,255 --> 00:23:43,258
+[all cheering, chuckling]
+
+378
+00:23:43,258 --> 00:23:46,511
+- So good. So good. [chuckles] Yeah.
+- [chuckles] Oh, yeah. Thank you.
+
+379
+00:23:59,482 --> 00:24:00,567
+All rise.
+
+380
+00:24:01,776 --> 00:24:03,403
+The court is now in session.
+
+381
+00:24:03,987 --> 00:24:06,156
+The honorable Judge Lyttle presiding.
+
+382
+00:24:06,823 --> 00:24:08,158
+Be seated.
+
+383
+00:24:11,786 --> 00:24:13,204
+Okay then, Mr. Molto.
+
+384
+00:24:13,204 --> 00:24:14,789
+Does the State have anything else?
+
+385
+00:24:14,789 --> 00:24:15,999
+[Tommy] Yes, Your Honor.
+
+386
+00:24:19,794 --> 00:24:21,504
+The People call Rusty Sabich.
+
+387
+00:24:21,504 --> 00:24:23,006
+[people gasping, murmuring]
+
+388
+00:24:24,049 --> 00:24:25,091
+[gavel raps]
+
+389
+00:24:29,346 --> 00:24:30,805
+What the fuck was that?
+
+390
+00:24:31,598 --> 00:24:35,227
+Well, since Mr. Sabich insisted
+on testifying through Detective Rodriguez,
+
+391
+00:24:35,227 --> 00:24:37,354
+it's only fair that he be sworn in
+and subjected to cross.
+
+392
+00:24:37,354 --> 00:24:38,813
+I didn't hear an objection.
+
+393
+00:24:38,813 --> 00:24:41,399
+I didn't feel the need to,
+as the court made it very clear
+
+394
+00:24:41,399 --> 00:24:43,151
+if the defendant even hinted
+at his version...
+
+395
+00:24:43,151 --> 00:24:44,277
+[stammers] No, I did not testify.
+
+396
+00:24:44,277 --> 00:24:45,987
+I cross-examined a witness
+that you called.
+
+397
+00:24:45,987 --> 00:24:47,906
+But you went beyond the scope
+of our direct.
+
+398
+00:24:47,906 --> 00:24:49,282
+You asserted your innocence.
+
+399
+00:24:49,282 --> 00:24:50,617
+[Rusty] You called the witness
+
+400
+00:24:50,617 --> 00:24:53,870
+and you called the detective
+to establish my guilt and my dishonesty,
+
+401
+00:24:53,870 --> 00:24:55,747
+and my cross went
+to my truthfulness and innocence,
+
+402
+00:24:55,747 --> 00:24:58,124
+well within my scope of direct.
+
+403
+00:24:58,792 --> 00:24:59,960
+You gave your version.
+
+404
+00:25:01,836 --> 00:25:05,006
+I warned you, should you even introduce
+even a morsel
+
+405
+00:25:05,006 --> 00:25:06,883
+of something that's not in evidence...
+
+406
+00:25:07,884 --> 00:25:09,135
+You did exactly that.
+
+407
+00:25:11,096 --> 00:25:14,683
+All right, you got two choices.
+
+408
+00:25:14,683 --> 00:25:16,393
+You want a mistrial, I'll give you one.
+
+409
+00:25:17,018 --> 00:25:18,228
+No questions asked.
+
+410
+00:25:18,812 --> 00:25:22,190
+I won't force you to go on.
+But if we do go on, you get in that chair.
+
+411
+00:25:23,525 --> 00:25:25,360
+You opened the door on this.
+
+412
+00:25:28,530 --> 00:25:30,115
+Take the mistrial, Rusty.
+
+413
+00:25:43,837 --> 00:25:44,921
+I'll testify.
+
+414
+00:25:52,679 --> 00:25:54,931
+- Mya. Mya, they wanted a mistrial.
+- The fuck was that?
+
+415
+00:25:54,931 --> 00:25:56,433
+- [stammers] No.
+- They know they're losing.
+
+416
+00:25:56,433 --> 00:25:58,351
+- That's why they called me!
+- Maybe, maybe.
+
+417
+00:25:58,351 --> 00:26:00,145
+Or maybe they wanted to get you
+on the stand,
+
+418
+00:26:00,145 --> 00:26:01,605
+where you'll be an easy fucking target.
+
+419
+00:26:01,605 --> 00:26:03,189
+Fine, put me in the witness chair.
+
+420
+00:26:03,189 --> 00:26:05,775
+Fine. Let's have Molto's narcissism
+
+421
+00:26:05,775 --> 00:26:07,193
+- on full display.
+- Why? [sighs]
+
+422
+00:26:07,193 --> 00:26:08,236
+And yours won't?
+
+423
+00:26:08,236 --> 00:26:10,113
+What is that supposed to mean?
+
+424
+00:26:10,780 --> 00:26:12,282
+Did you... Did you do it on purpose?
+
+425
+00:26:12,282 --> 00:26:14,951
+[breathes shakily] What?
+
+426
+00:26:14,951 --> 00:26:16,202
+Open the door.
+
+427
+00:26:16,202 --> 00:26:18,038
+- What do you think...
+- You introduced testimony.
+
+428
+00:26:18,038 --> 00:26:19,623
+- Did you do it on purpose?
+- No...
+
+429
+00:26:19,623 --> 00:26:21,333
+[stammers] Why would I do that?
+
+430
+00:26:21,333 --> 00:26:24,920
+'Cause you're Rusty Sabich,
+and you can do whatever you want, right?
+
+431
+00:26:24,920 --> 00:26:28,048
+Mya, maybe... just maybe...
+
+432
+00:26:28,048 --> 00:26:31,384
+I did it because I know
+what the fuck I'm doing. [scoffs]
+
+433
+00:26:31,384 --> 00:26:33,929
+I don't think so.
+
+434
+00:26:36,890 --> 00:26:38,225
+I'm done.
+
+435
+00:26:40,560 --> 00:26:41,561
+[sighs]
+
+436
+00:26:48,526 --> 00:26:52,280
+{\an8}<i>So, Rusty Sabich is expected to
+take the stand in his own defense,</i>
+
+437
+00:26:52,280 --> 00:26:56,826
+{\an8}<i>which means that he'll not only be
+a defendant, he'll be an advocate.</i>
+
+438
+00:26:56,826 --> 00:26:58,536
+<i>He's also gonna be a witness as well.</i>
+
+439
+00:26:58,536 --> 00:26:59,621
+What?
+
+440
+00:26:59,621 --> 00:27:02,165
+[Rae] <i>He is not going to be
+having a second chair,</i>
+
+441
+00:27:02,165 --> 00:27:04,251
+<i>which means
+that he is going to be flying solo.</i>
+
+442
+00:27:04,834 --> 00:27:07,420
+{\an8}<i>A lot resting
+on his shoulders in this trial.</i>
+
+443
+00:27:08,505 --> 00:27:11,925
+[anchor] <i>It feels like Sabich has really
+found himself backed into a corner.</i>
+
+444
+00:27:11,925 --> 00:27:13,677
+<i>And I don't know if anything short
+of a miracle...</i>
+
+445
+00:27:13,677 --> 00:27:14,719
+Oh, God, Rusty.
+
+446
+00:27:14,719 --> 00:27:16,930
+<i>...is going to be able to get him out of it.</i>
+
+447
+00:27:16,930 --> 00:27:18,014
+<i>In other news...</i>
+
+448
+00:27:18,014 --> 00:27:19,516
+[Jaden] Pills. What kind of pills?
+
+449
+00:27:19,516 --> 00:27:21,893
+- [Kyle] He's taking Ritalin.
+- Are you serious?
+
+450
+00:27:21,893 --> 00:27:25,730
+Yeah, I heard Mom on the phone
+with her therapist,
+
+451
+00:27:25,730 --> 00:27:28,275
+and I guess he's taken it
+before for big trials.
+
+452
+00:27:29,651 --> 00:27:30,944
+Makes him sharper.
+
+453
+00:27:32,028 --> 00:27:32,988
+Yeah.
+
+454
+00:27:32,988 --> 00:27:37,492
+And he's taking it now
+before he testifies tomorrow?
+
+455
+00:27:38,076 --> 00:27:39,578
+Yeah, it's fucking stupid.
+
+456
+00:27:52,048 --> 00:27:54,134
+Is it possible to, um,
+
+457
+00:27:54,134 --> 00:27:59,723
+have some of that Rusty Sabich,
+um, fairy dust?
+
+458
+00:28:00,307 --> 00:28:05,520
+I-I don't know if it's...
+if it's something I can, uh, give you.
+
+459
+00:28:06,021 --> 00:28:07,522
+[chuckles]
+
+460
+00:28:23,955 --> 00:28:27,042
+...of course I wanted to talk to her,
+but I swear nothing happened...
+
+461
+00:28:40,388 --> 00:28:42,766
+I needed to see her
+and tell her that it was...
+
+462
+00:28:42,766 --> 00:28:43,850
+that it was over.
+
+463
+00:28:45,685 --> 00:28:51,233
+I needed her to know that...
+I'm sorry, I'm sorry.
+
+464
+00:29:00,033 --> 00:29:02,327
+Please tell me you didn't
+spend the whole night here.
+
+465
+00:29:03,078 --> 00:29:04,496
+No, I came in early.
+
+466
+00:29:06,081 --> 00:29:08,250
+All right. You, uh... You ready?
+
+467
+00:29:08,917 --> 00:29:10,752
+Yeah, I'm ready.
+
+468
+00:29:10,752 --> 00:29:12,837
+[chuckles] Great.
+
+469
+00:29:12,837 --> 00:29:14,839
+So, big day.
+
+470
+00:29:16,633 --> 00:29:19,052
+I was just thinking about law school
+and how hard we worked.
+
+471
+00:29:19,052 --> 00:29:23,223
+- [chuckles]
+- Yeah, just give me one day, Nico.
+
+472
+00:29:23,223 --> 00:29:25,475
+One day,
+when I can just say it was all worth it.
+
+473
+00:29:26,768 --> 00:29:28,270
+Today is that day, Tommy.
+
+474
+00:29:31,648 --> 00:29:33,858
+[podcaster 1] <i>It is like</i> Crime Junkie 101.
+
+475
+00:29:33,858 --> 00:29:37,070
+<i>You don't take the stand
+in your own defense.</i>
+
+476
+00:29:37,070 --> 00:29:39,573
+[podcaster 2] <i>Well, he didn't, right?
+The prosecution called him...</i>
+
+477
+00:29:39,573 --> 00:29:43,034
+[host 1] <i>How do you represent yourself
+without looking like a schizophrenic?</i>
+
+478
+00:29:43,034 --> 00:29:45,203
+[hosts continue, indistinct]
+
+479
+00:29:46,162 --> 00:29:49,541
+[host 2] <i>Something that could create doubt
+in the minds of the jury.</i>
+
+480
+00:29:53,128 --> 00:29:56,172
+[winces, sighs]
+
+481
+00:30:23,867 --> 00:30:25,160
+[phone rings]
+
+482
+00:30:25,869 --> 00:30:27,662
+Oh, fuck.
+
+483
+00:30:31,416 --> 00:30:33,126
+[sighs]
+
+484
+00:30:33,126 --> 00:30:34,211
+[sniffs]
+
+485
+00:30:36,129 --> 00:30:37,088
+[Mya] <i>Hey.</i>
+
+486
+00:30:39,382 --> 00:30:40,634
+Hello, Mya.
+
+487
+00:30:40,634 --> 00:30:41,718
+Good luck today.
+
+488
+00:30:41,718 --> 00:30:45,847
+I just wanted to say the key
+is to not let him rattle you,
+
+489
+00:30:45,847 --> 00:30:47,265
+which will be his intent.
+
+490
+00:30:47,265 --> 00:30:50,268
+<i>To get you to flare.
+You can't take the bait.</i>
+
+491
+00:30:51,186 --> 00:30:52,729
+Thank you, Mya.
+
+492
+00:30:52,729 --> 00:30:54,981
+Am I allowed to give more general advice?
+
+493
+00:30:55,482 --> 00:30:56,942
+Can I say that I'm sorry first?
+
+494
+00:30:58,568 --> 00:30:59,819
+Apology accepted.
+
+495
+00:31:00,904 --> 00:31:02,530
+<i>Maybe you were right.</i>
+
+496
+00:31:04,032 --> 00:31:05,033
+I'm always right.
+
+497
+00:31:06,117 --> 00:31:08,578
+<i>Don't let him let you be an asshole.</i>
+
+498
+00:31:09,371 --> 00:31:12,624
+<i>It would not be good
+for the jury to see you in that light.</i>
+
+499
+00:31:12,624 --> 00:31:14,125
+[breathes heavily]
+
+500
+00:31:15,710 --> 00:31:17,337
+[Mya] <i>Don't cede to them on anything.</i>
+
+501
+00:31:18,755 --> 00:31:20,632
+- [Mya] <i>I'll be there, Rusty.</i>
+- Okay, someone's here.
+
+502
+00:31:20,632 --> 00:31:22,592
+- Um, I gotta go. Thank you, Mya.
+- [Mya] <i>Okay.</i>
+
+503
+00:31:23,426 --> 00:31:24,427
+Hey.
+
+504
+00:31:25,595 --> 00:31:27,973
+- What are you doing here?
+- Doctors cleared me.
+
+505
+00:31:29,099 --> 00:31:30,183
+You need me.
+
+506
+00:31:30,183 --> 00:31:32,644
+Are you sure that it's safe
+to be in the courtroom?
+
+507
+00:31:32,644 --> 00:31:35,855
+Really. Doctors, they say I'm good. You?
+
+508
+00:31:41,403 --> 00:31:42,279
+Yeah.
+
+509
+00:31:44,739 --> 00:31:46,741
+Do you swear to tell the truth,
+the whole truth
+
+510
+00:31:46,741 --> 00:31:48,618
+and nothing but the truth,
+so help you God?
+
+511
+00:31:48,618 --> 00:31:50,036
+- I do.
+- Have a seat.
+
+512
+00:32:02,215 --> 00:32:03,216
+[Tommy sniffs]
+
+513
+00:32:07,470 --> 00:32:08,805
+Mr. Sabich...
+
+514
+00:32:10,932 --> 00:32:13,143
+you stated that
+you maintained your innocence
+
+515
+00:32:13,143 --> 00:32:15,186
+at all times with Detective Rodriguez.
+
+516
+00:32:15,937 --> 00:32:17,480
+- Correct.
+- And that was truthful?
+
+517
+00:32:18,148 --> 00:32:18,982
+It was.
+
+518
+00:32:18,982 --> 00:32:20,734
+You were truthful with her
+about everything?
+
+519
+00:32:20,734 --> 00:32:23,612
+I did not disclose
+my relationship with the victim.
+
+520
+00:32:24,195 --> 00:32:25,238
+Did you disclose to her
+
+521
+00:32:25,238 --> 00:32:27,490
+that you were present
+at the victim's house on the night of?
+
+522
+00:32:28,199 --> 00:32:30,785
+- Eventually.
+- Eventually?
+
+523
+00:32:30,785 --> 00:32:33,455
+So when you first assigned this case
+to Detective Rodriguez
+
+524
+00:32:33,455 --> 00:32:36,833
+in your capacity
+as Chief Deputy Prosecutor,
+
+525
+00:32:36,833 --> 00:32:41,171
+did you tell her that you were present
+at the scene of the crime on the night of?
+
+526
+00:32:41,171 --> 00:32:42,255
+I did not.
+
+527
+00:32:43,006 --> 00:32:45,634
+Did you tell anyone
+that was connected to the case?
+
+528
+00:32:45,634 --> 00:32:46,760
+I did not kill her.
+
+529
+00:32:46,760 --> 00:32:49,930
+Are the first 48 hours the most important
+in any investigation?
+
+530
+00:32:49,930 --> 00:32:52,057
+And would it have been helpful
+for the police
+
+531
+00:32:52,057 --> 00:32:54,726
+and the investigatory team
+to just know that you were there?
+
+532
+00:32:54,726 --> 00:32:55,852
+You made your point, Tommy.
+
+533
+00:32:56,436 --> 00:32:57,812
+I did not disclose my presence.
+
+534
+00:32:57,812 --> 00:33:00,482
+- Were you in love with her?
+- I fell in love with her.
+
+535
+00:33:01,483 --> 00:33:03,777
+[Tommy] Is it fair to say
+you were obsessed with her?
+
+536
+00:33:03,777 --> 00:33:06,613
+I was in love with her.
+As to what qualifies as obsession...
+
+537
+00:33:06,613 --> 00:33:09,407
+Sending 30 texts or emails
+on or near the day of her death.
+
+538
+00:33:09,407 --> 00:33:11,201
+- Would that qualify?
+- I was in love with her.
+
+539
+00:33:11,201 --> 00:33:14,955
+On the night of her death, you went there
+hoping that she would take you back?
+
+540
+00:33:16,081 --> 00:33:16,915
+I did.
+
+541
+00:33:16,915 --> 00:33:20,377
+Did you send these texts
+in the hours before her death?
+
+542
+00:33:20,377 --> 00:33:22,379
+[Tommy] "This is not right.
+You can't do this.
+
+543
+00:33:22,379 --> 00:33:25,507
+I'll not let you treat me this way.
+Answer my fucking calls."
+
+544
+00:33:25,507 --> 00:33:26,841
+- You sent those?
+- I did.
+
+545
+00:33:26,841 --> 00:33:28,260
+And how about this one?
+
+546
+00:33:29,261 --> 00:33:31,137
+"I want to spend
+the rest of my life with you."
+
+547
+00:33:34,057 --> 00:33:35,475
+Did you send Carolyn that text?
+
+548
+00:33:35,475 --> 00:33:37,519
+Did you tell her you wanted to
+spend the rest of your life with her?
+
+549
+00:33:37,519 --> 00:33:38,478
+I was in love with her.
+
+550
+00:33:38,478 --> 00:33:40,939
+- Were you angry with her?
+- I was frustrated.
+
+551
+00:33:40,939 --> 00:33:42,857
+Mmm. Frustrated, like this text?
+
+552
+00:33:44,359 --> 00:33:45,652
+[Tommy] "Answer my fucking calls.
+
+553
+00:33:45,652 --> 00:33:47,904
+{\an8}Who the fuck do you think you are,
+treating me this way?"
+
+554
+00:33:47,904 --> 00:33:50,073
+Is that frustration
+or would that qualify as anger?
+
+555
+00:33:50,073 --> 00:33:52,033
+It would qualify as passion.
+
+556
+00:33:53,076 --> 00:33:54,494
+And passion can blind a person.
+
+557
+00:33:54,995 --> 00:33:57,706
+And I certainly lost sight of the things
+that were most important in my life.
+
+558
+00:33:57,706 --> 00:33:59,749
+My... My wife and my children.
+
+559
+00:34:01,418 --> 00:34:03,336
+Passion is a dangerous drug.
+
+560
+00:34:03,336 --> 00:34:05,589
+One that you're not immune to yourself,
+Tommy.
+
+561
+00:34:06,631 --> 00:34:09,175
+So consumed with trying to take me down
+
+562
+00:34:09,175 --> 00:34:13,054
+that you have lost sight of the fact
+that you have no real evidence.
+
+563
+00:34:13,054 --> 00:34:14,972
+Yes, I was in love with her.
+
+564
+00:34:15,640 --> 00:34:20,729
+Yes, I did not disclose my presence,
+but I did not kill her.
+
+565
+00:34:21,896 --> 00:34:25,191
+- Did you strike her with a fire poker?
+- I never hit her.
+
+566
+00:34:25,191 --> 00:34:26,526
+I am not a violent person.
+
+567
+00:34:28,737 --> 00:34:31,030
+[Tommy] Mr. Ratzer,
+could you please stand?
+
+568
+00:34:35,285 --> 00:34:36,870
+Have you ever encountered
+this person before?
+
+569
+00:34:36,870 --> 00:34:38,413
+There is a context to that.
+
+570
+00:34:38,413 --> 00:34:41,666
+This is footage
+from the adjacent house to yours.
+
+571
+00:34:42,208 --> 00:34:43,585
+The two of you, correct?
+
+572
+00:34:48,006 --> 00:34:50,675
+[Tommy] Does that fairly
+and accurately capture the context?
+
+573
+00:34:51,175 --> 00:34:52,844
+Your Honor, this is unfair surprise.
+
+574
+00:34:52,844 --> 00:34:54,054
+Offer to impeach.
+
+575
+00:34:54,054 --> 00:34:57,182
+The witness just testified
+that he's not violent.
+
+576
+00:34:58,183 --> 00:34:59,267
+I'll allow it.
+
+577
+00:35:01,311 --> 00:35:04,856
+He came to my house uninvited.
+
+578
+00:35:06,066 --> 00:35:08,318
+He trespassed and he intimidated me.
+
+579
+00:35:09,945 --> 00:35:11,029
+So you beat him up?
+
+580
+00:35:12,072 --> 00:35:14,115
+I am guilty of acting out of desperation.
+
+581
+00:35:14,866 --> 00:35:17,452
+It caused me to hide
+my relationship with Carolyn Polhemus.
+
+582
+00:35:17,452 --> 00:35:19,746
+It caused me to zealously pursue
+
+583
+00:35:19,746 --> 00:35:21,790
+an admission from Liam Reynolds
+in her death.
+
+584
+00:35:21,790 --> 00:35:23,667
+It caused me to lash out at Brian Ratzer.
+
+585
+00:35:23,667 --> 00:35:25,126
+By the way, when he came to my house
+
+586
+00:35:25,126 --> 00:35:28,421
+and he violently banged on my door
+when my daughter answered.
+
+587
+00:35:28,421 --> 00:35:31,591
+Am I volatile? Yes. Yes, I'm volatile.
+
+588
+00:35:31,591 --> 00:35:35,136
+A person I loved was brutally murdered.
+And I have been charged with that crime.
+
+589
+00:35:35,136 --> 00:35:37,639
+And circumstances like that
+can bring out, uh,
+
+590
+00:35:37,639 --> 00:35:42,644
+many things in a person,
+desperation being one of them.
+
+591
+00:35:42,644 --> 00:35:45,814
+Uh, weakness, emotional instability.
+
+592
+00:35:46,481 --> 00:35:48,525
+And I apologize for all of those things.
+
+593
+00:35:48,525 --> 00:35:51,486
+I am guilty of all of those things.
+
+594
+00:35:51,486 --> 00:35:55,282
+But what I am not guilty of
+is killing Carolyn Polhemus.
+
+595
+00:35:55,282 --> 00:35:56,741
+I did not take her life.
+
+596
+00:35:59,744 --> 00:36:02,414
+Yeah. What about Dr. Kumagai?
+
+597
+00:36:05,083 --> 00:36:08,169
+Did you ever try to strangle
+our chief medical examiner?
+
+598
+00:36:11,423 --> 00:36:12,674
+[sighs]
+
+599
+00:36:18,054 --> 00:36:20,348
+- You want me to repeat the question?
+- No, I heard the question.
+
+600
+00:36:20,348 --> 00:36:26,187
+It was brought to my attention that
+he had concealed evidence in another case.
+
+601
+00:36:26,187 --> 00:36:29,357
+Uh, I mean, or at least
+improperly failed to make me aware of it.
+
+602
+00:36:29,357 --> 00:36:33,904
+And so things got heated
+between the two of us and, um...
+
+603
+00:36:36,656 --> 00:36:38,700
+I regretfully got phys... physical.
+
+604
+00:36:38,700 --> 00:36:40,368
+You regretfully tried to choke him.
+
+605
+00:36:40,368 --> 00:36:41,703
+No, I did not choke him.
+
+606
+00:36:41,703 --> 00:36:42,787
+Okay, when tempers flared
+
+607
+00:36:42,787 --> 00:36:44,623
+- and you grabbed him by the throat...
+- By the lapel.
+
+608
+00:36:44,623 --> 00:36:47,250
+Okay, when tempers flared
+and you grabbed him by the lapel,
+
+609
+00:36:47,250 --> 00:36:49,669
+did you decide to do that
+or did you just snap?
+
+610
+00:36:51,755 --> 00:36:53,006
+I'm not sure what the question is.
+
+611
+00:36:53,006 --> 00:36:55,634
+Did you decide to do that
+or did you just snap?
+
+612
+00:36:56,843 --> 00:37:00,138
+How about Mr. Ratzer, when you repeatedly
+punched him as we saw in the video?
+
+613
+00:37:00,138 --> 00:37:02,265
+Did you decide to do that
+or did you just snap?
+
+614
+00:37:02,974 --> 00:37:04,184
+He would not leave.
+
+615
+00:37:05,518 --> 00:37:07,854
+What would you do? What would you do?
+
+616
+00:37:11,107 --> 00:37:12,442
+So you snapped.
+
+617
+00:37:21,201 --> 00:37:24,829
+[reporters clamoring] Tommy, over here!
+
+618
+00:37:28,041 --> 00:37:31,294
+[Nico] Hey, look at me. Look at me.
+
+619
+00:37:32,546 --> 00:37:33,964
+That was extraordinary.
+
+620
+00:37:46,935 --> 00:37:48,436
+[Rusty] <i>This is torture.</i>
+
+621
+00:37:49,813 --> 00:37:51,648
+It's fucking torture.
+
+622
+00:37:52,524 --> 00:37:55,318
+I just spend all my days
+lying to my family.
+
+623
+00:37:59,197 --> 00:38:02,242
+When I'm... When I'm with them,
+all I wanna do is be with you.
+
+624
+00:38:06,746 --> 00:38:07,914
+[footsteps approach]
+
+625
+00:38:18,049 --> 00:38:21,887
+[inhales heavily]
+The rest of your life, huh?
+
+626
+00:38:26,641 --> 00:38:28,143
+I don't remember writing that.
+
+627
+00:38:28,143 --> 00:38:29,477
+Just a line?
+
+628
+00:38:35,817 --> 00:38:37,360
+Dare I ask, what now?
+
+629
+00:39:11,895 --> 00:39:13,605
+[rustling]
+
+630
+00:39:59,401 --> 00:40:00,443
+[meows]
+
+631
+00:40:10,328 --> 00:40:13,498
+- [meows]
+- [shushes] Hey.
+

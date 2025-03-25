@@ -1,0 +1,2310 @@
+﻿1
+00:00:07,720 --> 00:00:09,051
+(YELPING)
+
+2
+00:00:09,360 --> 00:00:10,521
+(DINESH GROANS)
+
+3
+00:00:10,600 --> 00:00:13,444
+You only make that face
+when your dick is on fire.
+
+4
+00:00:13,520 --> 00:00:16,000
+- So, you're certain?
+- Definitively.
+
+5
+00:00:16,120 --> 00:00:18,964
+The 36 Hooli phones that blew up at Hoolicon
+
+6
+00:00:19,080 --> 00:00:23,165
+and the 17 that blew up around
+the US, all had our code on them.
+
+7
+00:00:23,400 --> 00:00:25,926
+Richard, these are real people
+
+8
+00:00:26,160 --> 00:00:28,731
+with real crotches, and they're burning.
+
+9
+00:00:28,840 --> 00:00:31,207
+We have to tell someone. This was our fault.
+
+10
+00:00:31,280 --> 00:00:32,441
+No. No, no.
+
+11
+00:00:32,520 --> 00:00:35,444
+Keenan's demo was built to run
+on a $10,000 rig.
+
+12
+00:00:35,520 --> 00:00:38,285
+Jack ported it to a phone in four days.
+
+13
+00:00:38,360 --> 00:00:41,045
+They wrote sloppy code
+that's pinging the antenna constantly,
+
+14
+00:00:41,120 --> 00:00:42,281
+looking for the goggles.
+
+15
+00:00:42,360 --> 00:00:45,887
+That had to have caused
+the phone's antenna to draw too much power.
+
+16
+00:00:45,960 --> 00:00:48,247
+Which would overheat the subpar battery.
+
+17
+00:00:48,360 --> 00:00:50,522
+And when we pinged
+our network on top of all that...
+
+18
+00:00:50,600 --> 00:00:51,840
+Dick fire.
+
+19
+00:00:51,920 --> 00:00:55,242
+Richard, what happened to being Honest Abe
+from now on?
+
+20
+00:00:55,320 --> 00:00:57,049
+We committed a crime here.
+
+21
+00:00:57,160 --> 00:00:58,161
+Barely, Jared.
+
+22
+00:00:58,240 --> 00:01:00,925
+The fact that we hacked those phones
+works in our favor.
+
+23
+00:01:01,000 --> 00:01:02,081
+All of our code is hidden.
+
+24
+00:01:02,160 --> 00:01:06,165
+Agreed. And when Hooli launches
+a new software update to fix the phones,
+
+25
+00:01:06,240 --> 00:01:07,605
+our network will still be functional,
+
+26
+00:01:07,680 --> 00:01:12,288
+Melcher will be happy, Monica will fund us,
+and no one will ever know what we did.
+
+27
+00:01:12,360 --> 00:01:15,409
+<i>-L'll</i> know.
+- Yes, I'll know, too. But I'm okay with it.
+
+28
+00:01:15,480 --> 00:01:17,050
+I'm sorry.
+
+29
+00:01:24,200 --> 00:01:25,645
+What the fuck is this?
+
+30
+00:01:25,720 --> 00:01:28,929
+I write three letters every time I start a job.
+
+31
+00:01:29,000 --> 00:01:32,641
+A personal action plan,
+a letter to my 40-year-old self,
+
+32
+00:01:32,720 --> 00:01:35,166
+and that, a resignation letter.
+
+33
+00:01:35,840 --> 00:01:39,049
+I'll be moving my things back into my condo.
+
+34
+00:01:39,280 --> 00:01:42,011
+- What about your squatter?
+- He's been out for months.
+
+35
+00:01:42,120 --> 00:01:45,363
+He left to go sell cocaine
+at the Keystone pipeline protests.
+
+36
+00:01:45,840 --> 00:01:48,241
+I've just been staying in the garage
+out of solidarity.
+
+37
+00:01:48,680 --> 00:01:49,681
+You can't leave.
+
+38
+00:01:50,280 --> 00:01:51,770
+- Don't beg, Richard.
+-l'm not.
+
+39
+00:01:51,880 --> 00:01:56,442
+According to the employee handbook,
+which you wrote,
+
+40
+00:01:56,520 --> 00:02:00,081
+an employee cannot leave
+without giving two weeks' notice.
+
+41
+00:02:01,520 --> 00:02:05,206
+- You read the handbook?
+- Yeah, I did.
+
+42
+00:02:05,280 --> 00:02:08,966
+All right, fine.
+I'll fulfill my duties under protest.
+
+43
+00:02:09,040 --> 00:02:14,126
+But I will not do anything
+illegal nor unethical, and lwill not lie.
+
+44
+00:02:14,360 --> 00:02:17,921
+I already have upwards of 50 burnt perinea
+on my conscience, Richard.
+
+45
+00:02:18,000 --> 00:02:22,403
+That's enough.
+Consider that my two weeks' notice.
+
+46
+00:02:27,520 --> 00:02:29,727
+All right, keep an eye on Hooli news,
+
+47
+00:02:29,800 --> 00:02:32,963
+and let me know
+when Jack announces the HooliPhone update.
+
+48
+00:02:33,240 --> 00:02:36,642
+What do you mean
+you're not issuing a software update?
+
+49
+00:02:36,760 --> 00:02:40,367
+Who can say why the phone
+Gavin Belson brought to market
+
+50
+00:02:40,440 --> 00:02:45,685
+started exploding when we put
+Keenan Feldspar's technology on it? Huh?
+
+51
+00:02:45,760 --> 00:02:49,207
+Is it Gavin's fault? ls it Keenan's fault?
+ls it 50-50? Who knows?
+
+52
+00:02:49,280 --> 00:02:51,328
+We need to change the narrative here.
+
+53
+00:02:51,440 --> 00:02:55,001
+Has anyone flown commercial recently?
+
+54
+00:02:56,320 --> 00:03:00,484
+Nor have I, but apparently, they're still
+making the announcements at the gate
+
+55
+00:03:00,560 --> 00:03:03,609
+about Samsung Galaxy Note? being banned.
+
+56
+00:03:03,680 --> 00:03:07,366
+We can't have people believing
+that our phones blow up airplanes,
+
+57
+00:03:07,440 --> 00:03:10,683
+no matter how much Gavin
+and/or Keenan may have wanted it.
+
+58
+00:03:11,080 --> 00:03:12,889
+It's lethal PR.
+
+59
+00:03:12,960 --> 00:03:14,928
+We need to get ahead of this one,
+
+60
+00:03:15,000 --> 00:03:20,609
+which is why I am going to pull every last
+affected Hooliphone out of circulation,
+
+61
+00:03:20,720 --> 00:03:22,927
+and replace it in the next three days.
+
+62
+00:03:23,000 --> 00:03:25,810
+That's over nine million devices.
+
+63
+00:03:25,880 --> 00:03:28,167
+Gavin Belson had to move heaven and earth
+
+64
+00:03:28,240 --> 00:03:31,642
+to get our China plants
+up to a capacity of two million per day,
+
+65
+00:03:31,720 --> 00:03:35,008
+and his negotiations with labor
+were extremely delicate.
+
+66
+00:03:35,080 --> 00:03:38,448
+Well, China has never negotiated
+with Jack Barker.
+
+67
+00:03:38,520 --> 00:03:43,526
+What you're proposing is staggeringly
+expensive and borderline impossible.
+
+68
+00:03:43,640 --> 00:03:44,687
+We won't approve it.
+
+69
+00:03:47,000 --> 00:03:48,684
+Isee.Uh“.
+
+70
+00:03:49,720 --> 00:03:50,801
+Slight hitch.
+
+71
+00:03:50,880 --> 00:03:54,362
+I may have instructed my comms team
+to issue a press release
+
+72
+00:03:54,440 --> 00:03:58,126
+announcing the recall,
+and it should be going out at...
+
+73
+00:03:59,880 --> 00:04:01,086
+Yeah, it's out.
+
+74
+00:04:01,440 --> 00:04:02,646
+- Jack.
+- I tell you what.
+
+75
+00:04:02,760 --> 00:04:05,411
+Let's just gas up that Hooli jet,
+
+76
+00:04:05,480 --> 00:04:09,690
+and I am going to go ahead and go to China.
+
+77
+00:04:10,280 --> 00:04:12,328
+(THEME MUSIC PLAYING)
+
+78
+00:04:22,000 --> 00:04:26,085
+So, every fucking Hooliphone that we're on
+is being pulled out of service
+
+79
+00:04:26,200 --> 00:04:28,487
+and replaced with a new one
+that doesn't have our code on it.
+
+80
+00:04:28,560 --> 00:04:30,642
+Half our storage capacity just gone.
+
+81
+00:04:30,720 --> 00:04:33,690
+Where the fuck are we gonna put
+all of Melcher's data?
+
+82
+00:04:34,200 --> 00:04:38,091
+Wait. We have a server farm
+in the garage, right?
+
+83
+00:04:38,160 --> 00:04:40,288
+Now, don't you think
+ifAnton could have saved our ass,
+
+84
+00:04:40,360 --> 00:04:41,566
+I would have suggested it by now?
+
+85
+00:04:41,640 --> 00:04:43,802
+- Why can't it work?
+- What are you, fucking stupid?
+
+86
+00:04:43,880 --> 00:04:47,965
+In order to hold that much data,
+we would have to go RAID 0, no backup.
+
+87
+00:04:48,040 --> 00:04:52,011
+So, if we lose even one platter,
+we lose Melcher's data permanently.
+
+88
+00:04:52,080 --> 00:04:55,527
+Plus, in Anton's present condition,
+I'm afraid he might totally melt down.
+
+89
+00:04:55,600 --> 00:04:58,285
+- We have to call Melcher.
+- No, we are not calling Melcher.
+
+90
+00:04:58,400 --> 00:05:01,006
+If we tell him about any of this,
+that would be suicide.
+
+91
+00:05:01,080 --> 00:05:02,969
+Look, if we're gonna die, let's just die.
+
+92
+00:05:03,040 --> 00:05:04,326
+Why do we have to take Anton with us?
+
+93
+00:05:04,400 --> 00:05:06,880
+Jesus, man.
+You know that thing's not alive, right?
+
+94
+00:05:06,960 --> 00:05:08,291
+Fuck your dumb machine.
+
+95
+00:05:08,360 --> 00:05:10,727
+Wait, do you?
+Do you actually fuck your dumb machine?
+
+96
+00:05:10,800 --> 00:05:12,404
+- Is that the secret on your phone?
+- Fuck you.
+
+97
+00:05:12,480 --> 00:05:14,164
+- Fuck you! Do you raw-dog it?
+- Guys.
+
+98
+00:05:14,240 --> 00:05:16,481
+Or do you put a condom on your tiny penis
+and fuck it in safe mode?
+
+99
+00:05:16,560 --> 00:05:17,846
+RICHARD: Just fuck each other
+and get it over with.
+
+100
+00:05:17,960 --> 00:05:19,928
+-"Oh, Anton, fuck me!"
+- I will fuck both of you.
+
+101
+00:05:20,000 --> 00:05:21,570
+- You just have to fucking...
+- Gentlemen?
+
+102
+00:05:21,920 --> 00:05:23,570
+- Fuck you.
+- This is Gladys.
+
+103
+00:05:25,080 --> 00:05:27,401
+She's interviewing to be my replacement.
+
+104
+00:05:28,240 --> 00:05:31,084
+- Hello.
+- I like your sweater.
+
+105
+00:05:31,160 --> 00:05:33,049
+Maybe let's talk outside.
+
+106
+00:05:33,120 --> 00:05:34,770
+- Great.
+-lt's just right through here.
+
+107
+00:05:35,800 --> 00:05:38,531
+Gilfoyle, Anton is going to be fine, okay?
+
+108
+00:05:38,600 --> 00:05:41,251
+Just spin him up, please?
+
+109
+00:05:41,920 --> 00:05:46,050
+All right, buddy.
+Let's see what you're made of.
+
+110
+00:05:46,240 --> 00:05:47,765
+(WHIRRING)
+
+111
+00:06:02,120 --> 00:06:03,645
+Outstanding.
+
+112
+00:06:03,800 --> 00:06:07,043
+I'm sorry that you had to witness
+that scene in there.
+
+113
+00:06:07,120 --> 00:06:10,841
+It probably gave you the impression
+that the company is in disarray,
+
+114
+00:06:10,920 --> 00:06:14,561
+but I can assure you
+there's a very simple explanation for that.
+
+115
+00:06:14,640 --> 00:06:15,926
+It is.
+
+116
+00:06:16,240 --> 00:06:17,241
+Sorry?
+
+117
+00:06:17,320 --> 00:06:21,086
+Yeah, even setting aside
+our CEO's sexual distortion,
+
+118
+00:06:21,160 --> 00:06:24,528
+adultery and lowbrow scatological vandalism,
+
+119
+00:06:24,600 --> 00:06:28,525
+we're still essentially a criminal operation
+
+120
+00:06:28,600 --> 00:06:31,809
+whose only real product
+is dangerous malware.
+
+121
+00:06:33,160 --> 00:06:34,889
+I see you're fluent in Japanese.
+
+122
+00:06:35,960 --> 00:06:38,770
+Are you going to be comfortable
+with casual racism?
+
+123
+00:06:40,240 --> 00:06:42,811
+I'm sorry, what happened here?
+
+124
+00:06:44,480 --> 00:06:45,481
+Arson.
+
+125
+00:06:55,680 --> 00:06:56,681
+Psst.
+
+126
+00:06:57,080 --> 00:06:59,321
+- Gavin.
+- What?
+
+127
+00:06:59,680 --> 00:07:01,489
+That wasn't really breakfast, was it?
+
+128
+00:07:02,760 --> 00:07:04,922
+- Yeah.
+- Seriously?
+
+129
+00:07:05,000 --> 00:07:06,001
+Shh!
+
+130
+00:07:16,960 --> 00:07:18,041
+What are you doing?
+
+131
+00:07:18,200 --> 00:07:19,850
+Well, I'm watching an episode of House.
+
+132
+00:07:19,960 --> 00:07:22,770
+Put that fucking thing away.
+
+133
+00:07:22,840 --> 00:07:24,330
+Are you afraid it's gonna blow up?
+
+134
+00:07:24,400 --> 00:07:25,970
+'Cause it won't. It's not a Hooliphone.
+
+135
+00:07:29,440 --> 00:07:30,885
+Why would a Hooliphone blow up?
+
+136
+00:07:32,120 --> 00:07:34,282
+Hey, we're done with the migrating.
+
+137
+00:07:34,360 --> 00:07:36,089
+How's it going in here?
+
+138
+00:07:36,160 --> 00:07:38,640
+Don't touch the fucking lights.
+One surge, and we're dead.
+
+139
+00:07:38,720 --> 00:07:40,290
+What the fuck?
+
+140
+00:07:40,400 --> 00:07:41,731
+What?
+
+141
+00:07:41,800 --> 00:07:43,643
+Oh, the eyes. They're contacts.
+
+142
+00:07:43,720 --> 00:07:44,926
+Okay, how are we looking?
+
+143
+00:07:45,400 --> 00:07:46,811
+Jesus Christ!
+
+144
+00:07:46,880 --> 00:07:48,166
+I broke my glasses.
+
+145
+00:07:48,280 --> 00:07:50,726
+I don't have an extra pair,
+so I had to pull these out of a drawer.
+
+146
+00:07:50,800 --> 00:07:54,407
+I had 'em made for All Hallows' Eve.
+I was a cat.
+
+147
+00:07:54,840 --> 00:07:56,444
+How are we looking? Did it all fit?
+
+148
+00:07:56,520 --> 00:08:00,923
+Yes, but Anton is overheating already.
+We're about to fry three of our platters.
+
+149
+00:08:01,560 --> 00:08:02,800
+I said this was a bad idea.
+
+150
+00:08:03,280 --> 00:08:05,760
+Fuck. What are we gonna do?
+
+151
+00:08:05,880 --> 00:08:10,249
+Excuse me, just FYI, Gladys turned us down.
+
+152
+00:08:20,040 --> 00:08:21,929
+Oh, hey, Richard. Long time, no talk.
+
+153
+00:08:22,080 --> 00:08:23,605
+Yeah, we've all been busy, so...
+
+154
+00:08:23,680 --> 00:08:24,761
+- Yeah.
+- Yeah.
+
+155
+00:08:24,840 --> 00:08:28,526
+Hey, listen, Big Head, do you think
+I could get your Stanford login,
+
+156
+00:08:28,600 --> 00:08:30,762
+so I can access the faculty server array?
+
+157
+00:08:30,840 --> 00:08:33,889
+Oh, jeez. Uh...
+I don't think I can do that, man.
+
+158
+00:08:33,960 --> 00:08:37,487
+Sure you can, man.
+Just click on "Forgot Password."
+
+159
+00:08:37,560 --> 00:08:43,408
+No. lt'sjust that I'm kind of on super-thin ice
+with the head of the CS Department right now.
+
+160
+00:08:43,480 --> 00:08:45,289
+<i>After Erlich's whole SeeFood thing,</i>
+
+161
+00:08:45,360 --> 00:08:47,886
+Stanford started looking into
+my academic background,
+
+162
+00:08:47,960 --> 00:08:49,724
+and realized I don't really have one.
+
+163
+00:08:49,840 --> 00:08:54,050
+And now, I'm on probation, and they've got
+this real teacher sitting in, watching me.
+
+164
+00:08:54,120 --> 00:08:56,122
+That is a bummer, but, hey, Big Head,
+
+165
+00:08:56,200 --> 00:08:59,647
+they do genome sequence analysis
+on the Sherlock cluster.
+
+166
+00:08:59,720 --> 00:09:02,849
+They're not gonna notice
+a few more measly petabytes, all right?
+
+167
+00:09:02,920 --> 00:09:06,288
+We'll just get on and get off
+before anyone even notices we're there.
+
+168
+00:09:06,680 --> 00:09:08,250
+<i>Yeah? Come on, man.</i>
+
+169
+00:09:08,360 --> 00:09:10,124
+I need this, all right?
+I wouldn't ask you otherwise.
+
+170
+00:09:10,560 --> 00:09:13,848
+All right. My username is
+
+171
+00:09:13,920 --> 00:09:17,003
+"password" and my password is "password."
+
+172
+00:09:17,680 --> 00:09:19,205
+Your username is "password"?
+
+173
+00:09:19,360 --> 00:09:20,725
+It was just easier.
+
+174
+00:09:20,800 --> 00:09:24,247
+Okay, Big Head came through.
+I've already reserved the resources.
+
+175
+00:09:24,320 --> 00:09:25,810
+We can start the transfer
+whenever we're ready.
+
+176
+00:09:25,880 --> 00:09:28,121
+Slight problem. I can't get online.
+
+177
+00:09:28,360 --> 00:09:31,569
+What the fuck? I can't get on, either.
+
+178
+00:09:31,640 --> 00:09:34,689
+Uh, Gilfoyle, did you
+fry the fucking router again?
+
+179
+00:09:34,800 --> 00:09:35,801
+No.
+
+180
+00:09:36,000 --> 00:09:39,243
+- Jared? Did you pay the broadband bill?
+- No.
+
+181
+00:09:39,320 --> 00:09:42,324
+- I mean, we don't have the funds.
+- What?
+
+182
+00:09:42,400 --> 00:09:45,722
+I tried to bring it to your attention,
+but you said, "Fuck off, Mom."
+
+183
+00:09:45,800 --> 00:09:49,327
+Wait. You're telling me that Anton
+is completely cut off from the outside world?
+
+184
+00:09:50,200 --> 00:09:52,248
+Which means Melcher's data is offline.
+
+185
+00:09:52,520 --> 00:09:55,683
+We're in breach. Shit.
+
+186
+00:09:56,360 --> 00:09:59,523
+Okay, you guys keep Anton alive.
+
+187
+00:09:59,600 --> 00:10:01,921
+I will figure something out.
+
+188
+00:10:02,400 --> 00:10:06,849
+A product recall on that scale?
+What the fuck is Barker thinking?
+
+189
+00:10:06,960 --> 00:10:10,248
+Yeah, I was only at 8%,
+so if you could close some applications...
+
+190
+00:10:11,640 --> 00:10:13,130
+Cell phone?
+
+191
+00:10:13,920 --> 00:10:17,720
+Lama, I need to know
+what Hooli's stock is doing.
+
+192
+00:10:18,960 --> 00:10:22,726
+Enlightenment or ignorance.
+
+193
+00:10:24,200 --> 00:10:27,329
+You must choose.
+
+194
+00:10:27,400 --> 00:10:28,765
+Erlich, get the bags.
+
+195
+00:10:29,120 --> 00:10:31,805
+-(CELLPHONE BUZZING)
+- And then, for the... Hold on, one moment.
+
+196
+00:10:32,520 --> 00:10:34,409
+Richard Hendricks.
+
+197
+00:10:34,480 --> 00:10:37,962
+- What's up?
+- Hi, I was just calling to let you know
+
+198
+00:10:38,040 --> 00:10:41,965
+that we're gonna have to take
+the network down just for a little bit
+
+199
+00:10:42,040 --> 00:10:43,690
+<i>for some routine maintenance.</i>
+
+200
+00:10:43,760 --> 00:10:46,286
+So, your data might be inaccessible.
+
+201
+00:10:46,360 --> 00:10:47,441
+- What?
+- Yeah.
+
+202
+00:10:47,520 --> 00:10:50,410
+<i>- Just for an hour or two. Nothing major.
+- Richard,</i>
+
+203
+00:10:52,000 --> 00:10:55,004
+you're supposed to give me 72 hours' notice
+for any disruption of service.
+
+204
+00:10:55,080 --> 00:10:56,491
+<i>No, Iknow. Iknow. Iknow.</i>
+
+205
+00:10:56,560 --> 00:10:59,609
+But this is just to improve your user
+experience, you know, because we care.
+
+206
+00:10:59,720 --> 00:11:01,848
+DINESH: Falling, falling...
+GILFOYLE: What the fuck are you doing?
+
+207
+00:11:01,920 --> 00:11:04,287
+<i>- DINESH: Sorry, sorry.
+<i>- Is everything okay over there?</i>
+
+208
+00:11:04,400 --> 00:11:05,401
+(DINESH AND GILFOYLE GRUNTING)
+
+209
+00:11:05,560 --> 00:11:08,245
+Yeah. Okay? Yeah, yeah.
+
+210
+00:11:08,600 --> 00:11:09,761
+Dan. Danny, Dan-Dan.
+
+211
+00:11:09,840 --> 00:11:12,207
+It's totally normal. Totally normal.
+
+212
+00:11:12,280 --> 00:11:14,886
+Look, as long as you have it back online
+
+213
+00:11:14,960 --> 00:11:17,122
+<i>-before we open in the morning.</i>
+- Yes, <i>of course.</i>
+
+214
+00:11:17,720 --> 00:11:19,688
+- Hey, you want to talk to Liz?
+- No, no.
+
+215
+00:11:19,760 --> 00:11:22,206
+I'm gonna go get some cake from the back.
+
+216
+00:11:22,280 --> 00:11:26,365
+- Why? They bring it to us.
+- That's okay. I'm just gonna go to them.
+
+217
+00:11:26,440 --> 00:11:27,441
+(CHUCKLES)
+
+218
+00:11:28,120 --> 00:11:29,281
+All right.
+
+219
+00:11:29,440 --> 00:11:31,010
+<i>She's going to them.</i>
+
+220
+00:11:31,600 --> 00:11:33,250
+Never get married, Richard.
+
+221
+00:11:33,320 --> 00:11:35,049
+- Women, right?
+<i>- I'II talk</i> to you.
+
+222
+00:11:35,120 --> 00:11:36,121
+- Bye.
+- Yeah.
+
+223
+00:11:43,120 --> 00:11:45,487
+We'll go to them.
+
+224
+00:11:46,080 --> 00:11:49,129
+- Guys, we'll go to them.
+- Who?
+
+225
+00:11:49,200 --> 00:11:53,967
+Stanford. If we move Anton to Stanford,
+we can plug him directly into the cluster,
+
+226
+00:11:54,120 --> 00:11:57,488
+and we'll be back online
+before Fiduciated opens. It's perfect.
+
+227
+00:11:57,560 --> 00:12:00,848
+Yeah, except for the part about
+moving Anton to fucking Stanford.
+
+228
+00:12:00,960 --> 00:12:02,485
+How the fuck are we gonna do that?
+
+229
+00:12:02,560 --> 00:12:05,040
+We take him apart, move him,
+put him back together.
+
+230
+00:12:05,160 --> 00:12:06,127
+That's insane.
+
+231
+00:12:06,200 --> 00:12:08,487
+Okay, well, unless you happen to have
+
+232
+00:12:08,560 --> 00:12:12,770
+a three-mile long Ethernet cable hidden up
+your fucking asshole, that's the plan!
+
+233
+00:12:12,840 --> 00:12:14,285
+Is Big Head gonna be okay with us
+
+234
+00:12:14,360 --> 00:12:17,409
+just showing up with three tons
+of unauthorized equipment?
+
+235
+00:12:17,480 --> 00:12:19,721
+Yeah! ljust spoke to him on the phone.
+
+236
+00:12:19,840 --> 00:12:21,080
+He was like, "Uh, yeah."
+
+237
+00:12:21,160 --> 00:12:23,970
+Okay do it. I'll get the truck. I'll get a truck.
+
+238
+00:12:24,520 --> 00:12:29,003
+You know, I flew all the way here to Tibet,
+on my own dime.
+
+239
+00:12:29,080 --> 00:12:33,244
+You've killed my battery and I don't feel
+the slightest bit more spiritually-centered.
+
+240
+00:12:33,320 --> 00:12:34,606
+Can this thing go any faster?
+
+241
+00:12:38,640 --> 00:12:40,608
+- Richard.
+- Oh. Yup.
+
+242
+00:12:41,000 --> 00:12:42,161
+Okay, thank you, Jared.
+
+243
+00:12:42,280 --> 00:12:45,204
+Uh, so, what time did Big Head
+say he needed us there?
+
+244
+00:12:45,280 --> 00:12:46,850
+I don't know. He said whenever.
+
+245
+00:12:47,000 --> 00:12:51,130
+Typically, campus security requires
+a specific window for deliveries of this size.
+
+246
+00:12:51,200 --> 00:12:53,282
+- Okay.
+- Did you send him an inventory,
+
+247
+00:12:53,360 --> 00:12:56,728
+so that he could request and clear
+a static IP address for each sewer?
+
+248
+00:12:56,800 --> 00:12:58,325
+No. No, lwouldn't worry about it.
+
+249
+00:12:58,440 --> 00:13:01,364
+- Maybe I'll just give him a call.
+- No, it's fine. It'll be fine.
+
+250
+00:13:01,640 --> 00:13:04,211
+- Well, maybe, l'lljust text him...
+- Jared! Oh, my God!
+
+251
+00:13:04,280 --> 00:13:07,409
+Just stop with the second-guessing,
+
+252
+00:13:07,480 --> 00:13:10,962
+hand-wringing, pearl-clutching bullshit,
+okay, forjust like a fucking minute.
+
+253
+00:13:12,160 --> 00:13:14,891
+You know what? I waive your two weeks'.
+
+254
+00:13:15,360 --> 00:13:16,850
+- You can go.
+- What?
+
+255
+00:13:16,920 --> 00:13:18,843
+You wanted to go, go.
+
+256
+00:13:21,920 --> 00:13:23,968
+Bye, thanks.
+
+257
+00:13:25,640 --> 00:13:27,768
+I'll order a Lyft home then.
+
+258
+00:13:29,560 --> 00:13:31,927
+What the fuck was that? You fired him?
+
+259
+00:13:32,040 --> 00:13:35,840
+He already quit, remember?
+Besides, he was being a fucking asshole.
+
+260
+00:13:36,160 --> 00:13:38,208
+Jared was being an asshole?
+
+261
+00:13:39,200 --> 00:13:40,690
+Do you want to go with him?
+
+262
+00:13:40,760 --> 00:13:42,489
+Because if you haven't noticed,
+
+263
+00:13:42,560 --> 00:13:47,771
+if we don't get this shit to Stanford and
+all set up by 9:00 a.m., we are fucked!
+
+264
+00:13:48,360 --> 00:13:51,887
+JACK: Okay, listen up, everybody.
+Here's the deal.
+
+265
+00:13:52,240 --> 00:13:55,369
+I was just talking to your foreman, Jung-Sho.
+
+266
+00:13:56,400 --> 00:13:58,084
+(SPEAKING OTHER LANGUAGE)
+
+267
+00:13:59,760 --> 00:14:04,641
+And he seems to feel that
+you were all working at maximum capacity,
+
+268
+00:14:04,720 --> 00:14:07,087
+and that you cannot work any harder.
+
+269
+00:14:07,280 --> 00:14:10,727
+But I have just flown from America,
+
+270
+00:14:10,800 --> 00:14:14,930
+and I'm here to prove to you that he is wrong.
+
+271
+00:14:16,000 --> 00:14:19,447
+You can work harder. Much harder. How?
+
+272
+00:14:20,240 --> 00:14:25,690
+With a little system I like to call
+the "Conjoined Triangles of Success"!
+
+273
+00:14:26,280 --> 00:14:27,281
+Come on.
+
+274
+00:14:27,520 --> 00:14:29,090
+(SPEAKING OTHER LANGUAGE)
+
+275
+00:14:31,160 --> 00:14:34,323
+<i>Breaking News. Hooli CEO, Jack Barker,
+has been taken hostage</i>
+
+276
+00:14:34,400 --> 00:14:38,121
+<i>by workers at</i> a <i>Hooli factory in China,
+which produces cellphones.</i>
+
+277
+00:14:38,800 --> 00:14:41,963
+<i>I want everyone to know
+I haven't</i> been <i>harmed.</i>
+
+278
+00:14:42,040 --> 00:14:44,441
+<i>The workers here have assured me</i>
+
+279
+00:14:44,520 --> 00:14:47,808
+<i>that I will only be held as their honored guest</i>
+
+280
+00:14:47,880 --> 00:14:51,248
+<i>until Hooli has met
+their very reasonable request</i>
+
+281
+00:14:51,320 --> 00:14:55,166
+<i>for fair wages and for humane conditions.</i>
+
+282
+00:14:55,240 --> 00:14:57,368
+<i>On</i> a <i>more personal note, honey,</i> I...
+
+283
+00:14:57,440 --> 00:14:58,965
+(PEOPLE TALKING IN OTHER LANGUAGE)
+
+284
+00:14:59,040 --> 00:15:00,644
+<i>I have to stop now.</i>
+
+285
+00:15:02,880 --> 00:15:04,245
+All right.
+
+286
+00:15:04,440 --> 00:15:08,081
+Holy shit!
+I think we can actually make it. All right.
+
+287
+00:15:08,760 --> 00:15:09,761
+Okay.
+
+288
+00:15:09,880 --> 00:15:11,405
+(STARTER CLICKING)
+
+289
+00:15:12,920 --> 00:15:15,321
+- What the fuck?
+- Shit.
+
+290
+00:15:15,400 --> 00:15:16,970
+We must have left the work lights on all night.
+
+291
+00:15:17,440 --> 00:15:19,647
+- Well, do we have jumper cables?
+- Jared did.
+
+292
+00:15:19,720 --> 00:15:22,451
+- Triple A?
+- Sounds like a Jared thing.
+
+293
+00:15:22,520 --> 00:15:27,048
+Wait. Aren't Anton's racks
+full of backup batteries?
+
+294
+00:15:29,360 --> 00:15:31,283
+Okay, how much longer?
+
+295
+00:15:31,360 --> 00:15:34,284
+Give us a minute.
+We just need to connect a few more.
+
+296
+00:15:35,360 --> 00:15:36,361
+(ENGINE STARTING)
+
+297
+00:15:36,680 --> 00:15:38,682
+All right. Try it now?
+
+298
+00:15:38,760 --> 00:15:40,285
+Just fuck the batteries. We don't need them.
+
+299
+00:15:40,360 --> 00:15:41,805
+- Let's go!
+- Okay, hold on.
+
+300
+00:15:41,880 --> 00:15:43,803
+Oh, my God! Just throw them away!
+
+301
+00:15:46,680 --> 00:15:48,489
+Okay, dude. Go, go.
+
+302
+00:15:49,120 --> 00:15:50,326
+Jesus! Shit!
+
+303
+00:15:50,400 --> 00:15:52,607
+Oh, hey, Ashley. That was close.
+
+304
+00:15:52,720 --> 00:15:56,441
+Well, look, it won't be the last time
+you stop traffic, huh? Little hottie.
+
+305
+00:15:56,520 --> 00:15:59,967
+But not now. When you're older. I'm sorry.
+We have to go. Bye.
+
+306
+00:16:00,040 --> 00:16:02,008
+Back up, back up. Please. Thank you.
+
+307
+00:16:02,080 --> 00:16:05,766
+Big Head, hey, I need you to meet me at the
+loading dock behind Spilker in 10 minutes.
+
+308
+00:16:05,840 --> 00:16:06,807
+I'll explain there.
+
+309
+00:16:06,880 --> 00:16:09,451
+Now's not really a great time, Richard.
+
+310
+00:16:09,520 --> 00:16:11,284
+I'm sort of in the middle of something.
+
+311
+00:16:12,040 --> 00:16:14,327
+Wait, you said you already explained.
+
+312
+00:16:14,400 --> 00:16:15,811
+Yeah, I know. ldid.
+
+313
+00:16:15,880 --> 00:16:18,804
+Yeah, it's just Big Head.
+
+314
+00:16:19,200 --> 00:16:20,406
+Come on, buddy, I need you.
+
+315
+00:16:20,480 --> 00:16:22,881
+Okay. (CLEARS THROAT) Be right there.
+
+316
+00:16:25,680 --> 00:16:26,920
+Can I go to the bathroom?
+
+317
+00:16:28,480 --> 00:16:31,882
+Are you sure?
+We don't want to inconvenience you.
+
+318
+00:16:32,080 --> 00:16:33,127
+<i>GAVIN: That's no trouble at all.</i>
+
+319
+00:16:33,200 --> 00:16:37,091
+And there's no need to send a negotiator.
+I'm in Tibet. It's right next door.
+
+320
+00:16:37,160 --> 00:16:39,731
+Well, we'd be grateful
+to have this in such good hands.
+
+321
+00:16:39,800 --> 00:16:43,850
+We've missed you, Gavin.
+Perhaps, when you return...
+
+322
+00:16:43,920 --> 00:16:49,245
+Please, the only thing I'm concerned with
+right now is bringing our boy home safe.
+
+323
+00:16:50,200 --> 00:16:52,680
+Fuck you, Jack Barker!
+
+324
+00:16:52,760 --> 00:16:54,285
+(GRUNTING)
+
+325
+00:16:56,280 --> 00:16:58,203
+H9)'-
+
+326
+00:16:58,280 --> 00:17:01,090
+Opium? Are you fucking kidding me?
+
+327
+00:17:01,160 --> 00:17:02,685
+I was on the phone for like three minutes.
+
+328
+00:17:03,640 --> 00:17:07,201
+Big Head.
+
+329
+00:17:07,280 --> 00:17:10,124
+Come on. Get up.
+We need to get to the airstrip.
+
+330
+00:17:13,600 --> 00:17:14,601
+(SPEAKING MAN DARIN)
+
+331
+00:17:14,920 --> 00:17:16,490
+Excuse me?
+
+332
+00:17:17,440 --> 00:17:20,125
+My friend wants to stay here for a while.
+
+333
+00:17:22,680 --> 00:17:25,490
+How long can you let him stay
+with this money?
+
+334
+00:17:30,440 --> 00:17:31,646
+Five years.
+
+335
+00:17:31,800 --> 00:17:32,801
+Good.
+
+336
+00:17:41,640 --> 00:17:44,644
+Okay, come on. Let's go. Let's go.
+Start unloading it. Come on!
+
+337
+00:17:44,720 --> 00:17:48,088
+Hey, man.
+So, did you ever transfer all that data?
+
+338
+00:17:48,160 --> 00:17:51,767
+No, we just gotta unload our servers
+near the Sherlock array.
+
+339
+00:17:51,880 --> 00:17:55,282
+Servers? Richard, man,
+I told you, now is not a good time for this.
+
+340
+00:17:55,360 --> 00:17:56,964
+- I know, I know.
+- You dick.
+
+341
+00:17:57,480 --> 00:18:00,404
+You never told Big Head
+we were bringing Anton here, did you?
+
+342
+00:18:00,480 --> 00:18:01,481
+Who's Anton?
+
+343
+00:18:01,960 --> 00:18:05,203
+He's everything that's packed into the back
+of this giant fucking truck.
+
+344
+00:18:05,280 --> 00:18:06,850
+And you want to set it all up here?
+
+345
+00:18:07,200 --> 00:18:12,081
+Oh, dude, come on.
+I told you I'm, like, so close to getting fired.
+
+346
+00:18:12,360 --> 00:18:13,725
+Big Head, come on. It's just for a bit.
+
+347
+00:18:13,800 --> 00:18:16,565
+Richard, you specifically told us
+that Big Head said this was okay.
+
+348
+00:18:16,640 --> 00:18:17,880
+That's what you fucking told us!
+
+349
+00:18:17,960 --> 00:18:22,010
+- You lied to our faces again.
+- Come on, guys. We don't have time for this.
+
+350
+00:18:22,120 --> 00:18:24,600
+You were just gonna show up
+and fuckin' steamroll him?
+
+351
+00:18:24,680 --> 00:18:25,681
+That was your whole plan?
+
+352
+00:18:25,760 --> 00:18:29,003
+He's your oldest friend,
+and you're okayjust getting him fired?
+
+353
+00:18:29,080 --> 00:18:30,286
+He's Big Head!
+
+354
+00:18:30,360 --> 00:18:33,284
+He's gonna fall ass backward into something.
+You know he always does.
+
+355
+00:18:33,360 --> 00:18:34,486
+I'm not doing it.
+
+356
+00:18:35,360 --> 00:18:37,044
+- What?
+-l'm out, too.
+
+357
+00:18:37,120 --> 00:18:38,451
+Now?
+
+358
+00:18:38,720 --> 00:18:40,051
+(STAMMERING)
+
+359
+00:18:40,720 --> 00:18:43,007
+We got it, we're here. We did it.
+
+360
+00:18:44,880 --> 00:18:47,326
+You hypocrites.
+
+361
+00:18:48,200 --> 00:18:50,487
+You fucking hypocrites.
+
+362
+00:18:50,560 --> 00:18:52,528
+When I wouldn't use the fake users,
+you called me a pussy.
+
+363
+00:18:52,600 --> 00:18:55,604
+When I wouldn't lie on the stand,
+you called me a pussy.
+
+364
+00:18:55,680 --> 00:19:00,720
+But now, when I'm actually doing what
+you've been wanting me to do, you quit?
+
+365
+00:19:01,560 --> 00:19:03,927
+You're the pussies. You are the pussies.
+
+366
+00:19:04,000 --> 00:19:08,961
+I'm the only one that's trying
+to fucking save what we do here!
+
+367
+00:19:09,040 --> 00:19:10,644
+All this time we spent building this thing,
+
+368
+00:19:10,720 --> 00:19:13,610
+and now, now it falls apart
+because you two don't fucking do it?
+
+369
+00:19:13,680 --> 00:19:16,286
+- This is too much for you? Well, fuck you!
+- Hey, guys?
+
+370
+00:19:17,480 --> 00:19:20,165
+- This is fine.
+- What?
+
+371
+00:19:20,240 --> 00:19:24,006
+Yeah, my bad. I thought you were talking
+about, like, a lot more stuff.
+
+372
+00:19:24,120 --> 00:19:25,121
+Great.
+
+373
+00:19:28,280 --> 00:19:29,281
+GILFOYLEI Oh...
+
+374
+00:19:32,960 --> 00:19:34,246
+Fuck.
+
+375
+00:19:36,440 --> 00:19:38,522
+So, anyways, my office is unlocked
+
+376
+00:19:38,600 --> 00:19:41,410
+if you guys just wanna, like,
+toss that on my desk, or whatever.
+
+377
+00:19:42,000 --> 00:19:45,766
+I should probably get back, though,
+before that teacher guy gets me in trouble.
+
+378
+00:19:46,120 --> 00:19:47,326
+I'll see you guys.
+
+379
+00:19:49,640 --> 00:19:50,846
+RICHARD; HOW?
+
+380
+00:19:52,320 --> 00:19:53,765
+Who?
+
+381
+00:19:54,160 --> 00:19:58,210
+You had me open up the back
+to get the batteries,
+
+382
+00:19:58,280 --> 00:20:00,521
+and then you told me not to put them back.
+
+383
+00:20:00,600 --> 00:20:03,843
+So, no one...
+
+384
+00:20:05,640 --> 00:20:08,803
+You know who would have remembered
+to close the door?
+
+385
+00:20:08,880 --> 00:20:09,927
+Jared.
+
+386
+00:20:10,920 --> 00:20:12,126
+(CELL PHONE BUZZING)
+
+387
+00:20:13,280 --> 00:20:14,805
+It's Melcher.
+
+388
+00:20:15,880 --> 00:20:17,723
+Good luck with that.
+
+389
+00:20:23,040 --> 00:20:24,041
+(SIGHS)
+
+390
+00:20:27,920 --> 00:20:28,921
+(ENGINE STARTING)
+
+391
+00:20:30,200 --> 00:20:31,201
+(CELL PHONE BUZZING)
+
+392
+00:20:42,760 --> 00:20:43,761
+(KNOCKING)
+
+393
+00:20:46,720 --> 00:20:47,846
+Richard?
+
+394
+00:20:48,040 --> 00:20:51,931
+- Can I come in?
+- Uh, I have company.
+
+395
+00:20:52,000 --> 00:20:53,047
+(WOMAN LAUGHING)
+
+396
+00:20:53,160 --> 00:20:54,286
+ls there a girl in there?
+
+397
+00:20:54,360 --> 00:20:55,361
+(WOMEN LAUGHING)
+
+398
+00:20:56,640 --> 00:20:57,926
+How many girls are in there?
+
+399
+00:20:58,000 --> 00:20:59,490
+Richard, what do you want from me?
+
+400
+00:20:59,560 --> 00:21:02,450
+Nothing. It's just you were right about all of it.
+
+401
+00:21:03,000 --> 00:21:08,530
+I killed Anton, and I lost all of Melcher's data.
+
+402
+00:21:08,600 --> 00:21:09,726
+Everybody fucking hates me.
+
+403
+00:21:10,200 --> 00:21:15,366
+And I'm basically, one blood boy away
+from being Gavin Belson.
+
+404
+00:21:16,800 --> 00:21:20,600
+I did not run the company with integrity.
+
+405
+00:21:22,320 --> 00:21:26,530
+But I'm gonna end it with some.
+
+406
+00:21:27,120 --> 00:21:29,885
+I'm going to Melcher's office
+and I'm coming clean.
+
+407
+00:21:30,640 --> 00:21:31,641
+AnyWaY- --
+
+408
+00:21:33,560 --> 00:21:36,166
+I'm really fuckin' sorry, man.
+
+409
+00:21:37,200 --> 00:21:39,441
+Well... I'll leave you alone now.
+
+410
+00:21:40,200 --> 00:21:43,283
+Hey, this guy fucks.
+
+411
+00:21:49,560 --> 00:21:50,561
+JARED: Richard!
+
+412
+00:21:59,240 --> 00:22:00,241
+What's this?
+
+413
+00:22:00,400 --> 00:22:01,890
+It's a job application.
+
+414
+00:22:01,960 --> 00:22:05,123
+I'd like to submit myself
+for a position with Pied Piper.
+
+415
+00:22:05,200 --> 00:22:07,771
+I'd really like to be there till the bitter end.
+
+416
+00:22:18,440 --> 00:22:21,125
+"Lordy, lordy, look who's 40."
+
+417
+00:22:22,160 --> 00:22:23,400
+That's the wrong one.
+
+418
+00:22:25,440 --> 00:22:27,647
+I gotta say, Gavin,
+
+419
+00:22:27,920 --> 00:22:29,524
+when that storeroom door opened
+
+420
+00:22:29,600 --> 00:22:33,491
+and I saw your face grinning down at me,
+I thought it was an angel.
+
+421
+00:22:34,120 --> 00:22:36,600
+When we get home,
+I'm going to do everything in my power
+
+422
+00:22:36,680 --> 00:22:40,207
+to get you back
+in the good graces of the Hooli board.
+
+423
+00:22:40,280 --> 00:22:43,329
+I can use a fellow of your talent, sir.
+
+424
+00:22:43,400 --> 00:22:46,370
+That's very gracious of you, Jack. Thank you.
+
+425
+00:22:46,600 --> 00:22:47,840
+ATTENDANT: Welcome aboard, gentlemen.
+
+426
+00:22:48,240 --> 00:22:51,323
+Our flying time to Mountain View
+is 11 hours and 36 minutes,
+
+427
+00:22:51,400 --> 00:22:53,368
+and we will be stopping off
+at Jackson Hole first.
+
+428
+00:22:53,960 --> 00:22:54,961
+Oh.
+
+429
+00:22:55,040 --> 00:22:57,805
+Stopping off at Jackson Hole, are you, Gavin?
+
+430
+00:22:57,880 --> 00:22:59,962
+No, Jack, you are.
+
+431
+00:23:03,400 --> 00:23:06,802
+Jackson Hole is definitively out of the way.
+Everyone knows that,
+
+432
+00:23:07,520 --> 00:23:11,161
+but I don't mind dropping you off first
+this one last time.
+
+433
+00:23:18,680 --> 00:23:22,571
+- Hey. What are you guys doing here?
+- Jared called us.
+
+434
+00:23:22,640 --> 00:23:24,608
+If you're gonna eat a giant plate
+of steaming hot shit,
+
+435
+00:23:24,680 --> 00:23:26,682
+we figured it should probably be a team effort.
+
+436
+00:23:28,400 --> 00:23:32,325
+Okay. Thanks. I'll go check in.
+
+437
+00:23:34,680 --> 00:23:37,001
+Hi, could you tell Dan Melcher
+that Richard Hendricks
+
+438
+00:23:37,080 --> 00:23:39,082
+and the guys from Pied Piper
+are here to see him?
+
+439
+00:23:39,160 --> 00:23:40,321
+You guys are Pied Piper?
+
+440
+00:23:40,400 --> 00:23:43,210
+The guys who built our data storage network?
+It's awesome.
+
+441
+00:23:44,040 --> 00:23:46,486
+Yeah, it was awesome
+until it crashed this morning.
+
+442
+00:23:46,560 --> 00:23:48,722
+I was just using it two minutes ago.
+It's working fine.
+
+443
+00:23:51,360 --> 00:23:53,567
+- Really?
+- Yeah.
+
+444
+00:23:56,520 --> 00:23:57,601
+What's he talking about?
+
+445
+00:24:03,040 --> 00:24:06,681
+-It's up. All of Melcher's data is there.
+- But how is that possible?
+
+446
+00:24:06,760 --> 00:24:09,286
+Well, what are those devices?
+Those aren't phones.
+
+447
+00:24:09,360 --> 00:24:10,885
+(GILFOYLE CHUCKLING)
+
+448
+00:24:11,720 --> 00:24:15,042
+Why the fuck are you laughing?
+You look fucking insane right now.
+
+449
+00:24:16,240 --> 00:24:18,925
+Look at that OUI prefix
+in these MAC addresses.
+
+450
+00:24:19,000 --> 00:24:20,650
+Yeah, okay, so what are those?
+
+451
+00:24:20,720 --> 00:24:24,884
+Smart fridges. About 30,000 of them.
+
+452
+00:24:24,960 --> 00:24:25,961
+Come again?
+
+453
+00:24:26,040 --> 00:24:28,486
+Jian-Yang's smart fridge
+must have been self-correcting.
+
+454
+00:24:28,560 --> 00:24:32,007
+In order to fit my Suck it, Jian-Yang video
+onto his fridge,
+
+455
+00:24:32,080 --> 00:24:34,731
+I had to add Pied Piper libraries
+to the firmware.
+
+456
+00:24:34,840 --> 00:24:37,525
+Other smart fridges
+must have seen this as an update.
+
+457
+00:24:37,600 --> 00:24:38,601
+What?
+
+458
+00:24:38,680 --> 00:24:40,364
+The smart fridges talk to each other,
+
+459
+00:24:40,440 --> 00:24:42,807
+-and they share the newest software.
+- Right.
+
+460
+00:24:42,960 --> 00:24:44,724
+<i>So, when we put that data onto Anton,</i>
+
+461
+00:24:44,800 --> 00:24:47,280
+<i>the last thing he did before he died
+was back himself up</i>
+
+462
+00:24:47,360 --> 00:24:51,206
+<i>onto</i> a <i>huge network of smart fridges.</i>
+
+463
+00:24:51,680 --> 00:24:54,081
+Anton died, so we could live.
+
+464
+00:24:54,240 --> 00:24:55,241
+Like Jesus.
+
+465
+00:24:56,280 --> 00:24:57,281
+Oh, fuck.
+
+466
+00:24:57,360 --> 00:24:59,840
+Guys, do you realize whatjust happened?
+
+467
+00:24:59,920 --> 00:25:02,969
+- We're still alive. The network is stable.
+- GILFOYLE: Mmm-hmm.
+
+468
+00:25:03,040 --> 00:25:05,247
+The new Internet works, and this is the proof.
+
+469
+00:25:05,320 --> 00:25:07,448
+- We did it!
+- RICHARD: Yes, we did.
+
+470
+00:25:07,560 --> 00:25:09,608
+Wait a minute.
+
+471
+00:25:09,680 --> 00:25:12,604
+If Melcher never lost access to his data,
+what is he so upset about?
+
+472
+00:25:12,680 --> 00:25:14,648
+Richard! Richard! I'm so sorry!
+
+473
+00:25:14,720 --> 00:25:18,805
+We were tasting cakes, and then you called,
+and then itjust came out.
+
+474
+00:25:18,880 --> 00:25:19,881
+What came out?
+
+475
+00:25:19,960 --> 00:25:21,928
+- You son of a bitch!
+- Save yourself!
+
+476
+00:25:22,320 --> 00:25:23,560
+(BOTH SCREAMING)
+
+477
+00:25:24,240 --> 00:25:25,765
+- RICHARD: I'm sorry!
+-l'm guessing there's a story here.
+
+478
+00:25:25,840 --> 00:25:28,525
+- Stand down! No, no, no!
+- That's it! Help!
+
+479
+00:25:33,280 --> 00:25:34,281
+Gavin.
+
+480
+00:25:36,560 --> 00:25:37,561
+I like your hair.
+
+481
+00:25:37,960 --> 00:25:40,850
+- I like your eye.
+- Yeah, I got it from a woman.
+
+482
+00:25:40,920 --> 00:25:42,968
+She didn't hit me. No, the man did...
+
+483
+00:25:43,040 --> 00:25:45,691
+Because of sex that I gave to her.
+
+484
+00:25:46,800 --> 00:25:48,882
+So, welcome home.
+
+485
+00:25:49,400 --> 00:25:51,641
+And congratulations
+on getting your business back.
+
+486
+00:25:51,720 --> 00:25:54,724
+Thank you, and I should congratulate you
+on your remarkable tech breakthrough.
+
+487
+00:25:54,800 --> 00:25:58,486
+- I hear you're swimming in funding offers.
+- A few.
+
+488
+00:25:58,560 --> 00:26:01,530
+I think we're gonna go with Bream-Hall.
+They seem to get us.
+
+489
+00:26:01,880 --> 00:26:03,803
+You haven't seen all the offers yet.
+
+490
+00:26:08,640 --> 00:26:13,043
+Richard, we were partners once.
+I'd like to do it again.
+
+491
+00:26:13,120 --> 00:26:17,170
+This is an acquisition offer,
+and it will make you a very wealthy man.
+
+492
+00:26:17,400 --> 00:26:19,687
+Let's do this together.
+
+493
+00:26:19,840 --> 00:26:22,605
+That's very kind of you.
+
+494
+00:26:22,680 --> 00:26:25,126
+- But“
+- Richard, at least look it over.
+
+495
+00:26:25,200 --> 00:26:28,727
+I can help you get exactly
+where you want to go.
+
+496
+00:26:29,240 --> 00:26:32,403
+I'm pretty sure I know
+where I want to go and how to get there.
+
+497
+00:26:33,480 --> 00:26:36,324
+If you reject me now, Richard,
+I will come after you.
+
+498
+00:26:36,400 --> 00:26:37,526
+Hldevouryou.
+
+499
+00:26:37,600 --> 00:26:39,967
+Think very carefully
+about what you're doing here.
+
+500
+00:26:40,040 --> 00:26:42,008
+Here's what I think, Gavin.
+
+501
+00:26:42,120 --> 00:26:47,490
+I think my decentralized Internet
+threatens Hooli's box business model.
+
+502
+00:26:48,680 --> 00:26:51,365
+I think, basically,
+you are just a server company now,
+
+503
+00:26:51,440 --> 00:26:53,966
+and we intend to make servers obsolete.
+
+504
+00:26:54,040 --> 00:26:57,203
+So, I think perhaps in the end,
+
+505
+00:26:57,280 --> 00:26:59,726
+I will be the one devouring you.
+
+506
+00:27:01,320 --> 00:27:03,084
+I gave you that patent.
+
+507
+00:27:04,360 --> 00:27:06,442
+Thanks.
+
+508
+00:27:08,800 --> 00:27:09,801
+(CHUCKLES)
+
+509
+00:27:10,160 --> 00:27:11,161
+Fair enough, Richard.
+
+510
+00:27:13,680 --> 00:27:15,603
+I shall look forward to the fight.
+
+511
+00:27:16,560 --> 00:27:18,688
+Right back at you Gaby, baby.
+
+512
+00:27:19,360 --> 00:27:20,361
+Gavin.
+
+513
+00:27:22,920 --> 00:27:23,967
+Oh, um...
+
+514
+00:27:24,040 --> 00:27:26,202
+Did Erlich ever show up in Tibet?
+
+515
+00:27:27,760 --> 00:27:28,761
+No.
+
+516
+00:27:41,320 --> 00:27:43,049
+Jesus, what the hell did he order?
+
+517
+00:27:43,120 --> 00:27:44,610
+(MARIACHI BAN D PLAYING)
+
+518
+00:27:44,960 --> 00:27:48,965
+No, no, no, no, no, no. No, no, stop. Stop it.
+
+519
+00:27:49,400 --> 00:27:51,084
+No.DonT
+
+520
+00:28:03,160 --> 00:28:05,003
+(THEME MUSIC PLAYING)
+
