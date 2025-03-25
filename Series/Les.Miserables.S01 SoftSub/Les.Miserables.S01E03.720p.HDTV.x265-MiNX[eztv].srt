@@ -1,0 +1,2602 @@
+1
+00:00:02,096 --> 00:00:03,221
+His name is Jean Valjean.
+
+2
+00:00:03,246 --> 00:00:06,711
+He stole from a child and
+never paid for his crime.
+
+3
+00:00:06,736 --> 00:00:07,911
+What are you doing in Paris?
+
+4
+00:00:07,936 --> 00:00:10,191
+I've identified a dangerous criminal.
+
+5
+00:00:10,216 --> 00:00:12,630
+He's now posing as the Mayor of Montreuil.
+
+6
+00:00:12,655 --> 00:00:13,831
+You're mistaken.
+
+7
+00:00:15,856 --> 00:00:19,430
+Maman!
+She has a bastard child
+she abandoned at Montfermeil!
+
+8
+00:00:19,455 --> 00:00:21,680
+No! I send 15 francs per month.
+
+9
+00:00:21,705 --> 00:00:23,430
+You lied to me! You're dismissed.
+
+10
+00:00:25,525 --> 00:00:26,630
+Are you selling, dear?
+
+11
+00:00:27,856 --> 00:00:30,071
+I've been a sinner.
+
+12
+00:00:30,096 --> 00:00:35,291
+But when I have my Cosette with me,
+it will mean God has forgiven me.
+
+13
+00:00:35,856 --> 00:00:37,711
+She must be rolling in it!
+
+14
+00:00:37,736 --> 00:00:39,500
+I don't think you've
+been asking for enough!
+
+15
+00:00:39,525 --> 00:00:41,471
+She stinks of degradation.
+
+16
+00:00:41,496 --> 00:00:44,500
+Fantine! I was wrong. Let
+me try to make amends.
+
+17
+00:00:44,525 --> 00:00:47,191
+I'll find your child so
+that you can be together.
+
+18
+00:00:47,216 --> 00:00:48,216
+I promise.
+
+19
+00:00:49,496 --> 00:00:52,430
+The real Valjean has been found.
+
+20
+00:00:52,455 --> 00:00:54,711
+He's about to stand trial in Arras.
+
+21
+00:00:54,736 --> 00:00:56,071
+It's over for him.
+
+22
+00:00:56,096 --> 00:00:57,911
+The child should be fetched without delay.
+
+23
+00:00:57,936 --> 00:00:59,961
+Yes, I understand, Sister!
+
+24
+00:00:59,986 --> 00:01:02,430
+I need you to go to Montfermeil
+and fetch her little girl.
+
+25
+00:01:02,455 --> 00:01:04,221
+There's somewhere else I have to be.
+
+26
+00:01:09,136 --> 00:01:10,961
+Where's Monsieur Madeleine?
+
+27
+00:01:13,816 --> 00:01:15,831
+Monsieur le Maire's gone to Montfermeil.
+
+28
+00:01:23,655 --> 00:01:24,961
+Ah!
+
+29
+00:01:24,986 --> 00:01:26,510
+He's gone to fetch…
+
+30
+00:01:27,936 --> 00:01:28,936
+…Cosette.
+
+31
+00:01:32,216 --> 00:01:33,216
+That's what it is.
+
+32
+00:01:36,426 --> 00:01:40,071
+He's gone to fetch my little girl.
+
+33
+00:02:39,805 --> 00:02:41,570
+Prisoner at the bar.
+
+34
+00:02:41,595 --> 00:02:45,780
+You stand accused of the theft
+of property, to wit, nine apples
+
+35
+00:02:45,805 --> 00:02:47,570
+from the Pierron orchard,
+
+36
+00:02:47,595 --> 00:02:52,791
+which you claim you found on the
+ground outside the orchard walls.
+
+37
+00:02:55,595 --> 00:03:00,811
+It is for the jury to decide whether
+your version of events is true.
+
+38
+00:03:01,526 --> 00:03:02,780
+And in making their decision,
+
+39
+00:03:02,805 --> 00:03:07,251
+they will no doubt take into account
+the fact that four witnesses -
+
+40
+00:03:07,276 --> 00:03:11,421
+three of your fellow former
+prisoners and a former guard
+
+41
+00:03:11,446 --> 00:03:16,211
+of the prison, Inspector Javert -
+have identified you as the convicted
+
+42
+00:03:16,236 --> 00:03:20,700
+felon and fugitive Jean Valjean,
+wanted for the theft of 40 sous
+
+43
+00:03:20,725 --> 00:03:25,450
+from a child named Petit-Gervais
+and for fleeing justice ever since.
+
+44
+00:03:25,475 --> 00:03:26,475
+Stand up.
+
+45
+00:03:28,246 --> 00:03:30,570
+Are you the felon, Jean Valjean?
+
+46
+00:03:33,276 --> 00:03:38,501
+My name is Champmathieu. I come from Paris.
+I used to be a wheelwright
+
+47
+00:03:38,675 --> 00:03:41,061
+there for Monsieur Baloup, 20 years -
+
+48
+00:03:41,086 --> 00:03:42,421
+you can ask him, he'll tell you.
+
+49
+00:03:42,446 --> 00:03:45,650
+Unfortunately, it has
+proved impossible to locate
+
+50
+00:03:45,675 --> 00:03:47,611
+this Monsieur Baloup.
+
+51
+00:03:47,636 --> 00:03:50,731
+Have you anything to say to the
+court that may help your defence?
+
+52
+00:03:56,836 --> 00:03:59,760
+You're very wicked, you are!
+Twisting everything!
+
+53
+00:03:59,785 --> 00:04:01,841
+I never stole anything!
+
+54
+00:04:01,866 --> 00:04:04,351
+You know, I'm a man that
+doesn't eat every day.
+
+55
+00:04:04,376 --> 00:04:08,611
+I was coming from Ailly, looking
+for work, I nearly starved.
+
+56
+00:04:08,636 --> 00:04:13,841
+Next thing, I'm in jail. I
+never was in any prison before.
+
+57
+00:04:14,446 --> 00:04:17,421
+I've never heard of Jean Valjean…
+
+58
+00:04:17,446 --> 00:04:18,450
+Speak up, man!
+
+59
+00:04:18,475 --> 00:04:20,450
+Your confusion will condemn you.
+
+60
+00:04:20,475 --> 00:04:23,630
+Ask Monsieur Baloup!
+He'll tell you who I am!
+
+61
+00:04:29,176 --> 00:04:30,176
+Brevet?
+
+62
+00:04:32,226 --> 00:04:33,680
+That's jean Valjean, all right.
+
+63
+00:04:33,705 --> 00:04:36,231
+I did nine years alongside him.
+
+64
+00:04:36,256 --> 00:04:37,256
+Chenildieu?
+
+65
+00:04:41,226 --> 00:04:42,680
+Yeah, that's him.
+
+66
+00:04:42,705 --> 00:04:44,921
+We were chained together
+for five years, sir.
+
+67
+00:04:48,946 --> 00:04:49,946
+Cochepaille?
+
+68
+00:04:53,296 --> 00:04:56,401
+Jean Valjean, there he is.
+
+69
+00:04:56,426 --> 00:04:58,991
+We used to call him
+Jean-le-Cric, he was so strong.
+
+70
+00:05:15,585 --> 00:05:16,585
+Silence!
+
+71
+00:05:21,146 --> 00:05:26,380
+Silence! Silence! Silence!
+
+72
+00:05:28,976 --> 00:05:31,680
+I now call on the jury
+to consider the evidence
+
+73
+00:05:31,705 --> 00:05:34,951
+and strongly advise a guilty verdict.
+
+74
+00:05:44,096 --> 00:05:46,510
+Enough of these lies!
+
+75
+00:05:46,535 --> 00:05:49,481
+Monsieur Madeleine, are you quite well?
+
+76
+00:05:49,506 --> 00:05:50,506
+Call the doctor.
+
+77
+00:05:57,585 --> 00:05:59,510
+I am Jean Valjean.
+
+78
+00:06:11,376 --> 00:06:11,430
+Brevet! Chenildieu! Cochepaille!
+
+79
+00:06:11,455 --> 00:06:15,001
+Brevet! Chenildieu! Cochepaille!
+
+80
+00:06:15,026 --> 00:06:16,921
+I hope you were paid well for these lies.
+
+81
+00:06:19,176 --> 00:06:20,281
+Don't you remember me?
+
+82
+00:06:23,306 --> 00:06:25,841
+Brevet, you've still got those
+red knitted braces you wore
+
+83
+00:06:25,866 --> 00:06:27,791
+in the prison hulks?
+Yes.
+
+84
+00:06:33,146 --> 00:06:35,401
+Chenildieu,
+
+85
+00:06:35,426 --> 00:06:38,401
+your whole shoulder is burnt
+where you lay on a chafing dish.
+
+86
+00:06:38,426 --> 00:06:39,711
+Show the court!
+
+87
+00:06:51,176 --> 00:06:54,401
+Cochepaille, you have a tattoo
+on the inside of your left elbow.
+
+88
+00:06:54,426 --> 00:06:58,510
+It says March 1st, 1815 - the
+day the Emperor landed at Cannes.
+
+89
+00:07:02,896 --> 00:07:04,201
+Well, pull up your sleeve!
+
+90
+00:07:15,096 --> 00:07:19,121
+And now, Inspector javert, you
+may wish to revise your testimony.
+
+91
+00:07:27,506 --> 00:07:30,760
+Indeed, I fear I was mistaken.
+
+92
+00:07:33,426 --> 00:07:35,791
+This man is jean Valjean.
+
+93
+00:07:49,946 --> 00:07:51,201
+And now, before the court…
+
+94
+00:07:54,256 --> 00:07:56,791
+…I confess to the
+robbery of this 40 sous…
+
+95
+00:07:59,665 --> 00:08:02,231
+"from the child known as Petit-Gervais."
+
+96
+00:08:07,816 --> 00:08:09,430
+Monsieur le Maire,
+
+97
+00:08:09,455 --> 00:08:13,121
+will you surrender yourself to
+the custody of Inspector Javert?
+
+98
+00:08:15,335 --> 00:08:16,640
+Willingly.
+Cuffs!
+
+99
+00:08:30,256 --> 00:08:31,281
+Follow me.
+
+100
+00:08:33,506 --> 00:08:35,361
+Merci, Monsieur, merci.
+
+101
+00:08:59,946 --> 00:09:03,401
+Will my Cosette be here today?
+
+102
+00:09:05,535 --> 00:09:06,760
+I feel sure of it.
+
+103
+00:09:09,616 --> 00:09:10,921
+When she comes…
+
+104
+00:09:12,785 --> 00:09:17,151
+…can she sleep in a little bed beside me?
+
+105
+00:09:19,826 --> 00:09:23,721
+She can. Don't tire yourself now.
+
+106
+00:09:49,585 --> 00:09:53,411
+Just a quick stop, prisoner 24601.
+
+107
+00:09:53,436 --> 00:09:56,440
+Now the people of this town can
+see you for what you really are.
+
+108
+00:10:05,106 --> 00:10:07,871
+Take him to the cells.
+Yes, sir.
+
+109
+00:10:22,335 --> 00:10:23,801
+Did you fetch the child?
+
+110
+00:10:36,146 --> 00:10:37,440
+Where's the child?!
+
+111
+00:10:37,465 --> 00:10:39,845
+Seize him! You, come with me!
+Yes, sir.
+
+112
+00:10:42,216 --> 00:10:44,510
+Pere Madeleine, your hands!
+
+113
+00:10:44,535 --> 00:10:47,831
+Let me see her.
+She is very weak!
+Where is the child?
+
+114
+00:10:53,376 --> 00:10:54,376
+Where is Cosette?
+
+115
+00:11:00,606 --> 00:11:01,711
+You did bring her?
+
+116
+00:11:08,736 --> 00:11:10,300
+I want to see her now!
+
+117
+00:11:10,325 --> 00:11:12,661
+She's here, my dear, but the doctor said
+
+118
+00:11:12,686 --> 00:11:16,121
+that you cannot be with her
+while you still have the fever.
+
+119
+00:11:16,146 --> 00:11:17,630
+But I am well.
+
+120
+00:11:17,655 --> 00:11:19,300
+I'm well!
+
+121
+00:11:19,325 --> 00:11:21,300
+And you will see her very soon.
+
+122
+00:11:26,816 --> 00:11:28,191
+Open up!
+
+123
+00:11:28,216 --> 00:11:32,121
+How is she, Monsieur le Maire? How is she?
+
+124
+00:11:34,736 --> 00:11:37,760
+Did they treat her well in Montfermeil?
+
+125
+00:11:37,785 --> 00:11:40,380
+Oh, a very touching scene!
+
+126
+00:11:40,405 --> 00:11:41,791
+Inspector javert, please…
+
+127
+00:11:41,816 --> 00:11:45,430
+Sister, this man is a
+criminal, a liar and a thief!
+
+128
+00:11:45,455 --> 00:11:47,351
+He has been convicted in Arras
+
+129
+00:11:47,376 --> 00:11:49,430
+and he is just as bad as her!
+
+130
+00:11:49,455 --> 00:11:51,300
+They are the scum of the Earth!
+Please!
+
+131
+00:11:54,655 --> 00:11:59,851
+You promised to bring my
+little girl from Montfermeil…
+
+132
+00:12:04,016 --> 00:12:05,380
+…Monsieur le Maire.
+
+133
+00:12:05,405 --> 00:12:07,151
+There's no Monsieur le Maire here!
+
+134
+00:12:07,176 --> 00:12:09,991
+He hasn't been to Montfermeil
+to fetch your little girl.
+
+135
+00:12:10,016 --> 00:12:12,711
+He has been confessing his crimes in court!
+
+136
+00:12:12,736 --> 00:12:15,711
+And now he's going back to the
+prison hulks, where he belongs!
+
+137
+00:12:33,096 --> 00:12:34,550
+Cosette!
+
+138
+00:12:59,785 --> 00:12:59,841
+You killed that woman!
+
+139
+00:12:59,866 --> 00:13:01,121
+You killed that woman!
+
+140
+00:13:01,146 --> 00:13:02,231
+Enough!
+
+141
+00:13:02,256 --> 00:13:05,151
+She's dead, and you're my prisoner.
+
+142
+00:13:05,176 --> 00:13:10,151
+I advise you to stay away
+from me for a moment!
+
+143
+00:13:21,455 --> 00:13:25,380
+Fa ntine! Fa ntine!
+
+144
+00:13:36,655 --> 00:13:37,655
+Forgive me.
+
+145
+00:13:40,096 --> 00:13:41,096
+Forgive me.
+
+146
+00:13:43,376 --> 00:13:47,591
+I swear, I swear I'll find her.
+
+147
+00:13:49,335 --> 00:13:50,335
+I'll find her.
+
+148
+00:13:52,096 --> 00:13:54,201
+I'll pay my life for her happiness.
+
+149
+00:13:55,256 --> 00:13:56,256
+I swear.
+
+150
+00:14:59,716 --> 00:15:00,716
+Merci Dieu!
+
+151
+00:15:39,836 --> 00:15:41,660
+I can't hear you working!
+
+152
+00:15:41,685 --> 00:15:43,091
+Get on with it, you idle beast!
+
+153
+00:16:08,605 --> 00:16:11,691
+Feast your eyes on my
+beautiful handmade dolls,
+
+154
+00:16:11,716 --> 00:16:15,171
+ladies and gentleman, each one unique,
+
+155
+00:16:15,196 --> 00:16:18,771
+every single one with real human hair!
+
+156
+00:16:18,796 --> 00:16:23,051
+What a Christmas present that would
+be for a dearly loved little girl!
+
+157
+00:16:26,716 --> 00:16:31,530
+Or if it's wigs you want, or a new
+set of teeth, I've got them all!
+
+158
+00:16:31,555 --> 00:16:36,171
+I've got the lot! I'm buying and I'm
+selling, I'm selling and I'm buying!
+
+159
+00:16:48,685 --> 00:16:50,861
+What do you think you're
+doing, you idle little beast?
+
+160
+00:16:50,886 --> 00:16:53,101
+You gawping at dolls when
+we've got customers waiting?
+
+161
+00:16:53,126 --> 00:16:54,691
+Get those buckets inside this minute!
+
+162
+00:16:54,716 --> 00:16:57,811
+Or I'll really give you
+something to cry about!
+
+163
+00:16:57,836 --> 00:17:01,660
+Don't you fall off darlings, all right?
+Come on!
+
+164
+00:17:01,685 --> 00:17:04,530
+I'm buying and I'm selling
+tonight, ladies and gentlemen.
+
+165
+00:17:08,516 --> 00:17:11,251
+Oh, there she is, the wanderer returned,
+
+166
+00:17:11,276 --> 00:17:13,861
+gawping at dollies at
+the fair, if you please!
+
+167
+00:17:13,886 --> 00:17:17,221
+Fill that pot and get out of
+my way, Mademoiselle Toad!
+
+168
+00:17:17,246 --> 00:17:19,660
+And don't you dare spill none! Not a drop!
+
+169
+00:17:40,526 --> 00:17:45,721
+Oi, you done that on purpose, just
+to vex me! You'd better run, girl!
+
+170
+00:17:47,886 --> 00:17:48,941
+Here we go, here we go!
+
+171
+00:18:02,076 --> 00:18:03,251
+Come here, you!
+
+172
+00:18:03,276 --> 00:18:04,611
+Nothing like a bit of exercise,
+
+173
+00:18:04,636 --> 00:18:06,491
+brings out the colour
+in your cheeks, Madame!
+
+174
+00:18:06,516 --> 00:18:07,941
+Right, enough of your sauce!
+
+175
+00:18:10,046 --> 00:18:12,410
+Madame! My horse hasn't been watered!
+
+176
+00:18:12,435 --> 00:18:13,491
+Oh!
+
+177
+00:18:13,516 --> 00:18:16,330
+Toad! Two more buckets! Quick about it!
+
+178
+00:18:23,996 --> 00:18:25,660
+Rar!
+
+179
+00:19:38,846 --> 00:19:41,460
+Don't be afraid, little one.
+I'm not going to hurt you.
+
+180
+00:19:44,685 --> 00:19:46,221
+Let me give you a hand with that.
+
+181
+00:19:51,485 --> 00:19:52,485
+Here.
+
+182
+00:20:03,276 --> 00:20:04,276
+What's your name?
+
+183
+00:20:08,565 --> 00:20:09,565
+Cosette.
+
+184
+00:20:25,217 --> 00:20:28,272
+I'll carry your buckets tonight.
+
+185
+00:20:28,297 --> 00:20:29,297
+You show me the way.
+
+186
+00:21:04,487 --> 00:21:06,072
+Oi! See to them horses!
+
+187
+00:21:11,127 --> 00:21:11,192
+Evening, Madame.
+
+188
+00:21:11,217 --> 00:21:14,152
+Evening, Madame.
+
+189
+00:21:14,177 --> 00:21:15,662
+Who are you? What do you want?
+
+190
+00:21:15,687 --> 00:21:18,352
+I want a bed for the night, a
+bottle of wine and something to eat.
+
+191
+00:21:18,377 --> 00:21:20,072
+We're fully booked.
+
+192
+00:21:20,097 --> 00:21:22,462
+You can put me anywhere. Put
+me in the stable, if you like.
+
+193
+00:21:22,487 --> 00:21:24,551
+I'll pay the price of your best room.
+
+194
+00:21:24,576 --> 00:21:25,576
+40 sous.
+
+195
+00:21:29,326 --> 00:21:30,326
+Ag reed.
+
+196
+00:21:32,177 --> 00:21:33,352
+Let's see it, then.
+
+197
+00:21:36,977 --> 00:21:38,792
+40 for the room.
+
+198
+00:21:38,817 --> 00:21:41,301
+20 for the meal. 20 for whatever else.
+
+199
+00:21:45,127 --> 00:21:47,152
+Oi! Get him some wine!
+
+200
+00:21:55,336 --> 00:21:58,462
+And what would Monsieur
+like for his supper?
+
+201
+00:21:58,487 --> 00:21:59,511
+Bread and cheese.
+
+202
+00:21:59,536 --> 00:22:01,992
+Bread and cheese?
+
+203
+00:22:02,017 --> 00:22:04,662
+He's a fine gentleman, and no mistake!
+
+204
+00:22:04,687 --> 00:22:07,272
+There's nothing wrong with
+a bit of bread and cheese.
+
+205
+00:22:08,617 --> 00:22:10,311
+Oi! Clear that up! Come on!
+
+206
+00:22:18,177 --> 00:22:20,072
+All right, darlings?
+Yeah.
+
+207
+00:22:20,097 --> 00:22:22,072
+Hello! What we having for our supper?
+
+208
+00:22:24,697 --> 00:22:27,672
+Oh, are they liking it?
+Yeah.
+That's nice.
+
+209
+00:22:32,227 --> 00:22:33,227
+Cosette?
+
+210
+00:22:41,097 --> 00:22:42,592
+Do you have a doll, too?
+
+211
+00:22:42,617 --> 00:22:44,592
+That one? She's got to work for her keep!
+
+212
+00:22:46,456 --> 00:22:49,592
+All the same, a child should
+be able to play now and then.
+
+213
+00:22:49,617 --> 00:22:50,742
+Especially at Christmas.
+
+214
+00:22:50,767 --> 00:22:53,712
+Oh, and some people should learn
+to mind their own business!
+
+215
+00:23:03,406 --> 00:23:04,406
+I'll be back.
+
+216
+00:23:08,737 --> 00:23:13,072
+A strange one, isn't he? Oi, little toad!
+Come here!
+
+217
+00:23:13,097 --> 00:23:14,181
+Where did you find him?
+
+218
+00:23:16,897 --> 00:23:20,232
+What did he want with you?
+What did he say to you?
+
+219
+00:23:20,257 --> 00:23:22,462
+What did he want with you?!
+You dirty little toad!
+
+220
+00:23:22,487 --> 00:23:25,631
+I'll give you a smack, I'll
+give you something to cry about!
+
+221
+00:23:36,206 --> 00:23:37,206
+Here, Cosette.
+
+222
+00:23:38,487 --> 00:23:39,487
+It's for you.
+
+223
+00:23:58,177 --> 00:24:00,592
+I have a wish to see the child playing.
+
+224
+00:24:00,617 --> 00:24:03,232
+And who's going to serve you
+Your supper?
+You, Madame.
+
+225
+00:24:04,847 --> 00:24:07,712
+I'll buy the child's time
+for the rest of the evening.
+
+226
+00:24:07,737 --> 00:24:08,922
+Name your price.
+
+227
+00:24:08,947 --> 00:24:10,391
+Five francs.
+
+228
+00:24:10,416 --> 00:24:11,416
+Done.
+
+229
+00:24:12,697 --> 00:24:13,922
+Oi! Go on.
+
+230
+00:24:24,027 --> 00:24:24,072
+Now bring me my supper, woman!
+
+231
+00:24:24,097 --> 00:24:25,542
+Now bring me my supper, woman!
+
+232
+00:24:49,897 --> 00:24:51,952
+You mustn't mind the wife, Monsieur.
+
+233
+00:24:51,977 --> 00:24:54,561
+She's got a sharp tongue
+but a heart of gold.
+
+234
+00:24:54,586 --> 00:24:56,391
+Oh! Here we are.
+
+235
+00:24:56,416 --> 00:24:59,792
+The best room in the house
+- the bridal chamber itself!
+
+236
+00:25:05,057 --> 00:25:06,872
+What's that?
+
+237
+00:25:06,897 --> 00:25:10,431
+That, Monsieur, is my wife
+Rosalie's bridal head-dress.
+
+238
+00:25:15,097 --> 00:25:18,722
+No doubt you know, sir, I was
+one of the heroes at Waterloo.
+
+239
+00:25:18,747 --> 00:25:20,002
+No, I didn't.
+
+240
+00:25:20,027 --> 00:25:22,752
+Carried the Colonel on my back
+through a hail of bullets.
+
+241
+00:25:22,777 --> 00:25:23,777
+Is that so?
+
+242
+00:25:26,257 --> 00:25:28,002
+Were you at Waterloo, Monsieur?
+
+243
+00:25:28,027 --> 00:25:32,032
+No. I was unavoidably detained.
+
+244
+00:25:33,137 --> 00:25:34,137
+Oh.
+
+245
+00:25:38,497 --> 00:25:40,822
+Would you like the little girl
+in here with you, Monsieur,
+
+246
+00:25:40,847 --> 00:25:43,792
+for a small consideration?
+No need for the wife to know.
+
+247
+00:25:46,567 --> 00:25:49,282
+She has a bed of her own, has she not?
+
+248
+00:25:49,307 --> 00:25:51,032
+Yeah, of course, just like one of my own.
+
+249
+00:25:51,057 --> 00:25:52,282
+Then I'll say goodnight.
+
+250
+00:25:56,307 --> 00:25:58,152
+Same to you, sir.
+
+251
+00:25:58,177 --> 00:25:59,282
+See you in the morning.
+
+252
+00:26:35,857 --> 00:26:37,542
+Oh, look at the state of the place!
+
+253
+00:26:37,567 --> 00:26:41,152
+What have you been doing? You idle scrap!
+
+254
+00:26:41,177 --> 00:26:44,362
+Come on, you should have
+had this done by now!
+
+255
+00:26:44,387 --> 00:26:45,641
+Oh, bonjour, Monsieur.
+
+256
+00:26:45,666 --> 00:26:46,666
+You're up early.
+
+257
+00:26:49,977 --> 00:26:52,391
+There's your bill, if you please.
+
+258
+00:26:52,416 --> 00:26:54,032
+I paid last night.
+
+259
+00:26:54,057 --> 00:26:55,057
+Incidentals.
+
+260
+00:26:59,216 --> 00:27:01,232
+23 francs?
+
+261
+00:27:01,257 --> 00:27:03,391
+We have a lot of expenses.
+
+262
+00:27:03,416 --> 00:27:06,191
+And that child there costs us the Earth.
+
+263
+00:27:06,216 --> 00:27:09,112
+Cosette! Alouette, as they
+call her in the village.
+
+264
+00:27:09,137 --> 00:27:12,211
+Mind you, she's more
+like a bat than a lark.
+
+265
+00:27:12,236 --> 00:27:14,102
+What if I was to take her off your hands?
+
+266
+00:27:17,356 --> 00:27:19,531
+What? You want to take the child?
+
+267
+00:27:22,356 --> 00:27:23,356
+Yes, I do.
+
+268
+00:27:26,236 --> 00:27:30,892
+Thenardier!
+Yeah?
+Thenardier!
+What?
+
+269
+00:27:30,917 --> 00:27:32,211
+He wants to take the child.
+
+270
+00:27:33,847 --> 00:27:36,822
+Didn't I say that's how it would be?
+Come on.
+
+271
+00:27:36,847 --> 00:27:39,211
+Now, you leave me and the
+gentleman alone together.
+
+272
+00:27:39,236 --> 00:27:40,972
+Go on!
+Come on, come with me!
+
+273
+00:27:42,157 --> 00:27:43,692
+Ah! Now, Monsieur.
+
+274
+00:27:43,717 --> 00:27:45,411
+This is all very irregular.
+
+275
+00:27:45,436 --> 00:27:48,742
+Please, please. I'm not
+making any aspersions.
+
+276
+00:27:48,767 --> 00:27:52,331
+It takes all sorts to make a
+world, but this is beyond anything
+
+277
+00:27:52,356 --> 00:27:57,531
+I've done so far. I mean, to sell
+a child in my care to a stranger.
+
+278
+00:27:57,957 --> 00:27:59,102
+You talk of selling her?
+
+279
+00:27:59,127 --> 00:28:02,661
+Well, if we were to part with
+her, if we were to endure that
+
+280
+00:28:02,686 --> 00:28:06,291
+heartbreak - I'm not saying we're
+prepared to make that sacrifice -
+
+281
+00:28:06,316 --> 00:28:08,972
+of course, we'd want some compensation.
+
+282
+00:28:08,997 --> 00:28:11,822
+I mean, what if the child's
+mother should turn up saying,
+
+283
+00:28:11,847 --> 00:28:14,182
+"Where's my child, what
+have you done with her?"
+
+284
+00:28:16,686 --> 00:28:17,686
+How much?
+
+285
+00:28:24,077 --> 00:28:25,077
+Er…
+
+286
+00:28:26,356 --> 00:28:29,461
+No, no, I can't do it. It'd
+break the wife's heart, Monsieur.
+
+287
+00:28:29,486 --> 00:28:31,302
+Sorry. No deal.
+
+288
+00:28:31,327 --> 00:28:32,692
+How much?
+
+289
+00:28:32,717 --> 00:28:35,132
+Ah! It's no good.
+
+290
+00:28:35,157 --> 00:28:37,541
+I won't lie to you, sir,
+you've got me over a barrel.
+
+291
+00:28:37,566 --> 00:28:39,132
+You see, I've got debts.
+
+292
+00:28:39,157 --> 00:28:40,852
+How much?
+1,500 francs.
+
+293
+00:28:44,927 --> 00:28:48,772
+Agreed. Now bring me the child.
+
+294
+00:28:48,797 --> 00:28:51,132
+Rosalie! Bring the child!
+
+295
+00:28:53,486 --> 00:28:54,486
+Come on!
+
+296
+00:28:55,957 --> 00:28:57,852
+You're going to go with that gentleman.
+
+297
+00:28:57,877 --> 00:28:59,902
+Only if she wishes to.
+
+298
+00:28:59,927 --> 00:29:00,927
+Do you?
+
+299
+00:29:06,717 --> 00:29:08,132
+Can I bring my doll?
+
+300
+00:29:09,207 --> 00:29:10,382
+Yeah, of course you can.
+
+301
+00:29:15,157 --> 00:29:16,157
+Here.
+
+302
+00:29:20,566 --> 00:29:24,132
+You go and put these
+on, as quick as you can,
+
+303
+00:29:24,157 --> 00:29:25,331
+then we'll be on our way.
+
+304
+00:29:29,287 --> 00:29:30,287
+Go on.
+
+305
+00:29:32,847 --> 00:29:34,541
+What about the 23 francs?
+
+306
+00:29:39,327 --> 00:29:40,612
+Here. There's 30.
+
+307
+00:30:06,797 --> 00:30:10,382
+And he paid up, just like that!
+
+308
+00:30:10,407 --> 00:30:13,182
+Oh! Oh! Oh!
+
+309
+00:30:22,047 --> 00:30:23,461
+I could have got more off him.
+
+310
+00:30:24,677 --> 00:30:25,677
+I'll go after him.
+
+311
+00:30:29,647 --> 00:30:31,211
+Take your pistol.
+
+312
+00:30:31,236 --> 00:30:32,902
+He had a dangerous look about him.
+
+313
+00:30:34,927 --> 00:30:35,927
+Yeah?
+Yeah, lovely.
+
+314
+00:31:07,797 --> 00:31:08,797
+Are you tired?
+
+315
+00:31:11,647 --> 00:31:13,822
+Catherine's a bit tired.
+
+316
+00:31:13,847 --> 00:31:17,132
+Catherine? Is that her name?
+
+317
+00:31:32,727 --> 00:31:34,902
+Uh What are you doing here?
+
+318
+00:31:36,647 --> 00:31:40,541
+Oh! Can't let her go, Monsieur.
+
+319
+00:31:40,566 --> 00:31:42,622
+You already have.
+No.
+
+320
+00:31:42,647 --> 00:31:44,541
+Not for 1,500 francs.
+
+321
+00:31:44,566 --> 00:31:46,622
+That's more than you deserve.
+
+322
+00:31:46,647 --> 00:31:49,382
+Her mother paid you well, and
+you treated her like an animal.
+
+323
+00:31:49,407 --> 00:31:51,022
+You should be ashamed of yourself.
+
+324
+00:31:51,047 --> 00:31:53,052
+Now leave us alone before I knock you down.
+
+325
+00:31:58,316 --> 00:32:00,062
+Give me 3,000 or I take the girl back.
+
+326
+00:32:16,877 --> 00:32:18,852
+You want to be careful of this thing.
+
+327
+00:32:18,877 --> 00:32:19,982
+People could get hurt.
+
+328
+00:32:27,727 --> 00:32:31,852
+Now, you get home before I change
+my mind and blow your head off.
+
+329
+00:32:38,127 --> 00:32:39,127
+Off with you!
+
+330
+00:32:55,157 --> 00:32:56,852
+Has Catherine had enough of a rest?
+
+331
+00:32:59,727 --> 00:33:00,727
+She says yes.
+
+332
+00:33:02,597 --> 00:33:03,597
+Off we go, then.
+
+333
+00:34:39,417 --> 00:34:40,541
+Madame! J'arrive…
+
+334
+00:34:46,087 --> 00:34:49,291
+Is it true? Are we in Paris?
+
+335
+00:34:50,417 --> 00:34:51,417
+Yes, we are.
+
+336
+00:34:53,446 --> 00:34:54,622
+Do I have to sweep?
+
+337
+00:34:55,847 --> 00:35:00,182
+No, you don't have to sweep or
+go to the wood to fetch water.
+
+338
+00:35:00,207 --> 00:35:04,541
+You don't have to do anything
+except eat and sleep and play.
+
+339
+00:35:06,677 --> 00:35:08,652
+Perhaps a little learning.
+
+340
+00:35:08,677 --> 00:35:10,622
+We don't have to go back there?
+
+341
+00:35:10,647 --> 00:35:11,702
+No, we don't.
+
+342
+00:35:13,807 --> 00:35:16,572
+And you're my papa now?
+
+343
+00:35:20,647 --> 00:35:21,647
+If you want me to be.
+
+344
+00:35:24,807 --> 00:35:25,807
+Do you?
+
+345
+00:35:27,887 --> 00:35:30,502
+Yes, I think so.
+
+346
+00:35:35,207 --> 00:35:37,572
+I've never been anyone's papa before.
+
+347
+00:35:41,207 --> 00:35:44,112
+Perhaps you'd better ask
+Catherine, see what she thinks.
+
+348
+00:35:48,207 --> 00:35:50,822
+Should we let him be my papa?
+
+349
+00:35:58,397 --> 00:36:02,142
+She says yes, if you don't beat us.
+
+350
+00:36:04,677 --> 00:36:07,182
+You tell her I won't beat either of you.
+
+351
+00:36:10,887 --> 00:36:13,582
+It's all right. She heard you.
+
+352
+00:36:17,207 --> 00:36:19,832
+Goodnight, Papa.
+Goodnight, little one.
+
+353
+00:36:23,167 --> 00:36:24,582
+Sleep well.
+
+354
+00:36:56,887 --> 00:36:58,471
+Goodnight, Papa.
+
+355
+00:36:58,496 --> 00:37:00,112
+Goodnight.
+
+356
+00:37:06,887 --> 00:37:08,582
+Sleep tight.
+
+357
+00:37:25,397 --> 00:37:27,142
+Are you happy, Cosette?
+
+358
+00:37:27,167 --> 00:37:28,832
+Of course I am.
+
+359
+00:37:30,397 --> 00:37:32,341
+Don't you think you should…
+
+360
+00:37:33,446 --> 00:37:36,142
+…you know, go to school
+like other children?
+
+361
+00:37:36,167 --> 00:37:37,622
+Why?
+
+362
+00:37:37,647 --> 00:37:39,732
+You teach me everything.
+
+363
+00:37:41,937 --> 00:37:45,832
+What, don't you long for friends?
+Someone to play with?
+
+364
+00:37:45,857 --> 00:37:47,192
+I have you.
+
+365
+00:37:48,246 --> 00:37:49,622
+And Catherine.
+
+366
+00:38:00,217 --> 00:38:02,832
+I came to see if everything was all right.
+
+367
+00:38:04,167 --> 00:38:06,142
+It is, as you see, madame.
+
+368
+00:38:06,167 --> 00:38:08,622
+It's my duty, you know,
+
+369
+00:38:08,647 --> 00:38:11,112
+as the principal tenant.
+
+370
+00:38:13,167 --> 00:38:15,022
+Bonjou r, ma petite.
+
+371
+00:38:15,047 --> 00:38:17,221
+Bonjour, madame.
+
+372
+00:38:17,246 --> 00:38:18,732
+She's very thin.
+
+373
+00:38:19,857 --> 00:38:23,372
+I could do some cooking for
+you if you like, monsieur.
+
+374
+00:38:23,397 --> 00:38:25,341
+Not necessary, thank you, madame.
+
+375
+00:38:26,397 --> 00:38:28,112
+And she's your granddaughter?
+
+376
+00:38:29,217 --> 00:38:32,582
+Not much of a family resemblance, is there?
+
+377
+00:38:33,687 --> 00:38:36,142
+Well, she takes after her mother's side.
+
+378
+00:38:36,167 --> 00:38:37,622
+Oh…
+
+379
+00:38:37,647 --> 00:38:39,091
+I see.
+
+380
+00:38:42,446 --> 00:38:43,862
+Well…
+
+381
+00:38:43,887 --> 00:38:46,142
+I will be getting along, then.
+
+382
+00:38:46,167 --> 00:38:48,062
+Au revoir, monsieur.
+
+383
+00:38:48,087 --> 00:38:50,112
+Au revoir, ma petite.
+
+384
+00:38:56,167 --> 00:38:58,022
+Nosy old bitch.
+
+385
+00:38:59,657 --> 00:39:00,982
+Now, now.
+
+386
+00:39:01,007 --> 00:39:03,272
+You think so, too.
+
+387
+00:39:03,297 --> 00:39:05,112
+But we don't say these things.
+
+388
+00:39:09,167 --> 00:39:10,832
+Go on, eat up.
+
+389
+00:39:30,657 --> 00:39:31,862
+Monsieur.
+
+390
+00:39:31,887 --> 00:39:33,301
+Inspector.
+
+391
+00:39:34,928 --> 00:39:36,153
+Monsieur.
+
+392
+00:39:38,907 --> 00:39:41,832
+Incident reports from
+last night on my desk now.
+
+393
+00:39:41,857 --> 00:39:44,061
+Yes, sir. They are ready, sir.
+
+394
+00:40:01,627 --> 00:40:03,472
+Here's a curious one.
+
+395
+00:40:03,497 --> 00:40:06,602
+Innkeeper in Montfermeil says
+his daughter was kidnapped
+
+396
+00:40:06,627 --> 00:40:08,552
+by some ruffian with a gun.
+
+397
+00:40:10,137 --> 00:40:12,752
+Montfermeil, you say?
+
+398
+00:40:13,827 --> 00:40:15,321
+Let me see it.
+
+399
+00:40:19,627 --> 00:40:21,321
+Am I to go there, sir?
+
+400
+00:40:22,296 --> 00:40:24,962
+Stepdaughter, it says, not daughter.
+
+401
+00:40:30,857 --> 00:40:32,321
+Montfermeil.
+
+402
+00:40:34,377 --> 00:40:35,552
+Huh.
+
+403
+00:40:36,627 --> 00:40:38,552
+I think I'll go myself, Rivette.
+
+404
+00:40:39,657 --> 00:40:42,632
+And you, I want you to look
+into the prison hulks at Toulon.
+
+405
+00:40:42,657 --> 00:40:45,112
+Any recent deaths,
+suspicious disappearances.
+
+406
+00:40:45,137 --> 00:40:47,071
+See what you can turn up.
+L
+
+407
+00:41:11,657 --> 00:41:14,071
+What about that bit there?
+You've missed a bit.
+
+408
+00:41:15,137 --> 00:41:16,521
+Bonjour, monsieur.
+
+409
+00:41:17,627 --> 00:41:21,071
+Can I help you with anything?
+Are you looking for a room?
+Coffee.
+
+410
+00:41:21,096 --> 00:41:23,071
+And I want to interview your husband.
+
+411
+00:41:23,096 --> 00:41:25,162
+Oh, and you want to interview him?
+
+412
+00:41:25,187 --> 00:41:27,632
+And who are you, if I may make so bold?
+
+413
+00:41:27,657 --> 00:41:29,882
+Inspector Javert of the Paris police.
+
+414
+00:41:29,907 --> 00:41:32,552
+Oh, Lord. Well, he's still in bed.
+He hasn't got up yet.
+
+415
+00:41:32,577 --> 00:41:34,112
+Go and get him a coffee!
+
+416
+00:41:43,857 --> 00:41:45,882
+Inspector…?
+Mai
+
+417
+00:41:46,987 --> 00:41:49,992
+You filed a complaint regarding
+the abduction of a minor.
+
+418
+00:41:50,017 --> 00:41:51,632
+Oh, right. Yes.
+
+419
+00:41:51,657 --> 00:41:54,112
+Thank you for coming
+all this way, Inspector.
+
+420
+00:41:54,137 --> 00:41:55,602
+Don't sit.
+
+421
+00:41:55,627 --> 00:41:58,071
+This child, not yours?
+
+422
+00:41:58,096 --> 00:42:00,112
+Erm, no.
+
+423
+00:42:00,137 --> 00:42:01,632
+We, erm…
+
+424
+00:42:01,657 --> 00:42:04,602
+A young woman who was passing
+through just left her with us,
+
+425
+00:42:04,627 --> 00:42:06,632
+said she was coming back, never did.
+
+426
+00:42:06,657 --> 00:42:09,632
+But you could tell that she was
+no better than she should be,
+
+427
+00:42:09,657 --> 00:42:13,042
+if you take my meaning.
+Do you know
+where she went, the mother?
+
+428
+00:42:13,067 --> 00:42:16,112
+She said she was going to Montreuil.
+
+429
+00:42:18,377 --> 00:42:19,802
+I see.
+
+430
+00:42:21,907 --> 00:42:24,832
+And she sent you money for
+the child's board and lodging?
+
+431
+00:42:24,857 --> 00:42:26,401
+Never. Not a penny.
+
+432
+00:42:26,426 --> 00:42:29,632
+We looked after that child out
+of the goodness of our hearts.
+
+433
+00:42:29,657 --> 00:42:33,832
+Yeah. We loved her like she
+was one of our own, Inspector.
+
+434
+00:42:33,857 --> 00:42:35,401
+Very touching.
+
+435
+00:42:35,426 --> 00:42:38,321
+Yeah, well, I was one of the
+heroes of Waterloo, you know.
+
+436
+00:42:38,346 --> 00:42:41,401
+Carried the Colonel on my back…
+Come to the abduction.
+
+437
+00:42:41,426 --> 00:42:44,401
+Well, this fellow, great
+big hulking brute he was,
+
+438
+00:42:44,426 --> 00:42:47,242
+he turns up one night, wants
+to stay in the best room,
+
+439
+00:42:47,267 --> 00:42:51,162
+drink the best wine. Then, in the
+morning, he holds us up at gunpoint
+
+440
+00:42:51,187 --> 00:42:54,071
+and goes off with the
+takings and the little girl!
+
+441
+00:42:56,627 --> 00:42:59,352
+A strong man, would you say?
+
+442
+00:42:59,377 --> 00:43:01,632
+Oh, yeah, yeah. Strong as an ox.
+
+443
+00:43:01,657 --> 00:43:04,682
+He handled two buckets of
+water like they were thimbles.
+
+444
+00:43:04,707 --> 00:43:07,162
+Did he say what he wanted the girl for?
+
+445
+00:43:07,187 --> 00:43:10,401
+No, but we're men of the world, Inspector.
+
+446
+00:43:10,426 --> 00:43:12,122
+Not hard to guess.
+
+447
+00:43:12,147 --> 00:43:14,321
+Doesn't bear imagining.
+Y
+
+448
+00:43:16,627 --> 00:43:17,962
+All right.
+
+449
+00:43:19,067 --> 00:43:22,162
+That's all.
+That's all?
+But look here…
+What?
+
+450
+00:43:22,187 --> 00:43:25,401
+What are you going to do for me?
+Nothing.
+
+451
+00:43:27,267 --> 00:43:30,632
+You should think yourself lucky
+that I don't charge you.
+Charge me?!
+
+452
+00:43:30,657 --> 00:43:33,122
+It's perfectly clear to
+me that you sold that girl
+
+453
+00:43:33,147 --> 00:43:34,712
+to a passing stranger.
+
+454
+00:43:34,737 --> 00:43:37,071
+Your neighbours tell me
+you were flush with money
+
+455
+00:43:37,096 --> 00:43:38,352
+for weeks after she went.
+
+456
+00:43:38,377 --> 00:43:40,271
+You're a scoundrel, Thenardier.
+
+457
+00:43:46,147 --> 00:43:47,712
+This ruffian.
+
+458
+00:43:49,187 --> 00:43:51,552
+I don't suppose he said where he was going?
+
+459
+00:43:53,187 --> 00:43:56,071
+Erm, no, but it looked like
+he was heading Paris way.
+
+460
+00:43:57,147 --> 00:43:58,321
+Yeah…
+
+461
+00:43:59,377 --> 00:44:01,071
+…I dare say he was.
+
+462
+00:44:04,657 --> 00:44:08,042
+What did he say about finding the
+girl?
+What?
+Is he going to help us?
+
+463
+00:44:08,067 --> 00:44:10,401
+You should have got more money for her.
+
+464
+00:44:10,426 --> 00:44:13,842
+Well, he said he'd, erm…
+He said he'd do his best,
+
+465
+00:44:13,867 --> 00:44:15,792
+but you know how it is.
+
+466
+00:44:17,377 --> 00:44:18,712
+Go on.
+
+467
+00:44:22,017 --> 00:44:24,962
+Make his jawline more prognathous.
+
+468
+00:44:24,987 --> 00:44:26,632
+You see here?
+
+469
+00:44:26,657 --> 00:44:29,401
+And he'd probably have a
+beard to disguise himself.
+
+470
+00:44:29,426 --> 00:44:32,401
+Just one escape from Toulon
+reported, Inspector javert,
+
+471
+00:44:32,426 --> 00:44:35,242
+but the prisoner drowned.
+Did they recover the body?
+
+472
+00:44:35,267 --> 00:44:38,602
+No. It's assumed it must have
+been trapped under the pilings.
+
+473
+00:44:38,627 --> 00:44:42,122
+It was prisoner number…
+24601.
+
+474
+00:44:43,627 --> 00:44:45,321
+What do you think, Rivette?
+
+475
+00:44:46,377 --> 00:44:48,632
+Well, I never saw the man, but…
+
+476
+00:44:48,657 --> 00:44:51,071
+…he certainly looks
+like a regular villain.
+
+477
+00:44:52,657 --> 00:44:55,632
+There is nothing regular
+about this villain.
+
+478
+00:45:10,627 --> 00:45:12,071
+Merci, monsieur.
+
+479
+00:45:21,147 --> 00:45:23,321
+All on your own, little one?
+
+480
+00:45:24,377 --> 00:45:26,071
+Papa won't be long.
+
+481
+00:45:26,096 --> 00:45:27,482
+Papa?
+
+482
+00:45:27,507 --> 00:45:31,122
+He looks after you well,
+does he, your papa?
+
+483
+00:45:31,147 --> 00:45:32,562
+Yes.
+
+484
+00:45:32,587 --> 00:45:35,922
+So what happened to your maman?
+
+485
+00:45:35,947 --> 00:45:38,071
+She died.
+
+486
+00:45:38,096 --> 00:45:39,922
+That man,
+
+487
+00:45:39,947 --> 00:45:42,242
+he's not really your papa, is he?
+
+488
+00:45:42,267 --> 00:45:43,632
+Yes, he is.
+
+489
+00:45:43,657 --> 00:45:46,321
+And I'll tell him you were
+in here, nosing round.
+
+490
+00:45:46,346 --> 00:45:49,122
+I am the principal tenant.
+
+491
+00:45:49,147 --> 00:45:51,071
+I have a perfect right.
+
+492
+00:45:52,147 --> 00:45:55,122
+But I won't disturb you any longer.
+
+493
+00:45:55,147 --> 00:45:57,071
+Good day to you, little miss.
+
+494
+00:46:18,147 --> 00:46:21,352
+Come on, lads, bring it all out.
+Whoa, whoa! What's all this about?
+
+495
+00:46:21,377 --> 00:46:23,151
+It's non-payment of debts.
+
+496
+00:46:23,176 --> 00:46:25,882
+I'm taking possession of
+this property, Thenardier,
+
+497
+00:46:25,907 --> 00:46:29,042
+and everything in it but the tools
+of your trade.
+You can't do that!
+
+498
+00:46:29,067 --> 00:46:31,352
+I've been instructed by Inspector javert!
+
+499
+00:46:31,377 --> 00:46:33,531
+Thenardier, what have you done?
+
+500
+00:46:33,556 --> 00:46:35,762
+Look, look, look. Just, erm…
+
+501
+00:46:35,787 --> 00:46:37,122
+Maman.
+
+502
+00:46:37,147 --> 00:46:39,042
+Leave some of the chairs.
+
+503
+00:46:40,096 --> 00:46:41,602
+Go on, lads.
+
+504
+00:46:45,587 --> 00:46:48,122
+What about the dog?
+Tied him up.
+
+505
+00:46:49,176 --> 00:46:51,401
+We don't need another mouth to feed.
+
+506
+00:46:54,917 --> 00:46:57,892
+And the nipper?
+I told him to wait round the back.
+
+507
+00:47:00,867 --> 00:47:02,842
+Someone'll look after him.
+
+508
+00:47:04,147 --> 00:47:05,602
+Yeah.
+
+509
+00:47:08,627 --> 00:47:10,321
+Maman! Maman!
+
+510
+00:47:16,377 --> 00:47:18,122
+Oh…
+
+511
+00:47:18,147 --> 00:47:21,122
+Gavroche, my darling child!
+
+512
+00:47:21,147 --> 00:47:23,352
+To think you nearly got left behind.
+
+513
+00:47:23,377 --> 00:47:25,201
+Thank you. Thank you.
+
+514
+00:47:25,226 --> 00:47:26,792
+Come on, then!
+
+515
+00:47:35,627 --> 00:47:37,321
+Rivette.
+Yes, sir.
+
+516
+00:47:38,377 --> 00:47:40,792
+Any sightings?
+Nothing, sir.
+
+517
+00:47:48,426 --> 00:47:51,151
+There's a woman outside
+asking for you, sir.
+
+518
+00:47:51,176 --> 00:47:53,962
+She says she has information
+for you about him.
+
+519
+00:48:10,587 --> 00:48:15,122
+"The crow was too high up
+for the fox to reach him"
+
+520
+00:48:15,147 --> 00:48:17,842
+"so the… so the…"
+
+521
+00:48:17,867 --> 00:48:19,362
+Cunning.
+
+522
+00:48:21,147 --> 00:48:23,122
+"..cunning fox began…"
+
+523
+00:48:25,147 --> 00:48:27,122
+"..tell him how shiny…"
+
+524
+00:48:27,147 --> 00:48:28,842
+Sh, sh, sh.
+
+525
+00:48:32,147 --> 00:48:34,042
+Quick, get your clothes on.
+
+526
+00:48:34,067 --> 00:48:36,562
+We're going to go for a
+quick walk in the moonlight.
+
+527
+00:48:44,667 --> 00:48:47,612
+Quick as you can.
+Here you go. Come on.
+
+528
+00:48:47,637 --> 00:48:49,331
+What about Catherine?
+
+529
+00:49:04,147 --> 00:49:05,792
+Open up! Police!
+
+530
+00:49:09,147 --> 00:49:10,562
+Open up!
+
+531
+00:49:11,867 --> 00:49:13,562
+Break it down.
+
+532
+00:49:40,787 --> 00:49:42,331
+He's outside!
+
+533
+00:49:50,867 --> 00:49:52,331
+Down here.
+
+534
+00:49:57,176 --> 00:49:59,972
+He just left the Gorbeau
+tenements with a little girl.
+
+535
+00:49:59,997 --> 00:50:01,802
+Have you seen him?
+No, sir.
+
+536
+00:50:02,897 --> 00:50:05,892
+All right, you two, block off
+the exit at Rue de la Mairie.
+
+537
+00:50:05,917 --> 00:50:09,081
+You, back to Rue Picpus. We're
+going to flush him out.
+Yes, sir.
+
+538
+00:50:12,467 --> 00:50:13,802
+Quick!
+
+539
+00:50:29,387 --> 00:50:31,411
+Papa, my feet are hurting.
+
+540
+00:50:33,186 --> 00:50:36,081
+Are all the avenues closed off?
+Every one, sir.
+
+541
+00:50:53,147 --> 00:50:55,081
+Papa, I'm cold.
+
+542
+00:50:58,147 --> 00:51:00,362
+They went that way, sir.
+
+543
+00:51:00,387 --> 00:51:02,052
+Now we have him.
+
+544
+00:51:28,747 --> 00:51:31,081
+Where, is he?
+Can't find him, sir.
+
+545
+00:51:33,077 --> 00:51:36,522
+Back! Back to Rue Picpus! Hurry!
+At the double. Go! Go!
+
+546
+00:51:36,547 --> 00:51:38,081
+Come on, let's go!
+
+547
+00:51:55,157 --> 00:51:57,132
+We're safe for the moment.
+
+548
+00:51:57,157 --> 00:51:58,612
+Cosette!
+
+549
+00:51:58,637 --> 00:52:00,612
+Oh, God, what have I done?
+
+550
+00:52:11,637 --> 00:52:13,642
+You must leave, sir.
+
+551
+00:52:13,667 --> 00:52:15,882
+No man may enter…
+I'll go, I'll go,
+
+552
+00:52:15,907 --> 00:52:18,642
+but I beg you, care for this girl.
+Pere Madeleine?
+
+553
+00:52:18,667 --> 00:52:20,161
+Sister Simplice.
+
+554
+00:52:21,587 --> 00:52:23,492
+She's Fantine's child.
+
+555
+00:52:25,157 --> 00:52:28,642
+Reverend Mother, this is a good, kind man.
+
+556
+00:52:28,667 --> 00:52:31,081
+Cosette…
+
+557
+00:52:35,186 --> 00:52:37,692
+I'm an escaped convict,
+wanted by the police.
+
+558
+00:52:37,717 --> 00:52:40,842
+Even now they're searching
+the streets for me.
+
+559
+00:52:42,436 --> 00:52:44,642
+Police!
+
+560
+00:52:47,226 --> 00:52:50,562
+Open up in the name of the law or
+by God we'll batter this door down!
+
+561
+00:52:51,667 --> 00:52:54,132
+Take the child.
+
+562
+00:53:06,667 --> 00:53:08,802
+Police!
+
+563
+00:53:23,356 --> 00:53:25,562
+Open up in the name of the law!
+
+564
+00:53:28,106 --> 00:53:30,411
+Tell me your name and
+your business here, sir.
+
+565
+00:53:30,436 --> 00:53:32,802
+My name is Inspector
+javert of the Paris police.
+
+566
+00:53:32,827 --> 00:53:35,772
+We have reason to believe
+there's an escaped criminal here.
+
+567
+00:53:35,797 --> 00:53:37,642
+I demand to search the premises.
+
+568
+00:53:37,667 --> 00:53:40,161
+This is a house of holy women.
+No man can enter.
+
+569
+00:53:40,186 --> 00:53:43,562
+We answer to God here, sir,
+not to the Paris police.
+
+570
+00:53:44,667 --> 00:53:46,081
+Sister…
+
+571
+00:53:47,157 --> 00:53:49,211
+…I must search this building.
+
+572
+00:53:58,637 --> 00:54:00,081
+No, Inspector.
+
+573
+00:54:01,667 --> 00:54:05,132
+No man has set foot in this
+convent for many years.
+
+574
+00:54:05,157 --> 00:54:06,642
+Nor will do.
+
+575
+00:54:19,186 --> 00:54:22,612
+If you should become aware
+of any attempt by this man…
+
+576
+00:54:22,637 --> 00:54:24,802
+You shall be informed, Inspector.
+
+577
+00:55:01,157 --> 00:55:02,802
+Please, sit.
+
+578
+00:55:10,387 --> 00:55:13,132
+Well, Monsieur Madeleine,
+
+579
+00:55:13,157 --> 00:55:15,572
+what are we to do with you?
+
+580
+00:55:16,627 --> 00:55:18,572
+My name is Jean Valjean.
+
+581
+00:55:19,667 --> 00:55:22,081
+You should turn me away, but I beg you…
+
+582
+00:55:23,637 --> 00:55:25,331
+…look after Cosette.
+
+583
+00:55:26,436 --> 00:55:29,411
+That can be done easily enough.
+We have a school here
+
+584
+00:55:29,436 --> 00:55:33,081
+and, as soon as she is well enough,
+she can attend with the other girls.
+
+585
+00:55:34,907 --> 00:55:37,331
+But will you be happy to part with her?
+
+586
+00:55:40,157 --> 00:55:42,081
+It would break my heart, I think.
+
+587
+00:55:48,157 --> 00:55:50,852
+You are a thief, are you not?
+
+588
+00:55:50,877 --> 00:55:52,572
+I was a thief.
+
+589
+00:55:53,907 --> 00:55:57,081
+But that is long in the past.
+So I can trust you, can I?
+
+590
+00:55:58,186 --> 00:56:01,802
+If you take care of Cosette,
+I would do anything for you.
+
+591
+00:56:03,877 --> 00:56:05,331
+I believe you.
+
+592
+00:56:07,186 --> 00:56:10,431
+We do need some work to
+be done in the grounds.
+
+593
+00:56:10,456 --> 00:56:13,822
+You may have this room and
+stay here as our gardener.
+
+594
+00:56:14,927 --> 00:56:17,822
+And you will be able to
+see the child every day.
+
+595
+00:56:25,177 --> 00:56:26,822
+Thank you, Reverend Mother.
+
+596
+00:56:27,897 --> 00:56:29,351
+Thank you.
+
+597
+00:57:48,206 --> 00:57:51,152
+Sorry he got away, sir.
+He will never get away!
+
+598
+00:57:51,177 --> 00:57:52,822
+Search everywhere!
+
+599
+00:57:53,897 --> 00:57:55,592
+He will be found!
+

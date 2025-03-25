@@ -1,0 +1,3567 @@
+﻿1
+00:00:55,541 --> 00:00:56,791
+Left stage!
+
+2
+00:01:00,416 --> 00:01:01,666
+Action! Rain.
+
+3
+00:01:12,125 --> 00:01:13,708
+Market Square, action!
+
+4
+00:01:14,666 --> 00:01:16,166
+Action!
+
+5
+00:01:25,750 --> 00:01:27,750
+- Uh-huh.
+
+6
+00:01:29,166 --> 00:01:30,916
+- Ah... Shit.
+
+7
+00:01:31,833 --> 00:01:34,458
+- Ah.
+
+8
+00:01:34,541 --> 00:01:35,833
+Uh... Hello? Douglas speaking.
+
+9
+00:01:35,916 --> 00:01:37,541
+<i>Oh, hello. It's Susan Edwards.</i>
+
+10
+00:01:37,625 --> 00:01:39,250
+<i>I understand you're being</i>
+<i>offered as-- as my, um...</i>
+
+11
+00:01:39,333 --> 00:01:41,083
+Yes, that's right.
+My name is Douglas Hylton.
+
+12
+00:01:41,166 --> 00:01:43,166
+I'll be coming in to help you
+tonight, Mrs. Edwards.
+
+13
+00:01:43,250 --> 00:01:44,500
+SUSAN:<i> Oh, Susan's fine.</i>
+
+14
+00:01:44,583 --> 00:01:46,291
+Oh. Okay, thanks. Um...
+
+15
+00:01:46,375 --> 00:01:48,708
+Well, if you'd like,
+I'll be representing you
+
+16
+00:01:48,791 --> 00:01:50,291
+- for the foreseeable--
+- SUSAN:<i> Oh, good, because...</i>
+
+17
+00:01:50,375 --> 00:01:52,208
+<i>you've heard, I think,</i>
+<i>that my husband and I</i>
+
+18
+00:01:52,291 --> 00:01:54,916
+<i>have got ourselves</i>
+<i>into a bit of a pickle.</i>
+
+19
+00:01:55,000 --> 00:01:57,041
+<i>- I know it sounds all rather...</i>
+- Susan. Susan?
+
+20
+00:01:57,125 --> 00:01:58,500
+<i>- ...morbid--</i>
+- Uh-- Sorry to interrupt you,
+
+21
+00:01:58,583 --> 00:02:00,791
+and thank you for calling me,
+but I'm actually, uh,
+
+22
+00:02:00,875 --> 00:02:04,083
+walking to you right now,
+so if that could just wait
+for a minute.
+
+23
+00:02:04,166 --> 00:02:06,333
+SUSAN:<i> Yeah, I mean,</i>
+<i>obviously we regret... I mean--</i>
+
+24
+00:02:06,416 --> 00:02:09,416
+<i>I mean, we should have done</i>
+<i>certain things differently.</i>
+
+25
+00:02:09,500 --> 00:02:11,708
+<i>I-- I think we're both happy</i>
+<i>to admit that.</i>
+
+26
+00:02:11,791 --> 00:02:13,625
+Well, "ha--" "happy"
+is hardly the word, is it?
+
+27
+00:02:13,708 --> 00:02:15,708
+<i> So-- So--</i>
+
+28
+00:02:15,791 --> 00:02:17,875
+<i>So, I can hear you've got a lot</i>
+<i>to get off your chest,</i>
+
+29
+00:02:17,958 --> 00:02:19,166
+<i>but, um, really,</i>
+
+30
+00:02:19,250 --> 00:02:21,333
+<i>- it's, uh...</i>
+- It is just very complicated,
+Douglas,
+
+31
+00:02:21,416 --> 00:02:23,166
+and I'm very keen for--
+
+32
+00:02:23,250 --> 00:02:24,958
+But it's my husband,
+really, Chris, he just...
+
+33
+00:02:25,041 --> 00:02:26,791
+- he shouldn't be here.
+<i>- Sus-- Susan? Susan?</i>
+
+34
+00:02:26,875 --> 00:02:28,875
+<i>- Sorry, can I just--</i>
+- So I feel, for his sake,
+
+35
+00:02:28,958 --> 00:02:30,458
+everyone should know the truth
+from the outset.
+
+36
+00:02:30,541 --> 00:02:32,333
+<i>- Uh... Uh-- Uh-- Susan?</i>
+- Yes?
+
+37
+00:02:32,416 --> 00:02:34,833
+<i>It-- It's-- It's-- It's just...</i>
+<i>This isn't a private call</i>
+
+38
+00:02:34,916 --> 00:02:37,000
+<i>because I'm not actually</i>
+<i>your representative yet.</i>
+
+39
+00:02:37,083 --> 00:02:38,666
+<i>Uh... That's what I'm coming</i>
+<i>to do now,</i>
+
+40
+00:02:38,750 --> 00:02:40,083
+<i>you see,</i>
+<i>to take your instruction,</i>
+
+41
+00:02:40,166 --> 00:02:41,541
+<i>and then I can...</i>
+
+42
+00:02:41,625 --> 00:02:43,000
+<i>- Does that make sense?</i>
+- I see, yes.
+
+43
+00:02:43,083 --> 00:02:44,625
+- Sorry. Silly old me.
+
+44
+00:02:44,708 --> 00:02:47,125
+<i>- Look, I-- I can sense</i>
+<i>we're gonna get on, Susan.</i>
+
+45
+00:02:47,208 --> 00:02:49,333
+<i>- I'll speak to you very soon.</i>
+- Thank you.
+
+46
+00:02:53,666 --> 00:02:56,541
+- Sorry to keep you.
+
+47
+00:03:32,958 --> 00:03:35,083
+- FRANCOIS:<i> Bonjour, Madame.</i>
+<i>- Bonjour.</i>
+
+48
+00:03:45,666 --> 00:03:48,333
+Ah...
+
+49
+00:03:48,416 --> 00:03:50,833
+Of course,
+but I think you mentioned
+
+50
+00:03:50,916 --> 00:03:53,500
+this one.
+He's one of your favorites.
+
+51
+00:03:56,000 --> 00:03:58,916
+- Gary Cooper.
+- Oh...
+
+52
+00:04:03,333 --> 00:04:07,041
+It's an original,
+from the second Belgian release.
+
+53
+00:04:07,125 --> 00:04:09,291
+- The second Belgian release?
+- Mm-hmm.
+
+54
+00:04:12,916 --> 00:04:14,791
+Aside from everything else.
+
+55
+00:04:14,875 --> 00:04:17,458
+For you, madame,
+I'll make a special price.
+
+56
+00:04:17,541 --> 00:04:19,666
+- Two hundred fifty.
+- Oh, no, um,
+
+57
+00:04:19,750 --> 00:04:22,916
+- Francois, it's too much. Sorry.
+- How about 200?
+
+58
+00:04:23,875 --> 00:04:25,958
+I could possibly stretch
+to 100, but...
+
+59
+00:04:26,041 --> 00:04:30,791
+Madame...
+...for you, I'll make it 150,
+
+60
+00:04:30,875 --> 00:04:32,541
+'cause I know
+this will make you happy
+
+61
+00:04:32,625 --> 00:04:36,208
+- and that makes me happy too.
+
+62
+00:04:37,791 --> 00:04:40,083
+Okay.
+
+63
+00:04:44,875 --> 00:04:48,750
+Uh-- If you use the card,
+it must be 170, madame.
+
+64
+00:04:48,833 --> 00:04:51,708
+Oh, okay.
+
+65
+00:04:53,791 --> 00:04:55,500
+- SUSAN:<i> Merci.</i>
+<i>- Merci beaucoup.</i>
+
+66
+00:04:55,583 --> 00:04:56,541
+Mm-hmm.
+
+67
+00:05:12,708 --> 00:05:15,166
+<i>- Salut, mon cher.</i>
+
+68
+00:05:15,250 --> 00:05:16,750
+- Hello, darling.
+- Mm-hmm.
+
+69
+00:05:16,833 --> 00:05:18,333
+That's a nice greeting.
+
+70
+00:05:18,416 --> 00:05:22,291
+- Good morning?
+- Um... It's okay, I think.
+
+71
+00:05:22,375 --> 00:05:23,916
+- Lovely.
+
+72
+00:05:24,000 --> 00:05:26,541
+- I've made sandwiches.
+- Thank you.
+
+73
+00:05:26,625 --> 00:05:29,166
+And there's soup
+from last night if you want it.
+
+74
+00:05:29,250 --> 00:05:31,000
+Oh.
+
+75
+00:05:31,083 --> 00:05:33,291
+- CHRISTOPHER EDWARDS:
+What's in the sarnies?
+
+76
+00:05:33,375 --> 00:05:36,583
+Tuna and sweetcorn
+on normal bread.
+
+77
+00:05:37,458 --> 00:05:38,750
+Found some
+in the English section
+
+78
+00:05:38,833 --> 00:05:40,916
+- at the Monoprix.
+- Oh, lovely.
+
+79
+00:05:44,166 --> 00:05:47,625
+Yes. Yes, yes. I felt I made...
+
+80
+00:05:47,708 --> 00:05:49,583
+a good impression.
+Oh, and my French
+
+81
+00:05:49,666 --> 00:05:51,750
+- is really improving, actually.
+- Ah!
+
+82
+00:05:51,833 --> 00:05:53,625
+- Drink?
+- Yes, please.
+
+83
+00:05:53,708 --> 00:05:55,416
+So, I've got another one
+this afternoon
+
+84
+00:05:55,500 --> 00:05:59,000
+which I'm hoping
+will go even better. Mmm.
+
+85
+00:06:04,833 --> 00:06:06,375
+Oh, yes. Look, Chris!
+
+86
+00:06:10,041 --> 00:06:11,833
+It's just like the one
+I had on my bedroom wall
+
+87
+00:06:11,916 --> 00:06:13,083
+- as a little girl...
+
+88
+00:06:13,166 --> 00:06:14,875
+...that my grandfather
+brought me.
+
+89
+00:06:14,958 --> 00:06:17,000
+It wasn't in French, but look!
+
+90
+00:06:18,083 --> 00:06:19,333
+Same image.
+
+91
+00:06:23,375 --> 00:06:25,416
+- How much was it?
+- Oh, it was nothing.
+
+92
+00:06:25,500 --> 00:06:28,250
+Twenty euros?
+It's not an original.
+
+93
+00:06:28,333 --> 00:06:31,916
+You know, Susan,
+even 20 euros,
+
+94
+00:06:32,000 --> 00:06:34,208
+there'll be a final demand
+for the gas in there,
+
+95
+00:06:34,291 --> 00:06:35,666
+and I'm the one
+who's gotta open them
+
+96
+00:06:35,750 --> 00:06:37,000
+and sort it out.
+
+97
+00:06:39,250 --> 00:06:41,625
+- Is that from Gérard?
+- You open it.
+
+98
+00:06:41,708 --> 00:06:43,583
+Well, no,
+it's-- it's for you.
+
+99
+00:06:44,041 --> 00:06:45,166
+Hmm.
+
+100
+00:06:55,458 --> 00:06:57,916
+My God. A hundred euro.
+
+101
+00:06:58,041 --> 00:06:59,916
+See, crosspatch? Didn't I say?
+
+102
+00:07:00,000 --> 00:07:02,916
+Things around here
+are about to change.
+
+103
+00:07:03,000 --> 00:07:04,541
+Well, it's only a hundred,
+Susan.
+
+104
+00:07:04,625 --> 00:07:06,625
+- But it's a start, isn't it?
+- Of what?
+
+105
+00:07:08,625 --> 00:07:10,875
+We're way behind on the rent,
+and if I don't get a job--
+
+106
+00:07:10,958 --> 00:07:13,291
+But you will get a job.
+That's what I mean.
+
+107
+00:07:15,958 --> 00:07:19,583
+Yes, well, I'm trying...
+trying my hardest.
+
+108
+00:07:21,125 --> 00:07:23,375
+Come on, then. What's Gérard
+got to say for himself?
+
+109
+00:07:25,541 --> 00:07:27,291
+Read it out loud. I'm listening.
+
+110
+00:07:27,375 --> 00:07:28,708
+I'll look at it later.
+
+111
+00:08:17,250 --> 00:08:18,625
+Susan?
+
+112
+00:08:23,041 --> 00:08:24,375
+Why don't you, uh...
+
+113
+00:08:27,375 --> 00:08:29,958
+Why don't you put
+that thing up?
+
+114
+00:08:30,041 --> 00:08:32,916
+Silly, keeping it hidden away
+now you've got it.
+
+115
+00:08:34,000 --> 00:08:35,916
+Yes. Good idea.
+
+116
+00:08:37,333 --> 00:08:40,416
+Who wouldn't give
+this handsome man a job, hey?
+
+117
+00:08:40,500 --> 00:08:42,875
+We'll celebrate afterwards
+in the café.
+
+118
+00:09:01,958 --> 00:09:03,708
+Christopher Edwards?
+
+119
+00:09:53,208 --> 00:09:56,208
+<i>Vous pouvez répéter la question?</i>
+
+120
+00:09:59,916 --> 00:10:01,208
+<i>S'il vous plaît.</i>
+
+121
+00:10:31,458 --> 00:10:33,583
+Go on, Chris.
+You can do it.
+
+122
+00:11:06,250 --> 00:11:07,708
+Mon cher,<i> Chris.</i>
+
+123
+00:11:08,583 --> 00:11:11,000
+<i>Please find enclosed 100 euros,</i>
+
+124
+00:11:11,083 --> 00:11:15,458
+<i>a small token of my gratitude</i>
+<i>for your eternal friendship.</i>
+
+125
+00:11:15,541 --> 00:11:19,750
+<i>As you will know from my movie,</i>
+<i>we have a saying in France,</i>
+
+126
+00:11:19,833 --> 00:11:21,916
+"La vie en rose."
+
+127
+00:11:22,000 --> 00:11:23,333
+<i>The meaning of this phrase</i>
+
+128
+00:11:23,416 --> 00:11:26,291
+<i>is to look up at the stars</i>
+<i>instead of in the gutter,</i>
+
+129
+00:11:27,500 --> 00:11:29,583
+<i>to see the beauty</i>
+<i>that exists in life,</i>
+
+130
+00:11:29,666 --> 00:11:32,541
+<i>even when</i>
+<i>it is difficult to find...</i>
+
+131
+00:11:32,625 --> 00:11:36,750
+<i>perhaps sometimes</i>
+<i>even when it is not there.</i>
+
+132
+00:11:36,833 --> 00:11:41,708
+<i>This is the purpose of stories</i>
+<i>and the purpose of cinema,</i>
+
+133
+00:11:41,791 --> 00:11:45,833
+<i>but more than this,</i>
+<i>it is the purpose of love,</i>
+
+134
+00:11:45,916 --> 00:11:50,333
+<i>and to be loved is the most</i>
+<i>beautiful thing in the world.</i>
+
+135
+00:11:50,416 --> 00:11:53,958
+<i>Yours sincerely,</i>
+<i>Gérard Depardieu.</i>
+
+136
+00:13:12,125 --> 00:13:15,625
+- CHRISTOPHER:<i> Hello?</i>
+
+137
+00:13:15,708 --> 00:13:17,416
+- TABITHA EDWARDS:<i> Hello?</i>
+- CHRISTOPHER:<i> Is that Tabitha?</i>
+
+138
+00:13:17,500 --> 00:13:19,291
+TABITHA:<i> Speaking. Who's that?</i>
+
+139
+00:13:19,375 --> 00:13:21,708
+TABITHA:<i> That's not you,</i>
+<i>is it Chris?</i>
+
+140
+00:13:21,791 --> 00:13:23,500
+- Yeah. It's me.
+- TABITHA:<i> Chris?</i>
+
+141
+00:13:23,916 --> 00:13:25,250
+Yes.
+
+142
+00:13:25,333 --> 00:13:27,708
+Uh... Um...
+
+143
+00:13:32,958 --> 00:13:35,208
+Listen, I'm sorry
+it's been so long.
+
+144
+00:13:35,291 --> 00:13:38,708
+- TABITHA:<i> Where are you?</i>
+- Uh... I'm-- I'm in France.
+
+145
+00:13:38,791 --> 00:13:41,500
+- TABITHA:<i> Are you with Susan?</i>
+- Yeah.
+
+146
+00:13:41,583 --> 00:13:44,666
+I've just-- I've just been
+for a-- a-- a-- a job interview,
+
+147
+00:13:44,750 --> 00:13:45,875
+actually.
+
+148
+00:13:47,583 --> 00:13:51,000
+Yeah, a-- a fairly senior
+credit control position.
+
+149
+00:13:52,250 --> 00:13:55,083
+You know, but the truth is,
+what with the, um...
+
+150
+00:13:57,833 --> 00:14:00,416
+the, um, the language barrier,
+
+151
+00:14:00,500 --> 00:14:03,625
+um... we-- we're in a bit
+of financial, um...
+
+152
+00:14:05,375 --> 00:14:07,666
+you know-- Uh...
+What am I saying?
+
+153
+00:14:07,750 --> 00:14:10,583
+There's--
+There's this cashflow situation,
+
+154
+00:14:10,666 --> 00:14:13,750
+um, and believe me, we-- we--
+we-- we're very grateful
+
+155
+00:14:13,833 --> 00:14:17,125
+for all the help
+you've given us in the past.
+
+156
+00:14:20,291 --> 00:14:21,750
+- TABITHA:<i> Chris?</i>
+- Oh, um...
+
+157
+00:14:21,833 --> 00:14:24,041
+- TABITHA:<i> Is everything okay?</i>
+- No, I'm sorry. I'm still here.
+
+158
+00:14:24,125 --> 00:14:25,250
+Yeah, um...
+
+159
+00:14:26,625 --> 00:14:31,208
+Uh...
+It's just, I need you to...
+
+160
+00:14:31,291 --> 00:14:34,166
+promise me something,
+Tabitha. Um...
+
+161
+00:14:35,583 --> 00:14:38,625
+You see, I've-- I've-- I've done
+something rather silly...
+
+162
+00:14:39,541 --> 00:14:40,958
+and it might sound bad,
+
+163
+00:14:41,041 --> 00:14:44,791
+might sound very bad, even,
+but it's not what it seems.
+
+164
+00:14:45,708 --> 00:14:47,208
+Not at all.
+It's not what it seems,
+
+165
+00:14:47,291 --> 00:14:50,458
+and, um, just needs a little bit
+of clearing up, that's all.
+
+166
+00:14:50,541 --> 00:14:54,333
+So... that's why I need you
+to promise me.
+
+167
+00:14:54,416 --> 00:14:57,625
+I need you to promise me
+
+168
+00:14:57,708 --> 00:14:59,791
+that you won't tell the police.
+
+169
+00:14:59,875 --> 00:15:02,333
+There you go. Can you
+promise me that, Tabitha?
+
+170
+00:15:02,958 --> 00:15:04,500
+Uh... Because I can't...
+
+171
+00:15:07,416 --> 00:15:12,291
+I can't let Susan down.
+
+172
+00:15:12,375 --> 00:15:13,791
+Do you understand?
+
+173
+00:15:15,833 --> 00:15:16,958
+She's...
+
+174
+00:15:21,083 --> 00:15:24,708
+She's very, uh, fragile, yes.
+
+175
+00:15:24,791 --> 00:15:27,333
+TABITHA:<i> Just tell me</i>
+<i>what you need, Christopher.</i>
+
+176
+00:15:27,416 --> 00:15:29,708
+<i>I'm always here for you,</i>
+<i>you know that.</i>
+
+177
+00:15:34,916 --> 00:15:36,375
+SUSAN:<i> So, how was it?</i>
+
+178
+00:15:38,083 --> 00:15:39,541
+Yes.
+
+179
+00:15:39,625 --> 00:15:41,958
+It's, uh...
+
+180
+00:15:42,041 --> 00:15:45,791
+- Yes. Hard to tell, isn't it?
+- Yeah. But good, do you think?
+
+181
+00:15:47,041 --> 00:15:49,625
+Uh... Well, my head's
+a bit, um...
+
+182
+00:15:51,958 --> 00:15:54,458
+- but yes.
+- Oh, I knew it.
+
+183
+00:15:54,541 --> 00:15:55,958
+- Do you want a coffee?
+- Yeah.
+
+184
+00:15:56,041 --> 00:15:57,333
+Okay.
+
+185
+00:15:57,416 --> 00:15:58,708
+<i>Oh, excusez-moi.</i>
+
+186
+00:16:01,791 --> 00:16:03,541
+<i>- Merci.</i>
+
+187
+00:16:06,125 --> 00:16:08,416
+Yeah, I was actually just, uh...
+
+188
+00:16:11,625 --> 00:16:16,666
+I was just thinking.
+Supposing I do get this job...
+
+189
+00:16:16,750 --> 00:16:19,958
+I mean, I still wouldn't be paid
+for a few weeks, would I?
+
+190
+00:16:21,166 --> 00:16:24,208
+We're behind on the rent.
+And it--
+
+191
+00:16:24,291 --> 00:16:25,708
+it's not like other times,
+Susan.
+
+192
+00:16:25,791 --> 00:16:28,083
+We're... We could be in...
+
+193
+00:16:29,000 --> 00:16:30,916
+<i>- Merci.</i>
+- Thank you.<i> Merci.</i>
+
+194
+00:16:31,000 --> 00:16:32,416
+We could be in trouble.
+
+195
+00:16:33,708 --> 00:16:34,708
+So...
+
+196
+00:16:36,083 --> 00:16:38,750
+I was thinking, maybe,
+to take the pressure off,
+
+197
+00:16:38,833 --> 00:16:41,375
+we could try
+to borrow some money.
+
+198
+00:16:43,625 --> 00:16:44,916
+You know, I could ask
+
+199
+00:16:45,000 --> 00:16:47,291
+my stepmother, Tabitha.
+She's, uh...
+
+200
+00:16:49,000 --> 00:16:50,416
+You think?
+She's family, isn't she?
+
+201
+00:16:50,500 --> 00:16:51,541
+No.
+
+202
+00:16:51,625 --> 00:16:53,416
+- Really? I mean, would you--
+- But no one knows
+
+203
+00:16:53,500 --> 00:16:54,833
+where we are or why.
+
+204
+00:16:55,666 --> 00:16:58,416
+And you'd possibly have to tell,
+
+205
+00:16:58,500 --> 00:17:00,541
+wouldn't you?
+You'd have to explain a little
+
+206
+00:17:00,625 --> 00:17:02,125
+why we're here, and then,
+
+207
+00:17:02,208 --> 00:17:03,916
+- she could tell the police,
+couldn't she?
+
+208
+00:17:04,000 --> 00:17:06,833
+- Not we've done
+anything wrong.
+- The police?
+
+209
+00:17:06,916 --> 00:17:09,666
+Why would she do that?
+I don't think there's any danger
+of her doing that.
+
+210
+00:17:10,583 --> 00:17:12,583
+- She's family.
+- No, Chris.
+
+211
+00:17:18,708 --> 00:17:20,916
+Look, we're doing fine.
+
+212
+00:17:21,000 --> 00:17:23,750
+We're just going through a bit
+of a sticky patch, that's all.
+
+213
+00:17:27,916 --> 00:17:32,291
+Yeah. Yeah, you're right.
+
+214
+00:17:32,375 --> 00:17:34,583
+Forget I mentioned it.
+It's a silly idea.
+
+215
+00:17:34,666 --> 00:17:37,166
+- Silly.
+
+216
+00:17:43,333 --> 00:17:45,708
+OPERATOR:<i> Thank you for calling</i>
+<i>Nottinghamshire Police.</i>
+
+217
+00:17:45,791 --> 00:17:48,000
+<i>Please leave a message</i>
+<i>after the tone.</i>
+
+218
+00:17:49,708 --> 00:17:52,750
+My name
+is Doctor Tabitha Edwards.
+
+219
+00:17:52,833 --> 00:17:55,166
+I'm calling to report
+something rather...
+
+220
+00:17:56,458 --> 00:17:58,625
+Well, I don't know
+what to make of it, frankly.
+
+221
+00:18:00,666 --> 00:18:03,958
+<i>My stepson just told me</i>
+<i>over the telephone...</i>
+
+222
+00:18:05,291 --> 00:18:08,833
+<i>...that he buried</i>
+<i>his wife's parents</i>
+
+223
+00:18:08,916 --> 00:18:12,416
+<i>in a garden near Nottingham</i>
+<i>fifteen years ago.</i>
+
+224
+00:18:15,000 --> 00:18:17,625
+<i>So, I'm just curious to know</i>
+
+225
+00:18:17,708 --> 00:18:19,500
+<i>if there were</i>
+<i>any reports of a couple</i>
+
+226
+00:18:19,583 --> 00:18:23,083
+<i>by the name of William</i>
+<i>and Patricia Wycherley</i>
+
+227
+00:18:23,166 --> 00:18:25,208
+<i>going missing around that time?</i>
+
+228
+00:18:30,333 --> 00:18:32,375
+- EMMA LANCING:<i> Sir?</i>
+- TONY COLLIER:<i> No.</i>
+
+229
+00:18:34,041 --> 00:18:35,583
+- Sir?
+- Go away!
+
+230
+00:18:35,666 --> 00:18:37,625
+Fuck off, Emma.
+I'm having my lunch.
+
+231
+00:18:37,708 --> 00:18:40,041
+Have you got a minute, sir?
+
+232
+00:18:40,125 --> 00:18:42,208
+We've just received a tip.
+There are two bodies buried
+
+233
+00:18:42,291 --> 00:18:44,583
+in a back garden
+in a house in Mansfield.
+
+234
+00:18:44,666 --> 00:18:46,083
+Woman called Tabitha Edwards...
+
+235
+00:18:46,166 --> 00:18:47,500
+- was informed yesterday...
+
+236
+00:18:47,583 --> 00:18:49,208
+...by her stepson, Christopher.
+
+237
+00:18:49,291 --> 00:18:51,375
+- When?
+- Fifteen years ago.
+
+238
+00:18:51,458 --> 00:18:53,250
+Fifteen years? Fuck off.
+
+239
+00:18:53,333 --> 00:18:55,125
+Stop telling me
+to fuck off please, sir.
+
+240
+00:18:56,250 --> 00:18:58,416
+Bloody hell.
+Why is this so fucking hot?
+
+241
+00:18:58,500 --> 00:19:00,208
+- Well, it's a flask, sir.
+
+242
+00:19:00,291 --> 00:19:02,666
+Fucking Mount Etna, that is.
+Ridiculous.
+
+243
+00:19:02,750 --> 00:19:06,166
+- Can't feel my fucking mouth.
+- It's his in-laws
+apparently, sir.
+
+244
+00:19:06,250 --> 00:19:08,416
+- His what?
+- The bodies.
+
+245
+00:19:08,500 --> 00:19:10,000
+Says he didn't
+actually kill them.
+
+246
+00:19:10,083 --> 00:19:11,583
+Says it was an accident.
+
+247
+00:19:11,666 --> 00:19:13,000
+Rang to ask his stepmom
+for some money
+
+248
+00:19:13,083 --> 00:19:15,458
+- and then he just sort of
+spilled the beans.
+- Right.
+
+249
+00:19:15,541 --> 00:19:18,208
+- Does he know that we know?
+- She's made him aware, yeah.
+
+250
+00:19:18,291 --> 00:19:21,583
+Just, um, sent him
+an email, apparently.
+
+251
+00:19:21,666 --> 00:19:23,250
+Sent an email?
+
+252
+00:19:23,333 --> 00:19:26,750
+What? "Dear Christopher,
+I've told the fucking police"?
+
+253
+00:19:26,833 --> 00:19:30,208
+I told her
+in strict confidence!
+
+254
+00:19:30,291 --> 00:19:31,750
+I asked her not to tell anyone.
+
+255
+00:19:31,833 --> 00:19:33,958
+I'm as disappointed as you are.
+I'm...
+
+256
+00:19:35,083 --> 00:19:37,125
+I'm-- I'm disgusted, actually.
+
+257
+00:19:39,958 --> 00:19:42,083
+Darling, she wasn't gonna
+send any money
+
+258
+00:19:42,166 --> 00:19:43,583
+unless I told her
+what was going on
+
+259
+00:19:43,666 --> 00:19:46,958
+and why we needed it.
+Put yourself in my shoes.
+
+260
+00:19:47,041 --> 00:19:49,208
+What was I supposed to do?
+We'll be living on the streets,
+
+261
+00:19:49,291 --> 00:19:52,458
+eating croissants
+out of rubbish bins next!
+
+262
+00:19:52,541 --> 00:19:53,916
+Is that what you want?
+
+263
+00:19:56,666 --> 00:19:58,541
+We'd still be together though,
+wouldn't we?
+
+264
+00:20:04,416 --> 00:20:05,583
+It's okay.
+
+265
+00:20:07,500 --> 00:20:08,833
+Just have to move again.
+
+266
+00:20:46,291 --> 00:20:47,791
+- Susan--
+- No!
+
+267
+00:20:47,875 --> 00:20:50,250
+You were supposed
+to protect me!
+
+268
+00:20:50,333 --> 00:20:55,541
+I have protected you!
+I am. I'm trying!
+
+269
+00:20:57,208 --> 00:20:59,000
+But we both knew
+this day would come.
+
+270
+00:20:59,083 --> 00:21:01,541
+But it's not your decision,
+Chris! There are two of us here!
+
+271
+00:21:01,625 --> 00:21:03,416
+We're in this together,
+aren't we?
+
+272
+00:21:04,833 --> 00:21:05,958
+Aren't we?
+
+273
+00:21:07,250 --> 00:21:08,291
+Yes.
+
+274
+00:21:08,375 --> 00:21:10,875
+And now, after all this time,
+I'd do it for you.
+
+275
+00:21:10,958 --> 00:21:13,208
+I'd live on the streets for you.
+I'd eat rubbish for you!
+
+276
+00:21:13,291 --> 00:21:14,958
+I'd eat a croissant
+out of a bin for you.
+
+277
+00:21:15,041 --> 00:21:18,000
+- Well, we're not
+quite there yet.
+- But I would, though!
+
+278
+00:21:21,041 --> 00:21:22,166
+Yeah.
+
+279
+00:21:26,458 --> 00:21:28,791
+Let's get this
+cleared up, shall we?
+
+280
+00:21:31,625 --> 00:21:33,375
+Then how about a film?
+
+281
+00:21:34,750 --> 00:21:36,250
+Would you like to watch a film?
+
+282
+00:21:50,083 --> 00:21:52,625
+Yeah,
+that's it there, number seven.
+
+283
+00:21:52,708 --> 00:21:55,000
+It's not number seven,
+mate. It's number five.
+
+284
+00:21:56,375 --> 00:21:57,666
+Oh, right.
+
+285
+00:21:58,750 --> 00:22:00,416
+That's the house
+over there.
+
+286
+00:22:03,875 --> 00:22:04,958
+So, shall we park up
+
+287
+00:22:05,041 --> 00:22:06,541
+- over there, then?
+- Yeah. All right, all right.
+
+288
+00:22:06,625 --> 00:22:07,916
+I'm on it, I'm on it.
+
+289
+00:22:11,625 --> 00:22:13,000
+Just don't make
+a scene.
+
+290
+00:22:13,083 --> 00:22:14,458
+Why would I make
+a scene?
+
+291
+00:22:14,541 --> 00:22:15,750
+Because you're a twat.
+
+292
+00:22:15,833 --> 00:22:17,541
+- You're a twat.
+
+293
+00:22:17,625 --> 00:22:20,500
+Why are you doing that?
+I just rang the bell.
+
+294
+00:22:20,583 --> 00:22:22,250
+Can you stand a bit further
+away from me, please?
+
+295
+00:22:22,333 --> 00:22:24,625
+What you on about?
+I'm not even standing that-- Oh!
+
+296
+00:22:25,708 --> 00:22:27,500
+- Afternoon.
+- Good afternoon, sir.
+
+297
+00:22:27,583 --> 00:22:29,708
+Sorry to bother you.
+We're from Nottingham Police.
+
+298
+00:22:29,791 --> 00:22:32,833
+We're following up a report
+of a historic crime in the area
+
+299
+00:22:32,916 --> 00:22:35,000
+and, uh, wonder if we could have
+a quick chat.
+
+300
+00:22:35,083 --> 00:22:38,208
+- Oh, right. Um...
+- If that's not too much trouble.
+
+301
+00:22:38,291 --> 00:22:39,958
+No, sure. Uh...
+
+302
+00:22:40,041 --> 00:22:42,375
+Come in. I've got my youngest
+asleep upstairs, though,
+
+303
+00:22:42,458 --> 00:22:44,708
+if you don't mind creeping.
+
+304
+00:22:44,791 --> 00:22:46,083
+All right, no problem.
+
+305
+00:22:46,166 --> 00:22:48,583
+- Perhaps we could go
+through to the garden?
+- Yeah, sure.
+
+306
+00:22:48,666 --> 00:22:50,666
+Yes, assuming
+you've got a garden.
+
+307
+00:22:51,125 --> 00:22:52,291
+You what?
+
+308
+00:22:53,916 --> 00:22:54,916
+Yeah.
+
+309
+00:22:58,458 --> 00:22:59,500
+Twat.
+
+310
+00:23:00,833 --> 00:23:03,416
+How long you've been here,
+if you don't mind me asking?
+
+311
+00:23:03,500 --> 00:23:05,625
+Going on eight years.
+
+312
+00:23:05,708 --> 00:23:07,000
+Nice neighborhood?
+
+313
+00:23:07,708 --> 00:23:09,208
+Yeah, it's nice enough.
+
+314
+00:23:09,291 --> 00:23:10,916
+Pretty quiet, to be honest
+with you,
+
+315
+00:23:11,000 --> 00:23:13,458
+but, uh, well, we like it.
+
+316
+00:23:13,541 --> 00:23:16,625
+Do you know who lived
+here before, by any chance?
+
+317
+00:23:16,708 --> 00:23:20,000
+A elderly couple, apparently.
+I'd have to check the, um...
+
+318
+00:23:20,083 --> 00:23:22,250
+- Wycherley?
+- Huh?
+
+319
+00:23:23,958 --> 00:23:25,416
+- Was it, uh...
+
+320
+00:23:25,500 --> 00:23:28,416
+...William and Patricia
+Wycherley, by any chance?
+
+321
+00:23:28,500 --> 00:23:31,250
+Yeah, rings a bell. Um...
+
+322
+00:23:31,333 --> 00:23:32,750
+Why? Is this about them?
+
+323
+00:23:33,500 --> 00:23:34,875
+It wasn't me.
+
+324
+00:23:37,041 --> 00:23:39,625
+Whatever it is
+you're investigating, officers,
+
+325
+00:23:39,708 --> 00:23:41,041
+it wasn't me.
+
+326
+00:23:41,125 --> 00:23:42,333
+Hello, there.
+
+327
+00:23:42,416 --> 00:23:45,250
+That's, uh--
+That's Nigel.
+
+328
+00:23:45,333 --> 00:23:47,416
+He likes to talk to us
+through the hedge.
+
+329
+00:23:47,500 --> 00:23:48,625
+All right, Nige?
+
+330
+00:23:48,708 --> 00:23:50,500
+Well, I should be happy
+to move to the gap
+
+331
+00:23:50,583 --> 00:23:52,333
+if that's preferable, officers.
+
+332
+00:23:52,416 --> 00:23:55,208
+There's a gap just down there.
+Shall we do that?
+
+333
+00:24:06,541 --> 00:24:08,583
+This is what I mean by a gap.
+
+334
+00:24:08,666 --> 00:24:11,958
+It's quite handy
+for talking across gardens.
+
+335
+00:24:12,041 --> 00:24:14,583
+What's on the barbie
+today, then, Nige?
+
+336
+00:24:14,666 --> 00:24:17,125
+Been having quite a few,
+so I've noticed.
+
+337
+00:24:17,208 --> 00:24:19,291
+Well, you're always
+welcome to join us, Danny,
+
+338
+00:24:19,375 --> 00:24:20,583
+you know that.
+
+339
+00:24:22,125 --> 00:24:25,375
+Briony! There's a couple
+of police officers here
+
+340
+00:24:25,458 --> 00:24:28,583
+asking poor Danny some questions
+about the Wycherleys.
+
+341
+00:24:28,666 --> 00:24:30,708
+Could you bring out
+some more bangers?
+
+342
+00:24:30,791 --> 00:24:32,250
+I think it'd be fair to say
+
+343
+00:24:32,333 --> 00:24:34,458
+they were slightly
+peculiar neighbors.
+
+344
+00:24:34,541 --> 00:24:36,958
+Although we didn't see a great
+deal of them, did we, Bri?
+
+345
+00:24:37,041 --> 00:24:38,041
+No, not much.
+
+346
+00:24:38,125 --> 00:24:39,250
+- We heard them mostly.
+- Yeah.
+
+347
+00:24:39,333 --> 00:24:41,125
+- Playing that strange organ.
+- Oh!
+
+348
+00:24:41,208 --> 00:24:43,583
+Morning, afternoon, evening.
+
+349
+00:24:43,666 --> 00:24:45,750
+Apart from that, they kept
+themselves to themselves.
+
+350
+00:24:45,833 --> 00:24:46,833
+Hmm.
+
+351
+00:24:46,916 --> 00:24:49,791
+Do you need more ketchup,
+officer? It's homemade.
+
+352
+00:24:49,875 --> 00:24:52,166
+Mm. No. I'm good thanks.
+These are...
+
+353
+00:24:52,250 --> 00:24:54,083
+These are really nice.
+Thank you. Hmm.
+
+354
+00:24:54,166 --> 00:24:56,166
+So, you can hear
+quite well then, can you?
+
+355
+00:24:56,250 --> 00:24:57,250
+Your neighbors.
+
+356
+00:24:57,333 --> 00:24:59,791
+Oh, very well.
+You can hear everything.
+
+357
+00:24:59,875 --> 00:25:03,250
+Anything untoward or unusual
+while the Wycherleys were here?
+
+358
+00:25:03,333 --> 00:25:06,250
+Ah, it's just the normal
+sort of bickering, I suppose.
+
+359
+00:25:06,333 --> 00:25:08,083
+Occasional rows.
+
+360
+00:25:08,166 --> 00:25:11,000
+Oh, they were quite
+funny together, mind.
+
+361
+00:25:11,083 --> 00:25:14,791
+You see, on the rare occasion
+that you'd see them out,
+
+362
+00:25:14,875 --> 00:25:17,000
+on the way to the shops,
+for example,
+
+363
+00:25:17,083 --> 00:25:22,000
+Patricia would walk two
+or three yards behind William.
+
+364
+00:25:22,083 --> 00:25:26,666
+A sort of Victorian thing,
+like she was his chattel.
+
+365
+00:25:26,750 --> 00:25:29,916
+So, I-- I-- I don't know
+if that could be used as a...
+
+366
+00:25:30,000 --> 00:25:31,875
+clue of some kind.
+
+367
+00:25:35,208 --> 00:25:37,458
+I'll bear that in mind,
+thank you.
+
+368
+00:25:37,541 --> 00:25:41,375
+Do you know what came of them?
+When they left, where they went?
+
+369
+00:25:41,458 --> 00:25:43,875
+Blackpool then Ireland's
+what we heard. Yeah.
+
+370
+00:25:44,000 --> 00:25:45,291
+- For the air.
+- Yeah. Yeah.
+
+371
+00:25:45,375 --> 00:25:47,958
+- Big smokers, both of them.
+- Left their daughter
+
+372
+00:25:48,041 --> 00:25:49,875
+and their son-in-law
+to look after the place.
+
+373
+00:25:49,958 --> 00:25:53,458
+- Son-in-law mainly, Chris. Uh...
+- And, um,
+
+374
+00:25:53,541 --> 00:25:55,583
+when would the Wycherleys
+have gone to Blackpool?
+
+375
+00:25:55,666 --> 00:25:58,458
+- Oh, let's see,
+what, ten?
+- Fift...
+
+376
+00:25:58,541 --> 00:25:59,958
+- Fifteen.
+- Fifteen. Fifteen years ago.
+
+377
+00:26:00,041 --> 00:26:02,541
+- Hmm.
+- Yeah, well before
+they actually sold the place.
+
+378
+00:26:02,625 --> 00:26:04,666
+It were Christopher
+who told us they'd gone.
+
+379
+00:26:04,750 --> 00:26:06,958
+He were the only one we'd chat
+with from time to time.
+
+380
+00:26:07,041 --> 00:26:08,750
+Yeah, when they were
+doing the garden.
+
+381
+00:26:12,000 --> 00:26:13,583
+- What?
+- What about the...
+
+382
+00:26:13,666 --> 00:26:16,500
+- Oh!
+
+383
+00:26:16,583 --> 00:26:19,000
+Uh-- Yeah, yeah,
+another funny thing, actually.
+
+384
+00:26:19,083 --> 00:26:20,791
+There was a morning,
+about that time,
+
+385
+00:26:20,875 --> 00:26:23,375
+when I woke up early,
+as I sometimes do,
+
+386
+00:26:23,458 --> 00:26:25,625
+and I looked out my window,
+
+387
+00:26:25,708 --> 00:26:30,833
+and I saw Chris digging a hole
+in the Wycherleys' garden.
+
+388
+00:26:30,916 --> 00:26:33,291
+Quite a deep hole.
+Very deep, in fact.
+
+389
+00:26:33,375 --> 00:26:35,833
+Now, he was probably just
+planting those rhododendrons
+
+390
+00:26:35,916 --> 00:26:38,041
+that you'd seen round
+at Danny's but, uh,
+
+391
+00:26:38,125 --> 00:26:39,500
+we joked about it, didn't we?
+
+392
+00:26:39,583 --> 00:26:41,708
+'Cause we said he's probably
+burying his in-laws.
+
+393
+00:26:41,791 --> 00:26:45,833
+Because it was about that time
+that they'd, uh, moved away.
+
+394
+00:26:45,916 --> 00:26:49,125
+So, I don't know
+if that could be used as a...
+
+395
+00:26:50,041 --> 00:26:51,625
+some kind of clue?
+
+396
+00:27:02,458 --> 00:27:04,291
+- Let him through.
+Let him through.
+- Go on, you go out.
+
+397
+00:27:04,375 --> 00:27:05,875
+- Keep going.
+- Edward, on your scooter.
+
+398
+00:27:05,958 --> 00:27:07,125
+Go through. Yeah.
+
+399
+00:27:07,208 --> 00:27:09,500
+Hold on. Edward,
+hold on, wait for your sister.
+
+400
+00:27:15,750 --> 00:27:17,041
+Dear, Mr. Edwards,
+
+401
+00:27:17,125 --> 00:27:20,166
+please forgive
+my contacting you directly...
+
+402
+00:27:20,250 --> 00:27:22,125
+but your stepmother,
+Dr. Tabitha Edwards,
+
+403
+00:27:22,208 --> 00:27:23,541
+has been kind enough
+to pass along
+
+404
+00:27:23,625 --> 00:27:25,166
+your email address.
+
+405
+00:27:25,250 --> 00:27:26,708
+She indicated you may be
+in possession
+
+406
+00:27:26,791 --> 00:27:29,166
+of some information
+of possible interest to us
+
+407
+00:27:29,250 --> 00:27:31,875
+<i>and if you'd be good enough</i>
+<i>to share your telephone number,</i>
+
+408
+00:27:31,958 --> 00:27:33,166
+<i>we'd very much like</i>
+<i>to speak with you</i>
+
+409
+00:27:33,250 --> 00:27:35,208
+<i>at your earliest convenience.</i>
+
+410
+00:27:35,291 --> 00:27:37,625
+Even better would be
+the opportunity
+
+411
+00:27:37,708 --> 00:27:39,833
+to arrange
+for a personal interview,
+
+412
+00:27:39,916 --> 00:27:41,541
+although Dr. Edwards informs us
+
+413
+00:27:41,625 --> 00:27:44,333
+that you may
+currently be residing abroad.
+
+414
+00:27:44,416 --> 00:27:46,583
+I want to reassure you that
+in that event,
+
+415
+00:27:46,666 --> 00:27:48,625
+we don't believe
+it's in anyone's interests
+
+416
+00:27:48,708 --> 00:27:50,625
+to trouble
+the local authorities.
+
+417
+00:27:50,708 --> 00:27:53,791
+<i>Yours truly,</i>
+<i>Detective Chief Inspector</i>
+<i>Tony Collier.</i>
+
+418
+00:27:59,041 --> 00:28:00,541
+<i>Why are you stopping?</i>
+
+419
+00:28:00,625 --> 00:28:02,666
+It's no good.
+I've got to go back, Amy.
+
+420
+00:28:02,750 --> 00:28:03,875
+Why?
+
+421
+00:28:03,958 --> 00:28:06,291
+This is crazy.
+I haven't even got any guns.
+
+422
+00:28:06,375 --> 00:28:08,000
+<i>Then let's go on. Hurry.</i>
+
+423
+00:28:08,083 --> 00:28:10,000
+- <i> No.</i>
+
+424
+00:28:10,083 --> 00:28:11,000
+<i>They're making me run.</i>
+
+425
+00:28:11,083 --> 00:28:13,125
+<i>I've never run</i>
+<i>from anybody before.</i>
+
+426
+00:28:26,166 --> 00:28:27,541
+THOMAS MITCHELL:
+There's gonna be fighting
+
+427
+00:28:27,625 --> 00:28:29,958
+when Kane and Miller meet.
+
+428
+00:28:30,041 --> 00:28:31,750
+<i>- And somebody's gonna get hurt.</i>
+
+429
+00:28:31,833 --> 00:28:34,041
+<i>- That's for sure.</i>
+
+430
+00:28:40,875 --> 00:28:43,458
+- ACTOR 1:<i> Everything ready?</i>
+- ACTOR 2:<i> Sure, just the way</i>
+<i>you want it, Frank.</i>
+
+431
+00:28:43,541 --> 00:28:45,958
+ACTOR 3:<i> Yeah, we've got</i>
+<i>your gun over here.</i>
+
+432
+00:28:46,041 --> 00:28:47,708
+ACTOR 1:<i> Let's get started,</i>
+<i>then.</i>
+
+433
+00:29:05,250 --> 00:29:07,500
+- CHRISTOPHER:<i> Dear DCI Collier.</i>
+
+434
+00:29:07,583 --> 00:29:09,750
+<i>Thank you</i>
+<i>for your considerate message.</i>
+
+435
+00:29:09,833 --> 00:29:12,291
+<i>My wife Susan and I</i>
+<i>would be delighted</i>
+
+436
+00:29:12,375 --> 00:29:14,333
+<i>to assist you</i>
+<i>in any way we can...</i>
+
+437
+00:29:14,416 --> 00:29:15,833
+- CHRISTOPHER:
+<i>...and to put this</i>
+
+438
+00:29:15,916 --> 00:29:18,291
+<i>whole matter behind us</i>
+<i>once and for all.</i>
+
+439
+00:29:18,375 --> 00:29:20,666
+<i>We agree that it's</i>
+<i>in everyone's interests</i>
+
+440
+00:29:20,750 --> 00:29:24,166
+<i>to avoid involving</i>
+<i>the French police.</i>
+
+441
+00:29:24,250 --> 00:29:26,666
+<i>I'm afraid, however,</i>
+<i>that our return to England</i>
+
+442
+00:29:26,750 --> 00:29:29,583
+<i>may not happen as soon</i>
+<i>as you might prefer.</i>
+
+443
+00:29:29,666 --> 00:29:30,833
+- Good afternoon.
+
+444
+00:29:30,916 --> 00:29:32,583
+How many leads do you have
+besides the garden?
+
+445
+00:29:32,666 --> 00:29:35,166
+CHRISTOPHER:<i> I'm sure that you</i>
+<i>understand that my first duty</i>
+
+446
+00:29:35,250 --> 00:29:36,541
+<i>is to my wife.</i>
+
+447
+00:29:36,625 --> 00:29:38,666
+She is of a very fragile
+disposition
+
+448
+00:29:38,750 --> 00:29:41,208
+and we have been leading
+a peaceful...
+
+449
+00:29:41,291 --> 00:29:42,750
+existence here in France.
+
+450
+00:29:42,833 --> 00:29:45,875
+I'd be worried about inflicting
+unnecessary stress
+
+451
+00:29:45,958 --> 00:29:49,000
+and it could take her some time
+to come round to the idea
+
+452
+00:29:49,083 --> 00:29:51,958
+<i>of leaving this country</i>
+<i>to return to the UK.</i>
+
+453
+00:29:52,041 --> 00:29:55,166
+- CHRISTOPHER:<i> Nevertheless,</i>
+<i>do let's stay in touch.</i>
+
+454
+00:29:55,250 --> 00:29:56,833
+<i>We look forward</i>
+<i>to the opportunity</i>
+
+455
+00:29:56,916 --> 00:29:59,625
+<i>to clear our names</i>
+<i>as soon as possible.</i>
+
+456
+00:29:59,708 --> 00:30:02,000
+<i>You have my word.</i>
+
+457
+00:30:02,083 --> 00:30:04,541
+<i>Yours very sincerely,</i>
+
+458
+00:30:04,625 --> 00:30:07,291
+<i>Christopher Edwards.</i>
+
+459
+00:30:36,916 --> 00:30:39,541
+COLLIER:<i> In answer</i>
+<i>to the question</i>
+<i>on everyone's mind,</i>
+
+460
+00:30:39,625 --> 00:30:41,083
+- I can confirm that...
+
+461
+00:30:41,166 --> 00:30:43,291
+...yesterday morning,
+two bodies were found buried
+
+462
+00:30:43,375 --> 00:30:46,500
+in the back garden
+of a house in Mansfield.
+
+463
+00:30:46,583 --> 00:30:51,125
+At present, we cannot confirm
+the identities of the deceased,
+
+464
+00:30:51,208 --> 00:30:53,208
+nor do we know
+the cause of death
+
+465
+00:30:53,291 --> 00:30:55,916
+or the circumstances under which
+they came to be buried
+
+466
+00:30:56,000 --> 00:30:57,583
+in that location.
+
+467
+00:30:57,666 --> 00:30:59,541
+That being said,
+we do have some leads
+
+468
+00:30:59,625 --> 00:31:02,333
+and we hope to be making
+significant progress
+
+469
+00:31:02,416 --> 00:31:04,708
+- over the coming days.
+
+470
+00:31:04,791 --> 00:31:07,541
+LANCING:<i> "Do let's keep</i>
+<i>in touch." I'm sorry,</i>
+<i>but what is that?</i>
+
+471
+00:31:07,625 --> 00:31:09,208
+Psychopath.
+Written all over it.
+
+472
+00:31:09,291 --> 00:31:10,416
+Why can't we just get
+a warrant,
+
+473
+00:31:10,500 --> 00:31:12,375
+have the French track them down
+and pick them up
+
+474
+00:31:12,458 --> 00:31:13,666
+before they get away?
+
+475
+00:31:13,750 --> 00:31:16,208
+What we arresting them for,
+Emma? Writing a weird email?
+
+476
+00:31:16,291 --> 00:31:19,166
+Prevention of a lawful
+and decent burial?
+
+477
+00:31:19,250 --> 00:31:20,375
+Double murder?
+
+478
+00:31:20,458 --> 00:31:21,791
+Hey! Good one!
+
+479
+00:31:21,875 --> 00:31:24,583
+Let's go and arrest them,
+then, shall we? Off we pop!
+
+480
+00:31:24,666 --> 00:31:26,083
+Oh, hang on a minute.
+
+481
+00:31:26,166 --> 00:31:28,083
+Where the fuck
+did the murders take place?
+
+482
+00:31:28,166 --> 00:31:31,125
+When the fuck? Who the fuck
+was involved? How the fuck?
+
+483
+00:31:31,208 --> 00:31:32,625
+European Arrest Warrant.
+
+484
+00:31:32,708 --> 00:31:35,125
+Because, thank you, Paul...
+
+485
+00:31:35,208 --> 00:31:37,250
+that's what we need
+for a European Arrest Warrant,
+
+486
+00:31:37,333 --> 00:31:38,375
+minimum.
+
+487
+00:31:38,458 --> 00:31:40,166
+So, they can just stay there
+as long as they like?
+
+488
+00:31:40,250 --> 00:31:42,208
+Yes. He's thick
+as two short planks
+
+489
+00:31:42,291 --> 00:31:43,916
+- and he knows that.
+- Cheers, mate.
+
+490
+00:31:44,000 --> 00:31:45,916
+At the minute, all we've got
+are those bullets,
+
+491
+00:31:46,000 --> 00:31:47,791
+a nutty professor
+who got a dodgy phone call
+
+492
+00:31:47,875 --> 00:31:50,875
+from some bloke in Lille,
+a pair of rickety old skeletons
+
+493
+00:31:50,958 --> 00:31:53,125
+in a back yard,
+buried God knows when,
+
+494
+00:31:53,208 --> 00:31:55,000
+and a vague proclamation
+of innocence
+
+495
+00:31:55,083 --> 00:31:57,666
+from a man who writes
+very polite emails
+
+496
+00:31:57,750 --> 00:31:59,208
+to the police.
+
+497
+00:31:59,291 --> 00:32:01,333
+So, either we come up
+with some hard evidence
+
+498
+00:32:01,416 --> 00:32:03,416
+or Croque Madame
+and her pen-pal Muppet husband
+
+499
+00:32:03,500 --> 00:32:05,250
+can carry on
+with their French bloody holiday
+
+500
+00:32:05,333 --> 00:32:07,416
+for as long
+as they damn well please.
+
+501
+00:32:10,291 --> 00:32:13,291
+I'll see you in ten minutes.
+I'm getting a fucking sandwich.
+
+502
+00:32:17,916 --> 00:32:20,958
+LANCING:<i> So what do we make</i>
+<i>of this "fragile" business then?</i>
+
+503
+00:32:21,041 --> 00:32:24,208
+"She's of a very
+fragile disposition."
+
+504
+00:32:24,291 --> 00:32:26,958
+He's just saying whatever comes
+into his head, isn't he?
+
+505
+00:32:27,041 --> 00:32:28,208
+To fuck with us.
+
+506
+00:32:29,041 --> 00:32:30,250
+I hate that.
+
+507
+00:32:31,041 --> 00:32:32,625
+Fragile people.
+
+508
+00:32:34,500 --> 00:32:35,625
+All right.
+
+509
+00:32:36,916 --> 00:32:38,666
+We've got nothing
+to go on, do we?
+
+510
+00:32:39,708 --> 00:32:42,041
+She might not even
+be that fragile.
+
+511
+00:32:45,458 --> 00:32:46,791
+But he didn't need to tell
+his stepmom
+
+512
+00:32:46,875 --> 00:32:49,916
+that he'd buried those bodies
+in the garden, did he?
+
+513
+00:32:50,000 --> 00:32:52,375
+He's answering questions
+no one's even asked.
+
+514
+00:32:54,666 --> 00:32:55,916
+And they're not even
+his parents,
+
+515
+00:32:56,000 --> 00:32:58,458
+so what's he doing burying them
+in the fucking garden?
+
+516
+00:32:58,541 --> 00:33:00,000
+If...
+
+517
+00:33:00,083 --> 00:33:01,416
+If he did bury them.
+
+518
+00:33:02,791 --> 00:33:03,791
+I don't know.
+
+519
+00:33:04,958 --> 00:33:06,208
+‘Cause they're heavy?
+
+520
+00:33:07,166 --> 00:33:08,416
+Oh, it can't just be that.
+
+521
+00:33:08,500 --> 00:33:11,500
+I've got tits, I could dig
+a fucking hole if I had to.
+
+522
+00:33:16,208 --> 00:33:17,458
+"Fragile."
+
+523
+00:33:17,541 --> 00:33:19,833
+I know what fragile
+fucking means.
+
+524
+00:33:19,916 --> 00:33:22,125
+It means you're in charge.
+
+525
+00:33:22,208 --> 00:33:25,208
+You're the one who gets drunk
+and ends up in hospital.
+
+526
+00:33:25,291 --> 00:33:27,416
+You're the one who gets sad
+and lashes out.
+
+527
+00:33:27,500 --> 00:33:29,541
+You're the pain in the arse,
+basically.
+
+528
+00:33:39,500 --> 00:33:40,708
+My, um...
+
+529
+00:33:42,666 --> 00:33:44,500
+My mom always says
+about relationships
+
+530
+00:33:44,583 --> 00:33:48,666
+that one of you is the gardener
+and the other one's the garden.
+
+531
+00:33:54,000 --> 00:33:55,083
+Right.
+
+532
+00:33:56,541 --> 00:33:57,708
+What does that mean?
+
+533
+00:34:00,666 --> 00:34:01,750
+Don't know.
+
+534
+00:34:03,083 --> 00:34:04,958
+I fucking hate gardening.
+
+535
+00:34:11,916 --> 00:34:14,500
+<i>What happened here is unknown,</i>
+
+536
+00:34:14,583 --> 00:34:16,291
+<i>but over 13 years ago,</i>
+
+537
+00:34:16,375 --> 00:34:19,166
+<i>two bodies were buried</i>
+<i>in this garden.</i>
+
+538
+00:34:19,250 --> 00:34:22,291
+<i>Only discovered</i>
+<i>by police on Thursday,</i>
+
+539
+00:34:22,375 --> 00:34:24,291
+<i>officers were led to the house</i>
+
+540
+00:34:24,375 --> 00:34:26,750
+<i>after receiving information</i>
+<i>last week</i>
+
+541
+00:34:26,833 --> 00:34:31,083
+<i>about an alleged incident</i>
+<i>in the late 1990s.</i>
+
+542
+00:34:31,166 --> 00:34:33,250
+<i>Our enquiries have confirmed</i>
+
+543
+00:34:33,333 --> 00:34:36,208
+<i>that in 1998, an elderly couple,</i>
+
+544
+00:34:36,291 --> 00:34:38,916
+<i>named William</i>
+<i>and Patricia Wycherley,</i>
+
+545
+00:34:39,000 --> 00:34:41,750
+<i>resided at the address</i>
+<i>in question.</i>
+
+546
+00:34:41,833 --> 00:34:43,541
+<i>We have, of course,</i>
+<i>been in contact</i>
+
+547
+00:34:43,625 --> 00:34:45,375
+<i>with former neighbors</i>
+<i>and relatives</i>
+
+548
+00:34:45,458 --> 00:34:46,666
+<i>of the Wycherleys,</i>
+
+549
+00:34:46,750 --> 00:34:49,750
+<i>and they've painted a picture</i>
+<i>of a quiet couple</i>
+
+550
+00:34:49,833 --> 00:34:52,166
+<i>who kept themselves</i>
+<i>to their selves,</i>
+
+551
+00:34:52,250 --> 00:34:54,458
+<i>and who appeared to have</i>
+
+552
+00:34:54,541 --> 00:34:56,666
+<i>very few close friends</i>
+<i>or assoc--</i>
+
+553
+00:35:04,083 --> 00:35:06,250
+I didn't finish that crossword.
+
+554
+00:35:06,333 --> 00:35:07,250
+Oh, well.
+
+555
+00:35:07,333 --> 00:35:09,125
+We can have another look
+at it later.
+
+556
+00:35:11,125 --> 00:35:13,416
+I've pressed
+your suit for you.
+
+557
+00:35:17,458 --> 00:35:18,458
+Thank you.
+
+558
+00:35:18,541 --> 00:35:21,500
+In case you get
+a second interview for that job.
+
+559
+00:35:23,041 --> 00:35:25,791
+I won't get a second interview.
+It's been a week.
+
+560
+00:35:25,875 --> 00:35:27,750
+Now, why would you say that?
+Why would you give up?
+
+561
+00:35:27,833 --> 00:35:30,916
+Because it was
+a terrible interview!
+
+562
+00:35:33,625 --> 00:35:34,666
+They've all been terrible.
+
+563
+00:35:34,750 --> 00:35:38,166
+It was a waste of time,
+and it was humiliating.
+
+564
+00:35:43,500 --> 00:35:47,875
+Have the... police replied
+to your message?
+
+565
+00:35:47,958 --> 00:35:51,000
+No, they haven't.
+And to tell you the truth...
+
+566
+00:35:54,583 --> 00:35:56,458
+I just think
+that the more we run,
+
+567
+00:35:56,541 --> 00:35:58,250
+the more guilty we'll seem.
+
+568
+00:36:00,625 --> 00:36:01,958
+They won't believe us.
+
+569
+00:36:05,166 --> 00:36:06,541
+I'm going for a shower.
+
+570
+00:36:17,416 --> 00:36:20,416
+Forensics confirms that one
+of the bodies is male,
+
+571
+00:36:20,500 --> 00:36:22,166
+the other is female.
+
+572
+00:36:22,250 --> 00:36:25,541
+We recovered
+two .38-caliber bullets
+
+573
+00:36:25,625 --> 00:36:28,291
+from each of the wrappings
+around the body.
+
+574
+00:36:28,375 --> 00:36:32,083
+Looks most likely that both
+were shot twice in the chest
+
+575
+00:36:32,166 --> 00:36:33,458
+using the same weapon.
+
+576
+00:36:33,541 --> 00:36:36,750
+Obviously, we are yet to hear
+any more from the Edwardses,
+
+577
+00:36:36,833 --> 00:36:40,166
+but I think it's fair to say
+that whoever killed these people
+
+578
+00:36:40,250 --> 00:36:42,208
+probably killed them on purpose.
+
+579
+00:38:48,583 --> 00:38:49,750
+Bon appétit.
+
+580
+00:38:50,875 --> 00:38:52,375
+- Thank you.
+
+581
+00:38:56,666 --> 00:38:58,083
+- Mmm.
+
+582
+00:38:58,166 --> 00:39:00,708
+Mmm.
+
+583
+00:39:10,833 --> 00:39:12,666
+Sorry, Chris.
+
+584
+00:39:15,166 --> 00:39:19,291
+- Wh-- What's the matter?
+- I'm so sorry.
+
+585
+00:39:21,583 --> 00:39:24,458
+- It's all my fault.
+- Hey.
+
+586
+00:39:25,791 --> 00:39:30,041
+- No, it's not, Susan.
+- It is.
+
+587
+00:39:30,125 --> 00:39:32,875
+It's not your fault.
+Don't you ever think that.
+
+588
+00:39:32,958 --> 00:39:35,166
+I've ruined your life.
+
+589
+00:39:35,250 --> 00:39:37,500
+- Oh!
+
+590
+00:39:37,583 --> 00:39:40,000
+You haven't ruined my life.
+
+591
+00:39:40,083 --> 00:39:44,125
+- How can you say such a thing?
+
+592
+00:39:45,791 --> 00:39:48,416
+- Because...
+- You are my life.
+
+593
+00:39:50,041 --> 00:39:52,333
+You're my whole life.
+You know that.
+
+594
+00:39:57,875 --> 00:40:00,541
+- Come on, now.
+
+595
+00:40:00,625 --> 00:40:03,416
+- Everything's gonna be just...
+
+596
+00:40:03,500 --> 00:40:05,916
+- fine.
+
+597
+00:40:07,291 --> 00:40:09,166
+Everything
+is gonna be all right.
+
+598
+00:40:10,666 --> 00:40:11,875
+Okay, baby?
+
+599
+00:40:13,625 --> 00:40:14,791
+I promise.
+
+600
+00:42:22,833 --> 00:42:25,416
+CHRISTOPHER:<i> Dear DCI Collier,</i>
+
+601
+00:42:25,500 --> 00:42:28,791
+<i>we note the growing notoriety</i>
+<i>of your inquest</i>
+
+602
+00:42:28,875 --> 00:42:32,208
+<i>and possible assumptions</i>
+<i>about our involvement.</i>
+
+603
+00:42:32,291 --> 00:42:34,125
+<i>We have, therefore,</i>
+<i>decided to return</i>
+
+604
+00:42:34,208 --> 00:42:36,125
+<i>to England immediately.</i>
+
+605
+00:42:36,208 --> 00:42:37,416
+<i>We prefer this approach</i>
+
+606
+00:42:37,500 --> 00:42:41,250
+<i>rather than to leave ourselves</i>
+<i>open to a surprise arrest,</i>
+
+607
+00:42:41,333 --> 00:42:44,125
+<i>since my wife is already</i>
+<i>sufficiently frightened.</i>
+
+608
+00:42:44,208 --> 00:42:46,750
+- Sorry to interrupt, but,
+
+609
+00:42:46,833 --> 00:42:49,500
+uh, this just came in
+from Christopher Edwards, sir.
+
+610
+00:42:52,625 --> 00:42:53,958
+- You, get me London.
+
+611
+00:42:54,041 --> 00:42:56,000
+- Yes, sir.
+
+612
+00:42:56,083 --> 00:42:58,750
+- You, get me the
+British Transport Police, ASAP.
+- Yeah, on it, sir.
+
+613
+00:42:58,833 --> 00:43:02,708
+- Emma, where the fuck are ya?
+
+614
+00:43:02,791 --> 00:43:04,000
+Later this evening,
+
+615
+00:43:04,083 --> 00:43:07,958
+my wife and I
+will board the Eurostar
+
+616
+00:43:08,041 --> 00:43:10,166
+and surrender ourselves
+to the authorities
+
+617
+00:43:10,250 --> 00:43:12,416
+- at St. Pancras Station.
+
+618
+00:43:12,500 --> 00:43:15,500
+We do have
+one small favor to ask.
+
+619
+00:43:15,583 --> 00:43:18,583
+<i>Since same-day tickets</i>
+<i>are so pricey,</i>
+
+620
+00:43:18,666 --> 00:43:20,125
+<i>and we find ourselves</i>
+
+621
+00:43:20,208 --> 00:43:22,000
+<i>a bit short of funds</i>
+<i>at the moment,</i>
+
+622
+00:43:22,083 --> 00:43:24,791
+<i>could you be so kind</i>
+<i>as to arrange tickets for us</i>
+
+623
+00:43:24,875 --> 00:43:28,666
+<i>on the 23.34 departure</i>
+<i>from Lille?</i>
+
+624
+00:43:28,750 --> 00:43:31,166
+<i>We should then arrive shortly</i>
+<i>before midnight</i>
+
+625
+00:43:31,250 --> 00:43:34,000
+<i>- if there are no delays.</i>
+
+626
+00:43:34,083 --> 00:43:38,500
+CHRISTOPHER:<i> Yours sincerely,</i>
+<i>Christopher Edwards.</i>
+
+627
+00:43:38,583 --> 00:43:42,166
+Tickets booked, sir.
+Coach five, seats 61 and 62.
+
+628
+00:43:42,250 --> 00:43:43,708
+Brilliant. Get in the back.
+
+629
+00:43:43,791 --> 00:43:45,791
+- What?
+- I'm not getting in the fucking
+back. Are you joking?
+
+630
+00:43:47,875 --> 00:43:51,208
+- Sorry, can you just
+bear with for a sec?
+- Come on. Fuck's sake.
+
+631
+00:43:52,458 --> 00:43:53,958
+- Back door lock might be on.
+- Can you let me in?
+
+632
+00:43:54,041 --> 00:43:55,833
+- It's a child lock or summat.
+- Fuck's sake.
+
+633
+00:43:55,916 --> 00:43:59,208
+- The country's finest
+spring into action.
+- Fucking hell. Right.
+
+634
+00:43:59,291 --> 00:44:01,041
+- Yeah, what were you saying?
+- Buckle up. Come on.
+
+635
+00:44:01,125 --> 00:44:04,041
+I do beg your pardon,
+we just needed
+to sort something else out.
+
+636
+00:44:40,583 --> 00:44:41,875
+Come on, love.
+
+637
+00:44:44,416 --> 00:44:47,416
+Susan, we really need
+to get that train.
+
+638
+00:44:49,583 --> 00:44:50,625
+Please?
+
+639
+00:45:11,916 --> 00:45:14,208
+It's not so bad
+now we're on our way, is it?
+
+640
+00:45:16,333 --> 00:45:17,791
+Feel quite calm, actually.
+
+641
+00:45:20,250 --> 00:45:22,625
+You know, I think
+it's a good thing
+that you spoke to Tabitha
+
+642
+00:45:22,708 --> 00:45:25,041
+and that she told the police.
+
+643
+00:45:25,125 --> 00:45:26,791
+It's about time they knew,
+isn't it?
+
+644
+00:45:26,875 --> 00:45:28,416
+- Hmm.
+- They ought to know.
+
+645
+00:45:30,416 --> 00:45:32,125
+And what have we got
+to worry about?
+
+646
+00:45:32,958 --> 00:45:34,083
+We know what happened.
+
+647
+00:45:34,166 --> 00:45:35,958
+We just have to stick
+to the plan and tell them.
+
+648
+00:45:36,041 --> 00:45:38,666
+Don't we? Like we've been
+saying, stick to the plan.
+
+649
+00:45:38,750 --> 00:45:42,000
+That's right, darling.
+Stick to the plan.
+
+650
+00:45:43,875 --> 00:45:45,416
+How much money have you got?
+
+651
+00:45:46,375 --> 00:45:47,916
+- Not much.
+- How much?
+
+652
+00:45:48,958 --> 00:45:49,958
+About...
+
+653
+00:45:50,916 --> 00:45:54,000
+two euros something.
+
+654
+00:45:56,375 --> 00:45:58,750
+I've got one and a bit.
+Hand it over.
+
+655
+00:46:00,625 --> 00:46:02,000
+Might as well use it up!
+
+656
+00:46:10,083 --> 00:46:12,000
+COLLIER:<i> Do you know</i>
+<i>what I find weird, though?</i>
+
+657
+00:46:12,083 --> 00:46:14,208
+<i>It's those long scotch eggs.</i>
+<i>Do you know the ones</i>
+
+658
+00:46:14,291 --> 00:46:15,500
+that you get
+at service stations?
+
+659
+00:46:15,583 --> 00:46:17,958
+Oh, my God, yeah.
+It's all powdered, isn't it?
+
+660
+00:46:18,041 --> 00:46:19,583
+First time I saw it, I was like,
+
+661
+00:46:19,666 --> 00:46:21,375
+"Show me the chicken
+that laid that egg."
+
+662
+00:46:21,458 --> 00:46:23,125
+- Do you know what I mean?
+
+663
+00:46:25,333 --> 00:46:27,500
+- Did you say something, Emma?
+- What?
+
+664
+00:46:28,333 --> 00:46:29,541
+No, just saying about
+
+665
+00:46:29,625 --> 00:46:31,458
+those long scotch eggs.
+
+666
+00:46:31,541 --> 00:46:33,500
+- Service stations.
+
+667
+00:46:33,583 --> 00:46:35,416
+Like, "Show me the chicken
+that laid that."
+
+668
+00:46:36,666 --> 00:46:38,541
+- 'Cause it's a weird egg.
+- Yeah.
+
+669
+00:46:38,625 --> 00:46:40,416
+Fuck's sake. Is this thing on?
+
+670
+00:46:55,583 --> 00:46:57,166
+Hey.
+
+671
+00:46:57,250 --> 00:46:59,666
+Guess who I thought
+I just saw in the buffet car.
+
+672
+00:46:59,750 --> 00:47:02,125
+- Who?
+- Gérard.
+
+673
+00:47:02,208 --> 00:47:04,875
+- Depardieu?
+- Yeah, Gérard Depardieu.
+
+674
+00:47:04,958 --> 00:47:06,500
+He was heading over
+from business class
+
+675
+00:47:06,583 --> 00:47:08,583
+and I thought,
+"Oh, my goodness, that's him!"
+
+676
+00:47:10,083 --> 00:47:11,250
+But it wasn't?
+
+677
+00:47:11,333 --> 00:47:13,750
+No. Can't have been, can it?
+
+678
+00:47:15,000 --> 00:47:16,875
+No, it's just someone
+who looked like him.
+
+679
+00:48:54,416 --> 00:48:56,166
+PATRICIA WYCHERLEY:
+<i> ...fucking saying.</i>
+
+680
+00:48:56,250 --> 00:49:01,208
+<i>I am just spending a few seconds</i>
+<i>alone with my own daughter.</i>
+
+681
+00:49:01,291 --> 00:49:04,791
+<i>What do you need?</i>
+<i>Just get down the staircase.</i>
+
+682
+00:49:04,875 --> 00:49:07,333
+<i>Go on, just get up</i>
+<i>to your bedroom!</i>
+
+683
+00:49:13,875 --> 00:49:15,291
+Oh, Chris.
+
+684
+00:49:15,375 --> 00:49:18,708
+CHRISTOPHER:
+
+685
+00:49:18,791 --> 00:49:21,291
+It's all right.
+
+686
+00:49:21,375 --> 00:49:24,333
+I'm stronger than I look.
+
+687
+00:49:27,000 --> 00:49:29,250
+Chris, I don't think
+I can say goodbye to you.
+
+688
+00:49:30,541 --> 00:49:32,833
+No one is saying goodbye,
+my love.
+
+689
+00:49:34,958 --> 00:49:37,125
+There are no goodbyes
+between us.
+
+690
+00:49:39,291 --> 00:49:42,125
+I'll never leave you.
+You know that.
+
+691
+00:49:45,666 --> 00:49:46,666
+Never.
+
+692
+00:49:52,041 --> 00:49:53,458
+Give me your passport.
+
+693
+00:50:01,041 --> 00:50:02,250
+Are you ready, darling?
+
+694
+00:50:03,625 --> 00:50:04,833
+Suppose so.
+
+695
+00:50:21,208 --> 00:50:23,333
+- DCI Collier,
+Nottingham Police.
+- Sir.
+
+696
+00:50:23,416 --> 00:50:25,041
+I'm the SIO.
+
+697
+00:50:34,625 --> 00:50:38,208
+ANNOUNCER:<i> The next train</i>
+<i>to arrive at platform 11</i>
+
+698
+00:50:38,291 --> 00:50:40,833
+<i>will be the 23.34...</i>
+
+699
+00:50:40,916 --> 00:50:42,541
+- Right, I'll take
+up here.
+<i>- ...Eurostar service</i>
+
+700
+00:50:42,625 --> 00:50:45,291
+<i>- from Lille.</i>
+- I'll go up and round.
+
+701
+00:50:45,375 --> 00:50:47,041
+ANNOUNCER:<i> The next train</i>
+<i>to arrive at plat...</i>
+
+702
+00:50:55,125 --> 00:50:57,958
+You got eyes on them, Paul?
+Over.
+
+703
+00:50:58,041 --> 00:51:00,166
+SUSAN:<i> Where did they say</i>
+<i>to meet them?</i>
+
+704
+00:51:00,250 --> 00:51:02,291
+By the south-west...
+
+705
+00:51:02,375 --> 00:51:05,208
+exit of the St. Pancras Hotel
+car park,
+
+706
+00:51:05,291 --> 00:51:06,958
+which I think is this way.
+
+707
+00:51:07,041 --> 00:51:08,083
+COLLIER ON RADIO:
+<i>Paul, come in.</i>
+
+708
+00:51:08,166 --> 00:51:09,875
+<i>Have you got eyes on them? Over.</i>
+
+709
+00:51:09,958 --> 00:51:12,500
+Not yet, sir,
+but eyes peeled. Over.
+
+710
+00:51:17,166 --> 00:51:20,000
+Sorry. Excuse me.
+Terribly sorry.
+
+711
+00:51:27,458 --> 00:51:29,166
+I think I might
+have spotted them, sir.
+
+712
+00:51:30,166 --> 00:51:31,791
+What are they doing?
+
+713
+00:51:31,875 --> 00:51:34,541
+They're just sort
+of walking, sir.
+
+714
+00:51:34,625 --> 00:51:37,541
+In your direction. Over.
+
+715
+00:51:37,625 --> 00:51:40,666
+Remember,
+one step at a time...
+
+716
+00:51:40,750 --> 00:51:41,833
+...like we said.
+
+717
+00:51:41,916 --> 00:51:44,708
+They arrest us,
+they read us our rights.
+
+718
+00:51:44,791 --> 00:51:46,708
+We know what we're gonna say.
+We've gone through it
+
+719
+00:51:46,791 --> 00:51:48,625
+a thousand times
+and we're ready.
+
+720
+00:51:48,708 --> 00:51:50,625
+But don't say a word
+without a solicitor.
+
+721
+00:51:50,708 --> 00:51:51,958
+- Right?
+- Yes.
+
+722
+00:51:52,041 --> 00:51:55,875
+And remember, if you don't like
+the first one they offer,
+
+723
+00:51:55,958 --> 00:51:58,625
+ask to meet another.
+You're in charge.
+
+724
+00:52:00,208 --> 00:52:01,458
+Then come the police interviews.
+
+725
+00:52:01,541 --> 00:52:03,458
+They'll try to confuse you,
+but don't let them.
+
+726
+00:52:03,541 --> 00:52:07,166
+Just tell our story,
+simply and calmly.
+
+727
+00:52:07,250 --> 00:52:10,833
+No need to make anything up.
+Just tell them the truth.
+
+728
+00:52:10,916 --> 00:52:13,041
+Yes, just tell them the truth.
+
+729
+00:52:33,958 --> 00:52:35,291
+Good evening.
+
+730
+00:52:42,583 --> 00:52:44,500
+REPORTER 1:<i> Susan</i>
+<i>and Christopher Edwards</i>
+
+731
+00:52:44,583 --> 00:52:46,875
+<i>might have seemed</i>
+<i>like an ordinary couple,</i>
+
+732
+00:52:46,958 --> 00:52:49,750
+<i>but together, they had carried</i>
+<i>a sinister secret</i>
+
+733
+00:52:49,833 --> 00:52:51,708
+<i>for over fifteen years.</i>
+
+734
+00:52:51,791 --> 00:52:53,083
+REPORTER 2:
+<i>Buried in the rear garden</i>
+
+735
+00:52:53,166 --> 00:52:55,500
+<i>of this unassuming</i>
+<i>Mansfield property</i>
+
+736
+00:52:55,583 --> 00:52:57,875
+<i>were the bodies</i>
+<i>of Susan's parents.</i>
+
+737
+00:52:57,958 --> 00:52:59,625
+REPORTER 3:<i> Remains found</i>
+<i>last month are believed</i>
+
+738
+00:52:59,708 --> 00:53:03,208
+<i>to be those of William</i>
+<i>and Patricia Wycherley.</i>
+
+739
+00:53:03,291 --> 00:53:04,583
+REPORTER 4:
+<i>Buried in the back garden</i>
+
+740
+00:53:04,666 --> 00:53:07,208
+<i>of a semi-detached house</i>
+<i>at Forest Town in Mansfield.</i>
+
+741
+00:53:07,291 --> 00:53:09,916
+<i>Following a tip-off,</i>
+<i>police make a grim discovery.</i>
+
+742
+00:53:10,000 --> 00:53:12,750
+<i>One woman said she knew</i>
+<i>of an elderly couple</i>
+
+743
+00:53:12,833 --> 00:53:14,333
+<i>who were here in the '90s.</i>
+
+744
+00:53:14,416 --> 00:53:16,375
+<i>One day,</i>
+<i>they just disappeared.</i>
+
+745
+00:53:16,458 --> 00:53:19,541
+<i>Everyone assumed</i>
+<i>that they'd emigrated,</i>
+
+746
+00:53:19,625 --> 00:53:21,375
+<i>and no one thought</i>
+<i>anything of it.</i>
+
+747
+00:53:21,458 --> 00:53:23,375
+REPORTER 5:<i> A postmortem</i>
+<i>examination revealed</i>
+
+748
+00:53:23,458 --> 00:53:25,791
+<i>they'd both been shot twice</i>
+<i>with a revolver</i>
+
+749
+00:53:25,875 --> 00:53:27,166
+<i>similar to this one.</i>
+
+750
+00:53:27,250 --> 00:53:29,541
+<i>In panic, the Edwards</i>
+<i>fled to France</i>
+
+751
+00:53:29,625 --> 00:53:32,208
+<i>before eventually contacting</i>
+<i>police in the UK</i>
+
+752
+00:53:32,291 --> 00:53:33,791
+<i>when they ran out of money.</i>
+
+753
+00:53:35,000 --> 00:53:37,125
+<i>In an email,</i>
+<i>Christopher Edwards wrote,</i>
+
+754
+00:53:37,208 --> 00:53:38,708
+<i>"We're going</i>
+<i>to surrender ourselves</i>
+
+755
+00:53:38,791 --> 00:53:40,958
+<i>- to the UK authorities."</i>
+
+756
+00:53:41,041 --> 00:53:43,500
+REPORTER 6:<i> Late last night,</i>
+<i>at St. Pancras Station,</i>
+
+757
+00:53:43,583 --> 00:53:46,250
+<i>husband and wife Susan</i>
+<i>and Christopher Edwards...</i>
+
+758
+00:53:46,333 --> 00:53:48,458
+REPORTER 7:<i> ...were arrested</i>
+<i>on suspicion of murder...</i>
+
+759
+00:53:48,541 --> 00:53:50,875
+REPORTER 8:<i> ...on their return</i>
+<i>from France.</i>
+
+760
+00:53:50,958 --> 00:53:52,166
+REPORTER 9:<i> They have since</i>
+<i>been escorted</i>
+
+761
+00:53:52,250 --> 00:53:53,416
+<i>back to Nottinghamshire,</i>
+
+762
+00:53:53,500 --> 00:53:56,208
+<i>where they'll be held in custody</i>
+<i>for the next 24 hours</i>
+
+763
+00:53:56,291 --> 00:53:58,041
+<i>to be questioned by police.</i>
+
