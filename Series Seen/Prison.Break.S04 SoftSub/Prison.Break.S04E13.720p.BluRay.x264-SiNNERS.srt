@@ -1,0 +1,2757 @@
+﻿1
+00:00:01,126 --> 00:00:02,877
+NARRATOR:
+Previously on Prison Break:
+
+2
+00:00:03,003 --> 00:00:04,170
+This is Scylla.
+
+3
+00:00:04,338 --> 00:00:07,465
+You're not even close
+to getting out of here.
+
+4
+00:00:07,633 --> 00:00:10,134
+-Dad, it's me.
+-Lisa?
+
+5
+00:00:10,302 --> 00:00:12,345
+I'm at gunpoint. It's Tancredi.
+She says...
+
+6
+00:00:12,513 --> 00:00:16,391
+...if you don't let Michael and the others
+leave with Scylla, she'll kill me.
+
+7
+00:00:17,184 --> 00:00:19,352
+-Aah!
+-Don't.
+
+8
+00:00:22,356 --> 00:00:24,065
+-I'm leaving.
+-No, Mr. White.
+
+9
+00:00:26,860 --> 00:00:29,696
+-Turn around.
+-Gentle, now, sugar.
+
+10
+00:00:29,863 --> 00:00:32,657
+That's "Special Agent Miriam Holtz"
+to you, sugar.
+
+11
+00:00:32,825 --> 00:00:34,575
+-We have it.
+-They got it.
+
+12
+00:00:34,743 --> 00:00:37,745
+I never thought you'd make it this far.
+I was wrong.
+
+13
+00:00:37,913 --> 00:00:38,996
+MICHAEL:
+What now?
+
+14
+00:00:39,164 --> 00:00:42,875
+This is all your transfer paperwork.
+I need to get to Dallow ASAP.
+
+15
+00:00:45,087 --> 00:00:47,797
+SELF: What happened to Gretchen?
+-Ah, she got away.
+
+16
+00:00:47,965 --> 00:00:50,258
+[GASPING]
+
+17
+00:00:55,431 --> 00:00:56,556
+MICHAEL:
+Self.
+
+18
+00:00:59,893 --> 00:01:01,102
+Self.
+
+19
+00:01:12,489 --> 00:01:14,866
+LINCOLN: He screwed us.
+SUCRE: Self can't do that.
+
+20
+00:01:15,033 --> 00:01:17,285
+He's government.
+He can do what he pleases.
+
+21
+00:01:18,245 --> 00:01:19,370
+[GRUNTING]
+
+22
+00:01:25,961 --> 00:01:29,255
+-The vans are coming. They're just late.
+-He ain't coming back.
+
+23
+00:01:29,423 --> 00:01:31,340
+You don't know that, Linc.
+They're coming.
+
+24
+00:01:31,508 --> 00:01:32,633
+What do we do now?
+
+25
+00:01:34,303 --> 00:01:38,222
+Call Homeland.
+See how much they know about Self.
+
+26
+00:01:38,390 --> 00:01:40,057
+[PHONE RINGS]
+
+27
+00:01:41,059 --> 00:01:45,772
+-Stanton.
+-Herb, it was Scofield and Burrows.
+
+28
+00:01:45,939 --> 00:01:48,441
+-Are you at the senator's office?
+-Look, I'm shot.
+
+29
+00:01:49,318 --> 00:01:50,485
+SELF [OVER PHONE]:
+I'm shot.
+
+30
+00:01:50,652 --> 00:01:54,489
+-Miriam's gone, okay?
+-What's your position?
+
+31
+00:01:54,656 --> 00:01:58,117
+You were right
+about this whole operation.
+
+32
+00:01:58,285 --> 00:02:01,579
+No. Burrows. Burrows!
+
+33
+00:02:01,747 --> 00:02:02,997
+Don. Don!
+
+34
+00:02:04,541 --> 00:02:06,501
+No, no, no.
+
+35
+00:02:09,338 --> 00:02:10,963
+I need to find Gretchen.
+
+36
+00:02:12,174 --> 00:02:15,843
+You gonna help me, or are you gonna
+make me shoot you in the face?
+
+37
+00:02:16,011 --> 00:02:17,678
+[WHISPERS]
+Help.
+
+38
+00:02:20,265 --> 00:02:21,724
+WOMAN [OVER PHONE]:
+Department of Homeland Security.
+
+39
+00:02:21,892 --> 00:02:25,102
+I'd like to talk
+to Don Self's superior, please.
+
+40
+00:02:25,270 --> 00:02:27,104
+WOMAN:
+One moment, please.
+
+41
+00:02:28,524 --> 00:02:30,733
+We gave this guy
+something worth $100 million.
+
+42
+00:02:30,901 --> 00:02:33,069
+Is he even with Homeland?
+Did we see a badge?
+
+43
+00:02:33,195 --> 00:02:35,446
+We were given guns
+and flown out on a C-130.
+
+44
+00:02:35,614 --> 00:02:37,198
+He didn't work for the DMV.
+
+45
+00:02:37,366 --> 00:02:39,659
+-That doesn't make him the law.
+-No, it don't.
+
+46
+00:02:40,160 --> 00:02:42,495
+What if Homeland was in on this
+from the beginning?
+
+47
+00:02:42,663 --> 00:02:44,372
+STANTON:
+This is Herb Stanton. Who is this?
+
+48
+00:02:47,376 --> 00:02:50,378
+Hello? Hello?
+
+49
+00:02:50,546 --> 00:02:54,215
+The way Self played this-- No, no, no.
+He kept himself too insulated.
+
+50
+00:02:54,383 --> 00:02:58,094
+That's why he hesitated with official
+authorizations on behalf of our mission.
+
+51
+00:02:58,220 --> 00:03:01,097
+He kept saying
+he didn't want the Company to find out.
+
+52
+00:03:01,223 --> 00:03:03,975
+It's because he didn't wanna get caught,
+the son of a bitch.
+
+53
+00:03:04,142 --> 00:03:07,228
+He kept the circle tight
+and left the rest of us holding the bag.
+
+54
+00:03:08,021 --> 00:03:12,316
+If Homeland knows where we're at,
+sooner or later they're coming for us.
+
+55
+00:03:12,484 --> 00:03:15,152
+Let them come. We didn't
+do anything wrong. We have deals.
+
+56
+00:03:15,320 --> 00:03:17,613
+No, we have paper.
+That's what Self left us.
+
+57
+00:03:18,073 --> 00:03:21,576
+-We gotta get out of here.
+-We can't leave. Michael needs surgery.
+
+58
+00:03:23,412 --> 00:03:27,373
+I'm not talking about running.
+I'm talking about surviving.
+
+59
+00:03:35,757 --> 00:03:40,428
+What I want is to see the Company
+burn to the ground...
+
+60
+00:03:41,096 --> 00:03:42,555
+...and you in prison.
+
+61
+00:03:45,559 --> 00:03:46,767
+We did this to you.
+
+62
+00:03:47,728 --> 00:03:49,103
+We did this to you.
+
+63
+00:03:58,572 --> 00:04:00,781
+They're ready for you downstairs, sir.
+
+64
+00:04:09,833 --> 00:04:13,461
+Today marks a critical juncture
+in our endeavor.
+
+65
+00:04:13,629 --> 00:04:17,048
+Do we have a bead on Scylla yet?
+
+66
+00:04:17,758 --> 00:04:21,636
+Our security, our future,
+stands at a great precipice.
+
+67
+00:04:21,803 --> 00:04:24,430
+It's a yes-or-no question, Jonathan.
+
+68
+00:04:25,933 --> 00:04:28,392
+We don't need a soliloquy.
+
+69
+00:04:30,145 --> 00:04:32,813
+Howard, why don't you wait
+in my office?
+
+70
+00:04:32,981 --> 00:04:34,649
+No.
+
+71
+00:04:34,816 --> 00:04:39,779
+I'm in here making sure
+this operation isn't fumbled as well.
+
+72
+00:04:41,657 --> 00:04:44,617
+Out. Now.
+
+73
+00:04:44,785 --> 00:04:46,827
+What's your plan, Jonathan?
+
+74
+00:04:48,789 --> 00:04:51,749
+That's what we're all here for, right?
+
+75
+00:04:51,917 --> 00:04:54,251
+You tried to move Scylla
+over our better judgment...
+
+76
+00:04:54,419 --> 00:04:57,254
+...and it backfired. So spill it.
+
+77
+00:05:00,133 --> 00:05:01,258
+[GRUNTS]
+
+78
+00:05:21,571 --> 00:05:23,864
+Any further questions?
+
+79
+00:05:26,118 --> 00:05:28,035
+Very well. You have your assignments.
+
+80
+00:05:28,495 --> 00:05:33,040
+Access your assets
+and retrieve Scylla today.
+
+81
+00:05:48,724 --> 00:05:52,852
+Yeah, well, a lot of people have believed
+in me the last few months, Agent Self.
+
+82
+00:05:53,020 --> 00:05:54,979
+Not all of them are alive today.
+
+83
+00:05:56,231 --> 00:05:59,984
+I can't shake that line.
+"All that avails is flight."
+
+84
+00:06:27,095 --> 00:06:28,471
+Come on.
+
+85
+00:06:29,473 --> 00:06:31,057
+[MICHAEL GRUNTS]
+
+86
+00:06:42,069 --> 00:06:44,111
+Here, take that.
+
+87
+00:06:45,655 --> 00:06:49,450
+Sara's right.
+We're need to get you to a hospital now.
+
+88
+00:06:50,243 --> 00:06:53,454
+We were so close
+to the finish line, Linc.
+
+89
+00:06:53,789 --> 00:06:57,750
+-So close.
+-Yeah, I know. I know.
+
+90
+00:06:57,918 --> 00:06:59,126
+Listen...
+
+91
+00:06:59,795 --> 00:07:02,171
+...I spoke to L.J. yesterday.
+
+92
+00:07:02,339 --> 00:07:04,548
+Told him this was almost over.
+
+93
+00:07:06,426 --> 00:07:08,969
+I'm keeping my word
+to my son, Michael.
+
+94
+00:07:11,306 --> 00:07:15,226
+-I should have seen this coming.
+-No, no, it's no one's fault.
+
+95
+00:07:15,393 --> 00:07:17,645
+Self played all of us.
+
+96
+00:07:19,314 --> 00:07:21,398
+But we gotta get out of here.
+
+97
+00:07:21,525 --> 00:07:23,776
+This is our last option.
+
+98
+00:07:28,323 --> 00:07:30,491
+Yeah.
+
+99
+00:07:46,424 --> 00:07:48,592
+STANTON: Check upstairs.
+AGENT: Clear.
+
+100
+00:07:49,469 --> 00:07:50,970
+It's clear.
+
+101
+00:07:52,180 --> 00:07:53,430
+STANTON: Got anything?
+AGENT: Clear.
+
+102
+00:07:57,102 --> 00:07:58,352
+MAHONE:
+Now we know where we stand.
+
+103
+00:07:59,354 --> 00:08:00,437
+Let's go.
+
+104
+00:08:00,564 --> 00:08:01,939
+[PHONE RINGING]
+
+105
+00:08:05,318 --> 00:08:06,402
+Hello?
+
+106
+00:08:06,528 --> 00:08:09,113
+-Michael Scofield?
+-Yes.
+
+107
+00:08:09,281 --> 00:08:12,158
+Herb Stanton,
+Department of Homeland Security.
+
+108
+00:08:12,576 --> 00:08:15,870
+We wanna talk. Can you
+please come back to the warehouse?
+
+109
+00:08:16,037 --> 00:08:17,538
+All right.
+
+110
+00:08:17,706 --> 00:08:19,957
+But first we're gonna need
+some assurances.
+
+111
+00:08:20,125 --> 00:08:23,711
+-What kind of assurances?
+-Look, we held up our end of the deal.
+
+112
+00:08:23,879 --> 00:08:26,547
+We're gonna need you
+to honor the terms of our agreements.
+
+113
+00:08:26,715 --> 00:08:28,632
+STANTON:
+I'd have to look at those terms...
+
+114
+00:08:28,800 --> 00:08:31,677
+...but I'm fairly certain
+it didn't include stealing Scylla...
+
+115
+00:08:31,845 --> 00:08:34,972
+...or killing two federal agents
+in cold blood.
+
+116
+00:08:35,557 --> 00:08:36,891
+What are you talking about?
+
+117
+00:08:37,058 --> 00:08:39,852
+Here are the new terms
+I'm prepared to offer.
+
+118
+00:08:40,020 --> 00:08:44,398
+-Come back. Turn yourselves in.
+-Wait a minute. Self set us up.
+
+119
+00:08:44,524 --> 00:08:48,402
+Don't, and I'll hunt you down
+like animals.
+
+120
+00:09:26,691 --> 00:09:27,733
+LINCOLN:
+We did what they said.
+
+121
+00:09:27,901 --> 00:09:30,611
+I ain't going down
+on some trumped-up murder charge.
+
+122
+00:09:30,779 --> 00:09:33,280
+Self pinned two murders on us.
+
+123
+00:09:33,448 --> 00:09:36,075
+-What are you doing, Linc?
+-If Homeland Security comes--
+
+124
+00:09:36,243 --> 00:09:38,077
+-Then we'll handle it.
+-You know what?
+
+125
+00:09:38,245 --> 00:09:41,705
+There's a point where you draw the line.
+Now's the time to draw that line.
+
+126
+00:09:41,873 --> 00:09:44,458
+Don't be stupid.
+You can't fight off Homeland Security.
+
+127
+00:09:44,584 --> 00:09:47,836
+Stupid is listening to the government.
+I ain't going back to death row.
+
+128
+00:09:48,004 --> 00:09:51,382
+We can still hold on to our deals.
+All we have to do is flush Self out...
+
+129
+00:09:51,549 --> 00:09:52,633
+...prove he has Scylla.
+
+130
+00:09:52,801 --> 00:09:55,594
+-And how are we gonna do that, huh?
+-Devise another strategy.
+
+131
+00:09:55,762 --> 00:09:59,974
+No, we should devise a plan that can
+get us across the Mexican border.
+
+132
+00:10:00,141 --> 00:10:02,518
+That's what we should do.
+My cousin can hook us up.
+
+133
+00:10:02,644 --> 00:10:04,228
+We're not running.
+
+134
+00:10:05,355 --> 00:10:06,689
+I can't.
+
+135
+00:10:06,856 --> 00:10:09,149
+FERGUSON: Negative on Scofield,
+Burrows and Mahone.
+
+136
+00:10:09,317 --> 00:10:12,069
+TDZ think
+that Self may be using a baker grip...
+
+137
+00:10:12,237 --> 00:10:13,946
+...to mask his cell-phone signal.
+
+138
+00:10:14,322 --> 00:10:16,282
+Place a tactical team around Homeland.
+
+139
+00:10:16,449 --> 00:10:18,701
+If Self or any of those other bastards
+show up...
+
+140
+00:10:18,868 --> 00:10:21,495
+...make damn well sure
+they don't get near the building.
+
+141
+00:10:21,621 --> 00:10:23,872
+I can't go back
+to living in and out of motels...
+
+142
+00:10:24,040 --> 00:10:26,709
+...constantly looking over my shoulder.
+
+143
+00:10:27,585 --> 00:10:29,545
+Nothing changes.
+We take down the Company.
+
+144
+00:10:29,671 --> 00:10:31,505
+We finish what we started.
+
+145
+00:10:31,631 --> 00:10:33,716
+[LINE RINGING]
+
+146
+00:10:35,010 --> 00:10:36,302
+Who are you calling?
+
+147
+00:10:36,928 --> 00:10:39,430
+-A doctor.
+MICHAEL: Sara, not now.
+
+148
+00:10:42,350 --> 00:10:45,352
+-When?
+-Whoa, whoa, whoa, listen.
+
+149
+00:10:45,520 --> 00:10:49,690
+Cole Pfeiffer, an employee of GATE,
+a downtown wellness organization...
+
+150
+00:10:49,858 --> 00:10:52,943
+...and his yet-unidentified
+female accomplice...
+
+151
+00:10:53,111 --> 00:10:55,029
+...both seen here in police sketches.
+
+152
+00:10:55,488 --> 00:10:58,532
+FERGUSON: And them?
+KRANTZ: Gretchen.
+
+153
+00:10:59,159 --> 00:11:00,868
+Bagwell?
+
+154
+00:11:01,703 --> 00:11:04,872
+Have our people at DOT
+monitor every traffic camera...
+
+155
+00:11:05,290 --> 00:11:07,875
+...from San Diego to the Bay Area.
+
+156
+00:11:11,629 --> 00:11:14,214
+I can't believe you shot him.
+
+157
+00:11:15,258 --> 00:11:18,719
+Knowing when to sever a cancerous limb
+to preserve the rest of the body--
+
+158
+00:11:18,887 --> 00:11:21,013
+He was one
+of your most trusted advisors--
+
+159
+00:11:21,181 --> 00:11:22,973
+KRANTZ:
+When I brought you in...
+
+160
+00:11:23,892 --> 00:11:28,228
+...I told you that a cardholder
+has certain responsibilities.
+
+161
+00:11:28,396 --> 00:11:32,316
+If you can't handle
+what we're doing here...
+
+162
+00:11:32,484 --> 00:11:34,943
+...it's time you let me know.
+
+163
+00:11:35,111 --> 00:11:38,197
+WOMAN [ON TV]: --Gregory White,
+who was shot and killed in the standoff.
+
+164
+00:11:38,365 --> 00:11:42,242
+Police are trying to determine whether
+revenge or robbery was the motive.
+
+165
+00:11:42,994 --> 00:11:45,621
+Cole Pfeiffer was a recent addition
+to the Los Angeles--
+
+166
+00:11:45,747 --> 00:11:48,082
+Maybe we weren't
+the only ones left hanging, huh?
+
+167
+00:11:48,750 --> 00:11:50,959
+If we’re gonna flush Self out...
+
+168
+00:11:51,127 --> 00:11:53,545
+...how do you think he intended
+to unload Scylla?
+
+169
+00:11:54,839 --> 00:11:57,383
+-Gretchen.
+-He's gotta sell it.
+
+170
+00:12:00,553 --> 00:12:03,055
+BAGWELL:
+Tell me when I'm getting warm.
+
+171
+00:12:03,556 --> 00:12:05,849
+You handpicked Michael Scofield
+and the bunch...
+
+172
+00:12:06,017 --> 00:12:07,434
+...trucked them all out here...
+
+173
+00:12:07,602 --> 00:12:10,104
+...on Uncle Sam's dime
+to do your bidding...
+
+174
+00:12:10,271 --> 00:12:13,774
+...and now they're standing
+right in the cross hairs for what you did.
+
+175
+00:12:15,276 --> 00:12:18,946
+I gotta hand it to you, Don,
+if that ain't the Mona Lisa.
+
+176
+00:12:19,114 --> 00:12:21,073
+[BAGWELL CHUCKLES]
+
+177
+00:12:21,616 --> 00:12:24,952
+I always said cops are more crooked
+than criminals.
+
+178
+00:12:25,120 --> 00:12:28,205
+Let me guess, a little slice of heaven?
+Is that what it was for?
+
+179
+00:12:29,666 --> 00:12:30,874
+Gambling debt?
+
+180
+00:12:32,043 --> 00:12:36,797
+Maybe you're a geologist
+of the rock-candy variety?
+
+181
+00:12:36,965 --> 00:12:39,299
+The information you got
+from Gretchen's prints.
+
+182
+00:12:39,467 --> 00:12:41,718
+-You sure it's the right address?
+-Right as rain.
+
+183
+00:12:41,886 --> 00:12:44,471
+Good. Now shut up,
+or I'm gonna shoot you.
+
+184
+00:12:45,056 --> 00:12:46,890
+You understand me? Shut your mouth.
+
+185
+00:12:47,058 --> 00:12:48,308
+-I ain't--
+-Shut your mouth.
+
+186
+00:12:48,476 --> 00:12:50,477
+-I know when to shut--
+-Be quiet.
+
+187
+00:12:57,819 --> 00:12:57,860
+How long does it take
+to find a payphone in this city?
+
+188
+00:12:57,861 --> 00:13:00,821
+How long does it take
+to find a payphone in this city?
+
+189
+00:13:00,989 --> 00:13:02,865
+They'll be back.
+
+190
+00:13:03,575 --> 00:13:05,159
+Okay.
+
+191
+00:13:07,203 --> 00:13:09,580
+-Same deal as before.
+-Yup.
+
+192
+00:13:09,747 --> 00:13:12,416
+No physical duress
+for the next eight hours.
+
+193
+00:13:15,462 --> 00:13:18,422
+Here's the thing. You need help.
+
+194
+00:13:18,590 --> 00:13:22,384
+And running around
+trying to track down Self isn't...
+
+195
+00:13:22,552 --> 00:13:24,011
+...safe.
+
+196
+00:13:25,847 --> 00:13:30,184
+You could be in Mexico in a few hours.
+There are doctors there that I trust.
+
+197
+00:13:31,644 --> 00:13:36,356
+And you've been taking care of all of us.
+I think it's okay if we take care of you.
+
+198
+00:13:39,027 --> 00:13:42,779
+Surgery or no surgery, I'm never gonna
+be able to live with myself...
+
+199
+00:13:42,947 --> 00:13:46,033
+...unless I find a way
+to take these people down.
+
+200
+00:13:48,995 --> 00:13:51,038
+It's that simple.
+
+201
+00:13:51,206 --> 00:13:53,207
+And, uh, I get it.
+
+202
+00:13:54,000 --> 00:13:56,210
+I'm not gonna demand
+that you feel the same way.
+
+203
+00:14:03,384 --> 00:14:05,928
+LINCOLN: We can't trust anyone.
+Government, law enforcement.
+
+204
+00:14:06,095 --> 00:14:09,556
+-We should consider getting out of here.
+-No, we deal with this now.
+
+205
+00:14:09,724 --> 00:14:12,184
+I want this guy as much as you,
+but we're scrambling.
+
+206
+00:14:12,352 --> 00:14:14,561
+I don't know
+how long Self's been planning this.
+
+207
+00:14:14,729 --> 00:14:17,147
+From the looks of it, it's pretty airtight.
+
+208
+00:14:39,379 --> 00:14:41,463
+[PHONE RINGING]
+
+209
+00:14:47,053 --> 00:14:48,971
+-Gretchen.
+-I hope you were calling...
+
+210
+00:14:49,138 --> 00:14:51,223
+...to tell me where Scylla is, Lincoln.
+
+211
+00:14:51,391 --> 00:14:54,935
+-You don't know?
+-I don't know. What's going on?
+
+212
+00:14:55,103 --> 00:14:57,354
+Self double-crossed us,
+and he took Scylla.
+
+213
+00:14:58,147 --> 00:15:00,107
+You know where he could be?
+
+214
+00:15:02,026 --> 00:15:04,236
+If I'm Self, I'm looking
+for a new buyer.
+
+215
+00:15:04,404 --> 00:15:06,738
+A new buyer? You know what?
+
+216
+00:15:07,282 --> 00:15:09,866
+If you're playing me,
+I'm gonna split you in half.
+
+217
+00:15:10,034 --> 00:15:12,619
+Yeah. I want him
+just as badly as you do.
+
+218
+00:15:12,787 --> 00:15:15,122
+Where are you? I'm coming to you.
+
+219
+00:15:15,290 --> 00:15:17,958
+Grand Hope Park. One hour.
+
+220
+00:15:20,545 --> 00:15:22,421
+[PHONE RINGS]
+
+221
+00:15:22,589 --> 00:15:24,881
+-What?
+-Sis.
+
+222
+00:15:25,925 --> 00:15:30,929
+It's Emily.
+She's, um, been in an accident.
+
+223
+00:15:31,097 --> 00:15:34,099
+Tell whoever's got that gun
+pointed at you to grow a set...
+
+224
+00:15:34,267 --> 00:15:36,184
+...and get on the phone.
+
+225
+00:15:39,188 --> 00:15:41,273
+She wants to talk to you.
+
+226
+00:15:43,985 --> 00:15:45,152
+What's up, Gretchen?
+
+227
+00:15:47,071 --> 00:15:48,322
+Time to come home now.
+
+228
+00:15:55,872 --> 00:15:55,912
+SUCRE: Are we really gonna
+keep trusting that bitch?
+
+229
+00:15:55,913 --> 00:15:58,248
+SUCRE: Are we really gonna
+keep trusting that bitch?
+
+230
+00:15:58,416 --> 00:16:02,127
+Gretchen and T-Bag were waiting
+at GATE with machine guns, guys.
+
+231
+00:16:02,295 --> 00:16:04,504
+You think they just wanted
+to provide cover?
+
+232
+00:16:04,672 --> 00:16:06,173
+This chick's a mercenary.
+
+233
+00:16:06,341 --> 00:16:08,592
+She'll do whatever it takes
+to get what she wants.
+
+234
+00:16:08,760 --> 00:16:10,510
+We just happen
+to want the same thing.
+
+235
+00:16:10,678 --> 00:16:12,012
+We are taking precautions...
+
+236
+00:16:12,180 --> 00:16:14,973
+...but one way or the other,
+Gretchen's gonna get us to Self.
+
+237
+00:16:15,141 --> 00:16:18,226
+Right now that is all that matters.
+
+238
+00:16:18,394 --> 00:16:20,020
+We don't stand a chance.
+
+239
+00:16:20,188 --> 00:16:22,481
+Our photos aren't plastered
+all over the TV.
+
+240
+00:16:22,649 --> 00:16:26,193
+Homeland's keeping it in-house.
+We have a chance.
+
+241
+00:16:36,245 --> 00:16:38,872
+-Senator.
+-Herb.
+
+242
+00:16:41,250 --> 00:16:45,045
+We sponsored this operation
+with the best of intentions...
+
+243
+00:16:45,213 --> 00:16:48,507
+...but the secretive manner
+in which we've handled it...
+
+244
+00:16:48,675 --> 00:16:52,135
+...I now fear is working against us.
+
+245
+00:16:52,303 --> 00:16:54,471
+-How so?
+-We're in the middle of a manhunt...
+
+246
+00:16:54,639 --> 00:16:57,224
+...and it's just you
+and a couple of agents out there...
+
+247
+00:16:57,392 --> 00:17:01,478
+...trying to reign in these cons.
+It's madness.
+
+248
+00:17:04,899 --> 00:17:07,442
+What we initially sponsored...
+
+249
+00:17:08,069 --> 00:17:09,486
+...didn't pan out.
+
+250
+00:17:10,071 --> 00:17:12,572
+That doesn't mean
+that the boat is taking on water.
+
+251
+00:17:13,366 --> 00:17:15,200
+No one knows.
+
+252
+00:17:15,993 --> 00:17:17,953
+That's the way it's going to stay.
+
+253
+00:17:18,079 --> 00:17:19,913
+[KNOCK ON DOOR]
+
+254
+00:17:21,124 --> 00:17:22,165
+Come in.
+
+255
+00:17:24,252 --> 00:17:27,421
+Good afternoon.
+Richard Sooter, U.S. Marshals Service.
+
+256
+00:17:28,464 --> 00:17:31,091
+I've been sent at the request
+of Deputy Director Esmar...
+
+257
+00:17:31,259 --> 00:17:35,595
+...to get to the bottom
+of the Scofield-Burrows supermax story.
+
+258
+00:17:36,097 --> 00:17:37,723
+I'm hoping you gentlemen can help.
+
+259
+00:17:39,559 --> 00:17:41,852
+Guys, if there’s a reason
+you're keeping secrets...
+
+260
+00:17:42,019 --> 00:17:44,187
+...just fill me in here. I can help.
+
+261
+00:17:46,691 --> 00:17:48,108
+How strong is your stomach?
+
+262
+00:17:49,235 --> 00:17:50,277
+Very.
+
+263
+00:17:51,571 --> 00:17:54,281
+Herb Stanton.
+
+264
+00:17:55,199 --> 00:17:58,118
+He's working with Donald Self.
+
+265
+00:17:59,120 --> 00:18:03,165
+We got a record of all incoming
+and outgoing calls from Homeland today.
+
+266
+00:18:03,332 --> 00:18:08,128
+Stanton received a call
+lasting approximately one minute...
+
+267
+00:18:09,046 --> 00:18:10,964
+...that was connected to no one.
+
+268
+00:18:11,716 --> 00:18:15,051
+-No one that we could identify.
+-Self's phone.
+
+269
+00:18:15,219 --> 00:18:18,388
+DOT has a positive ID on Gretchen
+from a traffic cam.
+
+270
+00:18:18,556 --> 00:18:20,223
+She's still in Los Angeles.
+
+271
+00:18:20,391 --> 00:18:23,393
+Chris is on the phone from
+Johannesburg, looking for an update.
+
+272
+00:18:23,561 --> 00:18:25,353
+I'll call back.
+
+273
+00:18:26,481 --> 00:18:29,149
+Now, about this Mr. Stanton....
+
+274
+00:18:37,533 --> 00:18:39,451
+Alex, how are you doing?
+
+275
+00:18:40,995 --> 00:18:42,829
+No sign of Gretchen yet.
+
+276
+00:18:43,831 --> 00:18:45,248
+MICHAEL:
+Linc?
+
+277
+00:18:46,250 --> 00:18:49,127
+-No sign of Gretchen.
+MICHAEL [OVER RADIO]: Sucre?
+
+278
+00:18:51,214 --> 00:18:53,173
+She ain't here yet, bro.
+
+279
+00:18:54,091 --> 00:18:55,175
+Sara?
+
+280
+00:18:55,968 --> 00:18:57,177
+All clear.
+
+281
+00:18:57,845 --> 00:19:00,013
+All right, here we go.
+
+282
+00:19:18,866 --> 00:19:20,367
+SELF:
+That's far enough.
+
+283
+00:19:20,535 --> 00:19:23,203
+Ah. That's far enough.
+
+284
+00:19:28,876 --> 00:19:32,546
+I'm sorry, Rita.
+I promise everything's gonna be okay.
+
+285
+00:19:32,713 --> 00:19:36,633
+Yeah, we're all friends here, Rita.
+Don't worry about a thing.
+
+286
+00:19:41,222 --> 00:19:43,473
+[SELF SIGHS]
+
+287
+00:19:43,641 --> 00:19:46,643
+You know, sending Feng after me
+almost cost me my life.
+
+288
+00:19:46,811 --> 00:19:49,813
+And it did cost me my plan,
+which is why you're here, Gretchen.
+
+289
+00:19:49,981 --> 00:19:52,732
+You're gonna help me find a new buyer
+for Scylla.
+
+290
+00:19:56,404 --> 00:19:59,072
+You been talking to Scofield
+and the boys, huh?
+
+291
+00:20:00,533 --> 00:20:01,992
+Yeah.
+
+292
+00:20:02,159 --> 00:20:04,160
+-How are they?
+-They're good and pissed.
+
+293
+00:20:04,328 --> 00:20:05,954
+Yeah? Where are they?
+
+294
+00:20:06,122 --> 00:20:08,456
+Gee, Don, I don't know.
+I'm not their mother.
+
+295
+00:20:08,624 --> 00:20:11,001
+You're not their mother, but....
+
+296
+00:20:15,882 --> 00:20:17,215
+She looks just like you.
+
+297
+00:20:17,383 --> 00:20:22,178
+Doesn't she?
+She's got those big blue eyes.
+
+298
+00:20:27,268 --> 00:20:29,185
+I'm supposed to meet them
+in half an hour.
+
+299
+00:20:30,479 --> 00:20:33,148
+Get ready to phone in a tip
+to Homeland.
+
+300
+00:20:33,274 --> 00:20:35,108
+Where at?
+
+301
+00:20:35,234 --> 00:20:36,735
+Where?
+
+302
+00:20:55,254 --> 00:20:58,006
+To perform the operation,
+that would require signatures...
+
+303
+00:20:58,174 --> 00:21:00,050
+...from 20 different department heads.
+
+304
+00:21:00,217 --> 00:21:04,054
+Now, the only way this is gonna work
+is via freelancer, off the books.
+
+305
+00:21:06,390 --> 00:21:07,724
+I should be thanking you.
+
+306
+00:21:07,892 --> 00:21:11,436
+Because of what you've done,
+lives are gonna be changed forever.
+
+307
+00:21:16,859 --> 00:21:19,152
+[LINE RINGING]
+
+308
+00:21:19,278 --> 00:21:20,570
+[PHONE RINGS]
+
+309
+00:21:20,738 --> 00:21:22,739
+Scofield, you reconsider my offer?
+
+310
+00:21:22,907 --> 00:21:24,991
+If I get you Self, if I get you Scylla...
+
+311
+00:21:25,159 --> 00:21:27,410
+...are you
+gonna be able to hold up our deals?
+
+312
+00:21:29,080 --> 00:21:31,998
+How do you intend doing that?
+
+313
+00:21:32,541 --> 00:21:34,834
+MICHAEL:
+Well, that's what we're working on.
+
+314
+00:21:35,002 --> 00:21:37,837
+[SIREN WAILING]
+
+315
+00:21:42,802 --> 00:21:44,552
+The feds, they're here.
+
+316
+00:21:44,720 --> 00:21:45,762
+We were set up.
+
+317
+00:22:05,616 --> 00:22:06,700
+[BRAKES SQUEALING]
+
+318
+00:22:16,627 --> 00:22:18,628
+AGENT 1:
+Hands where I can see them, right now.
+
+319
+00:22:18,796 --> 00:22:20,922
+AGENT 2: Turn him around.
+AGENT 1: Hands behind your back.
+
+320
+00:22:21,090 --> 00:22:22,674
+-Got him?
+-Yeah.
+
+321
+00:22:22,842 --> 00:22:25,301
+-Right now.
+-Up against the car. Up against the car.
+
+322
+00:22:35,229 --> 00:22:36,563
+STANTON:
+Killing two federal agents...
+
+323
+00:22:36,731 --> 00:22:39,441
+...ought to put you
+back on top of death row, Mr. Burrows.
+
+324
+00:22:43,154 --> 00:22:46,823
+We didn't kill anyone. Self's behind this.
+
+325
+00:22:46,991 --> 00:22:50,618
+Don Self was a decorated agent
+and an honorable man.
+
+326
+00:22:50,786 --> 00:22:53,163
+-Yeah.
+-But you wouldn't be the first guy...
+
+327
+00:22:53,330 --> 00:22:56,833
+...to sit in that chair
+and try to sell me a bill of goods.
+
+328
+00:22:57,001 --> 00:23:00,045
+Why weren't we halfway to Mexico
+by the time you worked things out?
+
+329
+00:23:00,212 --> 00:23:01,421
+-You slipped up.
+LINCOLN: No.
+
+330
+00:23:01,589 --> 00:23:05,008
+-We were in the dark as much as you.
+-We know what happened, Burrows.
+
+331
+00:23:05,176 --> 00:23:08,094
+You're not putting this together.
+Think how much Scylla's worth.
+
+332
+00:23:08,262 --> 00:23:12,348
+Think of the lengths that Self went to
+to keep this thing off the books.
+
+333
+00:23:12,475 --> 00:23:15,393
+And us--? Us, of all people...
+
+334
+00:23:16,395 --> 00:23:17,520
+...pulling this job off.
+
+335
+00:23:17,688 --> 00:23:19,064
+Where are the bodies?
+
+336
+00:23:19,231 --> 00:23:23,151
+For five minutes stop thinking about us
+and focus on Self.
+
+337
+00:23:23,319 --> 00:23:25,403
+Why would we jeopardize
+our freedom?
+
+338
+00:23:25,571 --> 00:23:29,074
+It's the only thing
+we've ever cared about.
+
+339
+00:23:38,209 --> 00:23:39,918
+-Where's Fernando?
+-He's on his way.
+
+340
+00:23:40,086 --> 00:23:42,879
+I still have a friend in the bureau
+we can reach out to.
+
+341
+00:23:43,047 --> 00:23:45,381
+Maybe she can see
+where they're holding Linc.
+
+342
+00:23:45,549 --> 00:23:47,092
+Who are you calling?
+
+343
+00:23:47,259 --> 00:23:48,676
+[PHONE RINGING]
+
+344
+00:23:50,346 --> 00:23:53,098
+-It's Scofield.
+-All right, so answer it.
+
+345
+00:23:56,936 --> 00:23:59,395
+I should've put a bullet in your face.
+
+346
+00:23:59,522 --> 00:24:01,606
+I'm not the one
+who set you up, Michael.
+
+347
+00:24:01,774 --> 00:24:03,108
+Yeah? Who did?
+
+348
+00:24:07,363 --> 00:24:10,615
+Ahem. You know,
+I meant what I said before, Michael.
+
+349
+00:24:10,783 --> 00:24:12,867
+I like your style, okay?
+You're a smart guy.
+
+350
+00:24:13,035 --> 00:24:16,579
+Unfortunately for you,
+I'm just a little bit smarter.
+
+351
+00:24:16,747 --> 00:24:18,248
+Yeah, we'll see about that.
+
+352
+00:24:18,415 --> 00:24:21,459
+I heard Homeland made a surprise visit
+to the plaza, huh?
+
+353
+00:24:21,627 --> 00:24:23,670
+Look, I'm gonna give you
+some parting advice.
+
+354
+00:24:23,838 --> 00:24:27,632
+Run, okay?
+Get your pals and just start running.
+
+355
+00:24:27,800 --> 00:24:29,425
+We gotta go. Michael, we gotta go.
+
+356
+00:24:29,552 --> 00:24:32,595
+I appreciate all your help.
+I'm gonna go sell Scylla now.
+
+357
+00:24:32,763 --> 00:24:35,890
+Don, you're not going anywhere.
+
+358
+00:24:36,058 --> 00:24:37,642
+Really? Okay.
+
+359
+00:24:37,810 --> 00:24:40,186
+-Who's the buyer?
+-His name is Vikan.
+
+360
+00:24:40,354 --> 00:24:43,356
+-And he's not a buyer. He's a conduit.
+-A conduit to what?
+
+361
+00:24:43,482 --> 00:24:46,985
+We're not exactly moving heroin here.
+It's a little bit more specialized.
+
+362
+00:24:47,153 --> 00:24:49,946
+There's about five people
+who know what to do with Scylla...
+
+363
+00:24:50,114 --> 00:24:51,656
+...and are willing to pay for it.
+
+364
+00:24:51,824 --> 00:24:55,410
+All right, let's go.
+And Bagwell's staying here.
+
+365
+00:24:57,580 --> 00:25:01,374
+You will remain captive in my negativity
+if you lay a hand on either one of them.
+
+366
+00:25:01,500 --> 00:25:03,626
+I warned you not to screw me over.
+
+367
+00:25:09,175 --> 00:25:10,800
+How could you?
+
+368
+00:25:12,011 --> 00:25:13,845
+I'll be back very, very soon.
+
+369
+00:25:14,013 --> 00:25:17,515
+And I promise you that
+that man is not gonna hurt you.
+
+370
+00:25:22,438 --> 00:25:24,647
+How could you?
+
+371
+00:25:26,525 --> 00:25:28,568
+I'm gonna fix this.
+
+372
+00:25:29,278 --> 00:25:32,864
+Wow, Gretchen,
+you're making friends left and right, huh?
+
+373
+00:25:33,032 --> 00:25:35,116
+Now, move your ass.
+
+374
+00:25:42,541 --> 00:25:43,875
+We've accessed Self's EID...
+
+375
+00:25:44,043 --> 00:25:47,045
+...and have been able to get the files
+he tried to delete.
+
+376
+00:25:47,213 --> 00:25:51,049
+They're giving us a lot clearer a picture
+of who he is and what he's been up to.
+
+377
+00:25:51,926 --> 00:25:53,218
+Honorable, huh?
+
+378
+00:25:55,888 --> 00:25:57,222
+What did you find out?
+
+379
+00:25:57,389 --> 00:25:59,849
+A name, Robert Walker...
+
+380
+00:26:00,017 --> 00:26:02,560
+...the new identity
+Self was planning on using.
+
+381
+00:26:02,728 --> 00:26:06,022
+We found a Social Security number,
+a bank account in the Caymans...
+
+382
+00:26:06,190 --> 00:26:10,526
+...credit cards, and a flight itinerary out
+of the country for tomorrow morning.
+
+383
+00:26:12,571 --> 00:26:13,947
+So first of all...
+
+384
+00:26:14,531 --> 00:26:16,574
+...we owe you an apology.
+
+385
+00:26:17,243 --> 00:26:18,993
+Second, when we get our hands
+on him...
+
+386
+00:26:19,161 --> 00:26:21,746
+...it's gonna be paramount
+to get your help.
+
+387
+00:26:24,208 --> 00:26:25,250
+-How?
+-Your testimony...
+
+388
+00:26:25,417 --> 00:26:28,586
+...and the testimony of your brother
+and the others against Self...
+
+389
+00:26:28,754 --> 00:26:31,214
+...in exchange for full immunity.
+
+390
+00:26:31,382 --> 00:26:33,758
+-You walk away.
+-We already had a deal.
+
+391
+00:26:33,926 --> 00:26:36,678
+DALLOW: If you walk now,
+there will be no one left to tell the tale.
+
+392
+00:26:36,845 --> 00:26:39,430
+DHS needs you to cover its ass.
+
+393
+00:26:40,015 --> 00:26:42,350
+We can't spend our time
+chasing your friends.
+
+394
+00:26:42,518 --> 00:26:45,770
+They need to come in
+so we can work out the details.
+
+395
+00:26:46,438 --> 00:26:50,400
+What if they don't?
+We got a whole bunch of trust issues.
+
+396
+00:26:50,567 --> 00:26:53,361
+Then you'll all rot
+in a supermax prison.
+
+397
+00:26:53,529 --> 00:26:58,616
+DHS is prepared to fly
+into the face of this thing or to bury it.
+
+398
+00:26:59,451 --> 00:27:02,036
+It's your choice, Mr. Burrows.
+
+399
+00:27:04,331 --> 00:27:06,791
+This is the best you're gonna do.
+
+400
+00:27:07,501 --> 00:27:09,085
+[PHONE RINGING]
+
+401
+00:27:14,091 --> 00:27:17,093
+-Michael.
+-Linc, where are you?
+
+402
+00:27:17,261 --> 00:27:19,804
+In the warehouse. Put me on speaker.
+
+403
+00:27:20,973 --> 00:27:23,808
+[OVER PHONE]
+Homeland knows Self screwed us.
+
+404
+00:27:23,976 --> 00:27:25,643
+What do we have?
+
+405
+00:27:25,811 --> 00:27:27,770
+They found a file
+he thought he deleted...
+
+406
+00:27:27,938 --> 00:27:30,940
+...with an international bank account
+and one-way ticket out.
+
+407
+00:27:31,108 --> 00:27:32,233
+So it's over?
+
+408
+00:27:33,152 --> 00:27:34,319
+LINCOLN:
+Yeah, well...
+
+409
+00:27:35,571 --> 00:27:38,448
+...if we testify against Self,
+we get full immunity.
+
+410
+00:27:38,615 --> 00:27:42,785
+Immunity from what?
+We did the job they hired us to do.
+
+411
+00:27:44,121 --> 00:27:46,331
+Michael, Senator Conrad Dallow.
+
+412
+00:27:46,498 --> 00:27:48,541
+[OVER PHONE] We have evidence
+that supports your claims.
+
+413
+00:27:48,667 --> 00:27:51,544
+I'm giving you my word,
+your troubles are over now.
+
+414
+00:27:51,670 --> 00:27:54,464
+Please come in so we can end this.
+
+415
+00:28:06,018 --> 00:28:08,811
+Okay, um, I've decided...
+
+416
+00:28:09,730 --> 00:28:13,358
+...or, rather, I think
+that we should hear the senator out.
+
+417
+00:28:14,151 --> 00:28:17,653
+And if everything goes south,
+then I do have a backup plan.
+
+418
+00:28:17,821 --> 00:28:19,906
+Go with Sara to the meeting
+and get a lookout.
+
+419
+00:28:20,074 --> 00:28:22,617
+Alex and I will make sure
+they don't bring surprises...
+
+420
+00:28:22,743 --> 00:28:24,577
+...by doubling back
+to the warehouse...
+
+421
+00:28:24,703 --> 00:28:27,663
+...and then following them
+to the rendezvous.
+
+422
+00:28:27,831 --> 00:28:30,625
+This is where
+we're meeting the senator.
+
+423
+00:28:30,751 --> 00:28:32,794
+-All right?
+-We'll be there.
+
+424
+00:28:43,055 --> 00:28:46,391
+You know, my father
+spent most of his political life...
+
+425
+00:28:46,892 --> 00:28:49,227
+...chasing justice.
+
+426
+00:28:50,396 --> 00:28:52,563
+It was sort of an obsession.
+
+427
+00:28:53,399 --> 00:28:55,483
+And my mother and I
+could never understand...
+
+428
+00:28:55,651 --> 00:29:02,240
+...why he would so easily
+make other people's problems his own.
+
+429
+00:29:03,075 --> 00:29:05,410
+And I think that's why she left him.
+
+430
+00:29:07,996 --> 00:29:11,749
+And, Michael, you remind me
+more and more of him these days.
+
+431
+00:29:12,418 --> 00:29:15,128
+The way
+you put everybody else's problems...
+
+432
+00:29:15,504 --> 00:29:17,588
+...before your own.
+
+433
+00:29:20,801 --> 00:29:22,718
+That said...
+
+434
+00:29:24,263 --> 00:29:25,930
+...I want you to know...
+
+435
+00:29:26,098 --> 00:29:28,724
+...that if this meeting
+with Senator Dallow...
+
+436
+00:29:28,851 --> 00:29:31,227
+...doesn't go the way
+you want it to...
+
+437
+00:29:31,770 --> 00:29:34,397
+...you don't have to worry
+about you and I.
+
+438
+00:29:35,441 --> 00:29:37,108
+Nothing's....
+
+439
+00:29:38,485 --> 00:29:41,237
+Nothing's gonna come between us.
+
+440
+00:29:42,156 --> 00:29:43,614
+Yeah.
+
+441
+00:29:45,993 --> 00:29:50,371
+And everything is gonna be okay, right?
+
+442
+00:30:03,302 --> 00:30:05,386
+GRETCHEN:
+You know, I figured it out.
+
+443
+00:30:06,346 --> 00:30:09,682
+DHS wined and dined you in the
+beginning and promised you the world...
+
+444
+00:30:09,808 --> 00:30:12,602
+...and then they ultimately settled
+on a broom closet...
+
+445
+00:30:12,769 --> 00:30:16,772
+...next to some schmuck from the FAA,
+and you said no.
+
+446
+00:30:16,899 --> 00:30:18,274
+Wow.
+
+447
+00:30:18,442 --> 00:30:20,860
+Gretchen, you have
+a real keen sense of perception.
+
+448
+00:30:21,028 --> 00:30:22,069
+It's amazing.
+
+449
+00:30:22,237 --> 00:30:27,325
+And this all ends
+with a three-story hut in Tahiti, right?
+
+450
+00:30:27,493 --> 00:30:30,745
+Flat-screen TV,
+a couple Jet Skis outside.
+
+451
+00:30:31,163 --> 00:30:34,832
+But what you're gonna find, Don,
+is that when the rush is over, you're...
+
+452
+00:30:35,000 --> 00:30:39,170
+...done patting yourself on the back,
+and there's no one to tell the story to...
+
+453
+00:30:39,338 --> 00:30:41,797
+...you're gonna be just as alone
+as you are now.
+
+454
+00:30:41,965 --> 00:30:44,175
+That's who Don Self is.
+
+455
+00:30:45,010 --> 00:30:47,929
+-Is that right?
+-You tell me.
+
+456
+00:30:48,430 --> 00:30:49,931
+[CLEARS THROAT]
+
+457
+00:30:54,937 --> 00:30:56,479
+[PHONE RINGING]
+
+458
+00:30:56,647 --> 00:30:59,774
+[BAGWELL HUMMING]
+
+459
+00:31:01,527 --> 00:31:03,653
+-Yeah?
+-Take out your gun.
+
+460
+00:31:05,030 --> 00:31:07,448
+-What's going on?
+-You want your cut or not, Bagwell?
+
+461
+00:31:07,616 --> 00:31:09,867
+-Take out your gun.
+-Relax, Don.
+
+462
+00:31:11,245 --> 00:31:14,038
+-All right.
+-Now point it at her head.
+
+463
+00:31:14,915 --> 00:31:17,166
+-Aah!
+-Don.
+
+464
+00:31:19,378 --> 00:31:20,878
+-Pull back the hammer.
+GRETCHEN: Don!
+
+465
+00:31:21,046 --> 00:31:22,838
+[COCKS GUN]
+
+466
+00:31:25,801 --> 00:31:26,884
+-Don.
+-I want my money.
+
+467
+00:31:27,052 --> 00:31:29,053
+I wanna be on a plane
+by the end of today.
+
+468
+00:31:29,221 --> 00:31:31,472
+Otherwise, you are gonna find out
+who the real Self is.
+
+469
+00:31:31,640 --> 00:31:32,765
+[PHONE RINGS]
+
+470
+00:31:32,891 --> 00:31:34,350
+-It's him.
+-Do you understand me?
+
+471
+00:31:34,518 --> 00:31:36,060
+We're set.
+
+472
+00:31:37,145 --> 00:31:40,231
+Okay? That's him.
+
+473
+00:31:42,901 --> 00:31:44,527
+Please.
+
+474
+00:31:47,114 --> 00:31:48,698
+I'll call you back.
+
+475
+00:32:10,095 --> 00:32:13,431
+SUCRE:
+1714 East 7th Street.
+
+476
+00:32:13,599 --> 00:32:16,309
+-This can't be right.
+-You sure this is what he wrote down?
+
+477
+00:32:16,476 --> 00:32:17,685
+That's what it says.
+
+478
+00:32:18,562 --> 00:32:21,772
+It's a parking lot.
+Why would Michael pick here?
+
+479
+00:32:23,108 --> 00:32:24,984
+I thought you were going
+to the warehouse.
+
+480
+00:32:25,152 --> 00:32:26,611
+Michael sent me ahead.
+
+481
+00:32:26,778 --> 00:32:30,448
+-What's going on? Where is he?
+-He's safe. Michael's safe.
+
+482
+00:32:31,450 --> 00:32:33,868
+We're not gonna be able
+to do this alone.
+
+483
+00:32:33,994 --> 00:32:36,662
+He's doing what he has to do,
+and we have to do our part.
+
+484
+00:32:36,830 --> 00:32:40,458
+And right now that's getting on that bus
+and getting out of the city.
+
+485
+00:32:42,961 --> 00:32:44,629
+And we gotta go now.
+
+486
+00:32:47,049 --> 00:32:49,800
+He just wants you both to be safe.
+
+487
+00:32:51,386 --> 00:32:54,263
+-We gotta go. We really gotta go.
+-Where's Michael?
+
+488
+00:33:07,569 --> 00:33:10,655
+Mr. Scofield, Herb Stanton.
+
+489
+00:33:10,822 --> 00:33:12,948
+This is Senator Conrad Dallow.
+
+490
+00:33:13,116 --> 00:33:15,660
+On behalf of all Americans,
+thank you for your service.
+
+491
+00:33:15,827 --> 00:33:17,078
+Save it.
+
+492
+00:33:17,245 --> 00:33:21,290
+I'm here to give my testimony,
+and then I'm leaving with my brother.
+
+493
+00:33:21,875 --> 00:33:23,793
+Right over here.
+
+494
+00:33:30,217 --> 00:33:32,677
+DALLOW: All right, gentlemen,
+tell us what you know.
+
+495
+00:33:47,192 --> 00:33:49,026
+Are we really leaving?
+
+496
+00:33:50,320 --> 00:33:52,655
+You heard Mahone.
+This is what Michael wants.
+
+497
+00:33:53,657 --> 00:33:55,116
+Right.
+
+498
+00:33:55,951 --> 00:33:59,662
+Okay, but if the deal with Dallow
+is legit...
+
+499
+00:34:00,122 --> 00:34:04,750
+-...there's no reason to run, right?
+-Michael's just covering the bases...
+
+500
+00:34:04,918 --> 00:34:07,336
+...making sure
+we don't run into trouble again.
+
+501
+00:34:07,504 --> 00:34:11,507
+Yes, but if he's in trouble,
+he's going to need our help.
+
+502
+00:34:13,135 --> 00:34:16,053
+Well, maybe he thinks
+there's nothing left for us to do.
+
+503
+00:34:27,232 --> 00:34:30,192
+If we leave now,
+we're leaving him behind.
+
+504
+00:34:44,875 --> 00:34:47,960
+I didn't know Don Self had it in him.
+
+505
+00:34:48,086 --> 00:34:52,047
+Now that we know he's behind this,
+our situation's a lot worse.
+
+506
+00:34:53,675 --> 00:34:56,594
+We're not talking
+about our careers anymore.
+
+507
+00:34:57,763 --> 00:35:00,139
+We're talking about real jail time.
+
+508
+00:35:00,849 --> 00:35:04,727
+We get 15 years just for conducting
+an unauthorized operation...
+
+509
+00:35:04,895 --> 00:35:06,771
+...without congressional approval.
+
+510
+00:35:08,231 --> 00:35:09,899
+Or not.
+
+511
+00:35:12,110 --> 00:35:14,695
+This doesn't have to be
+about containment anymore.
+
+512
+00:35:16,782 --> 00:35:19,116
+It could be about excision.
+
+513
+00:35:23,205 --> 00:35:25,498
+You all right with that, senator?
+
+514
+00:35:32,589 --> 00:35:34,590
+DALLOW:
+Then, they all go.
+
+515
+00:35:38,011 --> 00:35:39,094
+STANTON:
+Where are the others?
+
+516
+00:35:39,221 --> 00:35:42,097
+-Mahone, Sucre, Tancredi.
+MICHAEL: They're not coming.
+
+517
+00:35:42,265 --> 00:35:46,101
+Linc and I will testify,
+but the others....
+
+518
+00:35:46,478 --> 00:35:49,146
+Well, we all get immunity.
+Those are the terms.
+
+519
+00:35:49,314 --> 00:35:51,816
+Our testimony alone will put Self away.
+
+520
+00:35:51,983 --> 00:35:54,652
+Gentlemen, we can't have the others
+running around...
+
+521
+00:35:54,820 --> 00:35:56,821
+...while we're trying to wrap this up.
+
+522
+00:35:56,988 --> 00:35:59,657
+I mean, can we call them?
+Can we get them here?
+
+523
+00:35:59,825 --> 00:36:03,786
+The deal was for all of you.
+Those were the terms.
+
+524
+00:36:03,954 --> 00:36:05,746
+Without everybody, there is no deal.
+
+525
+00:36:05,914 --> 00:36:08,165
+Listen, pal,
+you're gonna get what you want.
+
+526
+00:36:08,333 --> 00:36:10,876
+Are you gonna call them or not?
+
+527
+00:36:11,044 --> 00:36:12,586
+[SIGHS]
+
+528
+00:36:12,754 --> 00:36:15,965
+There never was a deal,
+was there, senator?
+
+529
+00:36:20,971 --> 00:36:23,472
+I wish I could give you
+a better answer, Michael.
+
+530
+00:36:25,016 --> 00:36:30,104
+Don Self left a lot of rough edges.
+We have to smooth them out.
+
+531
+00:36:31,273 --> 00:36:33,691
+You wanna tell me where they are?
+
+532
+00:36:33,859 --> 00:36:35,025
+LINCOLN:
+It ain't gonna happen.
+
+533
+00:36:38,697 --> 00:36:42,199
+I can get you Self.
+I can still get you Scylla.
+
+534
+00:36:42,367 --> 00:36:45,786
+Scylla? Oh, we're past Scylla.
+
+535
+00:36:46,538 --> 00:36:48,998
+Between getting it back
+and ending this now...
+
+536
+00:36:49,165 --> 00:36:51,375
+...the choice is simple.
+
+537
+00:36:51,543 --> 00:36:54,670
+You wanted your supermax answer,
+you got it, Richard.
+
+538
+00:36:54,838 --> 00:36:56,547
+Now time to go.
+
+539
+00:36:57,382 --> 00:36:59,717
+Escort Mr. Sooter out.
+
+540
+00:37:05,932 --> 00:37:07,558
+[COCKS GUN]
+
+541
+00:37:08,560 --> 00:37:10,394
+I'm gonna count to five.
+
+542
+00:37:11,980 --> 00:37:13,188
+One...
+
+543
+00:37:14,107 --> 00:37:15,357
+...two...
+
+544
+00:37:15,775 --> 00:37:16,859
+...three--
+
+545
+00:37:17,027 --> 00:37:18,152
+[GUNSHOTS]
+
+546
+00:37:32,083 --> 00:37:34,084
+You've got an appointment
+with the general.
+
+547
+00:37:52,187 --> 00:37:53,812
+SUCRE:
+There you go.
+
+548
+00:38:03,156 --> 00:38:04,865
+Wait right here.
+
+549
+00:38:32,060 --> 00:38:33,394
+Been a long time, Gretchen.
+
+550
+00:38:34,312 --> 00:38:37,481
+-No longer working for the general?
+-Correct.
+
+551
+00:38:38,608 --> 00:38:41,652
+-Who's he?
+-I'm the guy that's holding Scylla.
+
+552
+00:38:41,820 --> 00:38:42,945
+You interested?
+
+553
+00:38:43,655 --> 00:38:47,825
+Well, the general has offered a reward
+for anyone who can return Scylla...
+
+554
+00:38:47,993 --> 00:38:50,494
+...along with the heads
+of the transgressors.
+
+555
+00:38:52,831 --> 00:38:54,999
+I appreciate you
+allowing me the opportunity...
+
+556
+00:38:55,166 --> 00:38:57,001
+...to kick the general in the teeth.
+
+557
+00:38:58,003 --> 00:38:59,378
+May I see it?
+
+558
+00:39:05,760 --> 00:39:07,845
+SOOTER:
+I said, move, move.
+
+559
+00:39:08,930 --> 00:39:13,183
+Long time coming, fellas.
+You picked the wrong fight.
+
+560
+00:39:14,477 --> 00:39:17,354
+Let's see how well
+you like your second term.
+
+561
+00:39:18,231 --> 00:39:19,773
+Let's go.
+
+562
+00:39:21,359 --> 00:39:23,193
+All of you.
+
+563
+00:39:26,031 --> 00:39:30,034
+-Sooter, please, I can give you cover--
+-Save it. Save it, senator. Save it.
+
+564
+00:39:31,036 --> 00:39:34,872
+The general specifically asked
+that I bring you in alive. Just move.
+
+565
+00:39:40,920 --> 00:39:42,296
+[GUNSHOT]
+
+566
+00:39:45,216 --> 00:39:48,552
+-You were gonna kill us, senator.
+-It was Stanton who made that call.
+
+567
+00:39:49,679 --> 00:39:54,016
+What was extremely complicated
+30 seconds ago is not so now.
+
+568
+00:39:54,184 --> 00:39:57,311
+Six people knew about this operation.
+Two of them are still alive.
+
+569
+00:39:57,437 --> 00:40:01,273
+One is on the run, and I'm the other.
+And I'm not saying a word.
+
+570
+00:40:01,399 --> 00:40:04,902
+You're not getting off that easy,
+senator. You are going to help us.
+
+571
+00:40:08,031 --> 00:40:12,785
+There is a folder in that briefcase
+on the conference table.
+
+572
+00:40:12,952 --> 00:40:16,246
+It contains the last remnants
+of this operation.
+
+573
+00:40:16,581 --> 00:40:21,418
+Once you dispose of it,
+none of this ever existed.
+
+574
+00:40:21,586 --> 00:40:23,670
+That's the saving grace
+of a covert operation.
+
+575
+00:40:23,838 --> 00:40:25,672
+If you want...
+
+576
+00:40:27,383 --> 00:40:28,967
+...it never happened.
+
+577
+00:40:31,304 --> 00:40:32,763
+[DALLOW SIGHS]
+
+578
+00:40:33,890 --> 00:40:37,643
+I'm gonna walk away now,
+catch a flight.
+
+579
+00:40:38,269 --> 00:40:41,855
+Maybe see my wife
+before she goes to bed.
+
+580
+00:40:43,775 --> 00:40:47,111
+I only hope I don't catch a bullet
+in the back on my way out.
+
+581
+00:40:49,447 --> 00:40:51,782
+I'm really very sorry, gentlemen.
+
+582
+00:40:54,285 --> 00:40:56,120
+We tried.
+
+583
+00:40:59,541 --> 00:41:01,542
+We tried.
+
+584
+00:41:01,709 --> 00:41:05,587
+MICHAEL:
+Let him go. Linc, let him go. Don't.
+
+585
+00:41:07,173 --> 00:41:09,091
+Let him go.
+
+586
+00:41:15,765 --> 00:41:17,266
+We running now?
+
+587
+00:41:17,433 --> 00:41:20,727
+I will kill you myself
+the next time you do something like that.
+
+588
+00:41:24,649 --> 00:41:25,983
+Where's Mahone?
+
+589
+00:41:27,026 --> 00:41:28,485
+He's gone.
+
+590
+00:41:42,500 --> 00:41:45,335
+Well, we can do business
+when you get the rest of Scylla.
+
+591
+00:41:46,754 --> 00:41:48,172
+What are you talking about?
+
+592
+00:41:49,924 --> 00:41:54,094
+-It's incomplete.
+SELF: Incom--? Who is this clown?
+
+593
+00:41:54,262 --> 00:41:55,846
+-Clown?
+-Yeah, clown.
+
+594
+00:41:56,931 --> 00:41:59,641
+There's a piece missing, slick.
+
+595
+00:42:00,268 --> 00:42:01,643
+Look, here.
+
+596
+00:42:38,681 --> 00:42:40,766
+[PHONE RINGING]
+
+597
+00:42:47,523 --> 00:42:48,607
+Hello, Don.
+
+598
+00:42:48,775 --> 00:42:51,693
+I believe you have something
+that belongs to me.
+
+599
+00:42:54,697 --> 00:42:55,864
+Come and get it.
+
+600
+00:43:34,737 --> 00:43:36,822
+[ENGLISH SDH]
+
