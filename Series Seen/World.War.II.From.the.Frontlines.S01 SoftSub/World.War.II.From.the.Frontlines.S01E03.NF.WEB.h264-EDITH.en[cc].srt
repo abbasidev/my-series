@@ -1,0 +1,1782 @@
+﻿1
+00:00:06,291 --> 00:00:08,208
+[wind whistling]
+
+2
+00:00:11,208 --> 00:00:13,208
+-[machine guns firing]
+-[soldiers shouting]
+
+3
+00:00:15,333 --> 00:00:17,333
+[soldier breathing erratically]
+
+4
+00:00:17,416 --> 00:00:19,291
+[projectile whistles by]
+
+5
+00:00:19,375 --> 00:00:20,875
+[explodes]
+
+6
+00:00:23,416 --> 00:00:26,041
+-[indistinct shouting]
+-[machine gun firing]
+
+7
+00:00:26,750 --> 00:00:28,083
+[man in German] <i>Us Germans...</i>
+
+8
+00:00:30,625 --> 00:00:32,500
+[soldier in German] Fire!
+
+9
+00:00:34,041 --> 00:00:38,583
+<i>...we saw ourselves
+as the best army in the world.</i>
+
+10
+00:00:44,666 --> 00:00:46,458
+<i>Then there was Stalingrad.</i>
+
+11
+00:00:46,541 --> 00:00:49,250
+[gunfire continues]
+
+12
+00:00:49,333 --> 00:00:50,750
+[explosions in distance]
+
+13
+00:00:53,416 --> 00:00:57,291
+<i>From that moment,
+we started to fear the worst.</i>
+
+14
+00:00:57,375 --> 00:00:59,000
+[soldier running, panting]
+
+15
+00:01:17,333 --> 00:01:18,875
+[narrator] 1942.
+
+16
+00:01:21,083 --> 00:01:26,458
+As the war enters its third year,
+the conflict now engulfs the entire world.
+
+17
+00:01:28,916 --> 00:01:31,541
+[announcer] <i>The Japanese
+have attacked Pearl Harbor from the air.</i>
+
+18
+00:01:32,750 --> 00:01:36,791
+Japan has bombed Pearl Harbor,
+dragging America into the war.
+
+19
+00:01:36,875 --> 00:01:40,458
+[Franklin Roosevelt]
+<i>I ask that the Congress declare</i>
+
+20
+00:01:40,541 --> 00:01:42,500
+<i>a state of war.</i>
+
+21
+00:01:43,625 --> 00:01:46,500
+[announcer] <i>Japan has announced
+a formal declaration of war.</i>
+
+22
+00:01:46,583 --> 00:01:50,083
+{\an8}[announcer 2] <i>This morning's news of
+Japan attacks on Thailand and Hong Kong.</i>
+
+23
+00:01:50,666 --> 00:01:54,833
+{\an8}In the West,
+most of Europe is under Axis control.
+
+24
+00:01:54,916 --> 00:01:57,166
+[commentator]
+<i>The French Resistance has collapsed.</i>
+
+25
+00:01:59,916 --> 00:02:03,750
+Hitler has now launched
+a massive invasion of the Soviet Union.
+
+26
+00:02:03,833 --> 00:02:06,125
+[newscaster]
+<i>The German successes against Russia</i>
+
+27
+00:02:06,208 --> 00:02:09,125
+<i>can be compared to the biggest victories
+in the course of this war.</i>
+
+28
+00:02:11,125 --> 00:02:14,000
+{\an8}And now the Germans
+are on the march in Africa,
+
+29
+00:02:14,083 --> 00:02:16,083
+{\an8}where they have the British on the run.
+
+30
+00:02:25,250 --> 00:02:27,791
+So, now the stakes had never been higher.
+
+31
+00:02:31,125 --> 00:02:33,750
+With the Axis powers
+sweeping all before them,
+
+32
+00:02:35,916 --> 00:02:38,291
+can the combined forces of the US,
+
+33
+00:02:39,375 --> 00:02:40,750
+the Soviet Union
+
+34
+00:02:41,875 --> 00:02:44,708
+and Britain finally stop Hitler?
+
+35
+00:02:44,791 --> 00:02:48,791
+Or will the Germans
+and the Axis powers conquer the world?
+
+36
+00:02:49,875 --> 00:02:55,250
+[Hitler in German] <i>Our great heroes
+have history on our side.</i>
+
+37
+00:02:55,333 --> 00:03:00,500
+<i>We must crush our enemies
+until the final victory!</i>
+
+38
+00:03:29,583 --> 00:03:32,416
+[newscaster] <i>Good morning, everyone.
+The start of another week of war.</i>
+
+39
+00:03:32,500 --> 00:03:34,625
+[newscaster 2]
+<i>Down in the desert sands of Libya,</i>
+
+40
+00:03:34,708 --> 00:03:38,833
+<i>everyone realizes that
+these are mighty serious days.</i>
+
+41
+00:03:46,250 --> 00:03:48,875
+{\an8}[Ellis] <i>You must remember
+that you are in a desert,</i>
+
+42
+00:03:49,000 --> 00:03:53,166
+{\an8}<i>and a desert is a vast expanse of nothing.</i>
+
+43
+00:03:54,250 --> 00:03:57,125
+<i>We had a much more
+colorful way of describing it:</i>
+
+44
+00:03:57,208 --> 00:04:00,250
+<i>"miles and miles and miles of sweet F-A."</i>
+
+45
+00:04:03,708 --> 00:04:07,291
+Englishman Ray Ellis has been
+fighting the Germans in North Africa
+
+46
+00:04:07,375 --> 00:04:08,750
+for more than a year.
+
+47
+00:04:13,291 --> 00:04:17,166
+Ray joined up at the start of the war,
+eager to do his duty.
+
+48
+00:04:17,875 --> 00:04:21,625
+<i>Now, he's starting to wonder
+if he'll ever see home again.</i>
+
+49
+00:04:23,041 --> 00:04:25,625
+[Ellis] <i>I was tired of deserts
+and killing,</i>
+
+50
+00:04:25,708 --> 00:04:27,916
+<i>and sick of the whole thing.</i>
+
+51
+00:04:28,000 --> 00:04:29,500
+[detectors buzzing]
+
+52
+00:04:36,750 --> 00:04:40,625
+<i>The excrement and bodies dying,
+being shot, and rotting.</i>
+
+53
+00:04:40,708 --> 00:04:43,583
+<i>Obviously, flies
+were there by the million.</i>
+
+54
+00:04:44,541 --> 00:04:47,791
+<i>Big, black, horrible, juicy flies.</i>
+
+55
+00:04:52,708 --> 00:04:54,750
+<i>And then there was the Germans.</i>
+
+56
+00:04:56,750 --> 00:04:59,000
+<i>The Germans were invincible.</i>
+
+57
+00:05:02,458 --> 00:05:05,041
+<i>Let's face it, nothing had stopped them.</i>
+
+58
+00:05:05,875 --> 00:05:08,083
+[newscaster] <i>Rommel's men
+are on the march again.</i>
+
+59
+00:05:08,166 --> 00:05:11,291
+<i>Rommel is a daring, skillful opponent.</i>
+
+60
+00:05:14,625 --> 00:05:17,458
+[narrator]
+The German General, Erwin Rommel,
+
+61
+00:05:17,541 --> 00:05:20,666
+{\an8}is closing in on the vital
+British-held port of Tobruk.
+
+62
+00:05:24,000 --> 00:05:28,000
+{\an8}If Rommel takes Tobruk,
+he could take the Suez Canal.
+
+63
+00:05:28,083 --> 00:05:31,458
+{\an8}If he takes Suez, he takes Africa.
+
+64
+00:05:38,500 --> 00:05:41,875
+[Ellis] <i>Two officers came and said,</i>
+
+65
+00:05:42,000 --> 00:05:43,916
+<i>"We've had an order, Sergeant."</i>
+
+66
+00:05:44,041 --> 00:05:47,458
+<i>"We've got to fight
+to the last man and the last round."</i>
+
+67
+00:05:48,041 --> 00:05:54,708
+<i>He said, "Don't think many of us are going
+to see the sun set today, Sergeant."</i>
+
+68
+00:05:56,458 --> 00:05:58,333
+<i>We're all in it together.</i>
+
+69
+00:06:05,458 --> 00:06:08,458
+[narrator] Ray's orders:
+hold off Rommel's tanks.
+
+70
+00:06:09,083 --> 00:06:11,625
+No retreat. No surrender.
+
+71
+00:06:12,375 --> 00:06:15,333
+[Ellis] <i>And I can remember
+sitting by my gun</i>
+
+72
+00:06:15,416 --> 00:06:18,750
+<i>and just waiting
+for this battle to start.</i>
+
+73
+00:06:24,583 --> 00:06:27,500
+<i>Somebody discovered a barrel of Chianti.</i>
+
+74
+00:06:32,500 --> 00:06:35,500
+<i>Everybody was laughing and happy.
+It relieved all the tension.</i>
+
+75
+00:06:36,750 --> 00:06:38,208
+<i>Back slapping.</i>
+
+76
+00:06:44,208 --> 00:06:45,833
+<i>And then gradually it changed.</i>
+
+77
+00:06:52,375 --> 00:06:56,416
+<i>And it was mothers,
+sweethearts, and wives.</i>
+
+78
+00:06:58,666 --> 00:07:00,250
+<i>We was frightened.</i>
+
+79
+00:07:23,208 --> 00:07:24,833
+[loud explosions, gunfire]
+
+80
+00:07:24,916 --> 00:07:28,416
+[noises fade]
+
+81
+00:07:28,500 --> 00:07:31,041
+-[noises resume]
+-[soldiers shouting]
+
+82
+00:07:55,333 --> 00:07:58,208
+[noises fade]
+
+83
+00:07:58,291 --> 00:08:01,166
+[Ellis] <i>All I knew was,
+I was spinning in the air.</i>
+
+84
+00:08:09,208 --> 00:08:10,250
+<i>I came round.</i>
+
+85
+00:08:10,875 --> 00:08:12,875
+<i>My gun was upside down.</i>
+
+86
+00:08:16,000 --> 00:08:18,000
+<i>My friends were wiped out.</i>
+
+87
+00:08:18,708 --> 00:08:20,250
+[flies buzzing]
+
+88
+00:08:27,708 --> 00:08:30,708
+<i>I was absolutely surrounded by Germans.</i>
+
+89
+00:08:30,791 --> 00:08:32,791
+[machine-gun fire in distance]
+
+90
+00:08:34,000 --> 00:08:37,000
+<i>I got out of my hole and then I ran.</i>
+
+91
+00:08:45,250 --> 00:08:47,041
+<i>There were two of us left.</i>
+
+92
+00:08:54,708 --> 00:08:58,916
+<i>And this man
+who was helping me, he was blotted.</i>
+
+93
+00:09:08,041 --> 00:09:09,125
+<i>And that was it.</i>
+
+94
+00:09:12,125 --> 00:09:13,333
+<i>I was a prisoner.</i>
+
+95
+00:09:17,583 --> 00:09:20,458
+[narrator]
+Ray is the only survivor of his section.
+
+96
+00:09:20,541 --> 00:09:24,416
+And he's about to be transported
+a thousand miles across North Africa
+
+97
+00:09:24,500 --> 00:09:26,291
+as a prisoner of war.
+
+98
+00:09:28,291 --> 00:09:30,500
+[Ellis] <i>And so began
+the most dangerous journey</i>
+
+99
+00:09:30,583 --> 00:09:32,083
+<i>I've ever made in my life.</i>
+
+100
+00:09:36,666 --> 00:09:40,416
+[narrator] The fall of Tobruk puts
+all of North Africa within Hitler's reach.
+
+101
+00:09:40,500 --> 00:09:43,375
+[newscaster]
+<i>Rommel inflicted considerable damage.</i>
+
+102
+00:09:44,291 --> 00:09:45,791
+[narrator] Meanwhile, in the Pacific,
+
+103
+00:09:45,875 --> 00:09:48,708
+the Japanese have scored
+one victory after another.
+
+104
+00:09:48,791 --> 00:09:51,833
+[newscaster] <i>The Japanese attacked
+defense facilities in the Philippines.</i>
+
+105
+00:09:51,916 --> 00:09:55,500
+[narrator] They've conquered
+the Philippines, Malaya and Burma.
+
+106
+00:09:55,583 --> 00:09:59,125
+[newscaster] <i>The Japanese are closing in
+on Singapore from the north and west.</i>
+
+107
+00:09:59,208 --> 00:10:03,500
+[narrator] They're even on American soil
+in a remote outpost of Alaska.
+
+108
+00:10:06,208 --> 00:10:09,500
+[newscaster] <i>The Japs have set foot
+in the North American continent</i>
+
+109
+00:10:09,583 --> 00:10:11,166
+<i>for the first time.</i>
+
+110
+00:10:13,875 --> 00:10:16,583
+[man in Japanese]
+<i>We will wipe out the cruel oppression</i>
+
+111
+00:10:16,666 --> 00:10:18,791
+<i>of the United States and Great Britain.</i>
+
+112
+00:10:19,833 --> 00:10:22,666
+[narrator] Now they're planning
+a surprise attack on the US fleet
+
+113
+00:10:22,750 --> 00:10:24,583
+at the Pacific island of Midway.
+
+114
+00:10:26,791 --> 00:10:28,625
+Sink her aircraft carriers,
+
+115
+00:10:28,708 --> 00:10:31,500
+and they'll knock the US
+out of the war for good.
+
+116
+00:10:33,083 --> 00:10:34,708
+There's just one problem.
+
+117
+00:10:35,958 --> 00:10:38,708
+The Americans have
+cracked their radio codes
+
+118
+00:10:38,791 --> 00:10:40,875
+and know the Japanese are coming.
+
+119
+00:11:04,541 --> 00:11:06,291
+[indistinct chatter]
+
+120
+00:11:25,541 --> 00:11:28,916
+{\an8}[Cheek] <i>They called
+all the pilots for a briefing,</i>
+
+121
+00:11:29,791 --> 00:11:33,458
+{\an8}<i>and somehow the codebreakers
+knew right to the minute</i>
+
+122
+00:11:33,541 --> 00:11:35,541
+{\an8}<i>what the Japanese were going to do.</i>
+
+123
+00:11:35,625 --> 00:11:37,625
+{\an8}[voices muted]
+
+124
+00:11:39,583 --> 00:11:41,166
+{\an8}[Best] <i>The morning briefing said</i>
+
+125
+00:11:41,250 --> 00:11:43,375
+{\an8}<i>these carriers have been
+picked up to the northwest,</i>
+
+126
+00:11:43,458 --> 00:11:45,083
+{\an8}<i>steaming in towards Midway.</i>
+
+127
+00:11:46,291 --> 00:11:50,541
+<i>We knew what the Japanese could do.
+We're under no delusions about that.</i>
+
+128
+00:11:51,458 --> 00:11:52,791
+<i>But we know what</i> we <i>can do.</i>
+
+129
+00:11:52,875 --> 00:11:55,500
+<i>We know they're coming.
+They don't know we're there.</i>
+
+130
+00:11:55,583 --> 00:11:58,916
+[dispatcher] <i>Pilots, man your planes.
+Pilots, man your planes.</i>
+
+131
+00:12:03,791 --> 00:12:06,625
+[Cheek] <i>It would be the most dangerous
+flying I ever did in my life.</i>
+
+132
+00:12:50,166 --> 00:12:54,625
+[Cheek] <i>We were just coming up
+on a large bank of clouds.</i>
+
+133
+00:12:56,833 --> 00:13:02,333
+<i>And I had no idea
+exactly what we were coming up on.</i>
+
+134
+00:13:07,291 --> 00:13:08,875
+<i>I guess the best way to put it was,</i>
+
+135
+00:13:09,666 --> 00:13:12,416
+<i>you're stepping
+into the main ring right now.</i>
+
+136
+00:13:15,291 --> 00:13:17,291
+[dive bomber revving]
+
+137
+00:13:30,541 --> 00:13:33,500
+[narrator] Japanese fighter pilots
+scramble to get airborne.
+
+138
+00:13:46,500 --> 00:13:49,500
+[Iyozo in Japanese]
+<i>A large enemy formation in the south</i>
+
+139
+00:13:49,583 --> 00:13:50,875
+<i>came across on the radio.</i>
+
+140
+00:13:56,125 --> 00:14:00,750
+<i>When I looked around,
+I saw 20 enemy dive bombers.</i>
+
+141
+00:14:01,333 --> 00:14:04,291
+<i>The gunfire was terrifying!</i>
+
+142
+00:14:04,375 --> 00:14:06,916
+[machine guns firing]
+
+143
+00:14:07,041 --> 00:14:10,666
+{\an8}[Cheek] <i>I look straight ahead of me
+and here comes a Zero diving in.</i>
+
+144
+00:14:12,583 --> 00:14:13,833
+<i>I squeeze the trigger.</i>
+
+145
+00:14:15,416 --> 00:14:17,375
+<i>My tracer went right into him.</i>
+
+146
+00:14:22,166 --> 00:14:24,125
+[metal clanging]
+
+147
+00:14:30,125 --> 00:14:34,458
+[Iyozo] <i>The tank was hit
+and the plane started burning.</i>
+
+148
+00:14:34,541 --> 00:14:37,416
+<i>So I bailed out.</i>
+
+149
+00:14:40,375 --> 00:14:44,333
+<i>And I hit the water.</i>
+
+150
+00:14:50,875 --> 00:14:54,083
+[narrator] US pilots shoot down
+a dozen Japanese fighters.
+
+151
+00:15:28,666 --> 00:15:29,708
+{\an8}[Cheek] <i>I looked over to the left,</i>
+
+152
+00:15:29,791 --> 00:15:33,541
+{\an8}<i>and there's the biggest
+damn cruiser I've ever laid eyes on.</i>
+
+153
+00:15:35,208 --> 00:15:38,041
+[narrator] Japan's aircraft carriers
+are now defenseless.
+
+154
+00:15:39,708 --> 00:15:42,375
+The US dive bombers close in.
+
+155
+00:15:47,833 --> 00:15:49,916
+{\an8}[Best] <i>The first I could
+make out anything,</i>
+
+156
+00:15:50,041 --> 00:15:51,708
+{\an8}<i>I could see the bigger black blob.</i>
+
+157
+00:15:59,083 --> 00:16:01,000
+<i>I pulled up, so the first hit...</i>
+
+158
+00:16:03,541 --> 00:16:04,541
+<i>Second hit.</i>
+
+159
+00:16:11,166 --> 00:16:13,625
+<i>The third hit.
+There must have been an inferno.</i>
+
+160
+00:16:19,083 --> 00:16:21,541
+<i>I can see it in my mind right now.</i>
+
+161
+00:16:25,416 --> 00:16:27,541
+[narrator] Four Japanese
+aircraft carriers,
+
+162
+00:16:27,625 --> 00:16:29,500
+almost half their navy,
+
+163
+00:16:29,583 --> 00:16:32,000
+are sent to the bottom of the Pacific.
+
+164
+00:16:32,916 --> 00:16:34,708
+For the first time in the war,
+
+165
+00:16:34,791 --> 00:16:38,375
+the US has inflicted
+a major defeat on the Japanese.
+
+166
+00:16:45,750 --> 00:16:47,166
+[Best] <i>You're walking on air.</i>
+
+167
+00:16:56,041 --> 00:16:58,500
+<i>The Japanese fleet was blunted.</i>
+
+168
+00:17:05,833 --> 00:17:07,458
+<i>It was an ambush.</i>
+
+169
+00:17:07,541 --> 00:17:10,375
+<i>An "ambush" is a dirty term anyway,
+but we did to the Japanese</i>
+
+170
+00:17:10,458 --> 00:17:12,708
+<i>just what they'd done to us,
+we ambushed them.</i>
+
+171
+00:17:12,791 --> 00:17:14,000
+<i>It was wonderful.</i>
+
+172
+00:17:14,083 --> 00:17:16,166
+[voices muted]
+
+173
+00:17:17,875 --> 00:17:19,416
+[men cheering]
+
+174
+00:17:40,416 --> 00:17:42,541
+[narrator] Meanwhile,
+on the Eastern Front,
+
+175
+00:17:43,125 --> 00:17:45,541
+the Germans have failed
+to land a decisive victory
+
+176
+00:17:45,625 --> 00:17:48,416
+over Stalin's forces at Moscow.
+
+177
+00:17:49,041 --> 00:17:52,291
+[newscaster] <i>Repeated German attacks
+are failing to hit Moscow's defenses.</i>
+
+178
+00:17:53,416 --> 00:17:57,041
+Hitler now makes a decision that will
+change the course of the entire war.
+
+179
+00:18:00,541 --> 00:18:04,791
+Desperate for a quick win,
+he diverts his best army south
+
+180
+00:18:04,875 --> 00:18:08,666
+to attack the city
+named after the Soviet leader...
+
+181
+00:18:09,750 --> 00:18:11,416
+{\an8}Stalingrad.
+
+182
+00:18:13,625 --> 00:18:20,583
+[Hitler] <i>The seizure of Stalingrad
+will only deepen this gigantic victory,</i>
+
+183
+00:18:22,250 --> 00:18:26,000
+<i>not because this place
+has Stalin's name, which is unimportant,</i>
+
+184
+00:18:26,083 --> 00:18:30,583
+<i>but because it is
+a strategically vital location.</i>
+
+185
+00:18:30,666 --> 00:18:37,500
+<i>And you can be sure,
+nobody will drive us from this place!</i>
+
+186
+00:18:37,583 --> 00:18:39,416
+[crowd cheering]
+
+187
+00:18:57,666 --> 00:19:01,833
+[Schönbeck in German]
+<i>We were really fired up.</i>
+
+188
+00:19:06,291 --> 00:19:08,916
+<i>Our tanks were as fast as lightning!</i>
+
+189
+00:19:23,000 --> 00:19:28,625
+<i>Our morale was sky high
+and we had amazing firepower.</i>
+
+190
+00:19:28,708 --> 00:19:30,416
+[indistinct shouting]
+
+191
+00:19:31,666 --> 00:19:34,416
+[voices muted]
+
+192
+00:19:44,208 --> 00:19:46,666
+[newscaster] <i>The Germans
+have advanced in the last 24 hours</i>
+
+193
+00:19:46,750 --> 00:19:50,458
+<i>and German reserves
+are continually arriving by air.</i>
+
+194
+00:19:53,333 --> 00:19:57,750
+<i>But the defenders of Stalingrad
+keep pouring in reinforcements.</i>
+
+195
+00:19:57,833 --> 00:20:00,333
+[officer shouting commands]
+
+196
+00:20:00,416 --> 00:20:04,708
+[narrator] The Soviets are outmaneuvered
+by the German army's speed and tactics.
+
+197
+00:20:06,250 --> 00:20:08,500
+But their leader, Joseph Stalin,
+
+198
+00:20:09,208 --> 00:20:10,833
+has other cards to play.
+
+199
+00:20:12,458 --> 00:20:14,375
+[Stalin in Russian]
+Women of the resistance!
+
+200
+00:20:14,458 --> 00:20:16,666
+The whole world is looking at you
+
+201
+00:20:16,750 --> 00:20:19,916
+as the force to destroy
+the German invaders.
+
+202
+00:20:20,000 --> 00:20:23,583
+[narrator] The Red Army
+has recruited almost a million women.
+
+203
+00:20:23,666 --> 00:20:24,833
+[officer shouts]
+
+204
+00:20:26,291 --> 00:20:29,333
+One of them is Alexandra Bocharova.
+
+205
+00:20:30,708 --> 00:20:35,458
+[Bocharova in Russian] <i>I was told,
+"Girl, you're in the army now!"</i>
+
+206
+00:20:37,625 --> 00:20:42,166
+<i>"You will be a machine gunner."</i>
+
+207
+00:20:42,250 --> 00:20:43,458
+<i>"Understood?"</i>
+
+208
+00:20:49,208 --> 00:20:53,166
+I liked the heavy machine gun best.
+
+209
+00:21:03,041 --> 00:21:04,125
+[narrator] August 23rd.
+
+210
+00:21:06,500 --> 00:21:10,375
+Luftwaffe bombers launch
+the first wave of attacks on Stalingrad.
+
+211
+00:21:10,458 --> 00:21:12,458
+[bombs whistling, exploding]
+
+212
+00:21:21,041 --> 00:21:24,125
+Down below,
+the Panzer regiments have arrived.
+
+213
+00:21:29,291 --> 00:21:35,625
+[Schönbeck] <i>We came to the Volga
+and saw this mighty river.</i>
+
+214
+00:21:37,375 --> 00:21:43,208
+<i>We were so cocky,
+it was, "Great, let's shell the boats!"</i>
+
+215
+00:21:56,208 --> 00:21:58,000
+{\an8}[Bocharova] <i>I was on a boat.</i>
+
+216
+00:22:14,625 --> 00:22:18,500
+<i>A shell landed next to us.</i>
+
+217
+00:22:21,791 --> 00:22:27,291
+<i>A nurse was thrown into the water.</i>
+
+218
+00:22:27,375 --> 00:22:30,875
+And she was gone
+to the bottom of the Volga.
+
+219
+00:22:31,666 --> 00:22:33,291
+[bombs exploding, gunfire]
+
+220
+00:22:36,500 --> 00:22:38,208
+<i>Somehow we made it across.</i>
+
+221
+00:22:52,541 --> 00:22:56,625
+[narrator] The Germans prepare for
+a full-scale ground assault of the city.
+
+222
+00:23:04,208 --> 00:23:08,041
+[Dengler in German]
+<i>We saw Stalingrad burning.</i>
+
+223
+00:23:10,166 --> 00:23:13,875
+<i>We assumed, when we take Stalingrad,</i>
+
+224
+00:23:14,000 --> 00:23:16,250
+<i>the war would be over.</i>
+
+225
+00:23:17,458 --> 00:23:18,708
+[in German] Fire!
+
+226
+00:23:20,458 --> 00:23:23,666
+[Dengler] <i>We started
+the advance on Stalingrad.</i>
+
+227
+00:23:25,750 --> 00:23:28,500
+[newscaster] <i>More news
+of the fighting along the Russian front...</i>
+
+228
+00:23:28,583 --> 00:23:32,500
+[newscaster 2] <i>The German threat
+of Stalingrad continues to grow daily.</i>
+
+229
+00:23:38,083 --> 00:23:42,666
+[Dengler] <i>We'd take a house or ditch...</i>
+
+230
+00:23:42,750 --> 00:23:44,625
+-[heavy gunfire]
+-[soldiers shouting]
+
+231
+00:23:44,708 --> 00:23:48,833
+<i>...and they would
+take it back a few days later.</i>
+
+232
+00:23:52,416 --> 00:23:57,041
+<i>We suddenly realized
+we had a serious opponent.</i>
+
+233
+00:24:07,791 --> 00:24:11,416
+[Bocharova]
+<i>Every house was a battlefield.</i>
+
+234
+00:24:15,250 --> 00:24:17,291
+<i>Shells were raining down like thunder.</i>
+
+235
+00:24:21,333 --> 00:24:25,208
+<i>We lost so many troops.</i>
+
+236
+00:24:30,083 --> 00:24:31,791
+[narrator] For three months,
+
+237
+00:24:31,875 --> 00:24:35,625
+the Nazis and the Soviets
+fight each other to a standstill.
+
+238
+00:24:49,500 --> 00:24:52,166
+But the Soviets have
+a plan to break the deadlock.
+
+239
+00:25:19,083 --> 00:25:23,041
+[Dengler] <i>It was a mixture
+of astonishment and horror.</i>
+
+240
+00:25:32,041 --> 00:25:34,958
+<i>It was like something from a movie.</i>
+
+241
+00:25:44,625 --> 00:25:47,958
+<i>The Red Army was coming,</i>
+
+242
+00:25:48,833 --> 00:25:51,791
+<i>from everywhere, north and south.</i>
+
+243
+00:26:00,708 --> 00:26:03,208
+[narrator]
+Stalin has called up reinforcements,
+
+244
+00:26:03,291 --> 00:26:05,333
+catching the Germans off-guard.
+
+245
+00:26:09,375 --> 00:26:12,000
+[Bechler in German]
+<i>Our guns were superior.</i>
+
+246
+00:26:17,166 --> 00:26:21,500
+<i>But there were so many of them.</i>
+
+247
+00:26:22,833 --> 00:26:26,041
+<i>It was one wave after another.</i>
+
+248
+00:26:36,750 --> 00:26:41,708
+<i>They weren't getting weaker,
+they were getting stronger!</i>
+
+249
+00:26:49,375 --> 00:26:52,333
+{\an8}[Bocharova]
+<i>We didn't care about our own lives.</i>
+
+250
+00:26:56,375 --> 00:27:00,541
+<i>All that mattered was the Motherland!</i>
+
+251
+00:27:05,500 --> 00:27:11,583
+[Bechler] <i>Suddenly,
+I saw it with my binoculars.</i>
+
+252
+00:27:14,291 --> 00:27:18,583
+<i>"My God! Stalingrad is surrounded."</i>
+
+253
+00:27:33,208 --> 00:27:36,333
+[narrator] While the German army
+is trapped at Stalingrad,
+
+254
+00:27:37,416 --> 00:27:40,500
+in the Pacific,
+the Americans and the Japanese
+
+255
+00:27:40,583 --> 00:27:42,625
+continue the battle for supremacy.
+
+256
+00:28:04,416 --> 00:28:06,833
+[newscaster] <i>Here are
+the highlights in the news of the day.</i>
+
+257
+00:28:06,916 --> 00:28:09,125
+<i>The whole nation
+has its fingers crossed for the Navy</i>
+
+258
+00:28:09,208 --> 00:28:12,125
+<i>fighting what may be one of the most
+crucial battles of World War II,</i>
+
+259
+00:28:12,208 --> 00:28:13,666
+<i>in the Solomons area.</i>
+
+260
+00:28:13,750 --> 00:28:15,125
+[gunfire echoing]
+
+261
+00:28:29,083 --> 00:28:32,625
+-[heavy gunfire]
+-[men shouting]
+
+262
+00:28:53,250 --> 00:28:55,000
+[newscaster]
+<i>As we must, we are suffering losses.</i>
+
+263
+00:28:55,083 --> 00:28:57,500
+<i>But we are also
+inflicting losses on the enemy.</i>
+
+264
+00:29:11,166 --> 00:29:15,041
+[narrator] Meanwhile,
+in North Africa, the war turns again.
+
+265
+00:29:16,125 --> 00:29:19,125
+[announcer]
+<i>This is the BBC Home and Forces program.</i>
+
+266
+00:29:19,208 --> 00:29:23,291
+<i>Here's some excellent news,
+which has come during the past hour.</i>
+
+267
+00:29:23,375 --> 00:29:25,708
+<i>The Axis forces in the western desert</i>
+
+268
+00:29:25,791 --> 00:29:28,125
+<i>are now in full retreat.</i>
+
+269
+00:29:29,291 --> 00:29:32,875
+Winston Churchill has appointed
+a new commander in Africa:
+
+270
+00:29:34,333 --> 00:29:35,750
+General Montgomery.
+
+271
+00:29:38,375 --> 00:29:41,833
+And he's begun to halt
+the advance of Rommel's Afrika Korps.
+
+272
+00:29:43,166 --> 00:29:45,041
+[Montgomery]
+<i>Our mandate from the Prime Minister</i>
+
+273
+00:29:45,125 --> 00:29:48,375
+<i>is to destroy
+the Axis forces in North Africa.</i>
+
+274
+00:29:49,541 --> 00:29:53,041
+<i>We are going to finish
+with Rommel once and for all.</i>
+
+275
+00:29:54,333 --> 00:29:56,833
+<i>It can be done, and it will be done.</i>
+
+276
+00:30:01,125 --> 00:30:06,375
+But tens of thousands of British soldiers
+are still prisoners of the Axis forces.
+
+277
+00:30:16,041 --> 00:30:18,291
+Since being captured near Tobruk,
+
+278
+00:30:18,375 --> 00:30:22,166
+Ray Ellis has been packed
+on a truck in the North African desert.
+
+279
+00:30:26,791 --> 00:30:29,333
+{\an8}[Ellis] <i>I can't remember
+how many days it went on.</i>
+
+280
+00:30:29,416 --> 00:30:31,208
+{\an8}<i>It was a living hell.</i>
+
+281
+00:30:46,541 --> 00:30:48,041
+<i>You couldn't sit.</i>
+
+282
+00:30:50,125 --> 00:30:54,125
+<i>You couldn't move.
+In fact, you couldn't turn round.</i>
+
+283
+00:30:58,041 --> 00:31:01,375
+<i>Dirty, sweaty, stinking men</i>
+
+284
+00:31:01,458 --> 00:31:04,333
+<i>who were emptying their bowels
+and their bladders as they stood.</i>
+
+285
+00:31:04,416 --> 00:31:05,750
+<i>And you were doing the same.</i>
+
+286
+00:31:09,500 --> 00:31:11,833
+<i>Many died standing up.</i>
+
+287
+00:31:18,250 --> 00:31:21,541
+<i>Until we stopped at night,
+when the corpses could be carried out.</i>
+
+288
+00:31:47,375 --> 00:31:50,833
+[narrator] Ray arrives in Italy,
+as a prisoner of war.
+
+289
+00:31:56,250 --> 00:31:57,916
+[Ellis] <i>We'd been starved.</i>
+
+290
+00:31:59,708 --> 00:32:01,625
+<i>Broken-down group of men.</i>
+
+291
+00:32:05,291 --> 00:32:08,500
+<i>The street was lined
+with people spitting and jeering.</i>
+
+292
+00:32:11,583 --> 00:32:14,125
+<i>"This is the British army. Look at them!"</i>
+
+293
+00:32:38,250 --> 00:32:40,958
+<i>And then somewhere, out of the crowd,</i>
+
+294
+00:32:43,125 --> 00:32:48,750
+<i>a young girl came
+and pressed into my hand a big peach.</i>
+
+295
+00:32:52,041 --> 00:32:54,500
+<i>And then ran back again and hid herself.</i>
+
+296
+00:32:59,333 --> 00:33:03,708
+<i>And I can remember eating it and holding
+my cupped hands round my mouth.</i>
+
+297
+00:33:06,625 --> 00:33:09,166
+<i>Don't think anything
+ever tasted better than that peach.</i>
+
+298
+00:33:13,916 --> 00:33:15,875
+<i>I just burst into tears.</i>
+
+299
+00:33:20,208 --> 00:33:23,458
+<i>It made me realize that when you think
+the whole world is against you</i>
+
+300
+00:33:23,541 --> 00:33:24,958
+<i>and things are going wrong,</i>
+
+301
+00:33:25,041 --> 00:33:27,750
+<i>I always think there's
+a girl with a peach somewhere.</i>
+
+302
+00:33:31,583 --> 00:33:35,375
+It was a wonderful feeling, that...
+
+303
+00:33:44,416 --> 00:33:48,041
+<i>And it gave me the hope
+that things can change.</i>
+
+304
+00:33:54,041 --> 00:33:57,708
+{\an8}[announcer] <i>This is London calling
+in the North American service for the BBC.</i>
+
+305
+00:33:57,791 --> 00:34:00,000
+{\an8}[newscaster]
+<i>Yesterday afternoon at about 4:30,</i>
+
+306
+00:34:00,083 --> 00:34:02,291
+{\an8}<i>the Axis armies were cut clean in half.</i>
+
+307
+00:34:03,250 --> 00:34:07,708
+[narrator] November has arrived,
+and there's momentous news from Egypt.
+
+308
+00:34:08,916 --> 00:34:12,708
+The British 8th Army
+has defeated General Rommel's forces
+
+309
+00:34:12,791 --> 00:34:14,916
+at the Battle of El Alamein.
+
+310
+00:34:16,208 --> 00:34:23,041
+Now, this is not the end.
+It is not even the beginning of the end.
+
+311
+00:34:23,708 --> 00:34:27,125
+But it is, perhaps,
+the end of the beginning.
+
+312
+00:34:30,000 --> 00:34:32,208
+[narrator]
+And now the Americans have landed
+
+313
+00:34:32,291 --> 00:34:35,791
+to help finish off
+the Axis powers in North Africa.
+
+314
+00:34:35,875 --> 00:34:39,625
+[newscaster] <i>American paratroops
+and airborne infantry flown from Britain,</i>
+
+315
+00:34:39,708 --> 00:34:41,166
+<i>1,500 miles away,</i>
+
+316
+00:34:41,250 --> 00:34:43,208
+<i>have landed to capture airfields,</i>
+
+317
+00:34:43,291 --> 00:34:46,583
+<i>while other American troops
+have poured ashore on the beaches.</i>
+
+318
+00:34:51,875 --> 00:34:55,125
+<i>This is the end
+of the Axis African adventure.</i>
+
+319
+00:35:01,250 --> 00:35:04,333
+{\an8}[narrator] Meanwhile,
+Hitler's forces on the Eastern Front
+
+320
+00:35:04,416 --> 00:35:08,166
+are facing the possibility
+of a catastrophic defeat.
+
+321
+00:35:11,416 --> 00:35:14,083
+The German 6th Army is surrounded.
+
+322
+00:35:16,041 --> 00:35:18,125
+And the Russian winter is closing in.
+
+323
+00:35:18,208 --> 00:35:20,125
+[wind whistling]
+
+324
+00:35:32,750 --> 00:35:36,583
+Hitler's generals tell him
+the only hope is to break out and retreat.
+
+325
+00:35:42,000 --> 00:35:45,041
+But Hitler orders his army
+to stand and fight.
+
+326
+00:35:48,666 --> 00:35:52,375
+[Hitler] <i>These last few months
+have been so tremendous.</i>
+
+327
+00:35:54,583 --> 00:35:59,250
+<i>Let's pay tribute to the soldiers
+that delivered this victory.</i>
+
+328
+00:36:01,666 --> 00:36:05,916
+<i>Defeat is out of the question.</i>
+
+329
+00:36:06,041 --> 00:36:09,500
+<i>National Socialist Germany
+will emerge from this war</i>
+
+330
+00:36:09,583 --> 00:36:11,833
+<i>with a glorious victory!</i>
+
+331
+00:36:11,916 --> 00:36:13,541
+[crowd cheering]
+
+332
+00:36:17,291 --> 00:36:22,875
+[Schönbeck] <i>At first we thought,
+we're going to get out of this.</i>
+
+333
+00:36:30,208 --> 00:36:34,375
+<i>But then things got really bad.</i>
+
+334
+00:37:03,250 --> 00:37:05,291
+<i>We ran out of gas.</i>
+
+335
+00:37:12,250 --> 00:37:15,083
+<i>Then we ran out of ammunition.</i>
+
+336
+00:37:26,291 --> 00:37:28,875
+<i>Then we ran out of food,</i>
+
+337
+00:37:30,791 --> 00:37:34,750
+<i>so we ate the horses.</i>
+
+338
+00:37:40,500 --> 00:37:46,291
+<i>We got orders
+to demolish houses for firewood.</i>
+
+339
+00:37:50,166 --> 00:37:53,583
+<i>We'd say, "Get out, we need your house!"</i>
+
+340
+00:38:13,625 --> 00:38:16,333
+<i>In one house,</i>
+
+341
+00:38:18,500 --> 00:38:20,583
+there was an old couple.
+
+342
+00:38:20,666 --> 00:38:26,416
+An old man from Stalingrad
+
+343
+00:38:26,500 --> 00:38:27,791
+with his wife.
+
+344
+00:38:28,416 --> 00:38:33,000
+They had made some soup.
+
+345
+00:38:33,750 --> 00:38:35,250
+Something warm.
+
+346
+00:38:35,333 --> 00:38:39,000
+He said, "Come, eat with us."
+
+347
+00:38:39,083 --> 00:38:40,541
+I couldn't believe it!
+
+348
+00:38:54,541 --> 00:38:56,916
+[narrator] Christmas Day, 1942.
+
+349
+00:39:02,333 --> 00:39:06,166
+Hans and his men are 1,800 miles from home
+
+350
+00:39:06,250 --> 00:39:07,916
+and starving to death.
+
+351
+00:39:10,375 --> 00:39:14,791
+[Schönbeck] <i>We had
+a little pine tree in my bunker.</i>
+
+352
+00:39:19,750 --> 00:39:24,708
+<i>I tried to put on a brave face for my men.</i>
+
+353
+00:39:35,541 --> 00:39:39,250
+<i>I said, "Guys,
+we'll get out of here somehow."</i>
+
+354
+00:39:44,833 --> 00:39:47,291
+<i>Though I didn't believe it myself.</i>
+
+355
+00:39:52,291 --> 00:39:54,583
+<i>And nobody else believed me either.</i>
+
+356
+00:40:07,333 --> 00:40:10,416
+[Dengler] <i>During the course of Stalingrad,</i>
+
+357
+00:40:12,125 --> 00:40:15,916
+<i>my whole world collapsed.</i>
+
+358
+00:40:23,458 --> 00:40:27,083
+<i>I saw this corpse.</i>
+
+359
+00:40:27,166 --> 00:40:30,000
+<i>Some soldiers threw themselves onto him.</i>
+
+360
+00:40:35,500 --> 00:40:40,125
+<i>They cut out his heart
+and lungs and ate them.</i>
+
+361
+00:40:51,708 --> 00:40:55,625
+I thought, my God, how low have we sunk?
+
+362
+00:41:28,750 --> 00:41:31,666
+[man in German] <i>The High Command
+of the Wehrmacht announces...</i>
+
+363
+00:41:31,750 --> 00:41:33,458
+[man 2 in German] <i>The 6th Army</i>
+
+364
+00:41:33,541 --> 00:41:37,166
+<i>has succumbed
+to the superiority of the enemy.</i>
+
+365
+00:41:40,500 --> 00:41:43,291
+<i>The battle for Stalingrad is over.</i>
+
+366
+00:41:45,250 --> 00:41:48,541
+[narrator] On February 2nd,
+the German army surrenders.
+
+367
+00:41:51,500 --> 00:41:55,708
+Eight hundred thousand Axis troops
+have been killed or captured.
+
+368
+00:41:58,541 --> 00:42:01,916
+[Bechler] <i>A Red Army soldier
+shoves his gun into my chest.</i>
+
+369
+00:42:05,125 --> 00:42:07,833
+<i>And that's it, we are prisoners.</i>
+
+370
+00:42:14,583 --> 00:42:19,500
+[narrator] It's a disaster for Hitler
+and his biggest defeat of the war so far.
+
+371
+00:42:26,375 --> 00:42:29,458
+[Bechler] <i>Then I started thinking of home.</i>
+
+372
+00:42:31,083 --> 00:42:34,916
+<i>How can we win the war now?</i>
+
+373
+00:42:46,791 --> 00:42:52,916
+<i>Sooner or later all of Germany will be
+surrounded like we are at Stalingrad.</i>
+
+374
+00:42:55,000 --> 00:42:57,416
+<i>That means the fall of Germany.</i>
+
+375
+00:42:58,041 --> 00:42:59,833
+<i>That cannot be.</i>
+
+376
+00:43:10,250 --> 00:43:13,416
+{\an8}[Bocharova] <i>We hugged, we kissed,
+and shouted, "I'm alive!"</i>
+
+377
+00:43:20,000 --> 00:43:25,666
+<i>I learned I was to receive
+the Order of the Red Star.</i>
+
+378
+00:43:29,291 --> 00:43:32,750
+<i>I was walking proudly!</i>
+
+379
+00:43:35,083 --> 00:43:40,666
+<i>It felt like the world was watching me.</i>
+
+380
+00:43:47,791 --> 00:43:51,458
+[narrator] Stalin's Red Army
+has stopped the Nazi tide.
+
+381
+00:44:05,125 --> 00:44:07,541
+But as the conflict
+enters its fourth year,
+
+382
+00:44:07,625 --> 00:44:10,083
+an even harder battle is beginning.
+
+383
+00:44:19,541 --> 00:44:23,500
+To win the war, the Allies
+must take the fight to enemy territory
+
+384
+00:44:24,833 --> 00:44:28,000
+and venture into
+the most dangerous place on Earth:
+
+385
+00:44:28,583 --> 00:44:30,416
+Nazi Germany.
+
+386
+00:44:34,083 --> 00:44:38,583
+[Bomber Harris] <i>The Nazis entered this war
+under the rather childish delusion</i>
+
+387
+00:44:38,666 --> 00:44:41,333
+<i>that they were going
+to bomb everybody else</i>
+
+388
+00:44:41,416 --> 00:44:43,583
+<i>and nobody was going to bomb them.</i>
+
+389
+00:44:44,666 --> 00:44:49,458
+<i>They sowed the wind and now
+they are going to reap the whirlwind.</i>
+
+390
+00:44:49,541 --> 00:44:51,291
+[explosion]
+
+391
+00:44:52,041 --> 00:44:53,833
+[dive bombers buzzing]
+
+392
+00:44:56,250 --> 00:44:58,875
+-[pilot 1] <i>Fighters at ten o'clock.</i>
+-[pilot 2] <i>Watch 'em, Scotty.</i>
+
+393
+00:44:59,000 --> 00:45:00,541
+[Scotty] <i>I got my sights on 'em.</i>
+
+394
+00:45:03,750 --> 00:45:06,125
+[pilot 1] <i>B-17 out of control
+at three o'clock.</i>
+
+395
+00:45:08,458 --> 00:45:10,416
+[pilot 2] <i>Come on, you guys,
+get out of that plane.</i>
+
+396
+00:45:14,166 --> 00:45:16,166
+[subdued theme song playing]
+
