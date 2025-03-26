@@ -1,0 +1,1487 @@
+﻿1
+00:00:01,416 --> 00:00:03,374
+- 'Previously on "Hannibal"...'
+- Hannibal!
+
+2
+00:00:03,500 --> 00:00:06,040
+We are as close
+as we are ever going to get
+
+3
+00:00:06,166 --> 00:00:07,499
+to catching this man.
+
+4
+00:00:07,625 --> 00:00:10,749
+I'm dismantling who I was
+and moving it brick by brick.
+
+5
+00:00:10,875 --> 00:00:14,374
+It's the last stage of a transformation.
+We could disappear now.
+
+6
+00:00:14,500 --> 00:00:17,832
+You've set some sort of trap
+and you're goading Hannibal into it.
+
+7
+00:00:17,958 --> 00:00:20,249
+How can you be sure
+he's not goading you?
+
+8
+00:00:20,375 --> 00:00:21,415
+I can't.
+
+9
+00:00:21,541 --> 00:00:26,457
+I have begun to question your actions
+with regards to my attack.
+
+10
+00:00:26,583 --> 00:00:31,124
+I am no longer your therapist.
+You are dangerous.
+
+11
+00:03:06,083 --> 00:03:07,790
+- Antony Dimmond.
+- Boris Jakov.
+
+12
+00:03:07,916 --> 00:03:09,249
+I'd offer a hand, but...
+
+13
+00:03:09,791 --> 00:03:11,999
+It's a double-fisted kind of bash.
+
+14
+00:03:13,291 --> 00:03:14,957
+Do you know Roman well?
+
+15
+00:03:15,916 --> 00:03:19,249
+You were staring with the thinly-veiled
+disdain of a man who does.
+
+16
+00:03:20,041 --> 00:03:24,457
+I was his TA at Cambridge.
+He was insufferable even then.
+
+17
+00:03:27,500 --> 00:03:29,624
+Have you read his books?
+
+18
+00:03:30,833 --> 00:03:32,874
+They're terrible.
+
+19
+00:03:33,000 --> 00:03:35,207
+You know they're terrible,
+you're just too polite to say.
+
+20
+00:03:35,333 --> 00:03:37,249
+Blink if you agree.
+
+21
+00:03:38,125 --> 00:03:40,124
+See.
+
+22
+00:03:41,250 --> 00:03:43,165
+Doesn't stop him squatting
+over his keyboard
+
+23
+00:03:43,291 --> 00:03:45,874
+and depositing a fresh one
+every six to eight months.
+
+24
+00:03:46,000 --> 00:03:48,832
+It takes me six to eight months
+to write one line.
+
+25
+00:03:48,958 --> 00:03:50,332
+Why?
+
+26
+00:03:51,000 --> 00:03:52,665
+Poetry is hard.
+
+27
+00:03:53,208 --> 00:03:54,957
+Too hard for Roman.
+
+28
+00:03:55,083 --> 00:03:58,374
+Well, it's easier for him to slide into
+academia and dissect the work of others
+
+29
+00:03:58,500 --> 00:04:00,832
+than it is to stand by his own words.
+
+30
+00:04:00,958 --> 00:04:03,874
+One can appreciate another's words
+without dissecting them.
+
+31
+00:04:05,583 --> 00:04:08,999
+Though, on occasion,
+dissection is the only thing that will do.
+
+32
+00:04:36,250 --> 00:04:38,124
+Bonsoir.
+
+33
+00:04:39,708 --> 00:04:41,374
+Bonsoir.
+
+34
+00:05:05,500 --> 00:05:07,499
+Bonsoir.
+
+35
+00:05:09,041 --> 00:05:10,957
+Bonsoir.
+
+36
+00:06:15,625 --> 00:06:16,957
+Bonsoir.
+
+37
+00:07:13,500 --> 00:07:17,374
+You really are the Devil.
+
+38
+00:07:18,458 --> 00:07:21,832
+Certainly seem to enjoy it.
+You have a click in your hoof.
+
+39
+00:07:21,958 --> 00:07:24,499
+The Devil has been a yoke
+on the neck of humanity
+
+40
+00:07:24,625 --> 00:07:27,165
+since we first began
+to think and dream.
+
+41
+00:07:27,291 --> 00:07:29,249
+I for a much shorter time.
+
+42
+00:07:29,375 --> 00:07:31,999
+You admit the yoke.
+
+43
+00:07:33,416 --> 00:07:37,874
+Smells of candy apples and thyme.
+
+44
+00:07:39,208 --> 00:07:41,832
+You smoked me in thyme.
+
+45
+00:07:41,958 --> 00:07:46,624
+Smoked. Glazed.
+Served on a sugar cane quill.
+
+46
+00:07:46,750 --> 00:07:48,957
+You will be falling off the bone.
+
+47
+00:07:49,875 --> 00:07:51,207
+Well, of course.
+
+48
+00:07:51,833 --> 00:07:55,707
+And with these rarified dishes
+you so carefully prepare,
+
+49
+00:07:55,833 --> 00:07:59,040
+do we all taste different?
+
+50
+00:07:59,166 --> 00:08:01,165
+Everyone has their flavour.
+
+51
+00:08:01,958 --> 00:08:05,207
+Cannibalism was standard behaviour
+among our ancestors.
+
+52
+00:08:05,333 --> 00:08:09,499
+The missing link was only missing
+because we ate him.
+
+53
+00:08:09,625 --> 00:08:13,540
+This isn't cannibalism, Abel.
+It's only cannibalism if we're equals.
+
+54
+00:08:15,708 --> 00:08:19,499
+This is only cannibalism if you eat me.
+
+55
+00:08:19,625 --> 00:08:22,374
+But you just feel this is
+the natural order of things,
+
+56
+00:08:22,500 --> 00:08:24,290
+everybody gets ate.
+
+57
+00:08:25,166 --> 00:08:27,124
+Be he fat or be he lean.
+
+58
+00:08:27,250 --> 00:08:30,249
+With my last leg standing next to me,
+
+59
+00:08:30,375 --> 00:08:34,832
+I should still wrestle with the urges
+to fight or flee.
+
+60
+00:08:36,291 --> 00:08:38,582
+It's called "terminal restlessness".
+
+61
+00:08:38,708 --> 00:08:42,290
+The body fills with adrenaline
+and feels compelled to go-go-go.
+
+62
+00:08:42,958 --> 00:08:46,540
+"Go-go-go"?
+I've already got up and gone.
+
+63
+00:08:46,666 --> 00:08:49,790
+This is posthumous.
+
+64
+00:08:49,916 --> 00:08:51,957
+You're not dead yet, Abel.
+You still have to eat.
+
+65
+00:08:53,250 --> 00:08:54,665
+No, I don't.
+
+66
+00:08:58,333 --> 00:09:02,415
+At this point, there is absolutely
+nothing I have to do.
+
+67
+00:09:05,291 --> 00:09:08,332
+But I shouldn't spoil the fairy tale,
+should I?
+
+68
+00:09:09,291 --> 00:09:11,707
+You and your little gingerbread house.
+
+69
+00:09:14,708 --> 00:09:17,499
+Let it be a fairy tale, then.
+
+70
+00:09:17,625 --> 00:09:19,707
+Once upon a time...
+
+71
+00:09:59,791 --> 00:10:01,207
+Bellissima.
+
+72
+00:10:01,333 --> 00:10:02,999
+Grazie.
+
+73
+00:10:06,166 --> 00:10:10,374
+Dr Fell, I hope you translate
+as well as you waltz.
+
+74
+00:10:10,500 --> 00:10:12,124
+Mrs Fell.
+
+75
+00:10:12,250 --> 00:10:17,832
+Our new appointee was confirmed
+by the board after close questioning.
+
+76
+00:10:17,958 --> 00:10:20,249
+You've examined him
+in medieval Italian,
+
+77
+00:10:20,375 --> 00:10:23,290
+and I will not deny
+his language is...
+
+78
+00:10:24,375 --> 00:10:26,374
+admirable.
+
+79
+00:10:26,500 --> 00:10:28,540
+- Thank you.
+- For a straniero.
+
+80
+00:10:29,791 --> 00:10:33,499
+Are you familiar with the personalities
+of pre-Renaissance Florence?
+
+81
+00:10:34,958 --> 00:10:36,415
+I think not.
+
+82
+00:10:37,583 --> 00:10:42,582
+Dr Fell might hold in his hand,
+in his non-Italian hand,
+
+83
+00:10:42,708 --> 00:10:45,457
+a note from Dante Alighieri himself.
+
+84
+00:10:45,583 --> 00:10:47,624
+Would he recognise it?
+
+85
+00:10:50,041 --> 00:10:51,540
+I think not.
+
+86
+00:10:51,666 --> 00:10:55,207
+Professor Sogliato, would you
+do me the honour of a dance?
+
+87
+00:10:55,333 --> 00:10:57,165
+Of course.
+
+88
+00:11:00,958 --> 00:11:05,374
+Allegro mi sembrava Amor
+tenendo meo core in mano,
+
+89
+00:11:06,958 --> 00:11:10,874
+e ne le braccia avea madonna involta
+in un drappo dormendo.
+
+90
+00:11:12,541 --> 00:11:17,457
+Poi la svegliava, e d'esto core ardendo
+lei paventosa umilmente pascea;
+
+91
+00:11:19,291 --> 00:11:22,624
+appreso gir lo ne vedea piangendo.
+
+92
+00:11:24,875 --> 00:11:26,499
+Dante's first sonnet.
+
+93
+00:11:26,625 --> 00:11:30,290
+It fascinated Cavalcanti. The eating
+of the heart is a powerful image.
+
+94
+00:11:30,416 --> 00:11:33,915
+If he's such an expert on Dante,
+let him lecture on Dante...
+
+95
+00:11:34,750 --> 00:11:36,582
+to the Studiolo.
+
+96
+00:11:36,708 --> 00:11:38,624
+Let him face them.
+
+97
+00:11:38,750 --> 00:11:43,082
+- Extempore.
+- I'm happy to sing for my supper.
+
+98
+00:11:46,000 --> 00:11:47,249
+Professor Sogliato.
+
+99
+00:12:01,250 --> 00:12:03,999
+We are among the palaces
+built 600 years ago
+
+100
+00:12:04,125 --> 00:12:06,582
+by the merchant princes,
+the kingmakers
+
+101
+00:12:06,708 --> 00:12:09,665
+and the connivers
+of Renaissance Florence.
+
+102
+00:12:10,583 --> 00:12:13,249
+There's connivers of modern Florence.
+
+103
+00:12:15,625 --> 00:12:18,707
+I've found a peace here
+that I would preserve.
+
+104
+00:12:18,833 --> 00:12:21,665
+I've killed hardly anybody
+during our residence.
+
+105
+00:12:23,708 --> 00:12:26,415
+You created a vacancy
+at the Palazzo Capponi
+
+106
+00:12:26,541 --> 00:12:29,165
+by removing the former curator.
+
+107
+00:12:29,291 --> 00:12:33,082
+A simple process requiring
+a few seconds' work on the old man
+
+108
+00:12:33,208 --> 00:12:36,665
+and a modest outlay
+for two bags of cement.
+
+109
+00:12:36,791 --> 00:12:40,415
+You no longer have
+ethical concerns, Hannibal.
+
+110
+00:12:41,416 --> 00:12:43,957
+You have aesthetical ones.
+
+111
+00:12:45,166 --> 00:12:47,249
+Ethics become aesthetics.
+
+112
+00:12:47,375 --> 00:12:52,332
+You seem more interested in making
+appearances than maintaining them.
+
+113
+00:12:52,458 --> 00:12:53,957
+Would you?
+
+114
+00:12:56,250 --> 00:13:00,124
+If this is about my position
+at the Palazzo,
+
+115
+00:13:00,250 --> 00:13:03,540
+once the path was cleared,
+I won the job fairly.
+
+116
+00:13:03,666 --> 00:13:05,124
+On my merits.
+
+117
+00:13:07,208 --> 00:13:09,374
+Yes, even the most
+contentious Florentines
+
+118
+00:13:09,500 --> 00:13:13,499
+can't resist the verse of Dante
+ringing off frescoed walls.
+
+119
+00:13:17,958 --> 00:13:20,165
+One contentious Florentine can.
+
+120
+00:13:27,333 --> 00:13:31,415
+Have you given serious thought
+to eating Professor Sogliato?
+
+121
+00:13:33,166 --> 00:13:36,624
+My killing Sogliato now
+would not preserve the peace.
+
+122
+00:13:39,625 --> 00:13:42,540
+Your peace is without morality.
+
+123
+00:13:44,125 --> 00:13:47,249
+Morality doesn't exist. Only morale.
+
+124
+00:13:49,666 --> 00:13:51,332
+How you feel today.
+
+125
+00:13:53,166 --> 00:13:54,999
+How do you feel today?
+
+126
+00:13:55,125 --> 00:13:59,082
+I still believe I'm in conscious control
+of my actions.
+
+127
+00:14:00,375 --> 00:14:04,457
+Given your history, that's a good day.
+
+128
+00:15:23,666 --> 00:15:26,165
+If you think you're about
+to catch Hannibal,
+
+129
+00:15:26,291 --> 00:15:29,207
+it's because he wants you
+to think that.
+
+130
+00:15:30,833 --> 00:15:36,040
+Don't fool yourself into thinking
+he's not in control of what's happening.
+
+131
+00:17:28,708 --> 00:17:30,915
+May I get dressed?
+
+132
+00:17:31,916 --> 00:17:33,249
+You may.
+
+133
+00:17:42,000 --> 00:17:44,082
+What have you done, Hannibal?
+
+134
+00:17:45,375 --> 00:17:47,665
+I've taken off my person suit.
+
+135
+00:17:50,208 --> 00:17:52,290
+You let them see you.
+
+136
+00:17:54,875 --> 00:17:56,749
+I let them see enough.
+
+137
+00:18:00,583 --> 00:18:02,290
+How does it feel?
+
+138
+00:18:03,541 --> 00:18:04,665
+Being seen?
+
+139
+00:18:05,666 --> 00:18:09,249
+Well, you're in no position to ask,
+Dr Du Maurier.
+
+140
+00:18:09,375 --> 00:18:11,957
+You ended our patient-psychiatrist
+relationship.
+
+141
+00:18:15,166 --> 00:18:19,624
+I lacked the appropriate skills
+to continue your therapy.
+
+142
+00:18:21,708 --> 00:18:24,332
+I never found you to be lacking.
+
+143
+00:18:28,000 --> 00:18:32,707
+I'm sorry I didn't provide you
+with a suitable substitute for therapy.
+
+144
+00:18:36,750 --> 00:18:39,290
+Is Will Graham still alive?
+
+145
+00:18:42,833 --> 00:18:46,124
+Will Graham was not
+a suitable substitute for therapy.
+
+146
+00:18:49,541 --> 00:18:52,040
+What was he?
+
+147
+00:18:52,166 --> 00:18:54,374
+Is this professional curiosity?
+
+148
+00:18:55,541 --> 00:18:57,540
+Almost entirely.
+
+149
+00:19:02,916 --> 00:19:04,832
+Do you trust me?
+
+150
+00:19:08,291 --> 00:19:09,665
+Not entirely.
+
+151
+00:19:10,875 --> 00:19:14,665
+Are you taking into consideration
+my beliefs about your intentions?
+
+152
+00:19:16,333 --> 00:19:17,749
+My intentions?
+
+153
+00:19:19,375 --> 00:19:22,665
+Human motivation can be
+little more than lucid greed.
+
+154
+00:19:24,250 --> 00:19:26,124
+Greed...
+
+155
+00:19:27,250 --> 00:19:29,249
+and blind optimism.
+
+156
+00:19:30,958 --> 00:19:33,457
+You're optimistic I won't kill you.
+
+157
+00:20:27,375 --> 00:20:31,957
+Due bottiglie di Bâtard-Montrachet
+e tartufi bianchi, per favore.
+
+158
+00:21:55,375 --> 00:21:57,165
+Hello!
+
+159
+00:21:58,416 --> 00:22:00,415
+Bonjour!
+
+160
+00:22:01,083 --> 00:22:02,582
+Mr Jakov, isn't it?
+
+161
+00:22:02,708 --> 00:22:04,832
+We met in Paris a few months back.
+
+162
+00:22:06,125 --> 00:22:08,040
+Sorry, I didn't mean to startle you,
+
+163
+00:22:08,166 --> 00:22:10,999
+it's just here I was
+and then there you were.
+
+164
+00:22:11,125 --> 00:22:13,999
+- I never forget a face.
+- Antony Dimmond.
+
+165
+00:22:14,125 --> 00:22:17,665
+- Nice to be remembered.
+- You're hard to forget.
+
+166
+00:22:17,791 --> 00:22:21,040
+What are you doing in Florence?
+Are you working with Roman?
+
+167
+00:22:21,166 --> 00:22:22,582
+Dr Fell?
+
+168
+00:22:22,708 --> 00:22:24,582
+I heard he took an appointment
+at the Capponi Library.
+
+169
+00:22:24,708 --> 00:22:27,832
+Yes, he's the new curator and
+translator at the Palazzo Capponi.
+
+170
+00:22:27,958 --> 00:22:32,832
+Evidently, the last one eloped with
+a woman or someone's money, or both.
+
+171
+00:22:32,958 --> 00:22:35,082
+That's the commonly-held belief.
+
+172
+00:22:36,291 --> 00:22:39,040
+- You just missed Roman.
+- Did I?
+
+173
+00:22:39,166 --> 00:22:41,957
+Oh, I was hoping to take the piss.
+
+174
+00:22:44,041 --> 00:22:45,832
+Spare the piss for the time being.
+
+175
+00:22:45,958 --> 00:22:49,582
+If you're free, my wife and I would
+love to have you for dinner.
+
+176
+00:23:29,625 --> 00:23:31,665
+Listen.
+
+177
+00:23:32,875 --> 00:23:34,957
+They prefer eating in company.
+
+178
+00:23:36,208 --> 00:23:39,457
+I've kept cochlear gardens
+since I was a young man,
+
+179
+00:23:39,583 --> 00:23:42,207
+fattening snails on herbs
+and vine leaves.
+
+180
+00:23:42,333 --> 00:23:47,124
+Like all of us, what they eat greatly
+influences and enhances their flavour.
+
+181
+00:23:47,250 --> 00:23:50,540
+When I'm not busy eating myself,
+
+182
+00:23:50,666 --> 00:23:53,499
+you wish me to be eating oysters,
+
+183
+00:23:53,625 --> 00:23:56,790
+drinking sweet wines
+and snacking on acorns.
+
+184
+00:23:58,208 --> 00:24:00,707
+All to make me tastier?
+
+185
+00:24:01,666 --> 00:24:03,040
+Oh, yes.
+
+186
+00:24:03,166 --> 00:24:05,832
+And you are making them tastier.
+
+187
+00:24:05,958 --> 00:24:10,040
+And I you.
+Imagine what you must taste like.
+
+188
+00:24:10,958 --> 00:24:13,874
+Won't be long until someone's
+taking a bite out of you.
+
+189
+00:24:15,541 --> 00:24:19,915
+You're becoming brighter, Abel.
+Dying hasn't dulled you one bit.
+
+190
+00:24:23,000 --> 00:24:26,874
+The snails are certainly having
+a lovely experience,
+
+191
+00:24:27,000 --> 00:24:30,957
+fattened on me
+in a red-wine marinade.
+
+192
+00:24:32,666 --> 00:24:35,624
+They have no idea
+they're going to be eaten.
+
+193
+00:24:37,875 --> 00:24:40,082
+We do.
+
+194
+00:25:19,250 --> 00:25:21,290
+How well do you know the Fells?
+
+195
+00:25:21,416 --> 00:25:22,915
+As well as anybody.
+
+196
+00:25:23,041 --> 00:25:25,082
+Which'd be not really.
+
+197
+00:25:25,208 --> 00:25:27,082
+Lydia a friend of yours?
+
+198
+00:25:29,541 --> 00:25:30,915
+Not really.
+
+199
+00:25:31,666 --> 00:25:36,749
+I'd be surprised to hear she had one.
+We share a mutual detestation.
+
+200
+00:25:36,875 --> 00:25:39,457
+She disapproves of my disapproval.
+
+201
+00:25:42,250 --> 00:25:44,207
+What do you disapprove of?
+
+202
+00:25:44,333 --> 00:25:45,957
+Roman, mainly.
+
+203
+00:25:46,083 --> 00:25:49,249
+Lydia isn't quite bright enough
+to see I'm just intimidated.
+
+204
+00:25:49,375 --> 00:25:53,082
+Roman does, of course.
+How he loves to strike fear.
+
+205
+00:25:54,041 --> 00:25:56,874
+Dante wrote that fear is
+almost as bitter as death.
+
+206
+00:25:59,041 --> 00:26:02,249
+Dante wasn't dead when he wrote it.
+
+207
+00:26:03,375 --> 00:26:07,499
+- Are you travelling alone, Antony?
+- The only way I travel.
+
+208
+00:26:08,166 --> 00:26:09,582
+Oh...
+
+209
+00:26:11,833 --> 00:26:16,249
+Roman is speaking to the Studiolo Friday
+on Dante. You should come.
+
+210
+00:26:17,000 --> 00:26:18,790
+Sounds appropriately hellish.
+
+211
+00:26:23,958 --> 00:26:25,707
+Are you avoiding meats?
+
+212
+00:26:29,291 --> 00:26:32,457
+I'm trying not to eat anything
+with a central nervous system.
+
+213
+00:26:34,166 --> 00:26:36,207
+Oysters, acorns and Marsala.
+
+214
+00:26:36,333 --> 00:26:40,999
+That's what ancient Romans would feed
+animals to improve their flavour.
+
+215
+00:26:50,791 --> 00:26:55,332
+My husband has
+a very sophisticated palate.
+
+216
+00:26:56,500 --> 00:26:58,957
+He's very particular about how I taste.
+
+217
+00:27:07,166 --> 00:27:08,957
+Is it that kind of party?
+
+218
+00:27:15,208 --> 00:27:17,249
+It is not that kind of party.
+
+219
+00:27:18,583 --> 00:27:20,082
+No.
+
+220
+00:27:20,833 --> 00:27:22,957
+It really isn't.
+
+221
+00:27:24,583 --> 00:27:28,249
+Shame. You were both suddenly
+so fascinating.
+
+222
+00:27:33,750 --> 00:27:35,082
+- Buonasera.
+- Buonasera.
+
+223
+00:27:35,208 --> 00:27:36,624
+Buonasera.
+
+224
+00:27:44,041 --> 00:27:45,540
+You let him go.
+
+225
+00:27:47,666 --> 00:27:49,707
+What would you have me do, Bedelia?
+
+226
+00:28:25,333 --> 00:28:29,332
+Due bottiglie di Bâtard-Montrachet
+e tartufi bianchi, per favore.
+
+227
+00:28:45,250 --> 00:28:46,749
+Grazie.
+
+228
+00:30:02,041 --> 00:30:03,832
+Bedelia.
+
+229
+00:30:06,625 --> 00:30:08,207
+He attacked me.
+
+230
+00:30:12,625 --> 00:30:13,874
+Is that your blood?
+
+231
+00:30:16,958 --> 00:30:18,624
+No.
+
+232
+00:30:26,750 --> 00:30:28,665
+You were defending yourself?
+
+233
+00:30:30,916 --> 00:30:32,832
+I was reckless.
+
+234
+00:30:36,833 --> 00:30:39,082
+This wasn't reckless violence.
+
+235
+00:30:40,333 --> 00:30:42,499
+It was a controlled use of force.
+
+236
+00:30:44,458 --> 00:30:45,832
+I know what happened.
+
+237
+00:30:47,583 --> 00:30:48,665
+Do you?
+
+238
+00:30:51,708 --> 00:30:54,749
+He was your patient
+before he was mine.
+
+239
+00:30:58,375 --> 00:31:01,124
+He died under your care.
+
+240
+00:31:02,541 --> 00:31:04,582
+You were not defending yourself.
+
+241
+00:31:29,708 --> 00:31:32,999
+I can help you tell the version of events
+you want to be told.
+
+242
+00:31:38,458 --> 00:31:40,915
+I can help you,
+
+243
+00:31:41,041 --> 00:31:42,915
+if you ask me to.
+
+244
+00:31:46,958 --> 00:31:48,874
+Will you help me?
+
+245
+00:32:03,375 --> 00:32:06,832
+In accord with my own taste
+for the pre-Renaissance,
+
+246
+00:32:06,958 --> 00:32:09,415
+I present the case of Pietro della Vigna,
+
+247
+00:32:09,541 --> 00:32:14,040
+whose treachery earned him
+a place in Dante's Hell.
+
+248
+00:32:14,875 --> 00:32:18,332
+He was disgraced and blinded
+for betraying his emperor's trust.
+
+249
+00:32:20,416 --> 00:32:23,582
+Dante's pilgrim finds him
+in the seventh level of the Inferno,
+
+250
+00:32:23,708 --> 00:32:25,582
+reserved for suicides.
+
+251
+00:32:26,416 --> 00:32:28,540
+Like Judas Iscariot, he died by hanging.
+
+252
+00:32:29,208 --> 00:32:32,999
+Judas and Pietro della Vigna
+are linked in Dante's Inferno.
+
+253
+00:32:33,708 --> 00:32:37,082
+Betrayal and hanging,
+
+254
+00:32:37,208 --> 00:32:39,249
+then, linked since antiquity,
+
+255
+00:32:39,375 --> 00:32:41,374
+the image appearing
+again and again in art.
+
+256
+00:32:43,208 --> 00:32:46,165
+This is the earliest-known depiction
+of the Crucifixion,
+
+257
+00:32:46,916 --> 00:32:50,124
+carved on an ivory box in Gaul
+about A.D. 400.
+
+258
+00:32:50,250 --> 00:32:52,999
+It includes the death by hanging
+of Judas,
+
+259
+00:32:53,125 --> 00:32:56,582
+his face upturned to the branch
+that suspends him.
+
+260
+00:32:57,708 --> 00:32:59,665
+On the doors
+of the Benevento Cathedral,
+
+261
+00:32:59,791 --> 00:33:02,124
+we see Judas hanging
+with his bowels falling out.
+
+262
+00:33:03,041 --> 00:33:06,874
+And here, from a 15th-century
+edition of The Inferno
+
+263
+00:33:07,000 --> 00:33:10,832
+is Pietro della Vigna's body
+hanging from a bleeding tree.
+
+264
+00:33:11,666 --> 00:33:14,582
+I won't belabour the parallels
+with Judas Iscariot.
+
+265
+00:33:14,708 --> 00:33:17,290
+Betrayal, hanging, self-destruction.
+
+266
+00:33:19,041 --> 00:33:21,290
+"lo fei gibetto a me de le mie case."
+
+267
+00:33:24,791 --> 00:33:27,290
+"I make my own home be my gallows."
+
+268
+00:33:27,416 --> 00:33:31,082
+Mr Dimmond, welcome.
+Please join us.
+
+269
+00:33:31,208 --> 00:33:34,332
+We were just about to discuss
+the matter of chewing in Dante.
+
+270
+00:33:49,208 --> 00:33:52,332
+Thank you for your kind attention.
+
+271
+00:33:52,458 --> 00:33:53,999
+Thank you.
+
+272
+00:34:02,333 --> 00:34:05,665
+Would you say I secured my position,
+Professor Sogliato?
+
+273
+00:34:07,083 --> 00:34:10,082
+The Studiolo seem satisfied.
+
+274
+00:34:10,208 --> 00:34:12,082
+Satisfied?
+
+275
+00:34:12,208 --> 00:34:15,290
+I thought the applause was
+downright enthusiastic
+
+276
+00:34:15,416 --> 00:34:17,832
+in its soft and dusty way.
+
+277
+00:34:17,958 --> 00:34:19,957
+Dottore Fell is a friend of yours?
+
+278
+00:34:20,083 --> 00:34:22,249
+I was his TA at Cambridge.
+
+279
+00:34:22,375 --> 00:34:24,499
+The tales I could tell.
+
+280
+00:34:27,375 --> 00:34:28,624
+Please do.
+
+281
+00:34:29,625 --> 00:34:32,082
+What kind of friend would I be?
+
+282
+00:34:34,291 --> 00:34:37,290
+What kind of friend, indeed.
+
+283
+00:34:37,416 --> 00:34:38,957
+Dottore.
+
+284
+00:34:59,083 --> 00:35:01,332
+An exposition of atrocious
+torture instruments
+
+285
+00:35:01,458 --> 00:35:04,790
+appeals to connoisseurs
+of the very worst in mankind.
+
+286
+00:35:06,208 --> 00:35:10,457
+Now that ceaseless exposure has
+calloused us to the lewd and the vulgar,
+
+287
+00:35:10,583 --> 00:35:14,249
+it is instructive to see
+what still seems wicked to us.
+
+288
+00:35:14,375 --> 00:35:17,457
+What still slaps the clammy flab
+of our submissive consciousness
+
+289
+00:35:17,583 --> 00:35:19,624
+hard enough to get our attention?
+
+290
+00:35:22,125 --> 00:35:24,374
+What wickedness has your attention,
+Mr Dimmond?
+
+291
+00:35:25,916 --> 00:35:27,499
+Yours...
+
+292
+00:35:29,000 --> 00:35:30,374
+Dr Fell.
+
+293
+00:35:33,458 --> 00:35:36,332
+I have no delusions about morality.
+
+294
+00:35:36,458 --> 00:35:38,624
+If I did,
+I would've gone to "la polizia".
+
+295
+00:35:39,833 --> 00:35:44,207
+I'm curious as to what fate
+befell Dr Fell
+
+296
+00:35:44,333 --> 00:35:46,915
+to see you here in his stead.
+
+297
+00:35:50,708 --> 00:35:54,540
+You may have to strap me
+to the breaking wheel to loosen my tongue.
+
+298
+00:35:54,666 --> 00:35:58,207
+You overestimate my affection
+for the genuine Dr Fell.
+
+299
+00:35:59,291 --> 00:36:01,790
+Clearly, you found him
+as distasteful as I did.
+
+300
+00:36:03,333 --> 00:36:04,832
+On the contrary.
+
+301
+00:36:10,708 --> 00:36:15,415
+We can twist ourselves into all manner
+of uncomfortable positions
+
+302
+00:36:15,541 --> 00:36:19,915
+just to maintain appearances,
+with or without a breaking wheel.
+
+303
+00:36:22,791 --> 00:36:26,124
+Are you here to twist me
+into an uncomfortable position?
+
+304
+00:36:27,875 --> 00:36:30,249
+I'm here to help you untwist...
+
+305
+00:36:30,375 --> 00:36:32,457
+to our mutual benefit.
+
+306
+00:37:21,541 --> 00:37:24,665
+Observe or participate.
+
+307
+00:37:31,250 --> 00:37:32,665
+What?
+
+308
+00:37:33,708 --> 00:37:37,290
+Are you, in this very moment,
+observing or participating?
+
+309
+00:37:39,416 --> 00:37:41,207
+Observing.
+
+310
+00:37:44,666 --> 00:37:46,999
+You say you're observing,
+but this...
+
+311
+00:37:48,333 --> 00:37:51,040
+This is participation, Bedelia.
+
+312
+00:37:51,166 --> 00:37:54,332
+Did you know what he would do?
+
+313
+00:37:58,500 --> 00:38:00,707
+I would prefer you answer honestly.
+
+314
+00:38:00,833 --> 00:38:04,457
+- I was curious.
+- You were curious what would happen.
+
+315
+00:38:06,416 --> 00:38:08,957
+You were curious
+what Mr Dimmond would do.
+
+316
+00:38:09,083 --> 00:38:10,332
+What I would do.
+
+317
+00:38:14,416 --> 00:38:16,499
+Did you anticipate our thoughts?
+
+318
+00:38:17,750 --> 00:38:20,332
+Counter-thoughts?
+Rationalisations?
+
+319
+00:38:21,833 --> 00:38:23,165
+Yes.
+
+320
+00:38:26,083 --> 00:38:27,957
+Is this what you expected?
+
+321
+00:38:33,333 --> 00:38:34,790
+Yes.
+
+322
+00:38:37,291 --> 00:38:39,790
+That's participation.
+
+323
+00:39:03,125 --> 00:39:06,374
+What have you gotten yourself into,
+Bedelia?
+
+324
+00:39:07,666 --> 00:39:09,124
+Shall I hang up your coat?
+
+325
+00:40:26,625 --> 00:40:30,040
+Would you rather I extended you
+the same kindness as the escargot?
+
+326
+00:40:31,583 --> 00:40:34,249
+Eating me without my knowledge?
+
+327
+00:40:36,500 --> 00:40:38,082
+No.
+
+328
+00:40:38,208 --> 00:40:41,915
+I find knowing to be far more powerful.
+
+329
+00:40:42,041 --> 00:40:44,207
+Why do you think I'm allowing this?
+
+330
+00:40:45,750 --> 00:40:48,290
+Why do you think I'm allowing this?
+
+331
+00:40:48,416 --> 00:40:54,874
+Cos snails aren't the only creatures
+who prefer eating with company.
+
+332
+00:40:56,750 --> 00:40:59,874
+If only that company
+could be Will Graham.
+
+333
+00:41:26,666 --> 00:41:30,832
+I'm just fascinated to know
+how you will feel when all this...
+
+334
+00:41:32,416 --> 00:41:34,415
+happens to you.
+
