@@ -1,0 +1,2798 @@
+1
+00:00:02,736 --> 00:00:04,582
+Here are a few things
+you need to know.
+
+2
+00:00:04,583 --> 00:00:06,608
+I need to talk to you
+about Dad's computer.
+
+3
+00:00:06,786 --> 00:00:10,361
+Yeah. I thought that I uncovered
+some secret files.
+
+4
+00:00:10,362 --> 00:00:13,297
+Turned out to be cheats
+on some video game he was developing.
+
+5
+00:00:13,465 --> 00:00:16,161
+My sister just lied to me.
+She's never lied to me.
+
+6
+00:00:16,368 --> 00:00:18,427
+There was one man
+my father was afraid of.
+
+7
+00:00:18,603 --> 00:00:22,835
+He went by the name Agent X.
+I'm gonna track him down and kill him.
+
+8
+00:00:23,008 --> 00:00:25,067
+Then no one can touch me. Ever.
+
+9
+00:00:48,723 --> 00:00:49,781
+Freeze!
+
+10
+00:00:50,825 --> 00:00:54,261
+Take it easy, tiger. I'm here to help.
+
+11
+00:00:54,695 --> 00:00:58,256
+DS&T picked up some chatter
+of a possible break-in attempt.
+
+12
+00:01:00,902 --> 00:01:02,062
+Not likely.
+
+13
+00:01:02,236 --> 00:01:05,205
+- It's always a ghost town down here.
+- Oh.
+
+14
+00:01:05,740 --> 00:01:09,267
+Damn it. Sorry.
+I haven't had my morning coffee yet.
+
+15
+00:01:11,245 --> 00:01:12,872
+Let me, um...
+
+16
+00:01:13,047 --> 00:01:14,571
+help.
+
+17
+00:01:20,555 --> 00:01:21,783
+Who says chivalry is dead?
+
+18
+00:01:27,495 --> 00:01:30,259
+Good work.
+I knew there was a reason I brought you.
+
+19
+00:01:30,431 --> 00:01:32,331
+Outside of the obvious, of course.
+
+20
+00:01:42,577 --> 00:01:44,204
+- Hmm.
+- That's the computer...
+
+21
+00:01:44,378 --> 00:01:45,572
+with the Agent X files?
+
+22
+00:01:46,414 --> 00:01:47,847
+No, it's a tracker.
+
+23
+00:01:48,516 --> 00:01:50,347
+Somebody must be using
+the computer.
+
+24
+00:01:51,118 --> 00:01:53,780
+But it looks as if the CIA
+is keeping tabs.
+
+25
+00:01:53,955 --> 00:01:57,584
+Locate this signal and we'll have
+exactly what Miss Volkoff wants.
+
+26
+00:01:58,159 --> 00:02:02,095
+This was too easy. Have to imagine
+the CIA's being way more careful...
+
+27
+00:02:02,263 --> 00:02:04,356
+with the actual computer.
+
+28
+00:02:05,733 --> 00:02:09,225
+Oh, shoot. Ellie, come on.
+
+29
+00:02:10,738 --> 00:02:13,400
+Babe, doing last-minute prep
+for Chuck's bachelor party.
+
+30
+00:02:13,574 --> 00:02:16,441
+- Give me a little sunscreen pre-coat?
+- Sure.
+
+31
+00:02:16,611 --> 00:02:19,808
+Make sure you lube up the lats.
+It's gonna be sunny in Vegas.
+
+32
+00:02:22,083 --> 00:02:23,345
+What's with the old house?
+
+33
+00:02:23,851 --> 00:02:25,944
+I figured out a cyclomatic complexity...
+
+34
+00:02:26,120 --> 00:02:29,817
+that ran through the conditionals
+in my dad's research. End of the loop.
+
+35
+00:02:29,991 --> 00:02:33,392
+- Awesome.
+- All paths seem to end at that photo.
+
+36
+00:02:33,561 --> 00:02:36,689
+Why would my dad want me
+to have this picture of an old house?
+
+37
+00:02:36,864 --> 00:02:39,958
+Aren't you supposed to be getting ready
+for Sarah's party?
+
+38
+00:02:40,134 --> 00:02:44,332
+Clara's already at your parents' house,
+I am all packed for our girls' day trip.
+
+39
+00:02:44,505 --> 00:02:46,939
+I'll turn it off
+as soon as the festivities begin.
+
+40
+00:02:47,108 --> 00:02:48,166
+- Okay?
+- Fair enough.
+
+41
+00:02:48,342 --> 00:02:52,574
+Gonna finish packing for the dude trip.
+Vegas, baby. Vegas.
+
+42
+00:03:08,095 --> 00:03:10,655
+I got a fat stack burning a hole
+in my crotch.
+
+43
+00:03:12,133 --> 00:03:14,067
+- I don't think that's...
+- It's burning.
+
+44
+00:03:15,202 --> 00:03:17,602
+No idea.
+I put Awesome in charge of everything.
+
+45
+00:03:17,772 --> 00:03:19,865
+Apparently, he's the Vegas expert.
+
+46
+00:03:20,041 --> 00:03:21,099
+- Nice.
+- Yeah.
+
+47
+00:03:21,275 --> 00:03:24,210
+- You, Casey? Any casino preferences?
+- No. Forget the casinos.
+
+48
+00:03:24,378 --> 00:03:28,246
+The gun ranges.
+Brought some of my fancy targets.
+
+49
+00:03:29,016 --> 00:03:31,109
+I got some bad news.
+See you guys on Monday.
+
+50
+00:03:31,285 --> 00:03:33,378
+Whoa, whoa, whoa, hey.
+Hang on, Big Michael.
+
+51
+00:03:33,554 --> 00:03:36,751
+- You're not coming?
+- Bologna Grimes says I couldn't go.
+
+52
+00:03:36,924 --> 00:03:40,690
+Knows I tapped Vegas dry back when
+I was with Earth, Wind, Fire and Rain.
+
+53
+00:03:40,861 --> 00:03:43,728
+Want me to call this Baloney lady,
+give her the what for?
+
+54
+00:03:43,898 --> 00:03:47,095
+No. Once Bologna's made a decision
+there's no going back on it.
+
+55
+00:03:48,669 --> 00:03:49,727
+You guys enjoy.
+
+56
+00:03:54,375 --> 00:03:55,672
+No.
+
+57
+00:03:55,843 --> 00:03:58,175
+No, no, no.
+Hold on a second, hold on a second.
+
+58
+00:03:58,346 --> 00:04:01,543
+You are my future stepfather.
+This will not stand.
+
+59
+00:04:01,716 --> 00:04:03,843
+Now, come on. We're men.
+
+60
+00:04:04,018 --> 00:04:05,315
+Men who take what's theirs.
+
+61
+00:04:05,586 --> 00:04:09,545
+You have to march into that house,
+slam your fist on the counter...
+
+62
+00:04:09,724 --> 00:04:14,593
+look at my mother in the eye and say,
+"Bologna, I am so sorry, woman...
+
+63
+00:04:15,930 --> 00:04:19,093
+but I have to work all weekend."
+This way, when she asks me...
+
+64
+00:04:19,266 --> 00:04:21,029
+I'll say, "Yeah, we got all this inventory.
+
+65
+00:04:21,202 --> 00:04:23,796
+- We have to work." Boom. Ha.
+- Boom.
+
+66
+00:04:25,573 --> 00:04:29,566
+That's the greatest thing
+a white person's ever done for me.
+
+67
+00:04:29,744 --> 00:04:30,733
+Oh.
+
+68
+00:04:32,213 --> 00:04:33,840
+Let's go to Vegas.
+
+69
+00:04:34,315 --> 00:04:37,614
+Vegas, Vegas.
+What does a bachelor wear in Vegas?
+
+70
+00:04:37,785 --> 00:04:42,620
+I can't believe you've never been to Vegas.
+A bachelor does not wear that.
+
+71
+00:04:42,790 --> 00:04:46,556
+You're not digging the business-up-top,
+party-below-the-waist thing?
+
+72
+00:04:46,727 --> 00:04:49,628
+It covered all the Vegas activities
+with one fell swoop.
+
+73
+00:04:50,231 --> 00:04:53,962
+Speaking of looks, you're sure doing
+an awful lot of maintenance over there.
+
+74
+00:04:54,135 --> 00:04:56,831
+Reminding you of what you'll be
+missing out on in Vegas.
+
+75
+00:04:57,004 --> 00:04:59,336
+Oh, trust me, I'll remember.
+
+76
+00:05:00,941 --> 00:05:04,001
+- Where's Ellie taking you guys anyway?
+- I'm not sure.
+
+77
+00:05:04,178 --> 00:05:06,669
+Every time I do recon,
+she's on your dad's computer.
+
+78
+00:05:06,847 --> 00:05:08,678
+She spends a lot of time
+on that thing.
+
+79
+00:05:08,849 --> 00:05:12,945
+Yeah, Ellie's always been into puzzles.
+Logic puzzles, Sudoku, crosswords.
+
+80
+00:05:13,120 --> 00:05:17,454
+One of my earliest memories was when
+she solved the 12-sided Rubik's cube...
+
+81
+00:05:17,625 --> 00:05:19,684
+before I even got mine
+out of the box.
+
+82
+00:05:19,860 --> 00:05:21,794
+Have you spoken to Devon yet?
+
+83
+00:05:21,962 --> 00:05:24,692
+Told him that you know
+Ellie is still using the computer?
+
+84
+00:05:24,865 --> 00:05:26,264
+No.
+
+85
+00:05:26,434 --> 00:05:27,992
+Not yet.
+
+86
+00:05:28,335 --> 00:05:30,963
+I'm planning on having
+a good man-to-man talk...
+
+87
+00:05:31,138 --> 00:05:32,605
+as soon as we get to Vegas.
+
+88
+00:05:32,773 --> 00:05:36,470
+It's the perfect place to have
+a sincere, honest, heartfelt conversation.
+
+89
+00:05:37,445 --> 00:05:39,879
+You really have never been to Vegas,
+have you?
+
+90
+00:05:41,048 --> 00:05:42,140
+Awesome!
+
+91
+00:05:43,517 --> 00:05:47,510
+- Let's go, let's go, let's go.
+- Uh... Just a minute, Chuck. Coming.
+
+92
+00:05:49,356 --> 00:05:51,551
+- Hi.
+- Hi.
+
+93
+00:05:51,725 --> 00:05:55,183
+- What's up?
+- I was just... I was reading a book.
+
+94
+00:05:56,163 --> 00:05:57,494
+You don't have to lie to me.
+
+95
+00:05:59,767 --> 00:06:02,930
+You're planning Sarah's bachelorette party.
+We've all got secrets.
+
+96
+00:06:03,103 --> 00:06:05,833
+- Don't we, Awesome?
+- You don't know the half of it, bro.
+
+97
+00:06:06,006 --> 00:06:07,234
+Let me tell you something.
+
+98
+00:06:07,408 --> 00:06:08,500
+This weekend...
+
+99
+00:06:09,276 --> 00:06:10,903
+I'm gonna make a man out of you.
+
+100
+00:06:11,278 --> 00:06:13,940
+- Goody. I can't wait for that.
+- Oh-ho.
+
+101
+00:06:15,015 --> 00:06:18,917
+Okay, well, you guys have fun, be safe.
+And I'm just... I'm gonna do stuff.
+
+102
+00:06:19,086 --> 00:06:21,179
+- Okay.
+- Okay.
+
+103
+00:06:21,889 --> 00:06:22,981
+- Bye.
+- Bye.
+
+104
+00:06:23,157 --> 00:06:24,647
+Bye, bye, bye.
+
+105
+00:06:24,992 --> 00:06:28,223
+We finally have a lock
+on the Orion computer signal.
+
+106
+00:06:30,297 --> 00:06:32,060
+Echo Park, Los Angeles.
+
+107
+00:06:32,233 --> 00:06:34,133
+Perfect. Let's move.
+
+108
+00:06:38,410 --> 00:06:43,510
+Chuck 4x22 - Versus Agent X
+
+109
+00:07:18,430 --> 00:07:21,058
+All right, boys.
+I want you to get ready.
+
+110
+00:07:21,233 --> 00:07:23,861
+Even if you've been before,
+you've never been with me.
+
+111
+00:07:24,036 --> 00:07:26,368
+Thank you so much
+for planning this trip.
+
+112
+00:07:26,538 --> 00:07:28,199
+Dude, you kidding? I live for this.
+
+113
+00:07:28,473 --> 00:07:30,668
+We need to think of this weekend
+like a war.
+
+114
+00:07:31,243 --> 00:07:33,803
+- Now you're talking my language.
+- When we get there...
+
+115
+00:07:33,979 --> 00:07:37,676
+we immediately take over the Strip.
+- High-rolling on the Strip.
+
+116
+00:07:37,849 --> 00:07:40,147
+What the...? Ow, ow.
+
+117
+00:07:40,319 --> 00:07:42,150
+- What are you doing?
+- Making it rain.
+
+118
+00:07:42,321 --> 00:07:44,983
+Canadian style,
+which is, technically, making it snow.
+
+119
+00:07:46,191 --> 00:07:48,489
+Dollar, dollar coins, y'all. Boom!
+
+120
+00:07:48,660 --> 00:07:51,356
+- Save the socialist funny money.
+- And save your energy.
+
+121
+00:07:51,530 --> 00:07:52,997
+Vegas is the land of excess.
+
+122
+00:07:53,332 --> 00:07:56,495
+For those of you who like to chase tail,
+plenty of that too.
+
+123
+00:07:56,668 --> 00:07:58,295
+Rest up, boys.
+
+124
+00:07:58,470 --> 00:08:01,405
+Because we might not sleep again
+for a long time.
+
+125
+00:08:01,573 --> 00:08:02,972
+- All right!
+- Yeah!
+
+126
+00:08:03,141 --> 00:08:04,335
+Hey!
+
+127
+00:08:04,509 --> 00:08:06,909
+Here is to a delightful
+bachelorette weekend.
+
+128
+00:08:07,079 --> 00:08:08,546
+Cheers.
+
+129
+00:08:09,648 --> 00:08:11,809
+So are you gonna let me in
+on the big secret?
+
+130
+00:08:11,984 --> 00:08:14,214
+What have you got planned
+for tomorrow?
+
+131
+00:08:14,419 --> 00:08:17,115
+Okay. We are going to a spa
+in Santa Barbara.
+
+132
+00:08:17,289 --> 00:08:20,349
+And we're not just doing massages,
+we're doing body scrubs too.
+
+133
+00:08:21,026 --> 00:08:25,429
+Wow, that sounds very relaxing.
+
+134
+00:08:25,731 --> 00:08:28,063
+Get ready
+for some hard-core aromatherapy.
+
+135
+00:08:29,801 --> 00:08:30,825
+Ahh.
+
+136
+00:08:36,541 --> 00:08:37,599
+All right, boys.
+
+137
+00:08:37,776 --> 00:08:40,006
+- Let's tear this town a new one.
+- Yeah!
+
+138
+00:08:43,949 --> 00:08:46,144
+- All right.
+- Whoo.
+
+139
+00:08:46,985 --> 00:08:50,682
+- All right.
+- Welcome to Las Vecas, boys. Ha-ha-ha.
+
+140
+00:08:53,058 --> 00:08:56,050
+Devon, what's going on?
+This is not Las Vegas.
+
+141
+00:08:56,228 --> 00:08:57,718
+Las Vecas, buddy. Look.
+
+142
+00:09:02,668 --> 00:09:06,695
+So this whole time,
+you've been saying Las Vecas?
+
+143
+00:09:06,872 --> 00:09:08,772
+Of course.
+What else would I be saying?
+
+144
+00:09:09,107 --> 00:09:11,905
+- Las Vegas?
+- Hold on. I heard you say "city of sin."
+
+145
+00:09:12,077 --> 00:09:15,638
+It is the city of Cinnamon Falls.
+After the famous waterfall.
+
+146
+00:09:15,814 --> 00:09:17,873
+- Locals call it city of Cinn.
+- The Strip?
+
+147
+00:09:18,050 --> 00:09:20,314
+The old mining strip
+next to the campsite.
+
+148
+00:09:20,485 --> 00:09:23,750
+- We were gonna chase tail.
+- Huge yellow-bellied marmot population.
+
+149
+00:09:23,922 --> 00:09:26,823
+- They love being chased.
+- Long as I can set up a gun range.
+
+150
+00:09:26,992 --> 00:09:30,120
+Yeah. Nature's gun range.
+The great outdoors.
+
+151
+00:09:30,295 --> 00:09:32,422
+Hey. You okay, buddy?
+
+152
+00:09:32,597 --> 00:09:35,498
+I know that you were looking forward
+to partying in Vegas.
+
+153
+00:09:35,667 --> 00:09:37,259
+I knew we were going to Vecas.
+
+154
+00:09:37,602 --> 00:09:38,933
+This place is amazing.
+
+155
+00:09:39,104 --> 00:09:41,265
+They grow magic fungus up in them
+there hills.
+
+156
+00:09:41,740 --> 00:09:42,798
+I'm gonna find some.
+
+157
+00:09:42,974 --> 00:09:45,340
+- Maybe chase a little tail.
+- That's the spirit.
+
+158
+00:09:45,510 --> 00:09:47,740
+Yeah. Let's get unpacked.
+
+159
+00:09:47,913 --> 00:09:51,178
+Well, I better go unpack
+and rest up for the big day.
+
+160
+00:09:51,516 --> 00:09:53,609
+Rest up?
+This is your bachelorette party.
+
+161
+00:09:53,785 --> 00:09:56,618
+We have to get you tired
+before you can rest.
+
+162
+00:09:56,788 --> 00:09:58,415
+- Tired?
+- Come on.
+
+163
+00:09:59,324 --> 00:10:01,451
+Surprise!
+
+164
+00:10:03,795 --> 00:10:06,662
+You didn't think I was just gonna
+take you to some lame spa?
+
+165
+00:10:07,999 --> 00:10:11,264
+I tried to call the girls from
+C.A.T. Squad, but they're in Libya.
+
+166
+00:10:11,436 --> 00:10:13,961
+I invited the Wienerlicious girls
+and some friends.
+
+167
+00:10:14,139 --> 00:10:16,107
+Thank you. This is a very nice surprise.
+
+168
+00:10:16,441 --> 00:10:19,774
+It's not gonna be as crazy as Vegas,
+but we'll have a few drinks...
+
+169
+00:10:19,945 --> 00:10:22,675
+see where the night takes us. Okay.
+- Okay.
+
+170
+00:10:31,323 --> 00:10:32,847
+All right, boys.
+
+171
+00:10:33,291 --> 00:10:35,521
+Get ready for the bachelor party hike.
+
+172
+00:10:35,694 --> 00:10:38,458
+I figure we can forage for our supper
+out there.
+
+173
+00:10:39,998 --> 00:10:41,056
+I do not forage.
+
+174
+00:10:41,233 --> 00:10:44,168
+Okay, look, guys,
+I know this isn't exactly Las Vegas...
+
+175
+00:10:44,336 --> 00:10:46,736
+but Awesome worked hard
+putting this together.
+
+176
+00:10:46,905 --> 00:10:48,896
+Admire the man
+for sticking to strategy.
+
+177
+00:10:49,074 --> 00:10:51,668
+- Sure.
+- And a hike sounds pretty invigorating.
+
+178
+00:10:51,843 --> 00:10:54,505
+- I've never hiked in a tie.
+- I know, right? Yeah.
+
+179
+00:10:54,679 --> 00:10:57,648
+Get the blood pumping.
+It could be just as fun as Vegas.
+
+180
+00:10:58,116 --> 00:11:01,552
+Because this weekend is...
+It's about bonding after all, isn't it?
+
+181
+00:11:02,220 --> 00:11:04,245
+No. No, it isn't.
+
+182
+00:11:04,422 --> 00:11:06,822
+Not at all.
+It's about steaks and gambling...
+
+183
+00:11:06,992 --> 00:11:10,393
+getting into weird stuff that might
+haunt you the rest of your life.
+
+184
+00:11:10,595 --> 00:11:15,362
+Amen. Michael, may I have a word
+with you over by that crappy tree?
+
+185
+00:11:16,234 --> 00:11:17,963
+Listen. I have a plan.
+
+186
+00:11:18,136 --> 00:11:19,728
+Don't bother telling me. I'm in.
+
+187
+00:11:19,905 --> 00:11:21,497
+All right.
+
+188
+00:11:21,673 --> 00:11:24,039
+You were the best Wiener girl.
+
+189
+00:11:28,847 --> 00:11:32,578
+Chuck, the secure CIA location has been
+compromised and we need to bring in...
+
+190
+00:11:32,751 --> 00:11:38,519
+the Orion computer immediately.
+Call me, tell me where your sister keeps it.
+
+191
+00:11:39,357 --> 00:11:40,881
+Okay, game time.
+
+192
+00:11:41,059 --> 00:11:43,357
+Let's give our bride-to-be
+a toilet paper dress.
+
+193
+00:11:43,829 --> 00:11:45,729
+Listen, can we please talk? I want...
+
+194
+00:11:46,464 --> 00:11:49,900
+Ellie, wait. We need to talk.
+Okay, no. Ellie, this...
+
+195
+00:11:50,068 --> 00:11:51,126
+This can't wait. My...
+
+196
+00:11:52,370 --> 00:11:55,100
+My employer knows
+about your father's computer...
+
+197
+00:11:55,273 --> 00:11:58,367
+and I have to take it
+to a secure location right now.
+
+198
+00:12:00,712 --> 00:12:01,770
+Why? What happened?
+
+199
+00:12:07,752 --> 00:12:10,050
+The signal is coming
+from a mile up the road.
+
+200
+00:12:13,525 --> 00:12:16,585
+Nothing to be alarmed about.
+The CIA had a breach of security...
+
+201
+00:12:16,761 --> 00:12:19,423
+and your dad's computer
+could be involved.
+
+202
+00:12:19,664 --> 00:12:22,531
+I should've known something like this
+would happen. Sorry.
+
+203
+00:12:22,701 --> 00:12:24,931
+I was accessing a lot of weird stuff.
+
+204
+00:12:25,103 --> 00:12:28,664
+Something about an Agent X
+and an Intersect program. I hid it in here.
+
+205
+00:12:36,581 --> 00:12:39,914
+This isn't my bag. This is Devon's.
+He must have taken it by mistake.
+
+206
+00:12:40,085 --> 00:12:43,646
+It's okay. Nothing to worry about.
+Nobody is in any danger.
+
+207
+00:12:43,822 --> 00:12:44,846
+Okay.
+
+208
+00:12:56,001 --> 00:12:57,525
+Sarah Walker?
+
+209
+00:12:58,503 --> 00:12:59,868
+Lock and load.
+
+210
+00:13:12,417 --> 00:13:15,011
+- Ellie, what do I do?
+- Oh, go, go, go. Ha-ha-ha.
+
+211
+00:13:15,387 --> 00:13:16,945
+Ellie...
+
+212
+00:13:17,889 --> 00:13:19,288
+Oh, okay. Yeah.
+
+213
+00:13:19,457 --> 00:13:21,049
+You mind if I make a phone call?
+
+214
+00:13:21,660 --> 00:13:23,491
+- Ooh.
+- Yeah!
+
+215
+00:13:23,795 --> 00:13:26,195
+Uh... Okay. Um...
+
+216
+00:13:26,364 --> 00:13:28,298
+I'm sorry. I don't mean to look at...
+
+217
+00:13:28,466 --> 00:13:30,627
+I'm sorry. Okay. Um...
+
+218
+00:13:32,237 --> 00:13:36,970
+Ahem. General, I need you to put me in
+touch with our agents in Las Vegas.
+
+219
+00:13:38,310 --> 00:13:40,244
+Ooh. Is that a gun? No.
+
+220
+00:13:50,355 --> 00:13:52,016
+This way.
+
+221
+00:13:52,824 --> 00:13:54,189
+Whew.
+
+222
+00:13:56,661 --> 00:13:57,889
+That's a...
+
+223
+00:13:58,063 --> 00:14:01,965
+- That's a pretty fantastic hike. Thanks.
+- Yeah. I'm glad those other dudes...
+
+224
+00:14:02,133 --> 00:14:05,625
+found some stuff to do.
+Vecas has got a lot for everyone.
+
+225
+00:14:05,804 --> 00:14:08,329
+Right in the ribs. Heh. Uh...
+
+226
+00:14:09,474 --> 00:14:11,442
+Listen, since it's just the two of us...
+
+227
+00:14:11,609 --> 00:14:14,043
+you mind if we talk man-to-man?
+- Sure.
+
+228
+00:14:15,480 --> 00:14:19,576
+I know that you didn't take
+the hard drive out of my dad's computer.
+
+229
+00:14:19,985 --> 00:14:23,284
+Sorry, Chuck. It just made Ellie so happy.
+I couldn't do it to her.
+
+230
+00:14:23,455 --> 00:14:26,447
+I get it. I get that.
+And I'm happy that she's happy.
+
+231
+00:14:26,624 --> 00:14:29,354
+I'm happy that she's continuing
+my father's work.
+
+232
+00:14:29,527 --> 00:14:32,189
+It's just that these secrets, they're...
+
+233
+00:14:32,364 --> 00:14:34,423
+I feel like they're tearing my family apart.
+
+234
+00:14:34,599 --> 00:14:36,226
+Down, down.
+
+235
+00:14:38,370 --> 00:14:39,803
+Kill that light.
+
+236
+00:14:53,051 --> 00:14:54,541
+Ah.
+
+237
+00:14:56,187 --> 00:14:58,747
+Devon, why would you bring that
+to my bachelor party?
+
+238
+00:14:58,923 --> 00:15:02,381
+Oh, no.
+I must've grabbed Ellie's bag.
+
+239
+00:15:02,560 --> 00:15:04,460
+This is the device Miss Volkoff wants.
+
+240
+00:15:04,763 --> 00:15:06,424
+It has all the Agent X files.
+
+241
+00:15:06,931 --> 00:15:07,989
+Vivian Volkoff?
+
+242
+00:15:08,166 --> 00:15:10,896
+We can't let her access
+the information on that computer.
+
+243
+00:15:11,069 --> 00:15:12,627
+Sweep the woods.
+
+244
+00:15:12,804 --> 00:15:14,499
+Leave no witnesses.
+
+245
+00:15:15,073 --> 00:15:16,836
+Hey.
+
+246
+00:15:17,409 --> 00:15:19,434
+You guys here for the bachelor party?
+
+247
+00:15:21,513 --> 00:15:22,673
+Whoa.
+
+248
+00:15:23,314 --> 00:15:24,906
+Awesome brought entertainment.
+
+249
+00:15:34,292 --> 00:15:35,816
+Do you like this?
+
+250
+00:15:35,994 --> 00:15:38,519
+Because I got three more
+where that came from.
+
+251
+00:15:47,072 --> 00:15:50,337
+- They must've tracked the laptop.
+- Who's this Vivian Volkoff?
+
+252
+00:15:50,508 --> 00:15:53,341
+- It's a long story.
+- Pretty easy. It's Chuck's nemesis.
+
+253
+00:15:53,511 --> 00:15:57,208
+He put her old man behind bars,
+she sent an assassin to blow up Castle.
+
+254
+00:15:57,382 --> 00:15:59,441
+What about Agent X?
+
+255
+00:15:59,951 --> 00:16:02,010
+I think I might be Agent X.
+
+256
+00:16:06,624 --> 00:16:09,491
+I am so sorry that I let Ellie touch
+your dad's computer.
+
+257
+00:16:09,661 --> 00:16:12,186
+I'm so sorry I let this guy plan
+your bachelor party.
+
+258
+00:16:12,597 --> 00:16:13,825
+This is so awful.
+
+259
+00:16:13,998 --> 00:16:15,966
+Oh, yeah. Ha-ha-ha.
+
+260
+00:16:18,703 --> 00:16:21,831
+Let's get this party started. Ha-ha-ha.
+
+261
+00:16:23,708 --> 00:16:25,699
+My sentiments exactly.
+
+262
+00:16:29,814 --> 00:16:33,477
+- The CIA cracked the encryption.
+- I'll upload the files to Miss Volkoff.
+
+263
+00:16:33,785 --> 00:16:36,310
+Yeah. But first,
+find out how much he knows.
+
+264
+00:16:36,488 --> 00:16:40,219
+And if he doesn't talk,
+see that he never talks again.
+
+265
+00:16:43,595 --> 00:16:46,723
+- Welcome back.
+- You know why I'm here, don't you?
+
+266
+00:16:46,898 --> 00:16:50,356
+Is it because I've been a bad boy?
+
+267
+00:16:51,669 --> 00:16:53,864
+Ha. What's in the shooter?
+
+268
+00:16:54,038 --> 00:16:55,835
+Sodium pentathol.
+
+269
+00:16:56,007 --> 00:16:58,100
+- Truth serum.
+- Freaky.
+
+270
+00:16:58,276 --> 00:17:00,904
+I don't think that'll mix
+with what I'm on.
+
+271
+00:17:04,883 --> 00:17:08,580
+They're torturing him. Lester and Big Mike
+can wander in any second.
+
+272
+00:17:08,753 --> 00:17:11,244
+- We gotta do something.
+- Yeah. Casey, what's the...?
+
+273
+00:17:22,867 --> 00:17:24,596
+- Who was that?
+- Mercenaries.
+
+274
+00:17:24,769 --> 00:17:26,862
+Ex-Green Berets,
+judging by their tactics.
+
+275
+00:17:27,038 --> 00:17:28,801
+I count three. Including the leader.
+
+276
+00:17:28,973 --> 00:17:31,237
+- Did you see that clean break?
+- I can save him.
+
+277
+00:17:31,409 --> 00:17:35,038
+No, he's dead. And so are we
+unless you three tighten up.
+
+278
+00:17:35,213 --> 00:17:36,339
+What's this?
+
+279
+00:17:36,514 --> 00:17:39,847
+You and Morgan are gonna find
+good strong sticks and start sharpening.
+
+280
+00:17:40,018 --> 00:17:41,781
+Yes, sir. Perfect. Sharpening what?
+
+281
+00:17:43,221 --> 00:17:44,415
+Toothpicks.
+
+282
+00:17:44,589 --> 00:17:47,752
+Spears, idiot. I'll draw the rest of the team
+out into the woods.
+
+283
+00:17:47,926 --> 00:17:50,986
+I'm sorry. You want us to fight
+former Green Berets with spears?
+
+284
+00:17:51,162 --> 00:17:54,131
+Not you. You're gonna go down
+to the camp and spring Jeff.
+
+285
+00:17:54,699 --> 00:17:56,860
+Happy hunting, boys.
+
+286
+00:17:57,702 --> 00:17:58,964
+Happy hunting?
+
+287
+00:18:00,338 --> 00:18:04,035
+Looking, looking, looking. I'm showing the
+nearest casino is in Las Vegas, Nevada.
+
+288
+00:18:04,209 --> 00:18:05,801
+Did you say "Las Vecas"?
+
+289
+00:18:06,010 --> 00:18:08,308
+- I did not.
+- What...? No. We have to stay local.
+
+290
+00:18:08,513 --> 00:18:10,981
+There's gotta be a nightclub, a bar,
+a liquor store...
+
+291
+00:18:11,149 --> 00:18:13,117
+Vegas. Vegas, Vegas, Vegas.
+
+292
+00:18:13,284 --> 00:18:15,684
+- Are you saying "Vecas"?
+- Don't play with me, boy.
+
+293
+00:18:15,853 --> 00:18:19,345
+We are getting the hell out of here.
+This is not what I signed up for.
+
+294
+00:18:19,524 --> 00:18:22,084
+Wait. No. We can't just leave them.
+
+295
+00:18:22,260 --> 00:18:25,161
+- They may die out there.
+- Take the drama down a notch.
+
+296
+00:18:26,464 --> 00:18:27,988
+I only care about Jeff.
+
+297
+00:18:40,945 --> 00:18:42,970
+- Ooh.
+- What? What is it?
+
+298
+00:18:43,147 --> 00:18:45,547
+- A splinter, I think.
+- Let me take a look.
+
+299
+00:18:45,750 --> 00:18:49,186
+There are men trying to kill us.
+I can handle a little splinter...
+
+300
+00:18:49,354 --> 00:18:50,878
+Ooh. It hurts.
+
+301
+00:18:54,959 --> 00:18:56,950
+Morgan, you ever kill a man?
+
+302
+00:18:57,495 --> 00:19:00,987
+Let me tell you something.
+First one? First one's the hardest.
+
+303
+00:19:01,165 --> 00:19:03,395
+- There's no doubt about it.
+- Wow. Really?
+
+304
+00:19:03,568 --> 00:19:06,366
+They don't even give me a gun
+on missions, you kidding me?
+
+305
+00:19:09,207 --> 00:19:11,471
+I'm a doctor.
+I took an oath to preserve lives.
+
+306
+00:19:11,643 --> 00:19:14,476
+What about your own?
+You heard Casey. It's them or it's us.
+
+307
+00:19:14,946 --> 00:19:18,177
+What if we met these guys
+at a bar? We could be frat brothers.
+
+308
+00:19:18,349 --> 00:19:21,443
+Frat brothers. These are mercenaries, dude.
+Drinks? Beers?
+
+309
+00:19:24,589 --> 00:19:27,149
+- Hear something?
+- You're having first-mission jitters.
+
+310
+00:19:27,325 --> 00:19:29,259
+- Not my first mish.
+- It's your first.
+
+311
+00:19:29,427 --> 00:19:31,418
+How are those spears coming?
+
+312
+00:19:32,830 --> 00:19:35,731
+You are lucky we didn't kill you with these.
+They're sharp.
+
+313
+00:19:35,900 --> 00:19:38,994
+I feel so bad
+for those mercenaries right now:
+
+314
+00:19:39,170 --> 00:19:40,831
+You ought to. They're dead.
+
+315
+00:19:41,005 --> 00:19:42,996
+Dead? Well, what are these for?
+
+316
+00:19:43,174 --> 00:19:44,607
+Kept you out of my way.
+
+317
+00:19:57,355 --> 00:19:58,947
+Men, what's your status?
+
+318
+00:20:00,491 --> 00:20:03,585
+Poor baby.
+Looks like you're fresh out of friends.
+
+319
+00:20:03,761 --> 00:20:07,492
+In that case, I'm just gonna have to
+come out there and kill you myself.
+
+320
+00:20:07,665 --> 00:20:10,395
+- The captive's unconscious.
+- Kill him.
+
+321
+00:20:37,228 --> 00:20:40,425
+Ha-ha. You've had knife training.
+Let me give you one final lesson.
+
+322
+00:20:52,243 --> 00:20:53,301
+It's over.
+
+323
+00:20:59,817 --> 00:21:01,114
+It's over.
+
+324
+00:21:12,063 --> 00:21:14,588
+Sorry to interrupt your little lap dance.
+
+325
+00:21:20,104 --> 00:21:21,435
+If anyone is still alive...
+
+326
+00:21:21,939 --> 00:21:24,169
+meet me at the extraction point.
+
+327
+00:21:24,342 --> 00:21:26,503
+- What's going on?
+- Jeff's having a bad trip.
+
+328
+00:21:26,711 --> 00:21:29,612
+- Gotta get out of Vecas.
+- Good thing you came to your senses.
+
+329
+00:21:29,781 --> 00:21:32,409
+- Come on.
+- Best bachelor party ever. Vecas, baby.
+
+330
+00:21:32,583 --> 00:21:33,982
+Yeah.
+
+331
+00:21:43,594 --> 00:21:46,461
+Hey, where have you been?
+Beckman sent a team to Vegas.
+
+332
+00:21:46,631 --> 00:21:50,226
+- They've been looking for you.
+- Yeah. Wrong Vegas.
+
+333
+00:21:50,868 --> 00:21:53,063
+So where's Orion's laptop?
+Beckman thought...
+
+334
+00:21:53,237 --> 00:21:55,831
+Vivian Volkoff sent a team for it.
+Tried to kill us.
+
+335
+00:21:56,007 --> 00:21:58,942
+I've gotta tell Ellie.
+If I didn't grab the wrong bag...
+
+336
+00:21:59,110 --> 00:22:02,170
+you girls would've been ambushed.
+- Ellie deserves to know.
+
+337
+00:22:02,346 --> 00:22:05,804
+I'll tell her. I feel responsible
+that the CIA used her to find Agent X.
+
+338
+00:22:05,983 --> 00:22:07,473
+No, I'll tell her.
+
+339
+00:22:11,189 --> 00:22:13,987
+But then you'll have to tell her the truth
+about you.
+
+340
+00:22:15,393 --> 00:22:16,883
+I know.
+
+341
+00:22:27,138 --> 00:22:29,129
+What are you doing home?
+
+342
+00:22:29,373 --> 00:22:32,831
+Uh... I had to cut the bachelor party short.
+
+343
+00:22:33,010 --> 00:22:35,843
+There's something
+that's been on my mind.
+
+344
+00:22:36,547 --> 00:22:37,878
+What is it?
+
+345
+00:22:39,383 --> 00:22:42,944
+We've always been able
+to tell each other anything, right?
+
+346
+00:22:44,155 --> 00:22:46,248
+Lately, I felt like...
+
+347
+00:22:47,391 --> 00:22:49,552
+- Like there's something in the way.
+- Yes.
+
+348
+00:22:49,727 --> 00:22:52,195
+Our family is so full of secrets.
+
+349
+00:22:52,363 --> 00:22:54,888
+Too many secrets.
+I mean, our parents alone...
+
+350
+00:22:55,066 --> 00:22:58,866
+And I don't think there should be
+any secrets between the two of us.
+
+351
+00:22:59,036 --> 00:23:01,504
+I've been working on something.
+I didn't tell you...
+
+352
+00:23:01,672 --> 00:23:06,041
+I know about Dad's laptop
+and his research. Mom told me.
+
+353
+00:23:06,377 --> 00:23:07,810
+So why are we here?
+
+354
+00:23:12,149 --> 00:23:13,377
+You're still a spy.
+
+355
+00:23:13,551 --> 00:23:16,213
+I had a whole speech
+and you just figured that out.
+
+356
+00:23:16,387 --> 00:23:18,548
+You can't figure that out by yourself.
+
+357
+00:23:18,723 --> 00:23:20,156
+I think I just did.
+
+358
+00:23:21,292 --> 00:23:23,089
+You just Rubik's cubed me, sis.
+
+359
+00:23:25,229 --> 00:23:28,687
+Of course you still work for the CIA.
+Sarah is a spy.
+
+360
+00:23:28,866 --> 00:23:31,596
+You're clearly built for better things
+than the Buy More.
+
+361
+00:23:34,405 --> 00:23:37,863
+- You're not mad?
+- I'm not mad that you did it.
+
+362
+00:23:38,042 --> 00:23:40,806
+I'm mad you didn't tell me.
+I get it. The same reason...
+
+363
+00:23:40,978 --> 00:23:43,742
+I kept Dad's computer a secret
+from you.
+
+364
+00:23:45,316 --> 00:23:49,275
+Us Bartowskis, when we're good
+at something, we just jump right in.
+
+365
+00:23:50,288 --> 00:23:51,755
+No more secrets, though.
+
+366
+00:23:53,925 --> 00:23:55,085
+One more little secret.
+
+367
+00:24:05,603 --> 00:24:07,969
+Wow, look at this place.
+
+368
+00:24:10,708 --> 00:24:13,006
+What are you guarding here
+that's so important?
+
+369
+00:24:14,645 --> 00:24:16,374
+Uh... Well...
+
+370
+00:24:17,248 --> 00:24:18,306
+me.
+
+371
+00:24:19,850 --> 00:24:22,512
+You know that Intersect project
+that Dad was working on?
+
+372
+00:24:23,254 --> 00:24:25,722
+Yeah. I've been trying to figure it out
+for weeks.
+
+373
+00:24:27,158 --> 00:24:28,489
+It's in my head.
+
+374
+00:24:30,261 --> 00:24:32,661
+What? No.
+
+375
+00:24:33,264 --> 00:24:35,698
+Morgan, katana sword, please.
+
+376
+00:24:35,866 --> 00:24:37,629
+Oh, yes. Yes.
+
+377
+00:24:37,802 --> 00:24:39,667
+- Katana?
+- Yeah.
+
+378
+00:24:39,837 --> 00:24:41,964
+- Full speed or half speed?
+- Full speed.
+
+379
+00:24:42,139 --> 00:24:43,902
+Okay. Okay.
+
+380
+00:24:45,576 --> 00:24:47,840
+Banzai!
+
+381
+00:25:17,775 --> 00:25:19,106
+Hai!
+
+382
+00:25:22,279 --> 00:25:25,510
+Sleeveless. It's a bit '80s,
+but I like this look.
+
+383
+00:25:27,852 --> 00:25:28,910
+Pretty cool, right?
+
+384
+00:25:31,422 --> 00:25:33,049
+Our dad was amazing.
+
+385
+00:25:33,491 --> 00:25:35,254
+He did it.
+
+386
+00:25:35,826 --> 00:25:40,263
+He actually figured out a way
+to program the human brain using...
+
+387
+00:25:42,433 --> 00:25:43,559
+What happened?
+
+388
+00:25:44,001 --> 00:25:45,901
+I was gonna use this to find Agent X.
+
+389
+00:25:46,070 --> 00:25:49,506
+You found him. You're looking
+at the first human Intersect. It's me.
+
+390
+00:25:49,674 --> 00:25:52,905
+No. Not unless he gave it to you
+before you were born.
+
+391
+00:25:53,077 --> 00:25:54,977
+November 21st, 1980.
+
+392
+00:25:56,681 --> 00:25:58,478
+There was an Intersect before Chuck?
+
+393
+00:25:58,649 --> 00:26:00,344
+From what I can piece together...
+
+394
+00:26:00,518 --> 00:26:03,954
+Dad used this program to input
+a new identity into an operative.
+
+395
+00:26:04,522 --> 00:26:06,080
+So Agent X could go undercover.
+
+396
+00:26:06,257 --> 00:26:09,454
+But once undercover, something
+went wrong. The program took over.
+
+397
+00:26:09,627 --> 00:26:11,788
+He became his cover identity.
+
+398
+00:26:12,129 --> 00:26:13,960
+Dad must've felt responsible for it...
+
+399
+00:26:14,131 --> 00:26:16,827
+that's why he spent his whole life
+looking for him.
+
+400
+00:26:23,841 --> 00:26:25,809
+Not that that's gonna happen now.
+
+401
+00:26:27,778 --> 00:26:31,612
+Ellie, I haven't spent 10 years
+in the Nerd Herd for nothing.
+
+402
+00:26:31,882 --> 00:26:33,247
+Morgan, get my tools.
+
+403
+00:26:33,417 --> 00:26:35,351
+Yes, sir, of course.
+
+404
+00:26:35,886 --> 00:26:36,944
+What tools?
+
+405
+00:26:37,121 --> 00:26:40,955
+- For fixing computers.
+- Tools for fixing computers, coming up.
+
+406
+00:26:44,962 --> 00:26:47,931
+Well, I might as well get started
+on this inventory.
+
+407
+00:26:48,099 --> 00:26:50,431
+Somehow my cover story
+became the truth.
+
+408
+00:26:54,505 --> 00:26:56,268
+Hold on a second.
+
+409
+00:26:57,441 --> 00:26:59,534
+Let me ask you two a question.
+
+410
+00:27:00,077 --> 00:27:01,135
+Who am I?
+
+411
+00:27:01,946 --> 00:27:03,311
+- You're Big Mike.
+- No.
+
+412
+00:27:03,481 --> 00:27:05,176
+I'm Rain...
+
+413
+00:27:05,483 --> 00:27:08,611
+of Earth, Wind, Fire and Rain.
+
+414
+00:27:09,086 --> 00:27:12,783
+And Rain does not waste
+a free party pass.
+
+415
+00:27:12,957 --> 00:27:14,151
+Neither does Thunder.
+
+416
+00:27:16,327 --> 00:27:19,125
+- Is that name taken?
+- Okay, wait, wait.
+
+417
+00:27:19,296 --> 00:27:21,662
+- Are we gonna go to the real Vegas?
+- No.
+
+418
+00:27:21,832 --> 00:27:23,356
+- Well, then...
+- Me and the boys...
+
+419
+00:27:23,534 --> 00:27:28,062
+had a standing engagement in a city
+that makes Vegas look like the Vatican.
+
+420
+00:27:28,973 --> 00:27:30,804
+What is this mythical place?
+
+421
+00:27:32,676 --> 00:27:33,734
+Go get my Corolla.
+
+422
+00:27:34,044 --> 00:27:36,342
+We're going to The Big Dirty.
+
+423
+00:27:36,514 --> 00:27:37,572
+Reno.
+
+424
+00:28:05,242 --> 00:28:06,834
+Got it.
+
+425
+00:28:07,645 --> 00:28:12,014
+Here are the files. Dad must've collected
+everything there was on Agent X.
+
+426
+00:28:12,183 --> 00:28:14,117
+For what it's worth.
+
+427
+00:28:15,052 --> 00:28:16,849
+His whole file's been redacted.
+
+428
+00:28:17,021 --> 00:28:19,819
+- Except for a name. Hartley.
+- He did leave something else.
+
+429
+00:28:19,990 --> 00:28:23,391
+I have no idea what it means
+or if it's some sort of clue.
+
+430
+00:28:31,802 --> 00:28:35,101
+- Ah. I know where that is.
+- What? How?
+
+431
+00:28:38,609 --> 00:28:40,133
+The Intersect. Incredible.
+
+432
+00:28:41,278 --> 00:28:42,711
+- Yeah.
+- Heh.
+
+433
+00:28:45,583 --> 00:28:46,777
+Ellie, look at that date.
+
+434
+00:28:49,019 --> 00:28:50,748
+A week before Agent X went missing.
+
+435
+00:28:51,055 --> 00:28:53,853
+Maybe took the photo as keepsake
+before his final mission?
+
+436
+00:28:54,024 --> 00:28:56,322
+This place must be special for him.
+Maybe home.
+
+437
+00:28:56,627 --> 00:28:58,219
+Or some kind of safe house.
+
+438
+00:28:59,296 --> 00:29:01,764
+Agent X has been hiding out there
+for 30 years?
+
+439
+00:29:07,037 --> 00:29:08,368
+What's going on?
+
+440
+00:29:08,539 --> 00:29:12,441
+Well, Ellie, we're not the only ones
+trying to find Agent X.
+
+441
+00:29:12,610 --> 00:29:15,943
+The people who put that hole
+in Dad's laptop, they're after him too.
+
+442
+00:29:16,113 --> 00:29:17,171
+I'm coming with you.
+
+443
+00:29:17,348 --> 00:29:20,112
+- What, are you crazy?
+- Baby Clara.
+
+444
+00:29:21,051 --> 00:29:24,885
+- What about you?
+- Don't worry about it. It's what I do.
+
+445
+00:29:33,464 --> 00:29:37,027
+- Hasn't changed in 30 years.
+- Looks like somebody's still living there.
+
+446
+00:29:37,028 --> 00:29:39,519
+If this guy has been hiding
+all these years...
+
+447
+00:29:39,697 --> 00:29:42,461
+he might not take too well
+to being found.
+
+448
+00:29:50,074 --> 00:29:52,770
+Oh, hello. May I help you?
+
+449
+00:29:52,944 --> 00:29:54,707
+Heh. Uh...
+
+450
+00:29:54,879 --> 00:29:58,076
+So sorry to disturb you, ma'am,
+but our car has just broken down.
+
+451
+00:29:58,249 --> 00:29:59,807
+And I was looking in the boot...
+
+452
+00:30:00,084 --> 00:30:01,176
+The bonnet.
+
+453
+00:30:01,352 --> 00:30:03,377
+Long story short we're stranded.
+
+454
+00:30:03,554 --> 00:30:04,953
+Could we please use your phone?
+
+455
+00:30:05,356 --> 00:30:09,292
+Oh, of course. Come in. I'll make
+some tea while you wait for the lorry.
+
+456
+00:30:09,460 --> 00:30:12,020
+- Thank you.
+- That way.
+
+457
+00:30:12,196 --> 00:30:14,061
+Cheers, lovely. Heh.
+
+458
+00:30:19,937 --> 00:30:22,667
+- What's taking her so long?
+- Will you relax, Casey?
+
+459
+00:30:22,840 --> 00:30:24,603
+You don't think
+she's Agent X, do you?
+
+460
+00:30:24,776 --> 00:30:26,243
+I don't know who she is.
+
+461
+00:30:26,410 --> 00:30:28,901
+That old bird could be poisoning our tea
+as we speak.
+
+462
+00:30:29,080 --> 00:30:30,172
+Here we are.
+
+463
+00:30:30,548 --> 00:30:32,846
+Nice cup of tea.
+
+464
+00:30:33,818 --> 00:30:36,616
+Now, get it while it's hot.
+
+465
+00:30:36,888 --> 00:30:38,856
+And this one is for you.
+
+466
+00:30:39,023 --> 00:30:40,581
+Thank you.
+
+467
+00:30:57,942 --> 00:30:59,534
+Delicious, thank you.
+
+468
+00:31:02,213 --> 00:31:03,840
+So where are you all from?
+
+469
+00:31:04,015 --> 00:31:05,539
+Not far from here, actually.
+
+470
+00:31:05,716 --> 00:31:08,913
+I was just showing my fiancé
+the countryside before the wedding.
+
+471
+00:31:09,086 --> 00:31:11,247
+- He's American, of course.
+- Mm.
+
+472
+00:31:11,422 --> 00:31:13,788
+And this handsome young man?
+
+473
+00:31:14,091 --> 00:31:17,583
+He is a hitchhiker we picked up
+on the edge of town.
+
+474
+00:31:17,762 --> 00:31:21,027
+Yeah. He had such a nice face,
+we figured, what the hell?
+
+475
+00:31:21,299 --> 00:31:23,995
+I was just telling my fiancé
+my father had a friend...
+
+476
+00:31:24,168 --> 00:31:26,363
+who lived here, actually.
+- In this house?
+
+477
+00:31:26,537 --> 00:31:27,936
+Oh, how interesting.
+
+478
+00:31:28,105 --> 00:31:31,040
+Yes, I believe his name was Hartley.
+Any relation to you?
+
+479
+00:31:31,209 --> 00:31:33,734
+Oh, no. I'm just an old spinster.
+
+480
+00:31:36,681 --> 00:31:39,275
+But I do know the man
+you're referring to.
+
+481
+00:31:39,450 --> 00:31:40,940
+He was the previous tenant.
+
+482
+00:31:41,118 --> 00:31:43,780
+Bit of a recluse,
+judging by the way he left the place.
+
+483
+00:31:43,955 --> 00:31:45,820
+Oh, do you know what happened
+to him?
+
+484
+00:31:45,990 --> 00:31:47,423
+No, I'm afraid not.
+
+485
+00:31:49,360 --> 00:31:50,759
+Well, thank you for the tea.
+
+486
+00:31:51,195 --> 00:31:53,425
+Maybe we should go
+and wait for the tow truck.
+
+487
+00:31:53,598 --> 00:31:57,432
+But he did leave behind
+a box of personal effects.
+
+488
+00:31:57,702 --> 00:32:01,433
+Oh, I'd forgotten all about it.
+I mean, it has been 30 years.
+
+489
+00:32:01,806 --> 00:32:05,435
+- Oh, well, I'd hate to bother you.
+- No, you're welcome to it.
+
+490
+00:32:05,610 --> 00:32:08,738
+Well, if your fiancé would kindly
+give me a hand.
+
+491
+00:32:09,013 --> 00:32:10,446
+I believe it's a bit heavy.
+
+492
+00:32:10,615 --> 00:32:12,276
+I would love to.
+
+493
+00:32:20,391 --> 00:32:22,689
+Oh, wait here while I grab a torch.
+
+494
+00:32:22,860 --> 00:32:24,828
+Oh, delightful.
+
+495
+00:32:47,051 --> 00:32:48,643
+Tell me who you are
+and what you want with my son.
+
+496
+00:32:48,819 --> 00:32:50,980
+Before you make me go ruin
+my wallpaper.
+
+497
+00:32:51,155 --> 00:32:55,114
+Ma'am, I'm here to help your son.
+I'm here to help Hartley. I'm with the CIA.
+
+498
+00:32:55,293 --> 00:32:58,592
+So you're saying you work
+for the people who took my son?
+
+499
+00:32:58,763 --> 00:32:59,957
+Give me your sidearm.
+
+500
+00:33:00,531 --> 00:33:01,930
+I actually don't carry a gun.
+
+501
+00:33:02,099 --> 00:33:04,567
+Hartley should never have been
+sent undercover.
+
+502
+00:33:04,735 --> 00:33:05,895
+He was a scientist.
+
+503
+00:33:06,070 --> 00:33:08,698
+When the CIA couldn't bring him in,
+they disavowed him.
+
+504
+00:33:09,206 --> 00:33:10,969
+No one lifted a finger.
+
+505
+00:33:11,142 --> 00:33:15,203
+They did, they did. My father, he spent
+his entire career trying to find Hartley.
+
+506
+00:33:18,282 --> 00:33:20,147
+You're Stephen Bartowski's boy?
+
+507
+00:33:22,553 --> 00:33:23,645
+You knew my dad?
+
+508
+00:33:23,821 --> 00:33:25,152
+Of course.
+
+509
+00:33:25,323 --> 00:33:27,416
+He and Hartley were quite close.
+
+510
+00:33:31,028 --> 00:33:32,825
+Are you gonna fix my son?
+
+511
+00:33:42,106 --> 00:33:43,266
+This is the place.
+
+512
+00:33:45,343 --> 00:33:48,369
+Looks like someone beat us to it.
+Move out.
+
+513
+00:33:49,947 --> 00:33:50,936
+Not bad.
+
+514
+00:34:03,728 --> 00:34:06,219
+Great. We're outgunned and outmanned.
+
+515
+00:34:07,598 --> 00:34:10,533
+What are you waiting for, laddie?
+Lay down some fire.
+
+516
+00:34:14,939 --> 00:34:17,840
+- Who are these people?
+- Mercenaries. Must've followed us.
+
+517
+00:34:18,009 --> 00:34:21,274
+They're not after you. They're after
+the same thing you came for.
+
+518
+00:34:21,445 --> 00:34:22,935
+Hartley's spy will.
+
+519
+00:34:27,118 --> 00:34:28,483
+Oh, here.
+
+520
+00:34:28,652 --> 00:34:31,712
+There's a vault in the cellar.
+You'll find the spy will there.
+
+521
+00:34:32,556 --> 00:34:33,784
+Go.
+
+522
+00:34:34,191 --> 00:34:36,921
+Oh, put down that damn peashooter.
+
+523
+00:34:37,094 --> 00:34:39,892
+I've got a real gun in this chest.
+
+524
+00:34:40,064 --> 00:34:44,091
+There. I was prepared
+for something like this.
+
+525
+00:34:44,802 --> 00:34:46,895
+You know how to feed
+one of these things?
+
+526
+00:34:47,104 --> 00:34:49,004
+Please. You're feeding me.
+
+527
+00:34:56,814 --> 00:35:01,183
+Where would you put a spy will? Uh...
+
+528
+00:35:05,256 --> 00:35:07,247
+There go my primroses.
+
+529
+00:35:07,425 --> 00:35:09,086
+Eat lead, you bastards.
+
+530
+00:35:39,924 --> 00:35:41,949
+- There it is.
+- Here we go.
+
+531
+00:35:42,126 --> 00:35:43,616
+Let's go.
+
+532
+00:35:48,999 --> 00:35:50,864
+Eh. We're out. Now what?
+
+533
+00:35:51,202 --> 00:35:53,500
+We'll have to scuttle the house.
+
+534
+00:35:54,305 --> 00:35:56,569
+Go, go, go.
+
+535
+00:36:02,880 --> 00:36:04,347
+Like the mother I never had.
+
+536
+00:36:05,216 --> 00:36:07,013
+Oh, and charming to boot.
+
+537
+00:36:07,284 --> 00:36:11,015
+Come on. Let's go find your team,
+so we can get out the back door.
+
+538
+00:36:21,599 --> 00:36:23,829
+- What's she doing?
+- You don't wanna know.
+
+539
+00:36:26,904 --> 00:36:27,996
+Ready?
+
+540
+00:36:36,213 --> 00:36:37,612
+Oh, no.
+
+541
+00:36:58,369 --> 00:37:01,770
+- Ha-ha.
+- You remind me of my son.
+
+542
+00:37:01,939 --> 00:37:04,999
+He didn't care much for guns either.
+
+543
+00:37:05,643 --> 00:37:10,137
+Whatever it was in this box,
+I hope it's what you're looking for. Ha-ha.
+
+544
+00:37:10,814 --> 00:37:12,304
+I love this woman.
+
+545
+00:37:17,788 --> 00:37:20,052
+Only a few more hours
+till we hit Reno.
+
+546
+00:37:20,224 --> 00:37:23,716
+Reno? More like Reen-yes.
+
+547
+00:37:23,894 --> 00:37:26,727
+Won't know what hit them
+when we pull up in my luxurious...
+
+548
+00:37:26,897 --> 00:37:30,333
+yet practical automobile.
+- Yes, it is practical.
+
+549
+00:37:32,002 --> 00:37:33,333
+Oh, man, this is my jam.
+
+550
+00:37:33,904 --> 00:37:35,462
+- This yours?
+- Whoo!
+
+551
+00:37:35,739 --> 00:37:37,138
+Reno, here we come.
+
+552
+00:37:37,308 --> 00:37:41,574
+Who's that lady
+Coming down the road
+
+553
+00:37:41,745 --> 00:37:46,682
+Who's that lady
+I'll be your non-stop lover
+
+554
+00:37:46,850 --> 00:37:51,116
+Get it while you can
+Your non-stop miracle
+
+555
+00:37:51,288 --> 00:37:53,483
+I'm your man
+
+556
+00:37:53,657 --> 00:37:57,423
+Get outta my dreams
+
+557
+00:37:57,595 --> 00:38:01,691
+- Get into my car
+- Get into my car
+
+558
+00:38:01,865 --> 00:38:05,631
+Get outta my dreams
+Get in the back seat, baby
+
+559
+00:38:05,803 --> 00:38:08,897
+- Get into my car
+- Beep, beep, yeah
+
+560
+00:38:09,873 --> 00:38:12,706
+Get outta my mind
+
+561
+00:38:13,077 --> 00:38:16,274
+- We're here.
+- Really? Whoo! Whoo!
+
+562
+00:38:16,447 --> 00:38:18,938
+- Yeah.
+- Whoo! Whoo!
+
+563
+00:38:25,990 --> 00:38:29,426
+- Jeffrey, this isn't Reno.
+- Um, yeah, it is.
+
+564
+00:38:33,097 --> 00:38:35,065
+- Good Lord.
+- Ugh.
+
+565
+00:38:35,232 --> 00:38:36,893
+I can't believe this is happening.
+
+566
+00:38:37,067 --> 00:38:38,932
+- You're welcome.
+- Aah!
+
+567
+00:38:39,803 --> 00:38:42,636
+No, no, no. I blame you, Michael.
+
+568
+00:38:42,806 --> 00:38:43,898
+Wait.
+
+569
+00:38:44,074 --> 00:38:46,201
+Stop killing. Stop the killing.
+
+570
+00:38:48,879 --> 00:38:50,141
+What's that over yonder?
+
+571
+00:38:54,351 --> 00:38:56,251
+Boys, we're here.
+
+572
+00:38:56,687 --> 00:38:58,746
+Let's make it snow.
+
+573
+00:39:03,360 --> 00:39:05,658
+Remember, boys, joker's worth 13.
+
+574
+00:39:12,469 --> 00:39:15,927
+Are we waiting for a code from the CIA
+to open it or something?
+
+575
+00:39:17,508 --> 00:39:19,169
+I was waiting to open it with you.
+
+576
+00:39:21,979 --> 00:39:25,107
+So the identity of Agent X
+is inside that box.
+
+577
+00:39:25,382 --> 00:39:27,247
+Our dad's obsession.
+
+578
+00:39:27,418 --> 00:39:29,409
+The whole reason our family fell apart.
+
+579
+00:40:02,886 --> 00:40:04,217
+What?
+
+580
+00:40:04,421 --> 00:40:06,116
+Volkoff?
+
+581
+00:40:07,024 --> 00:40:09,618
+Agent X is Alexei Volkoff?
+
+582
+00:40:09,827 --> 00:40:13,957
+I know this man. Mom brought him
+to the house for Thanksgiving. He's a spy.
+
+583
+00:40:14,131 --> 00:40:15,393
+No. Not exactly.
+
+584
+00:40:16,266 --> 00:40:19,702
+He's locked up now, but Alexei Volkoff
+is a powerful, evil arms dealer.
+
+585
+00:40:19,870 --> 00:40:23,033
+But he wasn't. That's the thing.
+Volkoff was a cover identity.
+
+586
+00:40:23,207 --> 00:40:26,074
+In reality, he was a scientist
+who didn't like using guns.
+
+587
+00:40:26,243 --> 00:40:27,870
+So Dad's original Intersect...
+
+588
+00:40:28,045 --> 00:40:31,242
+created one of the world's
+most dangerous criminals for the CIA?
+
+589
+00:40:31,415 --> 00:40:32,507
+We should talk to Mom.
+
+590
+00:40:32,683 --> 00:40:35,151
+Maybe she was trying to fix him
+in her own way.
+
+591
+00:40:35,319 --> 00:40:36,547
+We need to call Beckman...
+
+592
+00:40:36,720 --> 00:40:39,587
+see what our next step is.
+- No. We tell no one.
+
+593
+00:40:42,192 --> 00:40:43,921
+Interrogation room. Now.
+
+594
+00:40:46,997 --> 00:40:50,763
+It ends here. We're all gonna pretend
+we never saw this.
+
+595
+00:40:50,934 --> 00:40:53,334
+My dad wanted Chuck and me
+to figure this out.
+
+596
+00:40:53,504 --> 00:40:55,665
+- There must be a reason.
+- The CIA created...
+
+597
+00:40:55,873 --> 00:40:58,307
+one of the most murderous men
+in the world.
+
+598
+00:40:58,475 --> 00:41:01,774
+Powerful people spent an enormous
+amount of energy covering that up.
+
+599
+00:41:01,945 --> 00:41:03,913
+If they find out we know...
+
+600
+00:41:04,081 --> 00:41:07,949
+they order a guy like me to put a bullet
+in each one of our heads.
+
+601
+00:41:12,823 --> 00:41:16,554
+Pretty sure your dad didn't want this
+to end that way.
+
+602
+00:41:21,064 --> 00:41:23,259
+So we're to just sweep this thing
+under the rug?
+
+603
+00:41:24,101 --> 00:41:26,296
+Ellie, we're talking about the CIA.
+
+604
+00:41:26,470 --> 00:41:28,529
+- There are rules.
+- What about Dad?
+
+605
+00:41:28,705 --> 00:41:31,640
+What? What if his plan
+was just to get us to search together?
+
+606
+00:41:31,809 --> 00:41:35,404
+We haven't exactly been the most
+honest siblings the past couple of years.
+
+607
+00:41:39,316 --> 00:41:40,977
+No, we haven't.
+
+608
+00:41:41,151 --> 00:41:44,609
+But this search,
+it made us rely on each other.
+
+609
+00:41:45,322 --> 00:41:48,416
+Be honest, work together.
+
+610
+00:41:50,327 --> 00:41:52,090
+What if that was only half of it?
+
+611
+00:41:52,563 --> 00:41:55,031
+I don't think
+that we're supposed to stop here.
+
+612
+00:41:55,199 --> 00:41:57,394
+I don't think we're supposed
+to find Agent X.
+
+613
+00:41:57,568 --> 00:41:59,968
+We're supposed to fix him.
+
+614
+00:42:03,474 --> 00:42:05,669
+This isn't for the CIA to solve, Chuck.
+
+615
+00:42:08,645 --> 00:42:10,169
+I think this is for us.
+

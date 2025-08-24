@@ -1,0 +1,3545 @@
+﻿1
+00:00:02,127 --> 00:00:03,168
+CHUCK:
+Hi, I'm Chuck.
+
+2
+00:00:03,336 --> 00:00:05,087
+Here are things
+that you might need to know.
+
+3
+00:00:05,255 --> 00:00:07,089
+As the assistant manager
+and your boss...
+
+4
+00:00:07,257 --> 00:00:10,718
+...it's my duty to inform you
+that I've had complaints from customers.
+
+5
+00:00:10,885 --> 00:00:12,594
+General, what exactly is the Cipher?
+
+6
+00:00:12,762 --> 00:00:16,265
+The Cipher is the artificial brain
+for the new Intersect computer.
+
+7
+00:00:16,433 --> 00:00:18,600
+GRAHAM:
+Tomorrow, the new computer will be online.
+
+8
+00:00:18,768 --> 00:00:21,395
+Operation Bartowski
+officially comes to an end.
+
+9
+00:00:21,563 --> 00:00:23,230
+Enjoy the rest of your life, Chuck.
+
+10
+00:00:23,398 --> 00:00:25,274
+You can do anything. I've seen you.
+
+11
+00:00:25,442 --> 00:00:27,276
+Anything you wanted you could have.
+
+12
+00:00:27,444 --> 00:00:29,486
+Do you wanna go on a date sometime?
+
+13
+00:00:29,654 --> 00:00:30,696
+Okay.
+
+14
+00:00:31,031 --> 00:00:33,532
+We have to call off the date.
+The Intersect was destroyed.
+
+15
+00:00:33,700 --> 00:00:35,200
+What? But the Cipher--
+
+16
+00:00:35,368 --> 00:00:37,369
+SARAH:
+It was a Trojan horse, a sabotage device.
+
+17
+00:00:37,537 --> 00:00:39,121
+The moment it came online....
+
+18
+00:00:40,415 --> 00:00:42,124
+You're still the only Intersect.
+
+19
+00:00:47,255 --> 00:00:48,797
+CHUCK:
+I don't get it.
+
+20
+00:00:48,965 --> 00:00:51,216
+This time today,
+I was supposed to be a free man.
+
+21
+00:00:51,384 --> 00:00:53,719
+No more Intersect,
+possibly reclining on a beach...
+
+22
+00:00:53,887 --> 00:00:56,096
+...with a colada
+and some undisclosed companion.
+
+23
+00:00:56,264 --> 00:00:58,140
+-What the hell happened?
+-It's technical.
+
+24
+00:00:58,308 --> 00:01:01,143
+It's a computer malfunction.
+I can help. That's my department.
+
+25
+00:01:01,311 --> 00:01:03,645
+It exploded into a million pieces,
+Graham with it.
+
+26
+00:01:03,813 --> 00:01:05,606
+You wanna help?
+Get some rubber gloves.
+
+27
+00:01:05,774 --> 00:01:07,441
+Wait, wait, wait. Graham is dead?
+
+28
+00:01:07,609 --> 00:01:09,860
+We're playing for keeps here, Chuck.
+
+29
+00:01:10,445 --> 00:01:13,989
+Well, at the risk of sounding callous,
+where does that leave us with the Intersect?
+
+30
+00:01:14,157 --> 00:01:17,951
+I'd get used to working at the Buy More.
+You ain't leaving anytime soon.
+
+31
+00:01:21,164 --> 00:01:23,624
+Gentlemen, females...
+
+32
+00:01:23,792 --> 00:01:25,501
+...as the new assistant manager...
+
+33
+00:01:25,668 --> 00:01:28,837
+...I just want you to know that things
+are gonna run differently here.
+
+34
+00:01:29,005 --> 00:01:31,131
+Because we did our time together
+in the trenches...
+
+35
+00:01:31,299 --> 00:01:34,176
+...I know what screwups most of you are,
+for example, Jeffrey.
+
+36
+00:01:34,344 --> 00:01:37,638
+You spend the hours of 3 and 5
+sleeping in the employee bathroom.
+
+37
+00:01:37,806 --> 00:01:39,264
+Dude, that was our secret.
+
+38
+00:01:40,016 --> 00:01:44,144
+Morgan, no more borrowing company DVDs
+and then just reshrink-wrapping them.
+
+39
+00:01:44,312 --> 00:01:47,189
+What? That's outrageous, man.
+I've never heard such a thing.
+
+40
+00:01:47,357 --> 00:01:49,691
+-I'm insulted that you would--
+-Oh, but-- Oh, no.
+
+41
+00:01:49,859 --> 00:01:52,820
+Oh, okay. Okay, okay, company DVDs
+you're saying, right.
+
+42
+00:01:52,987 --> 00:01:57,199
+Please call me Mr. Patel or boss,
+or for our Latin friend, el jefe.
+
+43
+00:01:57,367 --> 00:01:58,867
+-Questions?
+MORGAN: Uh, Chuck.
+
+44
+00:01:59,035 --> 00:02:01,203
+-When are we offering--?
+-Hey, hey, hey.
+
+45
+00:02:01,371 --> 00:02:03,038
+All questions are address directly to me.
+
+46
+00:02:03,206 --> 00:02:04,456
+-El jefe.
+LESTER: Thank you.
+
+47
+00:02:04,624 --> 00:02:06,458
+When are we offering
+low-interest credit cards?
+
+48
+00:02:06,626 --> 00:02:09,545
+Ah, yes, yes, yes. When are we...?
+
+49
+00:02:09,712 --> 00:02:10,754
+CHUCK: Today.
+-Today.
+
+50
+00:02:10,922 --> 00:02:13,215
+Morgan, get the displays out.
+Any other questions?
+
+51
+00:02:13,383 --> 00:02:14,383
+Good. Dismissed.
+
+52
+00:02:14,551 --> 00:02:16,385
+I can't believe this is my life.
+
+53
+00:02:16,553 --> 00:02:18,804
+Morgan, do you remember a time
+when I had potential?
+
+54
+00:02:18,972 --> 00:02:21,682
+You kidding me?
+Yeah, you were bursting with it.
+
+55
+00:02:21,850 --> 00:02:23,267
+Man, I'm glad that's over with.
+
+56
+00:02:23,434 --> 00:02:24,476
+[CHUCKLES]
+
+57
+00:02:24,644 --> 00:02:25,727
+I'm kidding. Come on.
+
+58
+00:02:25,895 --> 00:02:29,064
+We all know that you're gonna go on
+to do great things, all right? Great things.
+
+59
+00:02:29,232 --> 00:02:30,899
+But until that day, just know...
+
+60
+00:02:31,067 --> 00:02:35,529
+...that no matter how bad your life gets,
+you get to go home to that.
+
+61
+00:03:16,404 --> 00:03:19,781
+Is that, uh, a real kiss or a cover kiss?
+Because I'm confused right now.
+
+62
+00:03:19,949 --> 00:03:23,952
+A we-have-a-national-security-emergency
+and-I-need-to-speak-to-you-privately kiss.
+
+63
+00:03:24,120 --> 00:03:26,246
+I knew I felt something.
+Who's your mama?
+
+64
+00:03:26,915 --> 00:03:27,956
+Hey, I got an idea.
+
+65
+00:03:28,124 --> 00:03:31,710
+Why don't we blow off this whole thing
+and go to Mexico for a couple of days?
+
+66
+00:03:31,878 --> 00:03:34,963
+I'll get the daiquiris
+if the CIA picks up the plane tickets.
+
+67
+00:03:35,131 --> 00:03:37,674
+Chuck, I told you, we can't be together.
+It's unprofessional.
+
+68
+00:03:39,052 --> 00:03:41,970
+Correct me if I'm wrong, but weren't you
+with Bryce Larkin, super spy...
+
+69
+00:03:42,138 --> 00:03:43,388
+...when you were together?
+
+70
+00:03:43,556 --> 00:03:46,433
+Bryce was a spy. You're an asset.
+And my job is to protect you.
+
+71
+00:03:46,601 --> 00:03:48,435
+CHUCK:
+Wait a minute. Why are we in a freezer?
+
+72
+00:03:48,603 --> 00:03:50,479
+All this to protect your toppings?
+
+73
+00:03:52,649 --> 00:03:54,149
+What the...? Hello.
+
+74
+00:03:57,779 --> 00:03:59,488
+This is new. What is this place?
+
+75
+00:03:59,656 --> 00:04:02,241
+The CIA decided to spring for new digs.
+
+76
+00:04:02,408 --> 00:04:04,826
+Finally, a first-rate operation.
+
+77
+00:04:05,411 --> 00:04:07,329
+Wow.
+
+78
+00:04:07,497 --> 00:04:10,040
+Looks expensive.
+
+79
+00:04:10,208 --> 00:04:12,292
+You guys are planning
+on staying for a while?
+
+80
+00:04:12,460 --> 00:04:16,088
+-That depends on you, Chuck.
+-How does it depend on me?
+
+81
+00:04:16,256 --> 00:04:19,341
+BECKMAN [OVER MONITOR]: Colt fed us
+a Trojan horse that blew up the Intersect.
+
+82
+00:04:19,509 --> 00:04:20,968
+The real Cipher is still out there.
+
+83
+00:04:21,135 --> 00:04:23,470
+Our intel tells us
+it may be in the possession...
+
+84
+00:04:23,638 --> 00:04:26,223
+...of the former KGB operative,
+Sasha Banacheck.
+
+85
+00:04:26,391 --> 00:04:28,433
+We believe she's in town to sell it.
+
+86
+00:04:28,601 --> 00:04:30,519
+So why don't we grab her and find out?
+
+87
+00:04:30,687 --> 00:04:33,355
+Sasha Banacheck was in a Bulgarian prison
+for seven years.
+
+88
+00:04:33,523 --> 00:04:34,815
+They got nothing out of her.
+
+89
+00:04:34,983 --> 00:04:37,442
+The good news is,
+one agent was able to get close.
+
+90
+00:04:37,610 --> 00:04:39,152
+He's the reason she went away.
+
+91
+00:04:39,320 --> 00:04:41,446
+And he knows more about her
+than anyone alive.
+
+92
+00:04:41,614 --> 00:04:43,865
+That agent is Roan Montgomery.
+
+93
+00:04:44,033 --> 00:04:46,868
+Crap. The guy hates me.
+
+94
+00:04:47,036 --> 00:04:49,871
+My supervisor in operative training.
+Flunked me twice.
+
+95
+00:04:50,039 --> 00:04:53,625
+He's off the grid now. Use the Intersect
+to find Agent Montgomery.
+
+96
+00:04:53,793 --> 00:04:54,876
+All right.
+
+97
+00:04:55,044 --> 00:04:57,504
+Guys, sounds like a blast, really.
+
+98
+00:04:57,672 --> 00:04:59,923
+Uh, but you can count me out
+on this one.
+
+99
+00:05:00,091 --> 00:05:03,552
+No more dangling me off buildings.
+No more guns being pointed at my head.
+
+100
+00:05:03,720 --> 00:05:05,304
+No more putting my life in danger.
+
+101
+00:05:05,471 --> 00:05:09,891
+I am going back to my peaceful, quiet,
+albeit degrading life at the Buy More.
+
+102
+00:05:10,059 --> 00:05:11,310
+So have fun on the mission.
+
+103
+00:05:11,477 --> 00:05:14,688
+And really love what you've done
+with the place.
+
+104
+00:05:14,856 --> 00:05:17,065
+Is there a problem with the asset?
+
+105
+00:05:17,233 --> 00:05:20,861
+No problem, general.
+I have the situation under control.
+
+106
+00:05:21,029 --> 00:05:22,237
+Chuck, wait.
+
+107
+00:05:22,405 --> 00:05:23,905
+-Chuck, wait.
+-Sarah, look.
+
+108
+00:05:24,073 --> 00:05:25,907
+You're right, okay? I'm not a real spy.
+
+109
+00:05:26,075 --> 00:05:28,201
+I'm not cut out
+for this adrenaline pumping...
+
+110
+00:05:28,369 --> 00:05:32,080
+-...risk-life-and-limb daily existence.
+-The sooner we get the Cipher...
+
+111
+00:05:32,248 --> 00:05:34,499
+...the sooner you can have
+the Intersect removed.
+
+112
+00:05:34,667 --> 00:05:38,503
+You can be free to live whatever life
+you choose with whomever you choose.
+
+113
+00:05:39,088 --> 00:05:40,672
+What are you saying?
+
+114
+00:05:40,840 --> 00:05:45,802
+I'm saying that you can have
+everything that you've always wanted.
+
+115
+00:05:47,555 --> 00:05:48,722
+Let me see the file.
+
+116
+00:06:02,945 --> 00:06:03,987
+Wow. Okay.
+
+117
+00:06:04,155 --> 00:06:07,074
+Uh, the guy lives in Palm Springs
+and he's got a lot of lady friends.
+
+118
+00:06:10,495 --> 00:06:12,829
+So, what's the deal with this Roan guy?
+
+119
+00:06:12,997 --> 00:06:15,374
+He's a legend in the department.
+An incredible spy.
+
+120
+00:06:15,541 --> 00:06:18,293
+-Real old-school James Bond type.
+-Overrated, if you ask me.
+
+121
+00:06:18,461 --> 00:06:19,961
+What was the class that you failed?
+
+122
+00:06:20,129 --> 00:06:22,255
+Infiltration and Inducement
+of Enemy Personnel.
+
+123
+00:06:22,423 --> 00:06:24,758
+Yeah, at the academy,
+we call it seduction school.
+
+124
+00:06:24,926 --> 00:06:26,718
+Yeah, like I need a class.
+
+125
+00:06:27,345 --> 00:06:29,763
+Wait, someone's already been here.
+
+126
+00:06:35,395 --> 00:06:37,437
+SARAH:
+Yeah, and they ransacked the place.
+
+127
+00:06:43,986 --> 00:06:46,446
+Oh, my God.
+Oh, um, maybe I should wait in the car.
+
+128
+00:06:46,614 --> 00:06:48,657
+I'm having nightmares
+about the last few dead bodies.
+
+129
+00:06:48,825 --> 00:06:49,866
+[CHUCK GASPS]
+
+130
+00:06:50,034 --> 00:06:51,493
+[SNORING]
+
+131
+00:06:51,661 --> 00:06:52,661
+[TOILET FLUSHING]
+
+132
+00:06:52,829 --> 00:06:54,329
+WOMAN: I've got a flight to catch.
+-Oh.
+
+133
+00:06:54,497 --> 00:06:56,164
+[GASPS]
+
+134
+00:06:59,836 --> 00:07:02,003
+CHUCK:
+This is the guy that's supposed to help us?
+
+135
+00:07:03,005 --> 00:07:04,673
+I'm gonna be the Intersect forever.
+
+136
+00:07:48,885 --> 00:07:51,219
+DEVON:
+Good morning, sunshine.
+
+137
+00:07:52,013 --> 00:07:54,055
+What do you say we hit the shower
+for a quickie?
+
+138
+00:07:54,223 --> 00:07:56,725
+-Mm-hm.
+-Sorry, Chuck.
+
+139
+00:07:56,893 --> 00:07:59,811
+You know what, it would be nice
+if we had some romance on occasion.
+
+140
+00:07:59,979 --> 00:08:01,521
+I've got a good 42 minutes...
+
+141
+00:08:01,689 --> 00:08:04,691
+...before I have to perform
+an emergency endotracheal intubation.
+
+142
+00:08:04,859 --> 00:08:06,109
+ELLIE:
+Ha, ha, that's very funny.
+
+143
+00:08:06,277 --> 00:08:09,905
+Do you realize that you have not taken me
+on one date since we've been engaged?
+
+144
+00:08:10,072 --> 00:08:11,239
+Took you out last week.
+
+145
+00:08:11,407 --> 00:08:13,783
+To Arby's
+with Chuck and his little bearded friend.
+
+146
+00:08:13,951 --> 00:08:16,244
+It's not exactly every girl's dream.
+No offense, Chuck.
+
+147
+00:08:16,412 --> 00:08:17,412
+None taken.
+
+148
+00:08:17,580 --> 00:08:19,831
+I guess I have been remiss
+in the romance department.
+
+149
+00:08:19,999 --> 00:08:22,209
+What we need to be
+is more like Chuck and Sarah.
+
+150
+00:08:22,376 --> 00:08:24,920
+-Excuse me?
+-Every time you see her, your eyes light up.
+
+151
+00:08:25,087 --> 00:08:26,713
+How do you keep that spark alive?
+
+152
+00:08:27,173 --> 00:08:29,424
+[STAMMERING] I don't think
+I should be getting involved--
+
+153
+00:08:29,592 --> 00:08:30,759
+What's the secret, bro?
+
+154
+00:08:30,927 --> 00:08:33,678
+We kind of just--
+We pretend like we're not really dating.
+
+155
+00:08:33,846 --> 00:08:34,930
+Which is weird, I know.
+
+156
+00:08:35,097 --> 00:08:38,517
+But it forces me to have to win her over
+again and again.
+
+157
+00:08:38,768 --> 00:08:40,268
+Aw.
+
+158
+00:08:40,520 --> 00:08:42,812
+-And again.
+-That is so sweet.
+
+159
+00:08:42,980 --> 00:08:47,275
+Honey, see, all I'm talking about
+is simply an evening of wining and dining.
+
+160
+00:08:47,443 --> 00:08:49,903
+I hear you, babe. Mission accepted.
+
+161
+00:08:50,404 --> 00:08:51,863
+The mission is the Cipher.
+
+162
+00:08:52,031 --> 00:08:55,116
+The brains of the Intercept,
+the most important piece.
+
+163
+00:08:55,284 --> 00:08:58,620
+If Sasha Banacheck has a Cipher,
+we've got 24 hours before she unloads it.
+
+164
+00:08:58,788 --> 00:09:00,830
+What's wrong?
+Did you find Agent Montgomery?
+
+165
+00:09:00,998 --> 00:09:05,293
+We did. It's just he's having
+a bit of trouble remaining upright.
+
+166
+00:09:13,636 --> 00:09:16,596
+We tried everything: water, aspirin.
+The guy's out.
+
+167
+00:09:18,140 --> 00:09:20,308
+If we want Sasha Banacheck,
+it's up to us.
+
+168
+00:09:20,476 --> 00:09:23,478
+ROAN:
+G-man, G-man, G-man. Hello, Giorgio.
+
+169
+00:09:26,440 --> 00:09:27,482
+Thanks, Casey.
+
+170
+00:09:27,650 --> 00:09:29,651
+I suggest going old school.
+Torture it out of her.
+
+171
+00:09:29,819 --> 00:09:30,986
+ROAN:
+Torture will never work.
+
+172
+00:09:41,080 --> 00:09:42,247
+Hello, Diane.
+
+173
+00:09:43,332 --> 00:09:45,125
+Hello, Roan.
+
+174
+00:09:46,002 --> 00:09:49,004
+The only way to get Sasha Banacheck
+is to seduce her.
+
+175
+00:09:49,338 --> 00:09:50,505
+Well, duty calls.
+
+176
+00:09:50,673 --> 00:09:53,341
+Not you, Agent Frankenstein,
+she'll peg you as CIA.
+
+177
+00:09:53,509 --> 00:09:55,176
+We need somebody innocuous...
+
+178
+00:09:55,344 --> 00:09:57,887
+...someone with whom
+she can let her guard down.
+
+179
+00:09:58,055 --> 00:10:01,850
+Essentially, the last person in the world
+she'd ever suspect of being an agent.
+
+180
+00:10:03,019 --> 00:10:06,271
+Charles, I'd like to have these
+Nerd Herd invoices logged today.
+
+181
+00:10:06,439 --> 00:10:08,356
+Uh, Lester, these are all from your jobs.
+
+182
+00:10:08,524 --> 00:10:11,318
+Correct. During your brief tenure
+as the assistant manager...
+
+183
+00:10:11,485 --> 00:10:13,194
+...you should've had me deal with it.
+
+184
+00:10:13,362 --> 00:10:15,071
+Now I have to clean up your mess.
+
+185
+00:10:15,239 --> 00:10:17,657
+Come on, brother.
+Time for you to show me something.
+
+186
+00:10:19,535 --> 00:10:22,203
+Let's go, lover boy.
+I need your services in a romantic capacity.
+
+187
+00:10:22,371 --> 00:10:25,081
+Oh, I'm flattered.
+I just hope Sarah's involved.
+
+188
+00:10:25,249 --> 00:10:27,876
+So your date tonight
+will be with Sasha Banacheck.
+
+189
+00:10:28,044 --> 00:10:29,210
+I'm sorry, what?
+
+190
+00:10:29,378 --> 00:10:32,047
+Previously-tortured-in-a-Bulgarian-prison
+Sasha Banacheck?
+
+191
+00:10:32,214 --> 00:10:34,007
+Casey and I will be there for cover.
+
+192
+00:10:34,175 --> 00:10:37,052
+Just approach her at the bar
+and get her to invite you up...
+
+193
+00:10:37,219 --> 00:10:39,220
+...and see if you flash on anything
+in her room.
+
+194
+00:10:39,388 --> 00:10:41,514
+One small problem.
+Why is she gonna choose me?
+
+195
+00:10:41,682 --> 00:10:44,684
+ROAN: Because you're not going to be you,
+you're going to be me.
+
+196
+00:10:46,479 --> 00:10:48,897
+I'll teach you
+everything you need to know.
+
+197
+00:10:49,065 --> 00:10:51,483
+First, the proper way to drink a martini.
+
+198
+00:10:51,651 --> 00:10:55,403
+Hold by stem. Nod to mark.
+
+199
+00:10:57,031 --> 00:10:59,532
+Slowly tilt back.
+
+200
+00:11:03,037 --> 00:11:06,414
+A moment to learn, a lifetime to perfect.
+
+201
+00:11:06,582 --> 00:11:08,416
+Let's get to work.
+
+202
+00:11:09,210 --> 00:11:10,251
+CHUCK:
+Whoa.
+
+203
+00:11:10,419 --> 00:11:13,672
+-Come on.
+-His liver must look like camouflage.
+
+204
+00:11:17,551 --> 00:11:19,094
+Hey, Morgan, you seen Chuck?
+
+205
+00:11:19,261 --> 00:11:21,096
+He, uh, left early. Why? What's up?
+
+206
+00:11:21,263 --> 00:11:23,515
+I wanna see if he can
+make himself scarce tonight.
+
+207
+00:11:23,683 --> 00:11:26,393
+Planning a romantic evening
+with my lady.
+
+208
+00:11:26,560 --> 00:11:29,354
+Really? Check you out, you big softie.
+
+209
+00:11:29,522 --> 00:11:31,940
+What's on the agenda,
+if I may be so bold?
+
+210
+00:11:32,108 --> 00:11:36,653
+Not sure. I may pick up some flowers,
+some candles, vino.
+
+211
+00:11:36,821 --> 00:11:39,280
+-Feed each other some jumbo shrimp.
+-Oh.
+
+212
+00:11:39,448 --> 00:11:40,448
+[CHUCKLES]
+
+213
+00:11:40,616 --> 00:11:42,867
+-You know about Ellie and shrimp, right?
+-No, what?
+
+214
+00:11:43,035 --> 00:11:44,452
+MORGAN:
+Famous Nantucket trip of '92.
+
+215
+00:11:44,620 --> 00:11:46,621
+Spent days curled up
+on a bathroom floor.
+
+216
+00:11:46,789 --> 00:11:49,541
+For years, she couldn't go near a beach
+without vomiting.
+
+217
+00:11:49,709 --> 00:11:51,459
+What else you got?
+
+218
+00:11:51,627 --> 00:11:54,546
+-Her favorite dessert, pecan pie.
+-Okay, she likes pecan pie.
+
+219
+00:11:54,714 --> 00:11:58,633
+Not her stuck-on-a-desert-island
+all-time favorite, but she likes it.
+
+220
+00:11:58,801 --> 00:12:00,885
+Morgan, ha, ha, I know my fiancée.
+
+221
+00:12:01,429 --> 00:12:05,056
+Really? How long have you been in love
+with Ellie for? Three years?
+
+222
+00:12:05,224 --> 00:12:07,142
+DEVON: Give or take.
+-Ha, ha.
+
+223
+00:12:07,309 --> 00:12:09,018
+Take a walk for a second.
+
+224
+00:12:09,186 --> 00:12:12,647
+I have dedicated myself
+to the study of that woman for 19 years.
+
+225
+00:12:12,815 --> 00:12:16,234
+I hate to pull rank here,
+but I think I know Ellie better than you.
+
+226
+00:12:16,402 --> 00:12:19,904
+All right? For example, for example, what
+is Ellie's favorite song of eighth grade?
+
+227
+00:12:20,072 --> 00:12:21,614
+Ha, ha. Why eighth grade?
+
+228
+00:12:21,782 --> 00:12:23,324
+Oh, man, you don't know. That's okay.
+
+229
+00:12:23,492 --> 00:12:26,745
+You came to the right place, all right?
+We are gonna set her off.
+
+230
+00:12:27,621 --> 00:12:29,581
+You're not gonna wear that shirt, right?
+
+231
+00:12:31,834 --> 00:12:35,754
+I need to see what I'm dealing with.
+Assume your partner is the mark.
+
+232
+00:12:35,921 --> 00:12:37,422
+How would you seduce her?
+
+233
+00:12:37,590 --> 00:12:38,923
+That's an excellent question.
+
+234
+00:12:39,091 --> 00:12:43,011
+I would probably start
+with the, uh, bedroom eyes, maybe.
+
+235
+00:12:43,179 --> 00:12:45,680
+You know,
+the old Bartowski eyebrow dance.
+
+236
+00:12:45,848 --> 00:12:47,766
+And come in at you like this, you know.
+
+237
+00:12:47,933 --> 00:12:50,643
+-And then I'd start firing the guns at you.
+-Ha, ha.
+
+238
+00:12:50,811 --> 00:12:53,271
+Don't encourage him.
+This isn't happy hour at Chili's.
+
+239
+00:12:53,439 --> 00:12:54,898
+This is Sasha Banacheck.
+
+240
+00:12:55,065 --> 00:12:56,608
+I don't know. I would probably--
+
+241
+00:12:56,776 --> 00:12:59,903
+You know, I'd be myself
+and I'd try and make her laugh a little bit.
+
+242
+00:13:00,070 --> 00:13:02,113
+Find a common cultural interest. Music.
+
+243
+00:13:02,281 --> 00:13:03,323
+Be yourself?
+
+244
+00:13:03,491 --> 00:13:07,660
+Do you think a woman like this
+could ever fall for a guy like you?
+
+245
+00:13:07,828 --> 00:13:09,037
+CHUCK:
+I don't know.
+
+246
+00:13:09,205 --> 00:13:12,040
+Barring any national security emergency,
+I think I might have a shot.
+
+247
+00:13:12,208 --> 00:13:15,668
+Be reasonable. This is a gorgeous
+and sophisticated woman.
+
+248
+00:13:15,836 --> 00:13:18,129
+-And you're--
+-Passionate and sweet and caring.
+
+249
+00:13:18,297 --> 00:13:19,380
+Really?
+
+250
+00:13:19,548 --> 00:13:21,216
+Tall, dark and caring. What a combo.
+
+251
+00:13:21,383 --> 00:13:23,718
+SARAH: I didn't mean it like that.
+He has a lot to offer.
+
+252
+00:13:23,886 --> 00:13:26,471
+Fine. Let me see this caged passion.
+
+253
+00:13:26,639 --> 00:13:27,931
+-Kiss him.
+-Excuse me?
+
+254
+00:13:28,098 --> 00:13:31,726
+I don't think that's necessary
+at this particular juncture right now, Roan.
+
+255
+00:13:31,894 --> 00:13:34,145
+I'm solid as a rock in that department.
+
+256
+00:13:34,313 --> 00:13:37,649
+What's wrong?
+Don't you find Agent Walker attractive?
+
+257
+00:13:37,817 --> 00:13:40,568
+Of course I find her attractive.
+
+258
+00:13:40,736 --> 00:13:43,571
+It's just that I had a burrito earlier,
+and I'm trying to be respectful.
+
+259
+00:13:43,739 --> 00:13:46,574
+While I admire your chivalry,
+if you can't kiss her now...
+
+260
+00:13:46,742 --> 00:13:49,536
+...what makes you think
+you're gonna kiss Sasha Banacheck...
+
+261
+00:13:49,703 --> 00:13:51,538
+...when the entire mission is on the line?
+
+262
+00:13:51,705 --> 00:13:53,414
+-Chuck, it's okay.
+-Really?
+
+263
+00:13:53,582 --> 00:13:55,083
+Yes. Yes.
+
+264
+00:14:03,509 --> 00:14:05,760
+-There.
+-Have you had intercourse before?
+
+265
+00:14:05,928 --> 00:14:07,929
+You know what? You're crazy.
+This is crazy.
+
+266
+00:14:08,097 --> 00:14:09,430
+I don't have to take lessons.
+
+267
+00:14:09,598 --> 00:14:12,100
+Maybe I picked the wrong agent.
+I'll get Agent Casey.
+
+268
+00:14:12,268 --> 00:14:14,269
+-You want me to kiss her?
+-Desperately.
+
+269
+00:14:14,436 --> 00:14:15,728
+Fine.
+
+270
+00:14:27,575 --> 00:14:28,908
+[CHUCK CLEARS THROAT]
+
+271
+00:14:29,076 --> 00:14:30,618
+Bravo.
+
+272
+00:14:30,786 --> 00:14:32,537
+I'd better fix my lipstick. Excuse me.
+
+273
+00:14:32,705 --> 00:14:34,122
+Sure.
+
+274
+00:14:36,250 --> 00:14:38,459
+That wasn't the first time
+that's happened.
+
+275
+00:14:38,627 --> 00:14:40,962
+What? No.
+No, we're totally professional.
+
+276
+00:14:41,130 --> 00:14:43,047
+-We work together.
+-Don't worry, Charles.
+
+277
+00:14:43,215 --> 00:14:47,635
+I'll teach you how to get her too.
+But first, we're gonna need more gin.
+
+278
+00:14:47,803 --> 00:14:49,554
+We're dead.
+
+279
+00:14:57,313 --> 00:14:59,230
+Okay. You make sure his mike works.
+
+280
+00:14:59,398 --> 00:15:01,524
+I'll go load up the weapons.
+
+281
+00:15:01,692 --> 00:15:03,318
+CHUCK:
+Oh, it may not be the steamiest...
+
+282
+00:15:03,485 --> 00:15:07,155
+...but we probably have the strangest
+relationship in Los Angeles.
+
+283
+00:15:07,323 --> 00:15:09,490
+I doubt that. Morgan's still dating, right?
+
+284
+00:15:10,326 --> 00:15:11,910
+Good point.
+
+285
+00:15:12,077 --> 00:15:13,119
+Tonight will be fine.
+
+286
+00:15:13,287 --> 00:15:15,914
+I wouldn't take Roan's advice
+too seriously. Just be yourself.
+
+287
+00:15:16,081 --> 00:15:18,416
+I doubt Chuck Bartowski's
+gonna be charming anyone.
+
+288
+00:15:18,584 --> 00:15:20,919
+Why not? Worked on me.
+
+289
+00:15:22,171 --> 00:15:23,212
+[FOOTSTEPS APPROACHING]
+
+290
+00:15:23,380 --> 00:15:26,674
+-We need to talk about protection.
+-I don't think it's gonna get that far.
+
+291
+00:15:26,842 --> 00:15:28,509
+I mean a gun.
+
+292
+00:15:28,677 --> 00:15:31,054
+Why do you think she's known
+as the Black Widow?
+
+293
+00:15:31,221 --> 00:15:33,681
+She's African American
+and her husband died.
+
+294
+00:15:33,849 --> 00:15:35,558
+Because she kills all her mates.
+
+295
+00:15:47,363 --> 00:15:49,113
+Big Mike. Hey.
+
+296
+00:15:49,281 --> 00:15:50,865
+Uh, you wanted to see me?
+
+297
+00:15:51,033 --> 00:15:53,284
+First, I'm digging the new vest.
+
+298
+00:15:53,869 --> 00:15:55,119
+Oh, ha, ha, thank you.
+
+299
+00:15:55,287 --> 00:15:58,039
+Next, why aren't
+my credit-card displays out?
+
+300
+00:15:58,207 --> 00:16:02,085
+Yeah, I've told Morgan three times, sir.
+But don't worry, I am on it.
+
+301
+00:16:02,252 --> 00:16:05,713
+-They ain't listening to you.
+-It's just a matter of time, sir.
+
+302
+00:16:05,881 --> 00:16:07,715
+The problem is, they don't fear you.
+
+303
+00:16:07,883 --> 00:16:10,551
+Yeah. Yeah, you're right,
+they don't, they don't.
+
+304
+00:16:10,719 --> 00:16:12,053
+How do I get them to fear me?
+
+305
+00:16:12,221 --> 00:16:15,390
+Don't you watch Animal Planet?
+Find the wounded gazelle and pounce.
+
+306
+00:16:16,558 --> 00:16:17,809
+Thus endeth the lesson.
+
+307
+00:16:33,242 --> 00:16:35,159
+If he survives the night,
+it will be a miracle.
+
+308
+00:16:35,327 --> 00:16:38,329
+SARAH [OVER MIKE]: Shh. He can hear you.
+-Thanks for the vote of confidence.
+
+309
+00:16:38,497 --> 00:16:40,373
+Don't be nervous, Chuck.
+We'll be watching you.
+
+310
+00:16:40,541 --> 00:16:44,085
+I'm gonna walk you through the famous
+four-pronged Montgomery attack.
+
+311
+00:16:44,253 --> 00:16:46,754
+First, work the room.
+
+312
+00:16:56,849 --> 00:16:59,517
+When you enter a room,
+every eye should be upon you.
+
+313
+00:16:59,685 --> 00:17:02,478
+You could leave the bar
+with any woman you desire...
+
+314
+00:17:02,646 --> 00:17:05,773
+...but you have chosen her.
+
+315
+00:17:06,775 --> 00:17:08,109
+Easy, Chuck, you're doing great.
+
+316
+00:17:08,277 --> 00:17:10,862
+Next, she'll need to be well-lubricated.
+
+317
+00:17:11,780 --> 00:17:13,990
+Ice-cold dirty martini.
+
+318
+00:17:14,658 --> 00:17:16,117
+Three olives.
+
+319
+00:17:18,037 --> 00:17:19,078
+[CLEARS THROAT]
+
+320
+00:17:19,246 --> 00:17:21,372
+Excuse me. Is this seat taken?
+
+321
+00:17:21,999 --> 00:17:23,708
+I'll take that as no.
+
+322
+00:17:23,876 --> 00:17:26,127
+Charles Carmichael. And you are?
+
+323
+00:17:26,295 --> 00:17:28,546
+-Bored.
+-Well, maybe I can change that.
+
+324
+00:17:28,714 --> 00:17:30,715
+-Garçon.
+MAN: May I help you?
+
+325
+00:17:30,883 --> 00:17:33,134
+CHUCK: Yes, sir.
+Please, two ice-cold dirty martinis.
+
+326
+00:17:33,302 --> 00:17:34,886
+Three olives. Thank you.
+
+327
+00:17:35,846 --> 00:17:36,888
+SASHA:
+That's very nice.
+
+328
+00:17:37,056 --> 00:17:38,139
+But I no longer drink.
+
+329
+00:17:39,016 --> 00:17:40,475
+Doesn't drink? That's--
+
+330
+00:17:40,642 --> 00:17:44,228
+I'm sorry. How is this boy
+supposed to seduce her without alcohol?
+
+331
+00:17:44,396 --> 00:17:45,980
+Don't worry, Chuck. It'll be fine.
+
+332
+00:17:46,148 --> 00:17:49,400
+I should probably cut back too.
+A lot of calories in those martinis.
+
+333
+00:17:50,027 --> 00:17:53,571
+Enjoy your martinis, Mr. Carmichael.
+
+334
+00:17:53,739 --> 00:17:55,990
+SARAH:
+It's okay. Don't get discouraged.
+
+335
+00:17:56,158 --> 00:17:57,742
+ROAN:
+That was just round one.
+
+336
+00:17:57,910 --> 00:17:59,994
+You're calm, confident, charming.
+
+337
+00:18:00,162 --> 00:18:02,830
+Yeah, apparently not.
+She left after 12 seconds.
+
+338
+00:18:02,998 --> 00:18:05,500
+You're still alive, aren't you?
+That's a victory.
+
+339
+00:18:06,710 --> 00:18:07,877
+Okay, Chuck. Here we go.
+
+340
+00:18:08,337 --> 00:18:10,421
+A woman wants a man to take control.
+
+341
+00:18:10,589 --> 00:18:13,049
+Even though she won't say it,
+she wants to be rescued.
+
+342
+00:18:13,217 --> 00:18:14,842
+Actually, that's not true, Chuck.
+
+343
+00:18:15,010 --> 00:18:17,887
+Some women prefer a man
+who can take a back seat.
+
+344
+00:18:18,472 --> 00:18:21,682
+-I'm talking about the Black Widow.
+-So am I.
+
+345
+00:18:21,850 --> 00:18:23,935
+Maybe he doesn't need
+to pretend to be someone else.
+
+346
+00:18:24,103 --> 00:18:27,188
+I promise you, Chuck Bartowski
+on his own can seduce this woman.
+
+347
+00:18:27,356 --> 00:18:30,191
+I appreciate all of that,
+but can we focus on the mission?
+
+348
+00:18:30,359 --> 00:18:32,360
+Yes, Charles. All right, the third prong.
+
+349
+00:18:32,986 --> 00:18:35,238
+The woman is an absolute Francophile.
+
+350
+00:18:35,405 --> 00:18:38,199
+Just the mention of Saint-Tropez
+makes her woozy.
+
+351
+00:18:41,203 --> 00:18:44,247
+I hate to keep bothering you,
+but you look so familiar.
+
+352
+00:18:44,414 --> 00:18:46,040
+Perhaps we met in Saint-Tropez.
+
+353
+00:18:48,377 --> 00:18:49,627
+At the Intercontinental.
+
+354
+00:18:49,795 --> 00:18:51,963
+At the Intercontinental.
+
+355
+00:18:57,928 --> 00:19:00,888
+Antoine the piano player
+is best in Europe, don't you agree?
+
+356
+00:19:01,056 --> 00:19:05,059
+Oh, I'm a big, big fan of Antoine's.
+Wouldn't miss him for the world.
+
+357
+00:19:05,602 --> 00:19:07,436
+Antoine has been dead for six years.
+
+358
+00:19:08,564 --> 00:19:11,482
+Aw, poor Antoine. That's tragic.
+
+359
+00:19:11,650 --> 00:19:13,651
+That is a shame. No one ever called.
+
+360
+00:19:17,656 --> 00:19:20,074
+But you prefer the new piano player,
+Marcel.
+
+361
+00:19:20,242 --> 00:19:22,493
+For my money, though, I prefer Marcel.
+
+362
+00:19:22,661 --> 00:19:25,663
+Better solos, longer jams,
+just more of an accomplished pianist.
+
+363
+00:19:25,831 --> 00:19:27,123
+But maybe that's just me.
+
+364
+00:19:29,877 --> 00:19:30,918
+I have to agree.
+
+365
+00:19:32,421 --> 00:19:34,755
+Barkeep, a refill for the lady, please.
+
+366
+00:19:38,760 --> 00:19:39,760
+To Antoine.
+
+367
+00:19:41,138 --> 00:19:42,930
+May he rest in peace.
+
+368
+00:19:48,937 --> 00:19:52,273
+Are you prepared for an evening
+of intense seduction?
+
+369
+00:19:52,441 --> 00:19:53,441
+Can't wait.
+
+370
+00:19:53,609 --> 00:19:55,443
+This is very sweet. What did you do?
+
+371
+00:19:55,611 --> 00:19:57,111
+Patience, babe.
+
+372
+00:19:57,279 --> 00:20:00,198
+First, some tunes.
+I'm taking it old school.
+
+373
+00:20:00,365 --> 00:20:03,284
+Does the eighth grade lunchroom
+ring any bells?
+
+374
+00:20:03,452 --> 00:20:05,203
+That's right.
+Richard Marx, Repeat Offender.
+
+375
+00:20:05,370 --> 00:20:06,954
+["RIGHT HERE WAITING"
+PLAYS OVER SPEAKER]
+
+376
+00:20:07,122 --> 00:20:08,706
+-Ha, ha.
+-Okay.
+
+377
+00:20:08,874 --> 00:20:10,958
+Next, a little something
+for the sweet tooth.
+
+378
+00:20:11,126 --> 00:20:12,126
+Your favorite dessert.
+
+379
+00:20:12,294 --> 00:20:15,004
+Seriously, babe,
+what would you do for a Klondike Bar?
+
+380
+00:20:15,172 --> 00:20:18,341
+-I guess we'll find that out later. Ha, ha.
+-Not much.
+
+381
+00:20:18,508 --> 00:20:21,802
+And finally,
+for the evening's entertainment...
+
+382
+00:20:21,970 --> 00:20:24,055
+...your favorite all-time movie.
+
+383
+00:20:24,223 --> 00:20:25,973
+-Casablanca.
+-No.
+
+384
+00:20:26,141 --> 00:20:27,892
+Sister Act.
+
+385
+00:20:29,937 --> 00:20:32,563
+Honey, why,
+out of all the movies in the world...
+
+386
+00:20:32,731 --> 00:20:34,357
+...would SisterAct be my favorite?
+
+387
+00:20:34,524 --> 00:20:37,860
+Morgan said he sat behind you
+in the theater and you were hysterical.
+
+388
+00:20:38,028 --> 00:20:40,238
+I have no recollection of that.
+
+389
+00:20:40,405 --> 00:20:43,532
+You consulted Morgan
+for an evening of intense seduction?
+
+390
+00:20:44,159 --> 00:20:45,868
+Technically, he has known you longer.
+
+391
+00:20:46,036 --> 00:20:47,078
+[CHUCKLES]
+
+392
+00:20:47,246 --> 00:20:48,329
+Okay. You know what?
+
+393
+00:20:48,497 --> 00:20:53,000
+Just for future reference,
+my favorite dessert is pecan pie.
+
+394
+00:20:53,168 --> 00:20:54,835
+Well, that's what I said.
+
+395
+00:20:55,003 --> 00:20:56,254
+Hey, wait, where you going?
+
+396
+00:20:56,421 --> 00:20:58,089
+I have to be up at 5 a.m.
+
+397
+00:20:58,257 --> 00:21:00,508
+-What about our date?
+-Well, why don't you call Morgan?
+
+398
+00:21:00,676 --> 00:21:04,178
+Since evidently you planned
+his favorite evening. Okay?
+
+399
+00:21:06,932 --> 00:21:08,849
+That furry little bastard.
+
+400
+00:21:10,560 --> 00:21:12,853
+So how long have you
+and Charles been cavorting?
+
+401
+00:21:14,231 --> 00:21:16,524
+You mean, how long
+have we been working together?
+
+402
+00:21:16,692 --> 00:21:18,859
+Don't play coy.
+You have feelings for him.
+
+403
+00:21:19,027 --> 00:21:21,195
+I mean, real, non-spy emotions.
+
+404
+00:21:21,363 --> 00:21:24,699
+Don't be ridiculous. What, because
+I'm protective of him as an asset?
+
+405
+00:21:24,866 --> 00:21:26,867
+No. The way you kissed him.
+
+406
+00:21:27,786 --> 00:21:30,538
+-I think you've had too much to drink.
+-No such thing.
+
+407
+00:21:31,707 --> 00:21:32,748
+BOTH:
+Oh.
+
+408
+00:21:32,916 --> 00:21:35,084
+That's real professional.
+Look at what you did.
+
+409
+00:21:35,252 --> 00:21:37,295
+I know. That's expensive gin.
+
+410
+00:21:37,796 --> 00:21:39,547
+[LAUGHS]
+
+411
+00:21:39,715 --> 00:21:40,756
+Itchy ear there.
+
+412
+00:21:40,924 --> 00:21:43,384
+So actually, it was invented
+by, uh, a Hungarian baker...
+
+413
+00:21:43,552 --> 00:21:45,428
+...to commemorate the defeat
+of the Turks.
+
+414
+00:21:45,595 --> 00:21:47,888
+And that is the true history
+behind the croissant.
+
+415
+00:21:48,056 --> 00:21:50,558
+Ha, ha.
+That's just a little pastry trivia for you.
+
+416
+00:21:50,726 --> 00:21:53,853
+You are a fountain of information,
+Mr. Carmichael.
+
+417
+00:21:54,021 --> 00:21:55,396
+-Well....
+-Ha, ha.
+
+418
+00:21:55,647 --> 00:21:58,482
+[SPEAKING IN FRENCH]
+
+419
+00:21:58,650 --> 00:21:59,942
+Mm?
+
+420
+00:22:08,118 --> 00:22:10,161
+[SPEAKING IN FRENCH]
+
+421
+00:22:10,329 --> 00:22:12,246
+And what bands are you into?
+
+422
+00:22:12,748 --> 00:22:15,291
+If you'd just admit I'm right,
+we could move on.
+
+423
+00:22:15,459 --> 00:22:19,420
+Anything you perceived as me
+wanting him to think I like him.
+
+424
+00:22:19,588 --> 00:22:21,547
+I assure you,
+I have no feelings for Chuck.
+
+425
+00:22:21,715 --> 00:22:23,424
+He is just an asset.
+
+426
+00:22:26,636 --> 00:22:28,387
+Okay, we're back up. Can you hear us?
+
+427
+00:22:28,555 --> 00:22:30,639
+Good night, Mr. Carmichael.
+
+428
+00:22:31,600 --> 00:22:33,934
+Mission failed.
+Black Widow's on the move.
+
+429
+00:22:34,102 --> 00:22:35,770
+Great. You know, I hope you're happy.
+
+430
+00:22:35,937 --> 00:22:38,314
+I told you, he's an analyst, not a spy.
+
+431
+00:22:45,655 --> 00:22:48,783
+Way to go, Casanova. You're gonna have
+the Intersect in your head forever.
+
+432
+00:22:48,950 --> 00:22:51,786
+Okay, everybody, let's pack it up.
+
+433
+00:22:52,454 --> 00:22:54,872
+Roan, what is the fourth prong
+of the famous assault?
+
+434
+00:22:55,040 --> 00:22:57,291
+ROAN:
+The mission's over. It's too dangerous.
+
+435
+00:22:57,459 --> 00:22:59,794
+-You're not ready for this.
+-I'm ready. What is it?
+
+436
+00:22:59,961 --> 00:23:01,295
+ROAN:
+Be a bastard.
+
+437
+00:23:01,463 --> 00:23:03,130
+CHUCK:
+When you say "bastard," you mean--?
+
+438
+00:23:03,298 --> 00:23:05,341
+-I mean not you, Chuck.
+CHUCK: All right.
+
+439
+00:23:05,509 --> 00:23:08,511
+ROAN: Sensitive, caring,
+sweet, be everything you're not.
+
+440
+00:23:08,678 --> 00:23:10,054
+Be Carmichael.
+
+441
+00:23:11,973 --> 00:23:12,973
+[SIGHS]
+
+442
+00:23:13,141 --> 00:23:15,142
+-Hey, missy.
+ROAN: Don't call her missy.
+
+443
+00:23:15,310 --> 00:23:17,144
+Yes, Mr. Carmichael?
+
+444
+00:23:17,312 --> 00:23:19,188
+I just wanna tell you you're a fool.
+
+445
+00:23:19,356 --> 00:23:21,816
+-Excuse me?
+-No, I don't think I will.
+
+446
+00:23:21,983 --> 00:23:24,443
+So you're heading up to your room
+to get ready for bed.
+
+447
+00:23:24,611 --> 00:23:26,862
+Floss, creams, maybe watch a little TV.
+
+448
+00:23:27,030 --> 00:23:28,781
+Just before you drift off to sleep...
+
+449
+00:23:28,949 --> 00:23:31,409
+...you're going to have one final,
+terrifying thought.
+
+450
+00:23:31,576 --> 00:23:32,618
+Really? What's that?
+
+451
+00:23:32,786 --> 00:23:36,163
+That you passed up an evening
+with the greatest lover you'll ever know.
+
+452
+00:23:36,331 --> 00:23:37,498
+And who might that be?
+
+453
+00:23:37,666 --> 00:23:39,333
+Oh, you're looking at him, sister.
+
+454
+00:23:39,501 --> 00:23:42,628
+A man trained in the art of seduction,
+who has traveled the world...
+
+455
+00:23:42,796 --> 00:23:44,839
+...sampling women
+of every culture and creed.
+
+456
+00:23:45,006 --> 00:23:47,466
+I will offer one final time
+before boarding my jet...
+
+457
+00:23:47,634 --> 00:23:50,010
+...to an undisclosed rendezvous,
+of which I am already late.
+
+458
+00:23:50,178 --> 00:23:51,387
+Can I buy you a club soda?
+
+459
+00:23:52,597 --> 00:23:53,764
+No, thank you.
+
+460
+00:23:53,932 --> 00:23:55,558
+Okay, I just thought I'd ask. Good night.
+
+461
+00:23:55,725 --> 00:23:58,894
+But you can take me up to my room
+and make mad, passionate sex to me.
+
+462
+00:23:59,062 --> 00:24:00,187
+[ELEVATOR DINGS]
+
+463
+00:24:00,939 --> 00:24:02,940
+I've still got it.
+
+464
+00:24:30,093 --> 00:24:32,303
+SASHA:
+Make yourself a drink, Mr. Carmichael.
+
+465
+00:24:33,054 --> 00:24:35,014
+I'm going to slip into something...
+
+466
+00:24:36,433 --> 00:24:38,017
+...a little bit more comfortable.
+
+467
+00:24:38,185 --> 00:24:40,728
+Yeah, you do that. Take your time, doll.
+
+468
+00:24:40,896 --> 00:24:42,396
+I'll just, uh, be here.
+
+469
+00:24:45,942 --> 00:24:47,401
+Where the hell are you guys?
+
+470
+00:24:47,569 --> 00:24:50,446
+You worked too quick, stallion.
+We didn't have time to set up.
+
+471
+00:24:50,614 --> 00:24:53,782
+It's okay, Chuck. We're on our way.
+Did you flash on anything?
+
+472
+00:25:05,337 --> 00:25:07,880
+Abort mission,
+abort mission, abort mission.
+
+473
+00:25:08,715 --> 00:25:11,091
+Gentlemen. Can you secure this area?
+
+474
+00:25:11,259 --> 00:25:13,636
+Miss Banacheck and I
+are gonna need some privacy.
+
+475
+00:25:13,803 --> 00:25:18,849
+If the hotel room is rocking,
+then we're probably having sex.
+
+476
+00:25:19,518 --> 00:25:20,559
+Get me out of here.
+
+477
+00:25:20,727 --> 00:25:23,187
+Don't worry. Roan Montgomery
+will get you out of this.
+
+478
+00:25:23,355 --> 00:25:27,066
+I've been in worse situations. Did I ever
+tell you about the time in Thailand...
+
+479
+00:25:27,234 --> 00:25:29,944
+...with the king's daughter
+on the palace roof?
+
+480
+00:25:30,111 --> 00:25:32,947
+No, you failed to mention it.
+How do I get out of here right now?
+
+481
+00:25:33,114 --> 00:25:35,491
+I want you to go out on the balcony.
+
+482
+00:25:39,287 --> 00:25:40,287
+Okay, now what?
+
+483
+00:25:40,455 --> 00:25:43,249
+I want you to take a bed sheet,
+tie it around your waist...
+
+484
+00:25:43,416 --> 00:25:46,585
+...climb up on the railing
+and leap off the ledge.
+
+485
+00:25:47,254 --> 00:25:49,380
+Are you out of your mind?
+I'm not a real spy.
+
+486
+00:25:49,548 --> 00:25:50,631
+I don't leap.
+
+487
+00:25:51,550 --> 00:25:52,925
+Oh, there you are.
+
+488
+00:26:01,977 --> 00:26:03,644
+It's a little chilly out there, hmm?
+
+489
+00:26:03,812 --> 00:26:07,189
+No, not at all.
+No, it's quite pleasant tonight.
+
+490
+00:26:07,357 --> 00:26:09,233
+-Mm-hm.
+-Oh.
+
+491
+00:26:09,401 --> 00:26:11,569
+Come on. Why so shy, hmm?
+
+492
+00:26:12,070 --> 00:26:13,487
+Well, uh, um....
+
+493
+00:26:13,655 --> 00:26:17,324
+Uh, well, because we just kind of met
+and kind of seeing someone right now.
+
+494
+00:26:19,828 --> 00:26:21,662
+I'm going to do things to you...
+
+495
+00:26:21,830 --> 00:26:24,290
+...you never, never,
+never dreamed possible.
+
+496
+00:26:24,457 --> 00:26:27,126
+Well, I have a very vivid imagination.
+
+497
+00:26:28,503 --> 00:26:29,503
+Hello, Roan.
+
+498
+00:26:29,671 --> 00:26:32,047
+You shouldn't have sent a boy
+to do a man's job.
+
+499
+00:26:32,215 --> 00:26:33,257
+[GUN COCKS]
+
+500
+00:26:34,342 --> 00:26:35,426
+Get out of there, now.
+
+501
+00:26:35,594 --> 00:26:37,011
+No, no, wait. Why would you--?
+
+502
+00:26:37,178 --> 00:26:40,431
+Oh, my God, that's a huge knife.
+Look, you don't wanna do this.
+
+503
+00:26:40,599 --> 00:26:43,809
+-I'm a young guy.
+SASHA: Don't beg for you life.
+
+504
+00:26:43,977 --> 00:26:45,185
+You have nothing to offer.
+
+505
+00:26:45,353 --> 00:26:47,438
+Well, I have this.
+
+506
+00:26:47,606 --> 00:26:48,647
+[GASPS]
+
+507
+00:26:50,358 --> 00:26:52,818
+Roan, how did Thailand work again?
+
+508
+00:26:52,986 --> 00:26:54,862
+[TIRES SQUEALING]
+
+509
+00:26:55,530 --> 00:26:56,697
+Roan?
+
+510
+00:26:56,865 --> 00:26:58,032
+Roan.
+
+511
+00:26:58,199 --> 00:26:59,658
+[GUN COCKS]
+
+512
+00:26:59,826 --> 00:27:01,535
+-Wow.
+-Happy anniversary, honey.
+
+513
+00:27:02,329 --> 00:27:03,454
+[GRUNTS THEN WOMAN SCREAMS]
+
+514
+00:27:03,622 --> 00:27:05,497
+-Pervert.
+-No.
+
+515
+00:27:06,124 --> 00:27:07,166
+[SCREAMING]
+
+516
+00:27:07,334 --> 00:27:10,377
+To a night of infinite possibilities.
+
+517
+00:27:13,882 --> 00:27:15,716
+Sorry to interrupt. Enjoy your night.
+
+518
+00:27:19,679 --> 00:27:22,181
+Sarah, tell me you saw that.
+Leaped from the balcony.
+
+519
+00:27:22,349 --> 00:27:25,184
+Lands with a flourish.
+The Russian judge gives it a 9.4.
+
+520
+00:27:25,352 --> 00:27:27,728
+By the way,
+I have a little thing called the Cipher.
+
+521
+00:27:27,896 --> 00:27:30,689
+Yes, Mr. Carmichael. I'm very interested.
+
+522
+00:27:32,901 --> 00:27:36,028
+There could be more.
+We need to get out of here.
+
+523
+00:27:36,905 --> 00:27:39,573
+If you ever want to see
+your fellow agents alive again...
+
+524
+00:27:39,741 --> 00:27:41,408
+...meet me tomorrow with the Cipher.
+
+525
+00:27:41,576 --> 00:27:43,744
+6th and Alameda, 10 p.m.
+
+526
+00:27:44,245 --> 00:27:45,704
+Come alone.
+
+527
+00:27:45,872 --> 00:27:48,832
+Roan? Roan?
+
+528
+00:27:50,669 --> 00:27:52,252
+WOMAN 1:
+Why are we here so late?
+
+529
+00:27:52,420 --> 00:27:55,130
+If you're not gonna respect me, hmm...
+
+530
+00:27:55,298 --> 00:27:57,257
+...you will fear me.
+
+531
+00:27:57,425 --> 00:27:59,218
+May I present...
+
+532
+00:28:00,261 --> 00:28:02,930
+...the wheel of misfortune.
+
+533
+00:28:03,098 --> 00:28:06,141
+We had a version of one of these
+in my home when I was growing up.
+
+534
+00:28:06,309 --> 00:28:07,434
+It is very effective.
+
+535
+00:28:07,602 --> 00:28:09,144
+Now, my pretty, pretty staff...
+
+536
+00:28:09,312 --> 00:28:12,439
+...I shall choose one of you
+to christen the wheel.
+
+537
+00:28:13,024 --> 00:28:15,109
+Mr. Grimes.
+
+538
+00:28:17,237 --> 00:28:20,114
+-He's not spinning.
+-Uh, hold on a second, baby.
+
+539
+00:28:20,281 --> 00:28:21,573
+-I'll spin.
+-Mm-hm.
+
+540
+00:28:21,741 --> 00:28:23,659
+I got this.
+
+541
+00:28:32,836 --> 00:28:34,128
+It's all good, guys.
+
+542
+00:28:36,297 --> 00:28:37,631
+Oh.
+
+543
+00:28:38,842 --> 00:28:41,427
+Oh, you've gotta be kidding me.
+That's just my luck.
+
+544
+00:28:41,594 --> 00:28:42,636
+You can't fire him.
+
+545
+00:28:42,804 --> 00:28:44,972
+Anna, it's not me.
+The wheel has spoken.
+
+546
+00:28:45,140 --> 00:28:46,807
+-It's out of my hands.
+-Fine.
+
+547
+00:28:47,267 --> 00:28:49,309
+If he's fired, I quit.
+
+548
+00:28:50,019 --> 00:28:51,812
+WOMAN 2: Yeah.
+-That's your choice, then.
+
+549
+00:28:51,980 --> 00:28:54,106
+-If Anna leaves, I have to follow my heart.
+-What?
+
+550
+00:28:54,274 --> 00:28:56,483
+I told you, you've got no shot.
+
+551
+00:28:56,651 --> 00:28:57,985
+Jeffrey. Jeffrey, stay here.
+
+552
+00:28:58,153 --> 00:29:00,612
+Without Jeff, this place blows.
+
+553
+00:29:00,780 --> 00:29:02,156
+What?
+
+554
+00:29:02,323 --> 00:29:04,241
+Okay, fine, fine. Go.
+
+555
+00:29:04,409 --> 00:29:06,118
+Go! Who needs you?
+
+556
+00:29:06,286 --> 00:29:08,579
+You're all fired. You're all fired.
+
+557
+00:29:08,747 --> 00:29:10,080
+Do I have your attention now?
+
+558
+00:29:10,790 --> 00:29:13,417
+Do I have your attention now?
+
+559
+00:29:18,965 --> 00:29:21,759
+You know, she's going to kill them.
+
+560
+00:29:23,178 --> 00:29:25,012
+I guess I'm just gonna have to take
+my chances.
+
+561
+00:29:25,180 --> 00:29:28,182
+But I can't save them alone.
+I need your help, Roan.
+
+562
+00:29:28,349 --> 00:29:32,019
+They knew what they were getting into.
+That's the game we play.
+
+563
+00:29:33,354 --> 00:29:38,275
+If you show up, there will be
+three dead agents instead of just two.
+
+564
+00:29:38,860 --> 00:29:40,277
+What, so that's it?
+
+565
+00:29:40,445 --> 00:29:43,030
+What happened to being
+the world's greatest spy?
+
+566
+00:29:43,490 --> 00:29:45,491
+That was a long time ago.
+
+567
+00:29:46,868 --> 00:29:51,580
+Roan Montgomery
+is not the man you see before you.
+
+568
+00:29:53,833 --> 00:29:58,629
+My life may be boring and cowardly,
+but I'm alive.
+
+569
+00:29:58,797 --> 00:30:01,131
+That's more than most
+in my line of work can claim.
+
+570
+00:30:01,299 --> 00:30:02,800
+But you're a legend, Roan.
+
+571
+00:30:02,967 --> 00:30:04,635
+Don't you understand that?
+
+572
+00:30:04,803 --> 00:30:07,554
+So how can you just sit there
+and watch them die?
+
+573
+00:30:08,056 --> 00:30:11,892
+Because I'm not in love
+with one of the agents.
+
+574
+00:30:12,769 --> 00:30:14,394
+I'm not....
+
+575
+00:30:15,355 --> 00:30:19,233
+I care about them.
+I care about both of them.
+
+576
+00:30:19,400 --> 00:30:22,903
+Besides, we heard what she said, okay?
+To her, I'm just an asset.
+
+577
+00:30:23,071 --> 00:30:24,738
+No, you're not.
+
+578
+00:30:26,032 --> 00:30:27,074
+Trust me.
+
+579
+00:30:27,242 --> 00:30:30,702
+The lady doth protest too much.
+
+580
+00:30:31,871 --> 00:30:35,082
+But, Charles, you have to ask yourself...
+
+581
+00:30:35,917 --> 00:30:38,502
+...is she worth dying for?
+
+582
+00:30:43,091 --> 00:30:44,716
+Yes.
+
+583
+00:30:45,927 --> 00:30:46,927
+[ROAN SIGHS]
+
+584
+00:30:47,095 --> 00:30:48,595
+Poor boy.
+
+585
+00:30:49,430 --> 00:30:52,432
+Lesson number one on being a spy:
+
+586
+00:30:52,600 --> 00:30:56,562
+Never fall in love.
+
+587
+00:30:57,605 --> 00:31:00,148
+Well, then I guess I'm not much of a spy.
+
+588
+00:31:01,693 --> 00:31:03,902
+And you're not much of a legend.
+
+589
+00:31:06,614 --> 00:31:08,866
+Listen to me.
+I'm trying to reach General Beckman.
+
+590
+00:31:09,033 --> 00:31:10,909
+My name is Chuck Bartowski.
+
+591
+00:31:11,077 --> 00:31:13,078
+I'm not listed? Look, I'm a spy, all right?
+
+592
+00:31:13,246 --> 00:31:14,997
+Try my alias, Charles Carmichael.
+
+593
+00:31:15,164 --> 00:31:19,126
+I'm trying to contact General Beckman.
+I need to speak with her before tonight.
+
+594
+00:31:19,627 --> 00:31:22,963
+Just have General Beckman call me as soon
+as possible, all right? It's an emergency.
+
+595
+00:31:27,010 --> 00:31:28,302
+Morning.
+
+596
+00:31:28,469 --> 00:31:30,262
+Oh, hey, Chuck.
+
+597
+00:31:30,430 --> 00:31:32,973
+-What's going on?
+-Some trouble on the home front.
+
+598
+00:31:33,141 --> 00:31:36,143
+I totally screwed up.
+Went to Morgan for romance advice.
+
+599
+00:31:36,311 --> 00:31:38,353
+Yeah, that's, uh,
+that's never a great policy.
+
+600
+00:31:38,521 --> 00:31:41,315
+No. I've gotta do something
+to make this up to your sis.
+
+601
+00:31:41,482 --> 00:31:44,985
+-What are you thinking about doing?
+-What I should've done last night.
+
+602
+00:31:45,153 --> 00:31:46,945
+Cover this place in rose petals...
+
+603
+00:31:47,113 --> 00:31:50,616
+...roaring fire,
+simple candlelit dinner, pecan pie.
+
+604
+00:31:50,783 --> 00:31:52,451
+Maybe give her a foot massage
+in the tub.
+
+605
+00:31:52,619 --> 00:31:54,953
+That's a natural place, I think,
+to stop giving me details.
+
+606
+00:31:55,121 --> 00:31:57,956
+-So why don't you?
+-Well, when, you know?
+
+607
+00:31:58,124 --> 00:32:01,877
+I've gotta be at work in, like, 20 minutes.
+Got a 5 a.m. call tomorrow.
+
+608
+00:32:02,045 --> 00:32:04,671
+I'll do it. I just hope I'm not too late.
+
+609
+00:32:15,016 --> 00:32:16,642
+-Charles.
+-Where is everybody?
+
+610
+00:32:16,809 --> 00:32:18,602
+-Oh, you mean your coworkers?
+-Sure.
+
+611
+00:32:18,770 --> 00:32:21,521
+We had a little disagreement.
+Some things needed to be done.
+
+612
+00:32:21,689 --> 00:32:23,482
+I fired the majority of the staff.
+
+613
+00:32:23,942 --> 00:32:25,233
+-You what?
+LESTER: Mm-hm.
+
+614
+00:32:25,401 --> 00:32:26,443
+[GROANS]
+
+615
+00:32:26,611 --> 00:32:29,071
+I'm dead. When Big Mike gets here,
+there's no one in the store.
+
+616
+00:32:29,238 --> 00:32:30,822
+He's gonna fire me. Help me, man.
+
+617
+00:32:30,990 --> 00:32:32,658
+-How?
+-Ask them to come back to work.
+
+618
+00:32:32,825 --> 00:32:35,202
+-Why don't you ask them?
+-Then they won't fear me.
+
+619
+00:32:35,370 --> 00:32:37,204
+Michael. So nice to see you, sir.
+
+620
+00:32:37,372 --> 00:32:38,705
+Gentlemen.
+
+621
+00:32:40,083 --> 00:32:42,542
+-Something amiss, Patel?
+-Um, Morgan's on an errand.
+
+622
+00:32:42,710 --> 00:32:44,670
+-Anna's in the stockroom.
+-I mean your vest.
+
+623
+00:32:44,837 --> 00:32:47,089
+Oh, yeah. It's in my locker.
+I was gonna change right now.
+
+624
+00:32:47,256 --> 00:32:50,008
+-And the managers-only doughnuts?
+-They're on your desk, sir.
+
+625
+00:32:50,677 --> 00:32:52,970
+Tight ship you're running, Patel.
+
+626
+00:32:53,137 --> 00:32:54,554
+Gentlemen.
+
+627
+00:32:57,934 --> 00:32:59,226
+Maybe he won't ever notice.
+
+628
+00:32:59,394 --> 00:33:01,853
+Depends on how long it takes him
+to eat a box of doughnuts.
+
+629
+00:33:02,021 --> 00:33:03,063
+[MOUTHING]
+Oh, yeah.
+
+630
+00:33:03,648 --> 00:33:04,690
+Thank you for coming.
+
+631
+00:33:04,857 --> 00:33:11,363
+What I didn't mention last night
+was that everybody gets one practice spin.
+
+632
+00:33:11,531 --> 00:33:15,117
+So in all fairness, I gotta give
+Morgan here another shot, okay?
+
+633
+00:33:15,284 --> 00:33:16,994
+Here we go. Come on now.
+
+634
+00:33:17,161 --> 00:33:18,495
+No one is spinning the wheel.
+
+635
+00:33:18,663 --> 00:33:21,581
+You want us back, you're gonna have
+to make some changes around here.
+
+636
+00:33:21,749 --> 00:33:22,874
+WOMAN:
+Uh-huh.
+
+637
+00:33:25,420 --> 00:33:26,753
+Okay, okay. Ha, ha.
+
+638
+00:33:26,921 --> 00:33:30,549
+Labor negotiations are part
+of the process. Thoughts, musings?
+
+639
+00:33:30,717 --> 00:33:32,718
+-We want two-hour lunch breaks.
+-No way.
+
+640
+00:33:32,885 --> 00:33:34,636
+Okay, okay, okay.
+
+641
+00:33:34,804 --> 00:33:37,139
+Okay, you got it.
+You drive a hard bargain.
+
+642
+00:33:37,306 --> 00:33:39,224
+-Ha, ha, what else?
+-Unlimited bathroom time...
+
+643
+00:33:39,392 --> 00:33:41,810
+...for both resting and relaxation.
+
+644
+00:33:41,978 --> 00:33:44,604
+-Mm, done.
+-And you spin the wheel.
+
+645
+00:33:47,942 --> 00:33:50,610
+Anna, Anna,
+I don't think that's necessary.
+
+646
+00:33:50,778 --> 00:33:53,905
+We were doing well here.
+I don't think that I--
+
+647
+00:33:54,073 --> 00:33:56,283
+Live by the sword, die by the sword.
+
+648
+00:33:56,451 --> 00:33:58,744
+Ha, ha.
+You don't even know what that means.
+
+649
+00:34:07,003 --> 00:34:08,670
+ANNA:
+Yeah, diaper-station duty.
+
+650
+00:34:08,838 --> 00:34:10,630
+MORGAN:
+Baby needs wipe. Baby needs wipe.
+
+651
+00:34:12,675 --> 00:34:13,759
+Nice. Nicely done.
+
+652
+00:34:14,218 --> 00:34:17,012
+-You can go and bring that up to the front.
+-Oh, thank you.
+
+653
+00:34:30,777 --> 00:34:32,486
+Mr. Bartowski.
+
+654
+00:34:34,072 --> 00:34:35,822
+Lovely cover they've got you working.
+
+655
+00:34:36,365 --> 00:34:40,327
+Perhaps you would like to elaborate on
+what you meant last night by "legend."
+
+656
+00:34:40,495 --> 00:34:43,163
+I meant what I said.
+You were great once.
+
+657
+00:34:43,831 --> 00:34:45,624
+Are you here to help or just browsing?
+
+658
+00:34:45,792 --> 00:34:48,543
+I suppose that depends
+on what your plan is for tonight.
+
+659
+00:34:48,711 --> 00:34:50,712
+My plan is to show up
+at the meeting spot...
+
+660
+00:34:50,880 --> 00:34:53,423
+...and exchange the Cipher
+for Casey and Sarah.
+
+661
+00:34:54,175 --> 00:34:56,635
+You're determined to risk your life
+for these people?
+
+662
+00:34:56,803 --> 00:34:58,762
+-They'd do it for me.
+-We should revise your plan.
+
+663
+00:34:58,930 --> 00:35:01,515
+Come up with something
+that doesn't get us all killed.
+
+664
+00:35:01,682 --> 00:35:02,849
+I'm open to that.
+
+665
+00:35:09,774 --> 00:35:11,108
+[CAR HORN HONKING]
+
+666
+00:35:19,325 --> 00:35:21,368
+I have a package for Sasha Banacheck.
+
+667
+00:35:23,246 --> 00:35:24,996
+You need to sign.
+
+668
+00:35:25,164 --> 00:35:27,499
+[PHONE RINGING]
+
+669
+00:35:30,711 --> 00:35:31,753
+Hello?
+
+670
+00:35:31,921 --> 00:35:34,005
+CHUCK [OVER PHONE]:
+Here's how this is gonna go down.
+
+671
+00:35:34,173 --> 00:35:35,715
+Want the Cipher, you play by my rules.
+
+672
+00:35:35,883 --> 00:35:39,719
+Meet me at 9000 Burbank Boulevard
+and bring the hostages.
+
+673
+00:35:41,556 --> 00:35:42,597
+[SIGHS]
+
+674
+00:35:42,765 --> 00:35:44,057
+[PHONE RINGING]
+
+675
+00:35:44,475 --> 00:35:45,517
+It's her.
+
+676
+00:35:45,685 --> 00:35:47,269
+Answer it.
+
+677
+00:35:48,354 --> 00:35:49,855
+Hello?
+
+678
+00:35:50,398 --> 00:35:52,941
+Oh, sorry, yeah.
+You're just gonna wanna take the 5 north.
+
+679
+00:35:53,109 --> 00:35:54,401
+That's probably the easiest.
+
+680
+00:35:54,569 --> 00:35:56,862
+Burbank Boulevard exit.
+Make a left at the light.
+
+681
+00:35:57,029 --> 00:35:58,738
+Sorry. You can find it.
+
+682
+00:36:15,381 --> 00:36:17,132
+CHUCK [OVER TV]:
+Greetings.
+
+683
+00:36:17,758 --> 00:36:19,718
+I see you found your way.
+
+684
+00:36:22,638 --> 00:36:25,098
+Hope traffic wasn't too bad.
+
+685
+00:36:26,350 --> 00:36:29,269
+As you can see, I have the Cipher.
+
+686
+00:36:29,437 --> 00:36:32,939
+Once my friends are safely out of the store,
+I'll tell you where to find it.
+
+687
+00:36:33,107 --> 00:36:36,776
+It's been a pleasure working with you.
+I wish you luck in all your future endeavors.
+
+688
+00:36:36,944 --> 00:36:39,446
+Remember, we'll always have Paris.
+
+689
+00:36:39,614 --> 00:36:41,072
+[SCREAMS]
+
+690
+00:36:43,618 --> 00:36:45,160
+Whoa, whoa, whoa.
+
+691
+00:36:50,166 --> 00:36:51,666
+Oh. Oh.
+
+692
+00:36:54,420 --> 00:36:55,587
+[SCREAMS]
+
+693
+00:36:57,006 --> 00:36:58,465
+[BANGING ON DOOR]
+
+694
+00:37:10,811 --> 00:37:15,315
+Well, now that your savior
+is trapped with the Cipher...
+
+695
+00:37:15,483 --> 00:37:16,900
+...I no longer need hostages.
+
+696
+00:37:17,068 --> 00:37:20,695
+-So goodbye.
+-I wouldn't do that if I were you.
+
+697
+00:37:22,448 --> 00:37:24,449
+-Roan.
+-Hello, Sasha.
+
+698
+00:37:24,617 --> 00:37:25,659
+[GASPS]
+
+699
+00:37:25,826 --> 00:37:27,327
+I should have killed you years ago.
+
+700
+00:37:27,495 --> 00:37:30,455
+Yes, probably.
+Would you please drop your guns?
+
+701
+00:37:30,623 --> 00:37:33,792
+-Who the hell is that?
+-That is Roan Montgomery.
+
+702
+00:37:37,505 --> 00:37:39,172
+[SCREAMS]
+
+703
+00:37:41,342 --> 00:37:42,467
+Stand back, Roan.
+
+704
+00:37:44,136 --> 00:37:46,054
+Or I'll kill her.
+
+705
+00:37:46,222 --> 00:37:47,472
+No, no, no.
+
+706
+00:37:48,015 --> 00:37:50,183
+ROAN [OVER MIKE]: Where are you?
+-I'm on the roof.
+
+707
+00:37:50,351 --> 00:37:54,312
+-Charles, remember Thailand?
+-This is not time for one of your stories.
+
+708
+00:37:54,855 --> 00:37:58,316
+-Remember Thailand.
+-Yeah, yeah, yeah.
+
+709
+00:37:58,484 --> 00:38:00,944
+You were on the palace roof
+and you tied a bed sheet--
+
+710
+00:38:01,112 --> 00:38:02,529
+No, no, no.
+
+711
+00:38:03,698 --> 00:38:05,532
+Charles, it's time to be a spy.
+
+712
+00:38:05,700 --> 00:38:06,866
+I'm not. I'm not a spy.
+
+713
+00:38:07,034 --> 00:38:08,285
+[SARAH GRUNTS]
+
+714
+00:38:09,078 --> 00:38:11,329
+SASHA: Bring me the Cipher right now
+or I'll kill her.
+
+715
+00:38:14,041 --> 00:38:16,042
+I guess you gotta die sometime.
+
+716
+00:38:20,965 --> 00:38:23,049
+[BREATHING HEAVILY]
+
+717
+00:38:28,723 --> 00:38:30,557
+It'd just be nice if it wasn't today.
+
+718
+00:38:30,725 --> 00:38:31,891
+[SCREAMS]
+
+719
+00:38:32,059 --> 00:38:34,686
+Sarah!
+
+720
+00:38:38,357 --> 00:38:39,441
+SARAH:
+Chuck.
+
+721
+00:38:40,109 --> 00:38:42,068
+Chuck. Are you okay?
+
+722
+00:38:42,236 --> 00:38:44,446
+I'm fine. I'm fine. How are you?
+
+723
+00:38:44,613 --> 00:38:46,114
+I'm fine.
+
+724
+00:38:46,699 --> 00:38:49,409
+Now that's what I call a spy.
+
+725
+00:39:06,594 --> 00:39:08,595
+I ain't new.
+
+726
+00:39:08,763 --> 00:39:10,847
+BECKMAN [OVER MONITOR]:
+Excellent work, team. Thanks.
+
+727
+00:39:11,015 --> 00:39:12,098
+We have the Cipher.
+
+728
+00:39:12,266 --> 00:39:14,601
+General, Chuck was invaluable
+on this mission.
+
+729
+00:39:14,769 --> 00:39:17,479
+He also risked his life
+several times to save ours.
+
+730
+00:39:17,772 --> 00:39:19,939
+BECKMAN:
+Your country thanks you, Chuck.
+
+731
+00:39:20,107 --> 00:39:23,985
+Hopefully, we can now rebuild the Intersect
+and this nightmare can be over for you.
+
+732
+00:39:24,153 --> 00:39:25,362
+Have a nice day.
+
+733
+00:39:25,529 --> 00:39:29,449
+Wait. Actually, while I appreciate
+all of your kind words...
+
+734
+00:39:29,617 --> 00:39:32,327
+...if we're going to continue
+to coexist happily...
+
+735
+00:39:32,495 --> 00:39:35,955
+...I think that the government needs
+to start pulling their weight around here.
+
+736
+00:39:36,123 --> 00:39:37,957
+What did you have in mind, Chuck?
+
+737
+00:39:38,125 --> 00:39:39,959
+DEVON:
+Ellie, I just wanna apologize again.
+
+738
+00:39:40,127 --> 00:39:42,128
+I know I may seem like Mr. Smooth...
+
+739
+00:39:42,296 --> 00:39:45,924
+...but the truth is,
+I don't have a million moves.
+
+740
+00:39:46,092 --> 00:39:47,550
+All I know is I love you.
+
+741
+00:39:47,718 --> 00:39:49,469
+I don't need moves, Devon.
+
+742
+00:39:49,637 --> 00:39:52,555
+Just the fact that you're trying
+is enough.
+
+743
+00:40:08,489 --> 00:40:09,864
+Is that pecan pie?
+
+744
+00:40:10,324 --> 00:40:13,326
+I can't believe I fell for that. You're the
+sweetest man in the whole world.
+
+745
+00:40:13,494 --> 00:40:15,161
+[CHUCKLES]
+
+746
+00:40:15,329 --> 00:40:17,330
+No biggie, babe.
+
+747
+00:40:20,334 --> 00:40:22,544
+Well, be sure and thank the CIA for me.
+
+748
+00:40:22,711 --> 00:40:24,170
+Our pleasure.
+
+749
+00:40:24,338 --> 00:40:26,798
+I suppose I should thank you
+for saving my life.
+
+750
+00:40:26,966 --> 00:40:29,884
+Oh, you've done it for me a time or two.
+I'm probably still in debt.
+
+751
+00:40:30,052 --> 00:40:32,554
+I have to admit,
+that was pretty impressive.
+
+752
+00:40:32,721 --> 00:40:34,597
+Right? I mean, come on.
+
+753
+00:40:34,765 --> 00:40:36,558
+I know I'm just an asset.
+
+754
+00:40:36,725 --> 00:40:38,560
+But between the two of us...
+
+755
+00:40:38,727 --> 00:40:41,813
+...I mean, have you ever seen anyone
+do something like that before?
+
+756
+00:40:41,981 --> 00:40:43,565
+I think it's safe to say, Chuck...
+
+757
+00:40:43,732 --> 00:40:45,942
+...that I've never seen
+anyone quite like you.
+
+758
+00:40:46,861 --> 00:40:49,946
+ROAN: Well, Agent Casey,
+thanks for the accommodations.
+
+759
+00:40:50,114 --> 00:40:51,448
+Agent Montgomery.
+
+760
+00:40:51,615 --> 00:40:53,074
+The reason I failed you twice...
+
+761
+00:40:53,242 --> 00:40:57,370
+...was that your partner at the time
+was too pretty to pass.
+
+762
+00:40:57,538 --> 00:40:59,706
+Should have failed her a few more times.
+
+763
+00:40:59,874 --> 00:41:01,624
+Should have known.
+
+764
+00:41:06,213 --> 00:41:08,548
+Adieu, Agent Walker.
+
+765
+00:41:08,716 --> 00:41:10,925
+It was a real pleasure,
+Agent Montgomery.
+
+766
+00:41:11,552 --> 00:41:14,471
+Well, I'll, um-- I'll see you later, Chuck.
+
+767
+00:41:16,765 --> 00:41:18,057
+ROAN:
+Ah.
+
+768
+00:41:18,392 --> 00:41:19,976
+Let her go.
+
+769
+00:41:21,020 --> 00:41:24,814
+A great man once said it will give her
+the illusion of being pursued.
+
+770
+00:41:26,984 --> 00:41:29,235
+-You trust me?
+-Yeah.
+
+771
+00:41:29,403 --> 00:41:31,070
+Good. Do you own a white dinner jacket?
+
+772
+00:41:31,238 --> 00:41:32,405
+-No.
+-Rent one.
+
+773
+00:41:32,573 --> 00:41:35,366
+Tonight you will show up
+with a bottle of Château Margaux...
+
+774
+00:41:35,534 --> 00:41:38,328
+...the dinner jacket
+and a single red rose...
+
+775
+00:41:38,496 --> 00:41:41,789
+...known in several countries
+as the Montgomery.
+
+776
+00:41:42,541 --> 00:41:45,084
+[PHONE RINGS]
+
+777
+00:41:45,252 --> 00:41:47,337
+-Goodbye, Charles.
+-Goodbye, Roan.
+
+778
+00:41:48,672 --> 00:41:49,756
+Hello, Diane.
+
+779
+00:41:49,924 --> 00:41:52,800
+Yeah, on my way to the airport.
+
+780
+00:41:52,968 --> 00:41:54,969
+Should be in Dallas by the morning.
+
+781
+00:42:22,790 --> 00:42:23,873
+SARAH:
+Chuck.
+
+782
+00:42:24,542 --> 00:42:26,292
+Hi.
+
+783
+00:42:26,752 --> 00:42:28,670
+-Um....
+-Hello, Chuck.
+
+784
+00:42:30,172 --> 00:42:32,048
+CHUCK: Bryce?
+-Miss me?
+
+785
+00:43:13,924 --> 00:43:15,925
+[ENGLISH SDH]
+

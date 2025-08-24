@@ -1,0 +1,3333 @@
+﻿1
+00:00:00,042 --> 00:00:01,836
+[Ballard] <i>Previously on</i> Ballard<i>...</i>
+
+2
+00:00:03,003 --> 00:00:04,504
+You're Detective Ballard, right?
+
+3
+00:00:04,505 --> 00:00:05,881
+I heard about what you did last year.
+
+4
+00:00:08,676 --> 00:00:10,343
+- [Bosch] Don't move.
+- LAPD.
+
+5
+00:00:10,344 --> 00:00:12,595
+- Who are you?
+- Renée Ballard. RHD.
+
+6
+00:00:12,596 --> 00:00:15,098
+- What do you want?
+- I want the files you stole from me.
+
+7
+00:00:15,099 --> 00:00:18,143
+{\an8}You call them the Flower Girls.
+I've been assigned their cases.
+
+8
+00:00:18,144 --> 00:00:21,271
+You think this is still your case, Bosch.
+It's not. It's mine.
+
+9
+00:00:21,272 --> 00:00:23,357
+- They're cutting me out.
+- News flash, Dad.
+
+10
+00:00:23,983 --> 00:00:24,984
+You're retired.
+
+11
+00:00:25,776 --> 00:00:27,445
+- LAPD!
+- [grunts]
+
+12
+00:00:29,488 --> 00:00:31,656
+You do good work, Renée. Saved a life.
+
+13
+00:00:31,657 --> 00:00:34,576
+Maybe somewhere down the line
+we'll get to work together again.
+
+14
+00:00:34,577 --> 00:00:37,078
+Parker was the IO on the John Doe case
+we just pulled.
+
+15
+00:00:37,079 --> 00:00:39,497
+Remember me?
+I worked a murder back in 2020.
+
+16
+00:00:39,498 --> 00:00:40,915
+Mexican guy. Had a baby.
+
+17
+00:00:40,916 --> 00:00:43,418
+[Ballard] This is from a bus station
+in San Diego.
+
+18
+00:00:43,419 --> 00:00:45,712
+One of the last places
+John Doe was seen alive.
+
+19
+00:00:45,713 --> 00:00:46,964
+That baby was never found.
+
+20
+00:00:49,008 --> 00:00:49,883
+[in Spanish] What happened?
+
+21
+00:00:49,884 --> 00:00:51,302
+Yulia is dead.
+
+22
+00:00:51,594 --> 00:00:52,678
+Someone killed her.
+
+23
+00:00:53,179 --> 00:00:54,138
+Yulia?
+
+24
+00:00:55,139 --> 00:00:56,931
+[in English]
+The primary focus of this unit
+
+25
+00:00:56,932 --> 00:00:58,975
+remains the murder of Councilman's sister.
+
+26
+00:00:58,976 --> 00:01:00,894
+He was the number one suspect in '01.
+
+27
+00:01:00,895 --> 00:01:02,562
+He killed her.
+
+28
+00:01:02,563 --> 00:01:05,440
+[Ballard] <i>Sarah Pearlman's killer
+left DNA behind at another crime scene.</i>
+
+29
+00:01:05,441 --> 00:01:06,691
+<i>Laura Wilson. Back in '08.</i>
+
+30
+00:01:06,692 --> 00:01:09,110
+<i>We might have a goddamn serial killer
+on our hands.</i>
+
+31
+00:01:09,111 --> 00:01:11,196
+- Who was the investigator?
+- [sighs]
+
+32
+00:01:11,197 --> 00:01:12,615
+[Ballard] Harry Bosch.
+
+33
+00:01:35,638 --> 00:01:37,848
+[detective] Didn't know
+I was expecting company. [sighs]
+
+34
+00:01:39,016 --> 00:01:41,309
+How you doing? Renée Ballard, RHD.
+
+35
+00:01:41,310 --> 00:01:43,145
+Detective Neylon. Valley Bureau.
+
+36
+00:01:43,646 --> 00:01:44,647
+This is my scene.
+
+37
+00:01:45,231 --> 00:01:47,358
+Not sure it's sexy enough for RHD.
+
+38
+00:01:48,818 --> 00:01:50,860
+[Ballard] Blue suits say
+it's a robbery gone wrong.
+
+39
+00:01:50,861 --> 00:01:52,112
+Is that what you're thinking?
+
+40
+00:01:52,905 --> 00:01:54,698
+Shots were fired around 10:05.
+
+41
+00:01:55,241 --> 00:01:57,075
+She walked in on a 211 in-progress,
+
+42
+00:01:57,076 --> 00:01:59,703
+spooked the robber,
+got herself shot in the back.
+
+43
+00:02:00,287 --> 00:02:01,287
+What's your interest here?
+
+44
+00:02:01,288 --> 00:02:03,790
+There's a slight chance this may relate
+to an unsolved case of mine.
+
+45
+00:02:03,791 --> 00:02:06,000
+- How's that?
+- [clicks tongue] My vic stayed here.
+
+46
+00:02:06,001 --> 00:02:07,086
+That's all?
+
+47
+00:02:07,711 --> 00:02:09,879
+Pretty much.
+It was an execution-style killing.
+
+48
+00:02:09,880 --> 00:02:12,465
+His body was dumped in the foothills
+about five years ago.
+
+49
+00:02:12,466 --> 00:02:15,510
+Plenty of unsavories, uh,
+make their way through this place.
+
+50
+00:02:15,511 --> 00:02:16,595
+Mostly by the hour.
+
+51
+00:02:17,429 --> 00:02:20,306
+And this here
+is just another sad result of that.
+
+52
+00:02:20,307 --> 00:02:23,018
+Nothing exotic like your, uh, execution.
+
+53
+00:02:24,186 --> 00:02:27,272
+Hey, do you mind if I just
+take a quick peek? Since I'm already here?
+
+54
+00:02:27,273 --> 00:02:28,440
+Knock yourself out.
+
+55
+00:02:34,613 --> 00:02:35,822
+[shutter clicks]
+
+56
+00:02:35,823 --> 00:02:37,866
+[Ballard] You don't mind
+if I take a few photos, do you?
+
+57
+00:02:37,867 --> 00:02:39,285
+Whatever you want.
+
+58
+00:02:41,161 --> 00:02:42,161
+[shutter clicks]
+
+59
+00:02:42,162 --> 00:02:43,914
+Was anything actually stolen?
+
+60
+00:02:44,707 --> 00:02:46,541
+Hard to tell in this mess. [sighs]
+
+61
+00:02:46,542 --> 00:02:49,295
+Manager said three people paid cash
+for last night.
+
+62
+00:02:49,795 --> 00:02:51,963
+Impromptu shooting gallery is my bet.
+
+63
+00:02:51,964 --> 00:02:53,756
+Maybe our guy was searching for remnants.
+
+64
+00:02:53,757 --> 00:02:55,341
+You get the vic's name?
+
+65
+00:02:55,342 --> 00:02:56,552
+Am I your secretary now?
+
+66
+00:02:57,219 --> 00:02:59,388
+I just gotta have something
+to tell the captain.
+
+67
+00:03:00,472 --> 00:03:02,390
+Uh... [sighs]
+
+68
+00:03:02,391 --> 00:03:04,560
+Yulia Kravetz.
+
+69
+00:03:05,561 --> 00:03:06,812
+Is that Kravetz with an E?
+
+70
+00:03:07,813 --> 00:03:08,814
+Yeah.
+
+71
+00:03:09,481 --> 00:03:10,482
+[shutter clicks]
+
+72
+00:03:14,445 --> 00:03:16,280
+- You look in here?
+- Of course I did.
+
+73
+00:03:17,239 --> 00:03:18,365
+Why?
+
+74
+00:03:20,326 --> 00:03:22,661
+Yulia was already in here
+when your suspect showed up.
+
+75
+00:03:23,954 --> 00:03:24,955
+How do you figure?
+
+76
+00:03:25,664 --> 00:03:26,664
+Toilet paper.
+
+77
+00:03:26,665 --> 00:03:28,375
+You see that decorative fold?
+
+78
+00:03:28,959 --> 00:03:30,836
+And there's no water spots on the mirror.
+
+79
+00:03:31,587 --> 00:03:34,756
+She had already cleaned the bathroom
+when your killer shot her.
+
+80
+00:03:34,757 --> 00:03:36,383
+[clicks tongue] You've seen enough?
+
+81
+00:03:38,427 --> 00:03:39,428
+Yeah.
+
+82
+00:03:40,930 --> 00:03:43,389
+Oh, do you mind sharing ballistics
+when it comes in?
+
+83
+00:03:43,390 --> 00:03:45,308
+I just need something
+to compare to my cold case.
+
+84
+00:03:45,309 --> 00:03:47,478
+Sure thing. Top of my list.
+
+85
+00:04:04,453 --> 00:04:05,453
+How's it going?
+
+86
+00:04:05,454 --> 00:04:07,580
+Mind if I, uh, take a look
+at the security footage?
+
+87
+00:04:07,581 --> 00:04:10,375
+[sighs] Do you guys not talk?
+I already told the other guy.
+
+88
+00:04:10,376 --> 00:04:12,670
+I know. I just need to check
+one more thing.
+
+89
+00:04:14,338 --> 00:04:15,381
+Be my guest.
+
+90
+00:04:17,841 --> 00:04:20,885
+- Really appreciate your help.
+- Mm-hmm. [sighs]
+
+91
+00:04:20,886 --> 00:04:22,221
+[typing]
+
+92
+00:04:27,643 --> 00:04:31,271
+[breathes deeply]
+
+93
+00:04:41,365 --> 00:04:42,992
+[Ballard] Come on, come on, come on.
+
+94
+00:04:59,133 --> 00:05:00,508
+Oh, hey.
+
+95
+00:05:00,509 --> 00:05:01,801
+What are you still doing here?
+
+96
+00:05:01,802 --> 00:05:04,013
+No, I came back to give you my card
+for ballistics.
+
+97
+00:05:05,347 --> 00:05:06,889
+Time for you to go.
+
+98
+00:05:06,890 --> 00:05:07,975
+Sure.
+
+99
+00:05:08,767 --> 00:05:09,852
+[Neylon sighs]
+
+100
+00:05:16,692 --> 00:05:18,109
+That guy's an asshole.
+
+101
+00:05:18,110 --> 00:05:20,446
+Neylon? He's just marking his territory.
+
+102
+00:05:20,946 --> 00:05:23,282
+You think she's the woman
+who called RHD looking for you?
+
+103
+00:05:24,742 --> 00:05:27,785
+If she was, what if somebody
+was trying to shut her up?
+
+104
+00:05:27,786 --> 00:05:29,037
+We're gonna find out.
+
+105
+00:05:29,038 --> 00:05:32,457
+And the fastest way to do that is to
+find Yulia's killer and get him to talk.
+
+106
+00:05:32,458 --> 00:05:35,127
+How? With Neylon shutting us down?
+
+107
+00:05:35,753 --> 00:05:38,338
+That's not happening.
+We're working this case.
+
+108
+00:05:38,922 --> 00:05:40,632
+We're just not gonna tell him about it.
+
+109
+00:05:51,977 --> 00:05:53,936
+- [Laffont] <i>Yello.</i>
+- Hey. I'm still at the motel.
+
+110
+00:05:53,937 --> 00:05:55,396
+I got the vic's name.
+
+111
+00:05:55,397 --> 00:05:59,567
+- Hit me.
+- <i>Yulia Kravetz. K-R-A-V-E-T-Z.</i>
+
+112
+00:05:59,568 --> 00:06:02,111
+Start sourcing info on her.
+But do it on the down-low.
+
+113
+00:06:02,112 --> 00:06:04,405
+The detective working this case
+is a little touchy.
+
+114
+00:06:04,406 --> 00:06:07,116
+Oh, yeah. [chuckles] I know the type.
+
+115
+00:06:07,117 --> 00:06:08,201
+Speaking of which...
+
+116
+00:06:08,202 --> 00:06:09,285
+Harry Bosch.
+
+117
+00:06:09,286 --> 00:06:13,581
+His captain reassigned the Laura Wilson
+case after Bosch was put on leave.
+
+118
+00:06:13,582 --> 00:06:17,211
+But, looking at the book, he's the only
+one who did any meaningful work on it.
+
+119
+00:06:18,629 --> 00:06:20,297
+We should probably loop him in, right?
+
+120
+00:06:21,048 --> 00:06:23,633
+Tell him his killer left DNA at our scene?
+
+121
+00:06:23,634 --> 00:06:26,845
+[sighs] We should,
+but just hold off for now, all right?
+
+122
+00:06:27,763 --> 00:06:29,098
+My plate's already full. [sighs]
+
+123
+00:06:30,140 --> 00:06:31,183
+Okay.
+
+124
+00:06:31,683 --> 00:06:33,102
+- <i>Sure. Talk soon.</i>
+- [mouthing words] Yeah.
+
+125
+00:06:34,228 --> 00:06:35,229
+[line clicks]
+
+126
+00:06:37,189 --> 00:06:38,273
+They're starting on Yulia.
+
+127
+00:06:39,149 --> 00:06:41,819
+In the meantime take a look at this.
+
+128
+00:06:43,570 --> 00:06:44,570
+Yulia's shooter?
+
+129
+00:06:44,571 --> 00:06:48,157
+[clicks tongue] I mean, that's my guess.
+It's time-stamped right before the murder.
+
+130
+00:06:48,158 --> 00:06:50,410
+Look at that.
+There could be a gun in there.
+
+131
+00:06:51,078 --> 00:06:53,580
+Neylon says it's a robbery gone wrong,
+but I don't buy it.
+
+132
+00:06:54,373 --> 00:06:57,084
+Yulia had cleaned the bathroom already
+before she was shot.
+
+133
+00:06:58,502 --> 00:07:01,130
+So she didn't walk in on the shooter.
+He walked in on her.
+
+134
+00:07:02,756 --> 00:07:04,423
+- She was targeted.
+- We don't know that.
+
+135
+00:07:04,424 --> 00:07:06,509
+I knew something was weird
+about this place five years ago--
+
+136
+00:07:06,510 --> 00:07:08,303
+Parker. One step at a time.
+
+137
+00:07:10,639 --> 00:07:12,182
+[Zamira sighs]
+
+138
+00:07:14,268 --> 00:07:15,853
+Is that the woman you spoke to?
+
+139
+00:07:16,812 --> 00:07:17,813
+[Zamira] Claudia.
+
+140
+00:07:18,522 --> 00:07:20,731
+She clammed up
+when she figured I was with the police.
+
+141
+00:07:20,732 --> 00:07:23,694
+[Ballard] Maybe she'll have more to say
+away from the lights and sirens.
+
+142
+00:07:26,363 --> 00:07:30,283
+[chattering in Spanish]
+
+143
+00:07:30,284 --> 00:07:31,785
+- [whimpers]
+- [Ballard in Spanish] <i>Hola.</i>
+
+144
+00:07:33,245 --> 00:07:34,954
+- [in English] Claudia?
+- Mm-hmm.
+
+145
+00:07:34,955 --> 00:07:36,498
+- [Ballard speaking Spanish]
+- No.
+
+146
+00:07:37,207 --> 00:07:38,708
+[in Spanish] She is a detective.
+
+147
+00:07:38,709 --> 00:07:42,129
+She needs to ask you
+a few more questions, okay?
+
+148
+00:07:42,796 --> 00:07:45,631
+No, no. I don't know anything. I'm sorry.
+
+149
+00:07:45,632 --> 00:07:49,510
+[in English] The girls that work at
+the motel, they don't talk to cops.
+
+150
+00:07:49,511 --> 00:07:50,679
+They're undocumented?
+
+151
+00:07:53,515 --> 00:07:54,766
+You can go.
+
+152
+00:08:02,524 --> 00:08:05,027
+So the girls, they don't talk to the cops.
+Do they talk to you?
+
+153
+00:08:06,653 --> 00:08:07,738
+Some of them.
+
+154
+00:08:09,823 --> 00:08:11,742
+- What about Yulia?
+- She did.
+
+155
+00:08:12,367 --> 00:08:13,368
+Sweet girl.
+
+156
+00:08:14,203 --> 00:08:15,287
+I did her hair.
+
+157
+00:08:16,330 --> 00:08:19,249
+Wild orchid. That was her color.
+
+158
+00:08:20,167 --> 00:08:21,376
+She'd been through a lot.
+
+159
+00:08:22,628 --> 00:08:23,962
+Was she undocumented too?
+
+160
+00:08:25,505 --> 00:08:30,176
+She came here from Ukraine.
+[sighs] Through Poland first, then Mexico.
+
+161
+00:08:30,177 --> 00:08:32,679
+Paid a coyote to get her over the border.
+
+162
+00:08:34,723 --> 00:08:37,267
+Any idea who might
+have wanted to hurt her?
+
+163
+00:08:38,352 --> 00:08:39,728
+A boyfriend, maybe?
+
+164
+00:08:40,687 --> 00:08:41,980
+Not sure.
+
+165
+00:08:43,982 --> 00:08:45,525
+Do you recognize this man?
+
+166
+00:08:48,237 --> 00:08:49,404
+I seen him around.
+
+167
+00:08:51,198 --> 00:08:53,157
+He comes in from time to time.
+
+168
+00:08:53,158 --> 00:08:56,077
+Asks for water and change.
+
+169
+00:08:56,078 --> 00:08:57,162
+So maybe homeless?
+
+170
+00:09:00,249 --> 00:09:03,000
+{\an8}We're gonna have to work
+this one outside of typical avenues
+
+171
+00:09:03,001 --> 00:09:04,252
+{\an8}since it's not our case.
+
+172
+00:09:04,253 --> 00:09:06,171
+{\an8}Can't exactly run prints or DNA.
+
+173
+00:09:07,089 --> 00:09:09,382
+Yeah, on that.
+Why are we catching a fresh one?
+
+174
+00:09:09,383 --> 00:09:12,427
+You missed the part where she said
+Yulia might be tied to the John Doe?
+
+175
+00:09:12,970 --> 00:09:14,679
+At the moment,
+this guy is our only suspect.
+
+176
+00:09:14,680 --> 00:09:17,349
+And if he didn't kill Yulia,
+he could be a witness.
+
+177
+00:09:18,016 --> 00:09:19,392
+Fine. How do we catch the schmo?
+
+178
+00:09:19,393 --> 00:09:22,645
+Well, Ballard and I did a cursory check
+on encampments around the motel,
+
+179
+00:09:22,646 --> 00:09:24,146
+but there are more in the neighborhood.
+
+180
+00:09:24,147 --> 00:09:26,857
+Worth checking nearby shelters,
+uh, soup kitchens, churches.
+
+181
+00:09:26,858 --> 00:09:31,028
+And libraries. Quite a few unhoused folks
+use the facilities at my branch.
+
+182
+00:09:31,029 --> 00:09:33,115
+It's a whole lot of ground to cover.
+
+183
+00:09:34,116 --> 00:09:35,909
+I know. You should get started.
+
+184
+00:09:36,535 --> 00:09:40,413
+We don't even know if this is our guy.
+And it's 95 degrees out there today.
+
+185
+00:09:40,414 --> 00:09:41,665
+Bring a hat.
+
+186
+00:09:42,249 --> 00:09:43,583
+[smacks lips, scoffs]
+
+187
+00:09:46,628 --> 00:09:49,089
+Evidence from the Laura Wilson case
+just landed.
+
+188
+00:09:50,007 --> 00:09:51,716
+Let's get 'em open. Get it on the board.
+
+189
+00:09:51,717 --> 00:09:52,843
+Let's see what we got.
+
+190
+00:09:55,679 --> 00:09:56,680
+Right.
+
+191
+00:10:01,560 --> 00:10:04,813
+[Bosch] <i>September 7th, 2008. 1300 hours.</i>
+
+192
+00:10:05,939 --> 00:10:10,068
+<i>Arrived at 877 Tamarind pursuant
+to the reported homicide.</i>
+
+193
+00:10:16,158 --> 00:10:17,408
+What a mess.
+
+194
+00:10:17,409 --> 00:10:20,746
+That's what 17 years
+with no arrest looks like.
+
+195
+00:10:22,164 --> 00:10:26,752
+{\an8}[Bosch] <i>Laura Wilson.
+Age 26. Black. Aspiring actress.</i>
+
+196
+00:10:28,462 --> 00:10:32,548
+<i>Strangled manually.
+Defensive wounds to hands and fingernails.</i>
+
+197
+00:10:32,549 --> 00:10:34,384
+<i>No signs of sexual assault.</i>
+
+198
+00:10:43,769 --> 00:10:45,561
+<i>Victim was single, lived alone.</i>
+
+199
+00:10:45,562 --> 00:10:48,732
+<i>Discovered by her mother after
+Laura missed church on Sunday.</i>
+
+200
+00:11:06,166 --> 00:11:09,586
+<i>Last seen by friends Saturday night
+at Barney's Beanery in West Hollywood.</i>
+
+201
+00:11:10,629 --> 00:11:12,881
+<i>They were celebrating
+a commercial Laura shot.</i>
+
+202
+00:11:14,633 --> 00:11:19,388
+<i>Time of death, early the next morning:
+September 7th, roughly 0100.</i>
+
+203
+00:11:37,072 --> 00:11:38,323
+Ballard.
+
+204
+00:11:43,328 --> 00:11:46,164
+Martina, track down a charger
+for that Blackberry.
+
+205
+00:11:46,665 --> 00:11:49,835
+Parker, Colleen, look for any ties
+between Brian Richmond and Laura.
+
+206
+00:11:50,377 --> 00:11:52,753
+Laffont, pull the DMV records
+of all of our wits,
+
+207
+00:11:52,754 --> 00:11:55,882
+and call me
+if there are any updates on Yulia.
+
+208
+00:11:57,008 --> 00:11:58,468
+I'm going to see Laura Wilson's mom.
+
+209
+00:11:59,094 --> 00:12:00,137
+On it, Boss.
+
+210
+00:12:02,472 --> 00:12:03,974
+Just Ballard's fine.
+
+211
+00:12:07,018 --> 00:12:08,394
+[engine stalls]
+
+212
+00:12:08,395 --> 00:12:09,521
+Come on, baby.
+
+213
+00:12:10,522 --> 00:12:12,315
+- [engine stalls, revs]
+- Ha.
+
+214
+00:12:16,361 --> 00:12:17,737
+[sighs, mutters]
+
+215
+00:12:19,573 --> 00:12:21,324
+Little early to call it a day,
+don't you think?
+
+216
+00:12:23,160 --> 00:12:24,452
+I'm going to conduct an interview.
+
+217
+00:12:24,453 --> 00:12:26,663
+- Family member of a victim.
+- Uh-huh. Which case?
+
+218
+00:12:27,205 --> 00:12:29,498
+This new Laura Wilson murder,
+or the one you caught this morning?
+
+219
+00:12:29,499 --> 00:12:33,044
+'Cause it seems to me you're opening cases
+faster than you're closing them.
+
+220
+00:12:34,045 --> 00:12:35,796
+I'm sorry that you see it that way.
+
+221
+00:12:35,797 --> 00:12:37,131
+When you took control of this unit,
+
+222
+00:12:37,132 --> 00:12:39,842
+you assured me that my sister's case
+was gonna be a top p--
+
+223
+00:12:39,843 --> 00:12:43,804
+Laura Wilson was strangled in 2008 by
+the same person who killed your sister.
+
+224
+00:12:43,805 --> 00:12:46,932
+So working her case is working Sarah's.
+
+225
+00:12:46,933 --> 00:12:48,518
+And even if it wasn't, Councilman,
+
+226
+00:12:49,269 --> 00:12:52,814
+your sister is not more or less important
+than any of my victims, okay?
+
+227
+00:12:53,565 --> 00:12:55,525
+Their families have been grieving too.
+
+228
+00:12:56,860 --> 00:12:58,904
+You said Laura was murdered in 2008?
+
+229
+00:13:00,489 --> 00:13:01,490
+Yeah.
+
+230
+00:13:02,115 --> 00:13:04,159
+September 7th, 2008. Why?
+
+231
+00:13:05,285 --> 00:13:07,120
+Then Brian Richmond couldn't have done it.
+
+232
+00:13:08,330 --> 00:13:09,331
+What do you mean?
+
+233
+00:13:10,373 --> 00:13:13,376
+He was out of the country in 2008.
+
+234
+00:13:16,004 --> 00:13:17,755
+Look, I kept tabs on him for years.
+
+235
+00:13:17,756 --> 00:13:21,550
+He was in Iraq. October 2007 to May 2009.
+
+236
+00:13:21,551 --> 00:13:24,136
+Two tours.
+He didn't come back to the States once.
+
+237
+00:13:24,137 --> 00:13:25,638
+[sighs]
+
+238
+00:13:25,639 --> 00:13:27,223
+We linked the killings through DNA.
+
+239
+00:13:27,224 --> 00:13:30,017
+- Then the DNA is wrong.
+- That's highly unlikely.
+
+240
+00:13:30,018 --> 00:13:32,353
+I put my faith in you, okay?
+
+241
+00:13:32,354 --> 00:13:34,104
+What you're talking about
+isn't even possible.
+
+242
+00:13:34,105 --> 00:13:35,315
+It is possible.
+
+243
+00:13:36,483 --> 00:13:39,528
+[sighs]
+If Brian Richmond isn't the killer.
+
+244
+00:13:41,363 --> 00:13:42,614
+God. Look...
+
+245
+00:13:43,406 --> 00:13:44,406
+[stammers]
+
+246
+00:13:44,407 --> 00:13:46,909
+Look, if what you're saying
+about his deployment is true,
+
+247
+00:13:46,910 --> 00:13:50,580
+then he didn't kill Laura, and... [sighs]
+...he didn't kill Sarah either.
+
+248
+00:13:55,293 --> 00:13:56,294
+[sighs]
+
+249
+00:13:57,921 --> 00:13:59,589
+[huffs]
+
+250
+00:14:00,382 --> 00:14:05,595
+I spent 24 years hating that man.
+
+251
+00:14:08,640 --> 00:14:12,352
+It was infuriating watching him walk free
+while my sister was in the ground.
+
+252
+00:14:15,480 --> 00:14:18,358
+My, um, mom died last year.
+
+253
+00:14:21,403 --> 00:14:24,531
+She was never sure about Brian,
+and I think that's what killed her.
+
+254
+00:14:26,575 --> 00:14:29,536
+The not knowing. It ate her up inside.
+
+255
+00:14:32,414 --> 00:14:35,250
+I can't let the same thing happen
+to my father.
+
+256
+00:14:37,669 --> 00:14:38,920
+Or to me, frankly.
+
+257
+00:14:42,465 --> 00:14:43,633
+Then let me get back to work.
+
+258
+00:14:49,973 --> 00:14:50,974
+[sniffles]
+
+259
+00:14:53,393 --> 00:14:54,603
+[sighing] God.
+
+260
+00:15:01,526 --> 00:15:02,861
+[landline ringing]
+
+261
+00:15:03,862 --> 00:15:04,862
+Yello.
+
+262
+00:15:04,863 --> 00:15:06,780
+Brian Richmond is off the board.
+
+263
+00:15:06,781 --> 00:15:08,032
+You're kidding.
+
+264
+00:15:08,033 --> 00:15:10,117
+<i>No. We gotta confirm with the NPRC,</i>
+
+265
+00:15:10,118 --> 00:15:13,203
+but according to Pearlman,
+he was serving in Iraq when Laura died.
+
+266
+00:15:13,204 --> 00:15:16,290
+So, it's time to call Bosch in, right?
+
+267
+00:15:16,291 --> 00:15:18,584
+- <i>Get his take on Laura Wilson?</i>
+- No, no, no, no, no.
+
+268
+00:15:18,585 --> 00:15:22,839
+I got Pearlman to deal with.
+I got Neylon to work around. I got Rawls.
+
+269
+00:15:23,423 --> 00:15:25,258
+Last thing I need
+is another swinging dick.
+
+270
+00:15:26,092 --> 00:15:28,511
+- No offense. [sighs]
+- None taken.
+
+271
+00:15:30,263 --> 00:15:32,389
+[sighs] It's just,
+given my last go-around with Bosch,
+
+272
+00:15:32,390 --> 00:15:34,058
+I just don't wanna ring that bell yet.
+
+273
+00:15:34,059 --> 00:15:35,143
+[doorbell rings]
+
+274
+00:15:39,939 --> 00:15:41,315
+[Ballard] Vivian Wilson?
+
+275
+00:15:41,316 --> 00:15:43,860
+I'm Renée Ballard. LAPD.
+
+276
+00:15:50,575 --> 00:15:53,035
+[Vivian] No one told me
+about a cold case unit.
+
+277
+00:15:53,036 --> 00:15:54,662
+We've only been up and running
+a few weeks,
+
+278
+00:15:54,663 --> 00:15:56,455
+and when I reopened your daughter's case...
+
+279
+00:15:56,456 --> 00:15:57,999
+I wasn't informed it was closed.
+
+280
+00:16:01,503 --> 00:16:04,838
+There's been some movement.
+Do you recognize this girl?
+
+281
+00:16:04,839 --> 00:16:06,174
+Her name is Sarah Pearlman.
+
+282
+00:16:11,554 --> 00:16:12,888
+I found evidence that suggests
+
+283
+00:16:12,889 --> 00:16:15,225
+that she may have been killed
+by the same man who killed Laura.
+
+284
+00:16:16,059 --> 00:16:17,060
+[scoffs]
+
+285
+00:16:17,894 --> 00:16:21,940
+It has been nine years since the LAPD sent
+someone to talk to me about my daughter.
+
+286
+00:16:22,649 --> 00:16:25,609
+But now that her death is connected
+to the murder of a white girl,
+
+287
+00:16:25,610 --> 00:16:26,861
+here comes the calvary.
+
+288
+00:16:27,737 --> 00:16:29,947
+Mrs. Wilson, Laura is important to me--
+
+289
+00:16:29,948 --> 00:16:32,659
+Do you understand the pain
+of losing your only child?
+
+290
+00:16:33,785 --> 00:16:37,622
+No, I don't. And I'm sorry to do this.
+
+291
+00:16:38,540 --> 00:16:41,542
+I need to ask these questions
+because the killer is out there right now,
+
+292
+00:16:41,543 --> 00:16:43,044
+and he could still be active.
+
+293
+00:16:48,341 --> 00:16:51,636
+I've never seen this girl,
+and Laura never mentioned her.
+
+294
+00:16:53,221 --> 00:16:55,223
+There's nothing else
+I can do for you, Detective.
+
+295
+00:17:21,291 --> 00:17:22,499
+[Ballard sighs]
+
+296
+00:17:22,500 --> 00:17:23,918
+[engine revs]
+
+297
+00:17:42,145 --> 00:17:43,396
+No one offers to help.
+
+298
+00:17:44,063 --> 00:17:46,399
+No one even looks at me.
+And Windel gets away.
+
+299
+00:17:47,734 --> 00:17:49,526
+[Ava] But he didn't get away, did he?
+
+300
+00:17:49,527 --> 00:17:52,071
+You arrested him in the back
+of that dry cleaners.
+
+301
+00:17:54,532 --> 00:17:55,616
+What I find interesting
+
+302
+00:17:55,617 --> 00:17:59,662
+is how this dream might relate
+to another recent event in your life.
+
+303
+00:18:00,288 --> 00:18:03,165
+Renée, it's common
+when victims of rape or sexual violence--
+
+304
+00:18:03,166 --> 00:18:04,501
+I wasn't raped.
+
+305
+00:18:06,669 --> 00:18:08,087
+Because you fought him off.
+
+306
+00:18:08,755 --> 00:18:14,468
+But I do wonder if running cold cases
+is proving to be a secondary trauma--
+
+307
+00:18:14,469 --> 00:18:15,678
+You're reaching.
+
+308
+00:18:16,429 --> 00:18:17,429
+Am I?
+
+309
+00:18:17,430 --> 00:18:19,389
+It's a position you were forced into
+
+310
+00:18:19,390 --> 00:18:22,977
+precisely because your brothers in blue
+turned their backs on you.
+
+311
+00:18:23,978 --> 00:18:28,732
+[stammers] In a way, maybe that betrayal
+is harder to stomach than what Olivas--
+
+312
+00:18:28,733 --> 00:18:30,610
+You know what... [sighs]
+
+313
+00:18:31,694 --> 00:18:33,737
+Can we just focus on the shooting? Please.
+
+314
+00:18:33,738 --> 00:18:36,699
+That's what I'm mandated
+to talk to you about, isn't it?
+
+315
+00:18:42,747 --> 00:18:43,873
+[sighs]
+
+316
+00:18:46,084 --> 00:18:47,210
+[elevator dings]
+
+317
+00:18:49,504 --> 00:18:51,296
+All right. It's not gonna be a problem.
+
+318
+00:18:51,297 --> 00:18:55,176
+There she is. Only woman I know
+who takes her shotgun to the cleaners.
+
+319
+00:18:55,885 --> 00:18:56,886
+[clears throat]
+
+320
+00:19:02,183 --> 00:19:04,978
+Yeah, all the shrinks are on six.
+Who they get you talking to?
+
+321
+00:19:05,937 --> 00:19:06,937
+Sandoval.
+
+322
+00:19:06,938 --> 00:19:09,315
+Oh. I like her. Nice rack.
+
+323
+00:19:10,775 --> 00:19:12,192
+You're an idiot, Pintero.
+
+324
+00:19:12,193 --> 00:19:13,486
+What? I'm kidding.
+
+325
+00:19:14,112 --> 00:19:17,365
+- You're always so uptight, Ballard.
+- Hey. Leave it.
+
+326
+00:19:18,157 --> 00:19:20,576
+- [Pintero sighs]
+- [exhales deeply]
+
+327
+00:19:20,577 --> 00:19:22,953
+- Hope the traffic's not too bad.
+- [elevator dings]
+
+328
+00:19:22,954 --> 00:19:24,414
+Long way back to the Ahmanson.
+
+329
+00:19:29,419 --> 00:19:32,255
+- Have a good day, Renée.
+- [Pintero] Come on, Chastain. Hurry up.
+
+330
+00:19:41,931 --> 00:19:43,182
+[breathes deeply]
+
+331
+00:19:51,900 --> 00:19:54,192
+Audition footage
+of Laura Wilson's toothpaste ad.
+
+332
+00:19:54,193 --> 00:19:56,946
+I found it in one of
+the more morbid corners of the Internet.
+
+333
+00:19:58,072 --> 00:19:59,990
+She'd shot a series of spots
+for the brand,
+
+334
+00:19:59,991 --> 00:20:02,285
+but they shelved the campaign
+after her murder.
+
+335
+00:20:04,913 --> 00:20:06,121
+Martina, you got something?
+
+336
+00:20:06,122 --> 00:20:09,041
+[clicks tongue, stammers]
+I don't know if it's...
+
+337
+00:20:09,042 --> 00:20:10,335
+There are no bad ideas.
+
+338
+00:20:13,212 --> 00:20:15,465
+I was looking through Sarah's yearbook.
+
+339
+00:20:16,549 --> 00:20:17,925
+She was in Drama Club.
+
+340
+00:20:17,926 --> 00:20:20,345
+So acting is something she could have
+in common with Laura.
+
+341
+00:20:20,929 --> 00:20:23,472
+Definitely not rare in LA.
+It could be how they crossed paths.
+
+342
+00:20:23,473 --> 00:20:25,182
+- Maybe worth a look?
+- [Ballard] Mm-hmm.
+
+343
+00:20:25,183 --> 00:20:29,811
+Got an email from NPRC confirming
+Brian Richmond's alibi.
+
+344
+00:20:29,812 --> 00:20:31,313
+Iraq '08.
+
+345
+00:20:31,314 --> 00:20:32,648
+All right. [sighs]
+
+346
+00:20:32,649 --> 00:20:35,652
+So we're back to square one
+on the Pearlman/Wilson murders.
+
+347
+00:20:37,195 --> 00:20:38,321
+Anything is worth a look.
+
+348
+00:20:41,532 --> 00:20:43,742
+- Where are we with Rawls's search?
+- [Zamira] No luck yet.
+
+349
+00:20:43,743 --> 00:20:44,826
+[Ballard sighs]
+
+350
+00:20:44,827 --> 00:20:47,329
+But I'm itching to get out there myself
+if you don't need me here.
+
+351
+00:20:47,330 --> 00:20:50,165
+Yeah. Good. Go. Make sure he's
+not just soaking up AC somewhere.
+
+352
+00:20:50,166 --> 00:20:51,250
+- [landline rings]
+- All right.
+
+353
+00:20:52,710 --> 00:20:54,462
+Yello. Hey, Ravi.
+
+354
+00:20:55,046 --> 00:20:56,339
+[whispers] The morgue.
+
+355
+00:20:58,341 --> 00:20:59,842
+No. No, I appreciate it.
+
+356
+00:21:00,510 --> 00:21:01,844
+Thanks for getting back to me.
+
+357
+00:21:03,513 --> 00:21:06,557
+Turns out Neylon
+was a no-show at Yulia's autopsy.
+
+358
+00:21:07,141 --> 00:21:08,559
+It's his case.
+
+359
+00:21:10,436 --> 00:21:14,773
+[sighs] We need to get that bullet
+ourselves and take it into ballistics.
+
+360
+00:21:14,774 --> 00:21:17,484
+There's gonna be hell to pay
+if you go behind his back.
+
+361
+00:21:17,485 --> 00:21:18,778
+I'm not going. You are.
+
+362
+00:21:20,154 --> 00:21:23,448
+The sooner we know if Yulia's bullet
+ties back to John Doe, the better.
+
+363
+00:21:23,449 --> 00:21:25,243
+[Laffont] Okay.
+
+364
+00:21:27,203 --> 00:21:28,204
+Can I go with him?
+
+365
+00:21:31,582 --> 00:21:33,000
+You wanna go to the morgue?
+
+366
+00:21:33,001 --> 00:21:34,085
+Definitely.
+
+367
+00:21:34,669 --> 00:21:37,463
+You know, for some
+real-world cop experience.
+
+368
+00:21:40,049 --> 00:21:42,592
+Heard you had a crazy full moon
+a few nights ago.
+
+369
+00:21:42,593 --> 00:21:44,762
+[chuckles] Yeah. Eleven homicides alone.
+
+370
+00:21:45,471 --> 00:21:47,015
+Made for some good overtime though.
+
+371
+00:21:49,100 --> 00:21:50,560
+Just wrapped up an hour ago.
+
+372
+00:21:56,024 --> 00:22:00,319
+The bullet we removed from her back.
+You clear this with Neylon?
+
+373
+00:22:01,029 --> 00:22:02,113
+As far as you know.
+
+374
+00:22:08,286 --> 00:22:09,996
+Hey. Hey.
+
+375
+00:22:11,289 --> 00:22:12,498
+You okay?
+
+376
+00:22:15,209 --> 00:22:16,919
+- Thanks.
+- [Ravi] You're welcome.
+
+377
+00:22:27,972 --> 00:22:28,973
+Uh-uh.
+
+378
+00:22:29,766 --> 00:22:31,059
+You need a warrant for that.
+
+379
+00:22:31,684 --> 00:22:32,934
+It's a tent.
+
+380
+00:22:32,935 --> 00:22:34,561
+Rules are rules.
+
+381
+00:22:34,562 --> 00:22:36,439
+Oh. [sighs]
+
+382
+00:22:38,733 --> 00:22:40,068
+Sorry about that.
+
+383
+00:22:52,914 --> 00:22:54,916
+- [chuckles]
+- What?
+
+384
+00:22:56,959 --> 00:22:58,377
+[Ted] This is a blanket from the motel.
+
+385
+00:22:59,003 --> 00:23:00,088
+Huh? [chuckles]
+
+386
+00:23:02,256 --> 00:23:04,175
+Don't be all full of yourself now.
+
+387
+00:23:05,760 --> 00:23:07,678
+Hey, anybody know whose tent this is?
+
+388
+00:23:19,774 --> 00:23:20,900
+I just wanna talk.
+
+389
+00:23:23,486 --> 00:23:26,280
+We found DNA that ties
+Sarah's killer to another murder.
+
+390
+00:23:28,157 --> 00:23:29,617
+You gonna pin this one on me too?
+
+391
+00:23:30,159 --> 00:23:31,786
+The murder that happened in '08
+
+392
+00:23:33,037 --> 00:23:34,080
+when you were deployed.
+
+393
+00:23:36,165 --> 00:23:37,458
+We know it wasn't you, Brian.
+
+394
+00:23:39,544 --> 00:23:40,920
+We know you didn't kill Sarah.
+
+395
+00:23:53,683 --> 00:23:56,644
+I need to ask you if you've ever
+seen this woman? Laura Wilson.
+
+396
+00:23:57,395 --> 00:23:59,188
+Is it possible that Sarah knew her?
+
+397
+00:23:59,689 --> 00:24:00,815
+Are you kidding me?
+
+398
+00:24:02,859 --> 00:24:03,860
+I'm sorry.
+
+399
+00:24:05,153 --> 00:24:06,444
+I know how much you've been through.
+
+400
+00:24:06,445 --> 00:24:10,074
+I just thought that maybe this
+would give you some kind of peace.
+
+401
+00:24:11,450 --> 00:24:13,578
+I was 19 when Sarah was killed.
+
+402
+00:24:15,872 --> 00:24:18,541
+I was on defense from day
+one 'cause of you people.
+
+403
+00:24:21,210 --> 00:24:23,504
+How the hell do you think
+you're gonna give me peace?
+
+404
+00:24:28,301 --> 00:24:30,136
+Can you just go?
+
+405
+00:24:32,054 --> 00:24:33,055
+Please.
+
+406
+00:24:37,810 --> 00:24:39,437
+[sighs] Take care of yourself, Brian.
+
+407
+00:24:48,321 --> 00:24:50,323
+[phone ringing]
+
+408
+00:24:53,576 --> 00:24:54,993
+- Rawls, what's up?
+- <i>Hey.</i>
+
+409
+00:24:54,994 --> 00:24:57,746
+Uh, we got a lead. This homeless woman.
+
+410
+00:24:57,747 --> 00:24:59,624
+Uh, sorry. Unhoused woman.
+
+411
+00:25:00,374 --> 00:25:02,500
+Uh, she had a blanket from the motel.
+
+412
+00:25:02,501 --> 00:25:06,755
+<i>Said she got it from a dude named Frosty,
+and even IDed him off of your photo.</i>
+
+413
+00:25:06,756 --> 00:25:08,340
+But now the volunteer at this shelter,
+
+414
+00:25:08,341 --> 00:25:10,425
+she said Frosty's
+real name is Sean Wright.
+
+415
+00:25:10,426 --> 00:25:12,344
+<i>And if he's not here, you can find him</i>
+
+416
+00:25:12,345 --> 00:25:14,721
+squatting at some drug den
+off of San Fernando.
+
+417
+00:25:14,722 --> 00:25:15,848
+You got an address?
+
+418
+00:25:31,948 --> 00:25:33,407
+Cops. [screams]
+
+419
+00:25:33,991 --> 00:25:36,117
+- [squatters screaming]
+- LAPD! Get your hands up!
+
+420
+00:25:36,118 --> 00:25:37,161
+[squatter] Run!
+
+421
+00:25:46,212 --> 00:25:48,214
+LAPD. Hands up. Hands up.
+
+422
+00:25:49,173 --> 00:25:51,883
+Sean. Sean, hands up!
+
+423
+00:25:51,884 --> 00:25:54,553
+Go, go, go. Out. Everybody out.
+
+424
+00:25:58,057 --> 00:25:59,684
+Stay behind me, Rawls.
+
+425
+00:26:00,226 --> 00:26:02,436
+- Hands.
+- [whimpers]
+
+426
+00:26:03,854 --> 00:26:05,189
+[Ted] Don't stop. Keep going.
+
+427
+00:26:09,860 --> 00:26:10,860
+Rawls.
+
+428
+00:26:10,861 --> 00:26:11,779
+[Ted grunts]
+
+429
+00:26:13,489 --> 00:26:15,240
+- You good?
+- Go.
+
+430
+00:26:15,241 --> 00:26:17,367
+Sean Wright. Hands on your head.
+
+431
+00:26:17,368 --> 00:26:19,536
+Hands on your head. On your knees now.
+
+432
+00:26:19,537 --> 00:26:21,246
+Down, down, down.
+
+433
+00:26:21,247 --> 00:26:24,166
+- Now!
+- [grunts, sighs]
+
+434
+00:26:26,585 --> 00:26:27,712
+[screams]
+
+435
+00:26:30,089 --> 00:26:31,549
+Holy shit.
+
+436
+00:26:34,427 --> 00:26:36,470
+- Shit.
+- [grunts]
+
+437
+00:26:38,848 --> 00:26:42,310
+[grunts, pants]
+
+438
+00:26:43,602 --> 00:26:45,146
+[horn honking]
+
+439
+00:26:47,273 --> 00:26:49,191
+Shit. [pants]
+
+440
+00:26:52,028 --> 00:26:53,487
+[Sean grunts, pants]
+
+441
+00:26:55,698 --> 00:26:56,907
+[Ballard grunts]
+
+442
+00:26:59,285 --> 00:27:00,328
+[Sean grunts]
+
+443
+00:27:03,664 --> 00:27:05,040
+- Jesus.
+- [Ballard groans]
+
+444
+00:27:05,041 --> 00:27:07,001
+He's running with a broken leg.
+
+445
+00:27:07,710 --> 00:27:09,462
+Shit can never just be easy.
+
+446
+00:27:16,218 --> 00:27:17,219
+Hi.
+
+447
+00:27:17,970 --> 00:27:19,262
+Ouch.
+
+448
+00:27:19,263 --> 00:27:20,388
+What happened to you?
+
+449
+00:27:20,389 --> 00:27:22,390
+Oh, no. It's fine. Uh, come on in.
+
+450
+00:27:22,391 --> 00:27:23,641
+Tutu's not home?
+
+451
+00:27:23,642 --> 00:27:26,478
+No. She's at a poker tournament
+in La Jolla.
+
+452
+00:27:26,479 --> 00:27:27,645
+Hmm.
+
+453
+00:27:27,646 --> 00:27:30,440
+I'm not sure I feel right
+being here without a chaperone.
+
+454
+00:27:30,441 --> 00:27:32,193
+I'm sure Lola will keep an eye on you.
+
+455
+00:27:41,035 --> 00:27:42,536
+I'd hate to see the other guy.
+
+456
+00:27:43,245 --> 00:27:46,332
+You know, he actually did more
+damage to himself than I did to him.
+
+457
+00:27:46,874 --> 00:27:50,585
+He's currently in the hospital,
+getting a fibula reset
+
+458
+00:27:50,586 --> 00:27:54,048
+and, um, coming down from PCP.
+
+459
+00:27:54,924 --> 00:27:58,176
+Some days the biggest danger
+I face at work is a sunburn.
+
+460
+00:27:58,177 --> 00:28:01,429
+[chuckles] Better watch out.
+
+461
+00:28:01,430 --> 00:28:04,182
+That face is no good to me
+unless it's got a youthful glow.
+
+462
+00:28:04,183 --> 00:28:05,309
+[chuckles]
+
+463
+00:28:06,560 --> 00:28:07,852
+[sighs]
+
+464
+00:28:07,853 --> 00:28:10,647
+I knew you'd had
+a bad day when you called.
+
+465
+00:28:10,648 --> 00:28:11,816
+How?
+
+466
+00:28:13,526 --> 00:28:15,235
+- Honestly?
+- Mm-hmm.
+
+467
+00:28:15,236 --> 00:28:16,821
+Those are the only days you call.
+
+468
+00:28:17,446 --> 00:28:18,447
+[swallows]
+
+469
+00:28:19,532 --> 00:28:20,533
+That's not true.
+
+470
+00:28:27,123 --> 00:28:29,208
+[sighs]
+
+471
+00:28:31,043 --> 00:28:33,170
+Sometimes it's just better for me
+
+472
+00:28:34,964 --> 00:28:38,007
+if I can keep you in the dark.
+
+473
+00:28:38,008 --> 00:28:42,847
+Because then maybe
+I can join you there. [sighs]
+
+474
+00:29:04,743 --> 00:29:05,953
+[utensils clattering]
+
+475
+00:29:20,301 --> 00:29:22,261
+You know, I could get used to this.
+
+476
+00:29:23,554 --> 00:29:24,805
+So could I.
+
+477
+00:29:26,474 --> 00:29:28,725
+Uh. Wow, this is embarrassing.
+
+478
+00:29:28,726 --> 00:29:31,144
+[chuckles] Don't be silly.
+I've seen all kinds.
+
+479
+00:29:31,145 --> 00:29:34,689
+- Renée told me that you were, uh...
+- In La Jolla. Yeah.
+
+480
+00:29:34,690 --> 00:29:36,149
+I came home this morning.
+
+481
+00:29:36,150 --> 00:29:38,277
+Busted out in the first round
+of the tourney.
+
+482
+00:29:39,028 --> 00:29:40,112
+That's too bad.
+
+483
+00:29:40,613 --> 00:29:42,363
+Ren was gone when I got home.
+
+484
+00:29:42,364 --> 00:29:44,699
+Uh, she said the captain
+called her in early.
+
+485
+00:29:44,700 --> 00:29:45,867
+Uh, well, I'll just...
+
+486
+00:29:45,868 --> 00:29:49,455
+Grab a seat. I'm making breakfast.
+You want some coffee?
+
+487
+00:29:52,041 --> 00:29:53,292
+Yeah.
+
+488
+00:30:02,051 --> 00:30:03,843
+[Bosch] <i>September 10th, 2008.</i>
+
+489
+00:30:03,844 --> 00:30:05,429
+<i>1640 hours.</i>
+
+490
+00:30:06,013 --> 00:30:08,014
+<i>Spoke to witness Adam Lennox.</i>
+
+491
+00:30:08,015 --> 00:30:09,683
+<i>Friend of Laura Wilson.</i>
+
+492
+00:30:10,434 --> 00:30:13,520
+<i>Lennox stated he saw a blue van
+parked outside Wilson's apartment...</i>
+
+493
+00:30:13,521 --> 00:30:15,105
+[captain] Ballard. Let's go.
+
+494
+00:30:20,528 --> 00:30:21,529
+Have a seat.
+
+495
+00:30:23,822 --> 00:30:25,491
+I believe you know Detective Neylon.
+
+496
+00:30:25,991 --> 00:30:26,992
+I do, sir.
+
+497
+00:30:27,660 --> 00:30:28,660
+Morning.
+
+498
+00:30:28,661 --> 00:30:32,205
+You're supposed to be
+working the Pearlman case, correct?
+
+499
+00:30:32,206 --> 00:30:35,375
+It is one of the investigations
+I'm focused on, yes.
+
+500
+00:30:35,376 --> 00:30:36,501
+And is that in any way relevant
+
+501
+00:30:36,502 --> 00:30:39,338
+to the Sunbeam murder
+you highjacked from Detective Neylon?
+
+502
+00:30:40,798 --> 00:30:42,925
+- Sir, I didn't highjack--
+- It's a simple yes or no.
+
+503
+00:30:45,052 --> 00:30:46,052
+[smacks lips] No, sir.
+
+504
+00:30:46,053 --> 00:30:48,263
+The Sunbeam case has nothing to do
+with Sarah Pearlman,
+
+505
+00:30:48,264 --> 00:30:51,266
+but I do believe it's related
+to another cold case that I'm working,
+
+506
+00:30:51,267 --> 00:30:53,851
+- and I wanted to be a team player--
+- You said you were RHD.
+
+507
+00:30:53,852 --> 00:30:55,311
+I am RHD.
+
+508
+00:30:55,312 --> 00:30:57,231
+Cold cases. That barely counts.
+
+509
+00:30:57,940 --> 00:31:00,066
+She stole my ballistics evidence.
+She's way outta line.
+
+510
+00:31:00,067 --> 00:31:01,735
+I couldn't agree more.
+
+511
+00:31:03,904 --> 00:31:05,363
+[clears throat]
+
+512
+00:31:05,364 --> 00:31:07,116
+But she's run circles around you.
+
+513
+00:31:08,659 --> 00:31:09,826
+What are you talking about?
+
+514
+00:31:09,827 --> 00:31:11,578
+She arrested your guy yesterday.
+
+515
+00:31:11,579 --> 00:31:13,706
+Before you even had your first lead.
+
+516
+00:31:14,957 --> 00:31:16,749
+- I was pursuing the--
+- It's Ballard's case now.
+
+517
+00:31:16,750 --> 00:31:18,127
+She earned it.
+
+518
+00:31:22,339 --> 00:31:23,340
+You're dismissed.
+
+519
+00:31:25,884 --> 00:31:26,885
+[scoffs]
+
+520
+00:31:30,306 --> 00:31:31,307
+[grunts]
+
+521
+00:31:39,273 --> 00:31:41,274
+I heard you got a little
+roughed up bagging the guy.
+
+522
+00:31:41,275 --> 00:31:43,318
+I don't like you
+getting in these skirmishes.
+
+523
+00:31:43,319 --> 00:31:46,446
+- I had backup.
+- A reserve officer and a volunteer.
+
+524
+00:31:46,447 --> 00:31:50,408
+Well, Parker's a former cop, and she's put
+in for her full-time reserve, so she's--
+
+525
+00:31:50,409 --> 00:31:52,160
+This suspect you got down at County...
+
+526
+00:31:52,161 --> 00:31:53,703
+case against him is thin.
+
+527
+00:31:53,704 --> 00:31:56,790
+Short of tying him to
+a murder weapon you don't have.
+
+528
+00:31:57,291 --> 00:31:58,959
+You're gonna need him to confess.
+
+529
+00:32:01,337 --> 00:32:02,338
+Yes, sir.
+
+530
+00:32:03,839 --> 00:32:05,840
+I stuck my neck out for you, Ballard.
+
+531
+00:32:05,841 --> 00:32:10,679
+Recommended you for cold cases when
+the Chief and others had a different idea.
+
+532
+00:32:11,639 --> 00:32:13,849
+- Yes, sir. I know.
+- Sew it up.
+
+533
+00:32:37,122 --> 00:32:38,457
+[person] Spit and slide under.
+
+534
+00:32:43,212 --> 00:32:46,799
+[chuckles] Renée Ballard bearing a gift.
+
+535
+00:32:47,383 --> 00:32:48,384
+Hey, Freddie.
+
+536
+00:32:50,552 --> 00:32:53,597
+- Ooh. She's a beauty.
+- Mm-hmm.
+
+537
+00:32:54,348 --> 00:32:55,848
+Must be a big ask.
+
+538
+00:32:55,849 --> 00:32:58,894
+Well, I was hoping you could, uh,
+bump me to the front of the line.
+
+539
+00:32:59,561 --> 00:33:01,896
+Uh, this about
+the bullet Laffont dropped off?
+
+540
+00:33:01,897 --> 00:33:03,732
+Yeah. Yulia Kravetz murder.
+
+541
+00:33:04,900 --> 00:33:07,610
+Cap's really riding me on this one,
+so the sooner the better.
+
+542
+00:33:07,611 --> 00:33:09,071
+There she is.
+
+543
+00:33:10,197 --> 00:33:13,742
+Hey, do you think you could also check
+ballistics against a John Doe I'm working?
+
+544
+00:33:15,119 --> 00:33:17,120
+- [sighs]
+- Freddie, did I mention this pot,
+
+545
+00:33:17,121 --> 00:33:18,414
+hand-painted.
+
+546
+00:33:22,918 --> 00:33:24,962
+You got it. Case number?
+
+547
+00:33:29,341 --> 00:33:31,926
+[Bosch] <i>April 23rd, 2011.</i>
+
+548
+00:33:31,927 --> 00:33:33,970
+<i>Reinterviewed Adam Lennox.</i>
+
+549
+00:33:33,971 --> 00:33:35,055
+<i>No new info.</i>
+
+550
+00:33:35,556 --> 00:33:37,932
+<i>February 1st, 2012.</i>
+
+551
+00:33:37,933 --> 00:33:39,100
+<i>No new info.</i>
+
+552
+00:33:39,101 --> 00:33:41,269
+<i>June 1st, 2013.</i>
+
+553
+00:33:41,270 --> 00:33:43,397
+<i>No new info.</i>
+
+554
+00:34:04,960 --> 00:34:05,961
+Mom.
+
+555
+00:34:07,546 --> 00:34:08,547
+Well, Mom...
+
+556
+00:34:10,215 --> 00:34:13,134
+O-Okay, and I will come see him tomorrow.
+
+557
+00:34:13,135 --> 00:34:14,552
+- I promise. I'm not gonna...
+- [PA beeps]
+
+558
+00:34:14,553 --> 00:34:16,637
+[nurse on PA] <i>Dr. Gellar.
+Please report to the Burn Unit.</i>
+
+559
+00:34:16,638 --> 00:34:17,765
+What? What?
+
+560
+00:34:18,599 --> 00:34:20,350
+No, it-it's nothing. It's...
+
+561
+00:34:21,059 --> 00:34:24,103
+[stammers] It's just some woman
+in, uh, in the store.
+
+562
+00:34:24,104 --> 00:34:25,397
+I don't-I don't know, Mom.
+
+563
+00:34:28,484 --> 00:34:29,735
+I have... I have to go.
+
+564
+00:34:30,986 --> 00:34:32,237
+Okay. I love you too.
+
+565
+00:34:33,322 --> 00:34:34,614
+[nurse on PA] <i>Dr. Bernard,</i>
+
+566
+00:34:34,615 --> 00:34:36,073
+- <i>please call line two.</i>
+- [sighs]
+
+567
+00:34:36,074 --> 00:34:37,658
+[nurse on PA] <i>Dr. Bernard, line two.</i>
+
+568
+00:34:37,659 --> 00:34:42,539
+She had some feelings about
+my time in the LAPD.
+
+569
+00:34:43,540 --> 00:34:47,084
+And if she gets a whiff of what I'm doing
+right now, she'd have a lot more.
+
+570
+00:34:47,085 --> 00:34:49,338
+[sighs] Don't sit on it too long.
+
+571
+00:34:51,673 --> 00:34:52,674
+How'd it go with Berchem?
+
+572
+00:34:53,467 --> 00:34:55,344
+Well, he gave me the case officially.
+
+573
+00:34:55,928 --> 00:34:57,553
+- Great.
+- Yeah.
+
+574
+00:34:57,554 --> 00:35:00,139
+But poaching Neylon's
+investigation puts a target on my back,
+
+575
+00:35:00,140 --> 00:35:01,432
+so I gotta make something of it.
+
+576
+00:35:01,433 --> 00:35:03,726
+Okay. Well, let's get this guy to confess.
+
+577
+00:35:03,727 --> 00:35:04,812
+Yeah.
+
+578
+00:35:14,196 --> 00:35:16,405
+Mr. Wright, did you know Yulia Kravetz?
+
+579
+00:35:16,406 --> 00:35:19,243
+[stammers] I didn't like her one bit.
+
+580
+00:35:20,786 --> 00:35:22,120
+Did you shoot her, Mr. Wright?
+
+581
+00:35:23,372 --> 00:35:24,540
+I never met her before.
+
+582
+00:35:25,791 --> 00:35:27,626
+You didn't like her,
+but you never met her?
+
+583
+00:35:30,295 --> 00:35:32,923
+When we arrested you,
+we found $600 in your pocket.
+
+584
+00:35:33,590 --> 00:35:34,758
+Where'd you get the money?
+
+585
+00:35:35,592 --> 00:35:38,136
+A man gave it to me. Uh, he paid me.
+
+586
+00:35:38,679 --> 00:35:39,846
+He paid you for what?
+
+587
+00:35:39,847 --> 00:35:41,557
+My soul. [chuckles]
+
+588
+00:35:45,811 --> 00:35:48,480
+Did he tell you anything? About Yulia.
+
+589
+00:35:49,314 --> 00:35:53,151
+He said she was rotten.
+And she'd make me rotten too.
+
+590
+00:35:54,820 --> 00:35:56,195
+Can you describe this man?
+
+591
+00:35:56,196 --> 00:35:59,574
+Uh, he was blinding his eyes.
+
+592
+00:35:59,575 --> 00:36:02,077
+Did he pay you to kill Yulia?
+
+593
+00:36:05,789 --> 00:36:07,331
+I thought you said he'd be sober by now.
+
+594
+00:36:07,332 --> 00:36:08,499
+He's dead-sober.
+
+595
+00:36:08,500 --> 00:36:11,627
+Our records show that he has
+a history of severe mental illness.
+
+596
+00:36:11,628 --> 00:36:13,088
+This is just who he is.
+
+597
+00:36:14,464 --> 00:36:15,465
+[Ballard sighs]
+
+598
+00:36:16,258 --> 00:36:18,510
+Whoever paid him knew he was long gone.
+
+599
+00:36:19,219 --> 00:36:20,804
+They used him as a weapon.
+
+600
+00:36:23,223 --> 00:36:24,432
+Where'd you put the gun, Sean?
+
+601
+00:36:24,433 --> 00:36:26,726
+[gasps] Oh. I planted it.
+
+602
+00:36:26,727 --> 00:36:28,311
+Like a seed in the earth.
+
+603
+00:36:28,312 --> 00:36:31,939
+I need you to tell me
+where you put the gun, Sean.
+
+604
+00:36:31,940 --> 00:36:36,403
+I planted it,
+and it grew into a rose garden.
+
+605
+00:36:38,196 --> 00:36:39,197
+[Ballard sighs]
+
+606
+00:36:43,368 --> 00:36:44,369
+[Parker] Thank you.
+
+607
+00:36:46,830 --> 00:36:47,915
+[sighs]
+
+608
+00:36:50,709 --> 00:36:53,253
+She started at the Sunbeam
+in February, right?
+
+609
+00:36:56,590 --> 00:36:57,674
+Hey, what's up?
+
+610
+00:36:58,216 --> 00:36:59,509
+Nothing. I'm fine.
+
+611
+00:37:04,348 --> 00:37:05,474
+[Laffont sighs]
+
+612
+00:37:07,100 --> 00:37:09,603
+The morgue.
+I cannot stop thinking about it.
+
+613
+00:37:10,103 --> 00:37:12,147
+All that sadness in one place.
+
+614
+00:37:15,150 --> 00:37:16,651
+When I was a boot at RHD,
+
+615
+00:37:16,652 --> 00:37:20,739
+my first partner told me that our job
+was to honor the dead.
+
+616
+00:37:22,157 --> 00:37:23,325
+[sighs] I try to think
+
+617
+00:37:24,326 --> 00:37:25,410
+if they could talk,
+
+618
+00:37:26,912 --> 00:37:28,455
+what would they want from me?
+
+619
+00:37:34,586 --> 00:37:36,712
+- So Sean Wright was a bust, huh?
+- [Ballard scoffs]
+
+620
+00:37:36,713 --> 00:37:38,130
+Guy's barely coherent.
+
+621
+00:37:38,131 --> 00:37:41,218
+Even if he did confess,
+it would never hold up in court.
+
+622
+00:37:42,302 --> 00:37:43,929
+Then we really need to find that gun.
+
+623
+00:37:44,513 --> 00:37:45,681
+Yes, we do.
+
+624
+00:37:46,932 --> 00:37:49,600
+I sent Rawls and Parker to search
+the area around the drug den.
+
+625
+00:37:49,601 --> 00:37:52,688
+But I need you to coordinate with them
+to set up a proper grid search.
+
+626
+00:37:53,605 --> 00:37:56,315
+Also, he mentioned... [sighs]
+...burying the gun,
+
+627
+00:37:56,316 --> 00:37:59,610
+so check all tree-lined streets,
+all surrounding parks.
+
+628
+00:37:59,611 --> 00:38:01,196
+- [sighs]
+- [Bosch] Ballard.
+
+629
+00:38:03,699 --> 00:38:04,908
+Harry.
+
+630
+00:38:05,575 --> 00:38:06,576
+Need a word.
+
+631
+00:38:13,125 --> 00:38:16,043
+I have spent years building
+a rapport with Vivian Wilson.
+
+632
+00:38:16,044 --> 00:38:18,671
+- You blow it up in one night?
+- There've been developments.
+
+633
+00:38:18,672 --> 00:38:19,755
+Bullshit.
+
+634
+00:38:19,756 --> 00:38:21,966
+You just wanna show the councilman
+you're out there shaking trees.
+
+635
+00:38:21,967 --> 00:38:23,217
+I'm not shaking trees.
+
+636
+00:38:23,218 --> 00:38:25,761
+You're trying to connect
+Laura's murder to Sarah.
+
+637
+00:38:25,762 --> 00:38:26,888
+I'm not trying.
+
+638
+00:38:27,639 --> 00:38:30,057
+They are connected. Through DNA.
+
+639
+00:38:30,058 --> 00:38:32,768
+There was no DNA at the Pearlman
+crime scene. Everyone knows that.
+
+640
+00:38:32,769 --> 00:38:34,146
+Everyone was wrong.
+
+641
+00:38:35,814 --> 00:38:37,733
+I lifted Touch DNA
+from the fingerprint tape.
+
+642
+00:38:45,949 --> 00:38:47,116
+Smart.
+
+643
+00:38:47,117 --> 00:38:48,201
+Thanks.
+
+644
+00:38:51,955 --> 00:38:54,458
+- Let me buy you lunch.
+- Sure.
+
+645
+00:38:55,542 --> 00:38:57,251
+[Bosch] Should I take it personally?
+
+646
+00:38:57,252 --> 00:38:58,711
+[Ballard] Take what personally?
+
+647
+00:38:58,712 --> 00:39:03,049
+[stammers] That you didn't call me up
+to come and turn your cold case closed.
+
+648
+00:39:03,050 --> 00:39:05,302
+- [chuckles]
+- [chuckles] Mmm.
+
+649
+00:39:06,386 --> 00:39:07,928
+You would never last.
+
+650
+00:39:07,929 --> 00:39:09,430
+You're a lone wolf, Harry Bosch.
+
+651
+00:39:09,431 --> 00:39:13,225
+Oh, yeah. Says the detective
+who decided not to reach out
+
+652
+00:39:13,226 --> 00:39:15,937
+and get the background
+on the Laura Wilson case.
+
+653
+00:39:18,148 --> 00:39:20,734
+You know, I'm just trying to get
+my head around how to run this unit.
+
+654
+00:39:21,234 --> 00:39:23,070
+It wasn't exactly in my five-year plan.
+
+655
+00:39:23,945 --> 00:39:25,946
+But the brass didn't give me much choice.
+
+656
+00:39:25,947 --> 00:39:27,865
+I really pissed some people off.
+
+657
+00:39:27,866 --> 00:39:30,452
+Yeah, I heard about that.
+I'm sorry it didn't go your way.
+
+658
+00:39:31,453 --> 00:39:34,872
+Well, ironically, I'm now defending
+the institution that shit all over me.
+
+659
+00:39:34,873 --> 00:39:37,083
+Yeah. Sounds about right.
+
+660
+00:39:37,084 --> 00:39:40,503
+You know, it doesn't even matter if
+it's a family member or a former suspect.
+
+661
+00:39:40,504 --> 00:39:44,673
+Everyone is so mad at the LAPD.
+And I'm the punching bag.
+
+662
+00:39:44,674 --> 00:39:45,926
+Yeah, I don't envy you.
+
+663
+00:39:47,636 --> 00:39:49,012
+Finding a killer is like
+
+664
+00:39:50,764 --> 00:39:52,348
+finding a needle in a haystack.
+
+665
+00:39:52,349 --> 00:39:56,560
+Except with a cold case,
+haystack's been blown all over the field.
+
+666
+00:39:56,561 --> 00:39:58,604
+Too bad I'm not good at anything else.
+
+667
+00:39:58,605 --> 00:40:00,023
+[chuckles] Amen, sister.
+
+668
+00:40:00,649 --> 00:40:05,361
+But... Can think of worse ways
+to live out your career.
+
+669
+00:40:05,362 --> 00:40:08,531
+Working with the team you handpicked.
+Out at the Ahmanson.
+
+670
+00:40:08,532 --> 00:40:10,117
+Away from all the prying eyes...
+
+671
+00:40:15,038 --> 00:40:16,123
+I miss Homicide.
+
+672
+00:40:16,623 --> 00:40:17,624
+I understand.
+
+673
+00:40:18,917 --> 00:40:22,002
+Somehow I think if
+I prove myself in cold cases
+
+674
+00:40:22,003 --> 00:40:24,256
+that maybe things can go
+back to the way they were.
+
+675
+00:40:27,592 --> 00:40:30,303
+The way things were
+might not exist anymore.
+
+676
+00:40:36,184 --> 00:40:37,769
+Let's look at the Laura Wilson book.
+
+677
+00:40:38,979 --> 00:40:42,399
+You know, most departments would have
+blue suiters on a grid search like this.
+
+678
+00:40:43,108 --> 00:40:45,401
+Most departments don't
+let civilians solve murders.
+
+679
+00:40:45,402 --> 00:40:46,527
+I'm not a civilian.
+
+680
+00:40:46,528 --> 00:40:49,029
+Reserves can do anything
+sworn officers can.
+
+681
+00:40:49,030 --> 00:40:50,115
+Mm-hmm.
+
+682
+00:40:51,032 --> 00:40:53,367
+Look, I got no problem
+being out here all this time.
+
+683
+00:40:53,368 --> 00:40:55,787
+I wanna solve Yulia's murder
+just as bad as you do.
+
+684
+00:40:56,413 --> 00:40:57,454
+Yeah, I doubt that.
+
+685
+00:40:57,455 --> 00:41:02,376
+But if Frosty's gun is-is, like,
+the linchpin here, we need more bodies.
+
+686
+00:41:02,377 --> 00:41:05,338
+We need uniformed officers, cadets even.
+
+687
+00:41:07,132 --> 00:41:08,758
+What? What are you looking at?
+
+688
+00:41:09,843 --> 00:41:13,221
+Frosty said that he planted a gun,
+and it grew a rose garden.
+
+689
+00:41:18,435 --> 00:41:19,644
+Oh.
+
+690
+00:41:22,522 --> 00:41:24,565
+Sorry, I got nothing to add to that.
+
+691
+00:41:24,566 --> 00:41:26,483
+- It's a frustrating case.
+- Yeah.
+
+692
+00:41:26,484 --> 00:41:28,986
+- No major breaks.
+- That's how the book reads.
+
+693
+00:41:28,987 --> 00:41:31,448
+- Any hunches?
+- Harmon Harris.
+
+694
+00:41:32,657 --> 00:41:35,994
+Didn't have a motive for him,
+but I didn't like his alibi.
+
+695
+00:41:36,536 --> 00:41:37,703
+What do you mean you didn't like it?
+
+696
+00:41:37,704 --> 00:41:39,914
+Well, he and this other guy, Adam Lennox,
+
+697
+00:41:39,915 --> 00:41:42,209
+they said that they'd
+been out together that night.
+
+698
+00:41:42,709 --> 00:41:46,503
+Their stories were identical,
+which tell you they were rehearsed.
+
+699
+00:41:46,504 --> 00:41:47,588
+Yeah.
+
+700
+00:41:47,589 --> 00:41:51,760
+Ironically, this guy Lennox was
+a student in Harris's acting class.
+
+701
+00:41:53,386 --> 00:41:55,222
+Sarah Pearlman was interested in acting.
+
+702
+00:41:56,223 --> 00:41:57,974
+Maybe Harmon Harris coached her too.
+
+703
+00:41:58,475 --> 00:41:59,643
+Good a lead as any.
+
+704
+00:42:02,854 --> 00:42:04,231
+[Ted] You ready to give up yet?
+
+705
+00:42:04,773 --> 00:42:06,774
+Guy was coming down hard.
+
+706
+00:42:06,775 --> 00:42:08,692
+The rose thing is probably nonsense.
+
+707
+00:42:08,693 --> 00:42:10,862
+- Do you ever shut up?
+- Hey.
+
+708
+00:42:11,404 --> 00:42:12,405
+[Parker] Jesus.
+
+709
+00:42:16,368 --> 00:42:18,369
+So... [clears throat] ...this Adam Lennox guy,
+
+710
+00:42:18,370 --> 00:42:19,870
+he was the one outside
+of Laura's apartment?
+
+711
+00:42:19,871 --> 00:42:22,122
+- He saw the blue van?
+- Yeah, a few nights before.
+
+712
+00:42:22,123 --> 00:42:25,876
+And I couldn't figure out if it was part
+of this whole story that they'd cooked up.
+
+713
+00:42:25,877 --> 00:42:28,420
+You know, a false lead,
+take the heat off of Harris.
+
+714
+00:42:28,421 --> 00:42:32,132
+Lennox said it was a blue van.
+The license plate started with...
+
+715
+00:42:32,133 --> 00:42:33,093
+A four.
+
+716
+00:42:33,927 --> 00:42:35,469
+Yeah. Checked it out.
+
+717
+00:42:35,470 --> 00:42:39,181
+Over 3,000 vans that fit that description
+that were on the road at that time.
+
+718
+00:42:39,182 --> 00:42:41,518
+- [phone rings]
+- Yeah. Needle in a haystack.
+
+719
+00:42:42,978 --> 00:42:44,019
+Yeah, Parker.
+
+720
+00:42:44,020 --> 00:42:45,312
+We found a gun.
+
+721
+00:42:45,313 --> 00:42:46,438
+You did?
+
+722
+00:42:46,439 --> 00:42:47,857
+<i>Six shooter.</i>
+
+723
+00:42:48,525 --> 00:42:50,943
+Next to a mural with a bunch of roses
+if you could believe it.
+
+724
+00:42:50,944 --> 00:42:52,444
+All right. Let's get it to FAU
+
+725
+00:42:52,445 --> 00:42:55,156
+and, uh, see if the bullet matches
+the one that killed Yulia.
+
+726
+00:42:55,699 --> 00:42:57,032
+- I'll see you there.
+- <i>Okay.</i>
+
+727
+00:42:57,033 --> 00:42:58,450
+Laura Wilson?
+
+728
+00:42:58,451 --> 00:43:00,995
+No, it's a different case. But I gotta go.
+
+729
+00:43:00,996 --> 00:43:03,497
+You need me, just whistle real loud.
+
+730
+00:43:03,498 --> 00:43:04,708
+Thanks, Harry.
+
+731
+00:43:06,459 --> 00:43:10,045
+Survey says,
+the bullet from Yulia Kravetz's body
+
+732
+00:43:10,046 --> 00:43:11,965
+was indeed fired by
+the six-shooter you found.
+
+733
+00:43:12,882 --> 00:43:15,050
+Given Sean Wright's prints
+are on that gun...
+
+734
+00:43:15,051 --> 00:43:16,636
+We got Frosty dead to rights.
+
+735
+00:43:17,262 --> 00:43:18,470
+Any hits in the system?
+
+736
+00:43:18,471 --> 00:43:19,930
+No. Nothing.
+
+737
+00:43:19,931 --> 00:43:21,890
+Not even on my John Doe?
+
+738
+00:43:21,891 --> 00:43:23,642
+[sighs] I looked that one up specifically.
+
+739
+00:43:23,643 --> 00:43:26,438
+Turns out that bullet from
+that case was never even analyzed.
+
+740
+00:43:28,064 --> 00:43:29,773
+- You sure?
+- Mmm.
+
+741
+00:43:29,774 --> 00:43:32,109
+Could've gotten lost in
+the shuffle at Property.
+
+742
+00:43:32,110 --> 00:43:34,279
+- It happens.
+- [sighs] Shame.
+
+743
+00:43:34,904 --> 00:43:37,407
+No wonder that case went cold. Hmm.
+
+744
+00:43:41,578 --> 00:43:44,038
+I called in that bullet to be analyzed.
+
+745
+00:43:44,039 --> 00:43:46,291
+- Parker, you sure?
+- I know I did.
+
+746
+00:43:47,000 --> 00:43:48,459
+It was right before I left the force,
+
+747
+00:43:48,460 --> 00:43:50,545
+otherwise I would've
+followed up on it myself.
+
+748
+00:43:51,504 --> 00:43:55,258
+[sighs] I'm telling you, someone in
+the LAPD let John Doe's murder go cold.
+
+749
+00:43:58,678 --> 00:44:00,597
+If you're right,
+and I'm not saying you are...
+
+750
+00:44:01,473 --> 00:44:04,434
+[sighs] ...we're headed for
+some dark fucking waters.
+
+751
+00:44:12,400 --> 00:44:13,902
+[phone buzzes]
+
+752
+00:44:14,944 --> 00:44:15,945
+Hey.
+
+753
+00:44:17,572 --> 00:44:19,657
+Hey all is <i>bueno</i>. Case closed.
+
+754
+00:44:20,575 --> 00:44:21,909
+She arrested the shooter.
+
+755
+00:44:21,910 --> 00:44:24,746
+And you know he's a dead end.
+Can't even string a sentence together.
+
+756
+00:44:25,413 --> 00:44:26,748
+This won't come back on us.
+
+757
+00:44:30,543 --> 00:44:33,171
+Sure, I could have a little fun with that.
+
+758
+00:44:34,631 --> 00:44:35,632
+Shit.
+
+759
+00:44:36,341 --> 00:44:37,634
+She won't know what hit her.
+
