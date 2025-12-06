@@ -1,0 +1,3339 @@
+1
+00:00:24,232 --> 00:00:25,692
+Shh.
+
+2
+00:00:35,660 --> 00:00:37,911
+I don't want to go.
+
+3
+00:00:37,912 --> 00:00:40,582
+Oh, there's nothing
+to be afraid of down there.
+
+4
+00:00:41,875 --> 00:00:43,126
+Come on.
+
+5
+00:00:44,419 --> 00:00:45,545
+Good girl.
+
+6
+00:00:49,591 --> 00:00:51,009
+What's your name, dear?
+
+7
+00:00:52,635 --> 00:00:53,762
+Mabel.
+
+8
+00:01:12,280 --> 00:01:13,656
+So, Mabel...
+
+9
+00:01:15,158 --> 00:01:17,368
+this is where the clown told you
+to meet him?
+
+10
+00:01:19,537 --> 00:01:20,955
+You can tell me.
+
+11
+00:01:50,693 --> 00:01:51,735
+It's okay.
+
+12
+00:01:51,736 --> 00:01:54,239
+Sweetheart, it's okay.
+It's just a balloon.
+
+13
+00:02:19,597 --> 00:02:22,391
+{\an8}<i>♪ A smile is something special ♪</i>
+
+14
+00:02:22,392 --> 00:02:25,102
+{\an8}<i>♪ A ribbon is something rare ♪</i>
+
+15
+00:02:25,103 --> 00:02:28,021
+{\an8}<i>♪ So I'll be special
+And I'll be rare ♪</i>
+
+16
+00:02:28,022 --> 00:02:32,235
+{\an8}<i>♪ With a smile
+And a ribbon in my hair ♪</i>
+
+17
+00:02:33,736 --> 00:02:36,363
+{\an8}<i>♪ To be a girl they notice ♪</i>
+
+18
+00:02:36,364 --> 00:02:39,283
+{\an8}<i>♪ Takes more
+Than a fancy dress ♪</i>
+
+19
+00:02:39,284 --> 00:02:42,327
+{\an8}<i>♪ So I'll be noticed
+Because I'll dress ♪</i>
+
+20
+00:02:42,328 --> 00:02:47,292
+<i>♪ With a smile
+And a ribbon in my tresses ♪</i>
+
+21
+00:02:48,209 --> 00:02:50,711
+{\an8}<i>♪ The bigger my toothy grin is ♪</i>
+
+22
+00:02:50,712 --> 00:02:53,589
+{\an8}<i>♪ The smaller my troubles grow ♪</i>
+
+23
+00:02:53,590 --> 00:02:56,425
+{\an8}<i>♪ The louder I say I'm happy ♪</i>
+
+24
+00:02:56,426 --> 00:02:58,886
+{\an8}<i>♪ The more I believe it so ♪</i>
+
+25
+00:02:58,887 --> 00:03:02,097
+{\an8}<i>♪ So I'll have
+That extra something ♪</i>
+
+26
+00:03:02,098 --> 00:03:04,892
+{\an8}<i>♪ 'Cause I'll know
+What to wear ♪</i>
+
+27
+00:03:04,893 --> 00:03:08,103
+{\an8}<i>♪ So I'll be special
+And I'll be rare ♪</i>
+
+28
+00:03:08,104 --> 00:03:10,981
+{\an8}<i>♪ I'll be something
+Beyond compare ♪</i>
+
+29
+00:03:10,982 --> 00:03:13,442
+{\an8}<i>♪ I'll be noticed
+Because I'll wear ♪</i>
+
+30
+00:03:13,443 --> 00:03:17,822
+<i>♪ A smile
+And a ribbon in my hair ♪</i>
+
+31
+00:03:19,449 --> 00:03:21,950
+{\an8}<i>♪ The bigger my toothy grin is ♪</i>
+
+32
+00:03:21,951 --> 00:03:24,870
+{\an8}<i>♪ The smaller my troubles grow ♪</i>
+
+33
+00:03:24,871 --> 00:03:27,664
+<i>♪ The louder I say I'm happy ♪</i>
+
+34
+00:03:27,665 --> 00:03:30,167
+{\an8}<i>♪ The more I believe it so ♪</i>
+
+35
+00:03:30,168 --> 00:03:33,337
+{\an8}<i>♪ So I'll have
+That extra something ♪</i>
+
+36
+00:03:33,338 --> 00:03:36,131
+{\an8}<i>♪ 'Cause I'll know
+What to wear ♪</i>
+
+37
+00:03:36,132 --> 00:03:39,468
+{\an8}<i>♪ So I'll be special
+And I'll be rare ♪</i>
+
+38
+00:03:39,469 --> 00:03:42,304
+<i>♪ I'll be something
+Beyond compare ♪</i>
+
+39
+00:03:42,305 --> 00:03:44,932
+<i>♪ I'll be noticed
+Because I'll wear ♪</i>
+
+40
+00:03:44,933 --> 00:03:51,564
+<i>♪ A smile
+And a ribbon in my hair ♪</i>
+
+41
+00:04:00,240 --> 00:04:03,659
+<i>Duck and cover, kiddos.</i>
+
+42
+00:04:03,660 --> 00:04:05,661
+What you don't understand is,
+
+43
+00:04:05,662 --> 00:04:07,455
+I could have killed you
+down there.
+
+44
+00:04:08,498 --> 00:04:11,333
+But instead, I had to send
+my best friend home
+
+45
+00:04:11,334 --> 00:04:12,543
+in a box.
+
+46
+00:04:14,837 --> 00:04:16,381
+Because you disobeyed me.
+
+47
+00:04:17,215 --> 00:04:18,423
+Come on, Dad. That's not fair.
+
+48
+00:04:18,424 --> 00:04:19,883
+You know
+what killed Uncle Pauly.
+
+49
+00:04:19,884 --> 00:04:22,761
+What I know is I have a son
+that has no goddamn sense.
+
+50
+00:04:22,762 --> 00:04:24,805
+- Okay, Leroy.
+- Charlotte, I'm sorry.
+
+51
+00:04:24,806 --> 00:04:27,391
+You have to stay out of this.
+You were not there.
+
+52
+00:04:27,392 --> 00:04:29,935
+This thing could change
+its shape.
+
+53
+00:04:29,936 --> 00:04:31,395
+Like, it could see
+inside my head.
+
+54
+00:04:31,396 --> 00:04:34,022
+- How is that possible, Lee?
+- I don't know.
+
+55
+00:04:34,023 --> 00:04:36,400
+But I do know
+these weren't mind games.
+
+56
+00:04:36,401 --> 00:04:38,235
+This was real. This was solid.
+
+57
+00:04:38,236 --> 00:04:40,822
+- It killed trained soldiers.
+- Dad, I know what it can do.
+
+58
+00:04:41,781 --> 00:04:43,156
+It's come after us
+a bunch of times,
+
+59
+00:04:43,157 --> 00:04:44,324
+and it's not gonna stop.
+
+60
+00:04:44,325 --> 00:04:46,243
+Well, it can't touch you
+out here. Outside of Derry.
+
+61
+00:04:46,244 --> 00:04:48,453
+So, from now on,
+you don't leave your room
+
+62
+00:04:48,454 --> 00:04:49,621
+without my permission.
+
+63
+00:04:49,622 --> 00:04:51,165
+Do you understand?
+
+64
+00:04:52,417 --> 00:04:53,542
+No.
+
+65
+00:04:53,543 --> 00:04:56,212
+Baby, mind your daddy now.
+
+66
+00:04:58,673 --> 00:05:00,757
+No! You always told me
+
+67
+00:05:00,758 --> 00:05:02,884
+that a man should never
+hide from trouble.
+
+68
+00:05:02,885 --> 00:05:05,012
+That what makes life count
+are the friends you make
+
+69
+00:05:05,013 --> 00:05:08,098
+and the risks you take.
+Well, I've got friends now, Dad.
+
+70
+00:05:08,099 --> 00:05:09,433
+I've got friends
+and they need me,
+
+71
+00:05:09,434 --> 00:05:11,310
+and I'm gonna be there for them,
+just like you would.
+
+72
+00:05:11,311 --> 00:05:14,062
+You are not me.
+
+73
+00:05:14,063 --> 00:05:16,398
+Yeah, I know that.
+I know I'm not you
+
+74
+00:05:16,399 --> 00:05:18,066
+'cause I would never
+let my friends die.
+
+75
+00:05:19,319 --> 00:05:20,486
+Leroy!
+
+76
+00:05:30,163 --> 00:05:33,081
+- I'm sorry, son.
+- It's gotten to you too.
+
+77
+00:05:33,082 --> 00:05:34,750
+It's gotten to your head.
+
+78
+00:05:34,751 --> 00:05:36,376
+No.
+
+79
+00:05:36,377 --> 00:05:38,880
+- Come here, son.
+- Get away from me!
+
+80
+00:05:57,315 --> 00:06:01,235
+<i>♪ Just runnin' scared ♪</i>
+
+81
+00:06:03,196 --> 00:06:06,991
+<i>♪ Each place we go ♪</i>
+
+82
+00:06:09,410 --> 00:06:12,830
+{\an8}<i>♪ So afraid ♪</i>
+
+83
+00:06:14,540 --> 00:06:17,877
+{\an8}<i>♪ That he might show ♪</i>
+
+84
+00:06:20,213 --> 00:06:24,425
+<i>♪ Yeah, runnin' scared ♪</i>
+
+85
+00:06:25,843 --> 00:06:29,722
+<i>♪ What would I do ♪</i>
+
+86
+00:06:31,933 --> 00:06:35,435
+<i>♪ If he came back ♪</i>
+
+87
+00:06:37,146 --> 00:06:41,359
+<i>♪ And wanted you? ♪</i>
+
+88
+00:06:42,777 --> 00:06:46,739
+<i>♪ Just runnin' scared ♪</i>
+
+89
+00:06:48,908 --> 00:06:52,327
+<i>♪ Feelin' low ♪</i>
+
+90
+00:06:54,664 --> 00:06:58,334
+<i>♪ Runnin' scared ♪</i>
+
+91
+00:06:59,669 --> 00:07:03,631
+<i>♪ And wanted you ♪</i>
+
+92
+00:07:07,718 --> 00:07:08,969
+What is that?
+
+93
+00:07:08,970 --> 00:07:10,303
+It was under the water
+
+94
+00:07:10,304 --> 00:07:11,764
+when the clown was
+coming after me.
+
+95
+00:07:13,182 --> 00:07:15,475
+It started to glow, and...
+
+96
+00:07:15,476 --> 00:07:17,562
+and he looked at it
+almost like...
+
+97
+00:07:18,187 --> 00:07:19,730
+like he was afraid.
+
+98
+00:07:20,815 --> 00:07:23,067
+Afraid? Really?
+
+99
+00:07:23,776 --> 00:07:24,777
+Yeah.
+
+100
+00:07:25,570 --> 00:07:27,572
+Then he backed away and just...
+
+101
+00:07:28,781 --> 00:07:29,907
+disappeared.
+
+102
+00:07:33,035 --> 00:07:34,203
+Can I see?
+
+103
+00:07:35,455 --> 00:07:36,622
+I'll hold it.
+
+104
+00:07:38,624 --> 00:07:40,208
+Fine.
+
+105
+00:07:42,879 --> 00:07:44,254
+They look like hieroglyphs.
+
+106
+00:07:44,255 --> 00:07:46,047
+I thought
+those were Egyptian.
+
+107
+00:07:46,048 --> 00:07:48,383
+All ancient civilizations
+have hieroglyphs.
+
+108
+00:07:48,384 --> 00:07:49,510
+It's a Greek word.
+
+109
+00:07:49,969 --> 00:07:51,720
+Exactly.
+
+110
+00:07:51,721 --> 00:07:54,556
+Whatever it is,
+if this thing is scared of it,
+
+111
+00:07:54,557 --> 00:07:56,975
+maybe we can use it.
+
+112
+00:07:56,976 --> 00:08:00,605
+We go back down there,
+all of us together,
+
+113
+00:08:01,981 --> 00:08:03,107
+and we kill it.
+
+114
+00:08:06,402 --> 00:08:09,070
+You really
+expect us to listen to you?
+
+115
+00:08:09,071 --> 00:08:11,198
+You're the one
+who dragged us down there
+
+116
+00:08:11,199 --> 00:08:12,533
+in the first damn place.
+
+117
+00:08:13,034 --> 00:08:14,868
+We almost died.
+
+118
+00:08:14,869 --> 00:08:16,621
+And now you want us to go back?
+
+119
+00:08:17,788 --> 00:08:19,415
+You are crazy.
+
+120
+00:08:20,291 --> 00:08:22,000
+What did you call me?
+
+121
+00:08:26,255 --> 00:08:27,589
+Lilly?
+
+122
+00:08:27,590 --> 00:08:29,257
+- Just give it--
+- Don't touch it!
+
+123
+00:08:33,763 --> 00:08:35,389
+You think I wanted this?
+
+124
+00:08:36,474 --> 00:08:38,642
+If I could go back, I'd never
+have gone to your house
+
+125
+00:08:38,643 --> 00:08:40,268
+in the first place.
+
+126
+00:08:40,269 --> 00:08:42,437
+You were up in the booth.
+You didn't see.
+
+127
+00:08:42,438 --> 00:08:45,398
+I was the only one who made it
+out of that theater.
+
+128
+00:08:45,399 --> 00:08:46,942
+And for Matty to come back
+and tell us
+
+129
+00:08:46,943 --> 00:08:49,236
+there was a chance
+that Phil was still alive?
+
+130
+00:08:49,237 --> 00:08:50,862
+What was I supposed to do?
+
+131
+00:08:50,863 --> 00:08:53,698
+If you hadn't come
+to my house that day,
+
+132
+00:08:53,699 --> 00:08:55,700
+they probably would
+still be alive.
+
+133
+00:08:55,701 --> 00:08:57,911
+And the cops wouldn't be
+hunting my daddy
+
+134
+00:08:57,912 --> 00:08:59,246
+like some kind of animal.
+
+135
+00:08:59,247 --> 00:09:01,957
+All I wanted was to help you.
+
+136
+00:09:01,958 --> 00:09:05,001
+A lot of good it did.
+I wish I never tried.
+
+137
+00:09:05,002 --> 00:09:07,754
+- Guys--
+- And I wish I'd never met you,
+Lilly Bainbridge!
+
+138
+00:09:07,755 --> 00:09:09,381
+Can't you see?
+
+139
+00:09:09,382 --> 00:09:12,467
+This is what it wants!
+To turn us against each other.
+
+140
+00:09:12,468 --> 00:09:16,055
+They should have never
+let you out of Juniper Hill!
+
+141
+00:09:21,811 --> 00:09:23,187
+I'll go make sure she's okay.
+
+142
+00:09:29,485 --> 00:09:31,237
+- She didn't mean that.
+- Don't.
+
+143
+00:09:32,780 --> 00:09:35,533
+Just... Just leave me alone.
+
+144
+00:10:04,687 --> 00:10:06,313
+Hallorann?
+
+145
+00:10:06,314 --> 00:10:07,564
+Where you been?
+
+146
+00:10:07,565 --> 00:10:08,858
+Can't tell you.
+
+147
+00:10:09,609 --> 00:10:11,109
+Okay. Place looks good, huh?
+
+148
+00:10:11,110 --> 00:10:13,528
+Yeah,
+we're gonna get something going
+later tomorrow night,
+
+149
+00:10:13,529 --> 00:10:15,363
+bring some ladies, some music,
+
+150
+00:10:15,364 --> 00:10:16,656
+break this place in.
+
+151
+00:10:16,657 --> 00:10:19,076
+Yeah, it's gonna be
+a real good time.
+
+152
+00:10:23,623 --> 00:10:24,957
+Shit.
+
+153
+00:10:27,376 --> 00:10:28,419
+You need this?
+
+154
+00:10:29,170 --> 00:10:30,546
+More than you know.
+
+155
+00:10:41,098 --> 00:10:42,350
+You good?
+
+156
+00:10:43,559 --> 00:10:44,560
+Yeah.
+
+157
+00:10:46,729 --> 00:10:50,231
+Fuckin' ice box leakin'.
+Need to replace that.
+
+158
+00:10:50,232 --> 00:10:51,525
+Floorboard is rottin'.
+
+159
+00:10:54,820 --> 00:10:57,280
+I'm gonna polish off
+this bottle of Pap,
+
+160
+00:10:57,281 --> 00:10:59,366
+catch myself a couple Z's
+in the back.
+
+161
+00:10:59,367 --> 00:11:00,951
+Y-- You can't.
+
+162
+00:11:02,495 --> 00:11:04,120
+We got something
+we gotta talk about.
+
+163
+00:11:09,752 --> 00:11:10,877
+Tell me.
+
+164
+00:11:10,878 --> 00:11:12,629
+Can you believe her?
+It's like she won't stop
+
+165
+00:11:12,630 --> 00:11:14,005
+until one of us is dead.
+
+166
+00:11:14,006 --> 00:11:15,715
+We barely made it
+out of those tunnels alive,
+
+167
+00:11:15,716 --> 00:11:17,842
+and now she's trying
+to serve us up
+to that thing again?
+
+168
+00:11:17,843 --> 00:11:19,261
+She must have snapped her cap!
+
+169
+00:11:19,887 --> 00:11:21,180
+You agree with me, right?
+
+170
+00:11:21,681 --> 00:11:23,182
+Yeah. Definitely.
+
+171
+00:11:24,392 --> 00:11:25,935
+You think I went too far?
+
+172
+00:11:26,560 --> 00:11:27,603
+I mean...
+
+173
+00:11:28,521 --> 00:11:29,897
+Maybe I did, but...
+
+174
+00:11:33,567 --> 00:11:34,819
+I'm just tired.
+
+175
+00:11:35,778 --> 00:11:37,612
+I'm tired of being scared.
+
+176
+00:11:40,116 --> 00:11:41,158
+I know.
+
+177
+00:11:42,576 --> 00:11:43,703
+Me too.
+
+178
+00:12:09,353 --> 00:12:11,938
+William Dubois Hanlon?
+
+179
+00:12:11,939 --> 00:12:14,107
+Get your disobedient behind
+in this car right now.
+
+180
+00:12:15,484 --> 00:12:16,610
+Dubois?
+
+181
+00:12:18,988 --> 00:12:20,864
+You too, little miss.
+
+182
+00:12:20,865 --> 00:12:23,033
+Me? Why?
+
+183
+00:12:24,785 --> 00:12:26,579
+Y'all think y'all grown?
+
+184
+00:12:27,705 --> 00:12:28,873
+Mm-hmm.
+
+185
+00:12:41,010 --> 00:12:42,552
+Oh shit.
+
+186
+00:12:42,553 --> 00:12:44,304
+Are you-- Is that who
+the fuck I think that is?
+
+187
+00:12:44,305 --> 00:12:45,346
+Yeah, but--
+
+188
+00:12:45,347 --> 00:12:47,182
+They got posters of the man
+all over town, Reggie.
+
+189
+00:12:47,183 --> 00:12:49,851
+They got-- got rewards
+for this man and everything.
+
+190
+00:12:49,852 --> 00:12:51,227
+No, no, no, no, no, no, no.
+
+191
+00:12:51,228 --> 00:12:53,188
+- Please, I-- I-- Please.
+- No, no, no. No. No!
+
+192
+00:12:53,189 --> 00:12:55,023
+Mrs. Hanlon asked
+if we could hide him here.
+
+193
+00:12:55,024 --> 00:12:56,357
+What was I supposed to say?
+
+194
+00:12:56,358 --> 00:12:59,235
+I think that you are inviting
+a whole lot of hurt up in here.
+
+195
+00:12:59,236 --> 00:13:01,362
+She says she's got
+a plan to get him out of town.
+
+196
+00:13:01,363 --> 00:13:03,031
+Just needs a couple days
+to get it all straight.
+
+197
+00:13:03,032 --> 00:13:04,407
+Like, what do you expect me
+to do?
+
+198
+00:13:04,408 --> 00:13:05,533
+Turn him over to some lynch mob?
+
+199
+00:13:05,534 --> 00:13:06,993
+Look, I'll--
+I'll stay out of sight.
+
+200
+00:13:06,994 --> 00:13:09,078
+I'll stay out of sight.
+I-- I-- I promise, sir.
+
+201
+00:13:09,079 --> 00:13:11,207
+I won't leave this room. Please.
+
+202
+00:13:12,082 --> 00:13:14,125
+Please.
+
+203
+00:13:14,126 --> 00:13:15,753
+I don't need this shit
+right now.
+
+204
+00:13:19,548 --> 00:13:21,549
+Where is he? Daddy?
+
+205
+00:13:21,550 --> 00:13:22,717
+- Ronnie?
+- Daddy!
+
+206
+00:13:22,718 --> 00:13:24,719
+Ronnie! Ronnie!
+
+207
+00:13:24,720 --> 00:13:26,805
+- Daddy!
+- Oh God! Oh God!
+
+208
+00:13:26,806 --> 00:13:30,934
+Oh, baby.
+
+209
+00:13:30,935 --> 00:13:33,895
+Oh, I missed you!
+Let me look at you.
+
+210
+00:13:33,896 --> 00:13:36,564
+- You okay? Let me see you.
+- I missed you.
+
+211
+00:13:36,565 --> 00:13:38,942
+- I missed you so much.
+- I missed you too.
+
+212
+00:13:38,943 --> 00:13:40,568
+We've been looking
+for you everywhere.
+
+213
+00:13:40,569 --> 00:13:42,737
+It's all right, baby.
+No one knows about this place.
+
+214
+00:13:42,738 --> 00:13:45,365
+Just a few colored airmen
+from the base.
+
+215
+00:13:48,369 --> 00:13:50,370
+I'm so sorry.
+
+216
+00:13:50,371 --> 00:13:52,289
+- I'm sorry I left you.
+- Hey.
+
+217
+00:13:53,123 --> 00:13:54,333
+Thank you for doing this.
+
+218
+00:13:54,959 --> 00:13:56,751
+Leave me out of this.
+
+219
+00:13:56,752 --> 00:13:58,920
+I'm so sorry.
+
+220
+00:13:58,921 --> 00:14:01,089
+How'd they find you?
+
+221
+00:14:01,090 --> 00:14:04,008
+A friend of mine reached out
+to-- to Mrs. Hanlon for me.
+
+222
+00:14:04,009 --> 00:14:06,345
+- Who?
+- It's a long story, baby.
+
+223
+00:14:07,263 --> 00:14:09,472
+What's important is
+that we're together
+
+224
+00:14:09,473 --> 00:14:11,266
+and we're gonna stay together.
+
+225
+00:14:11,267 --> 00:14:13,268
+Ain't no one gonna
+keep us apart ever again.
+
+226
+00:14:13,269 --> 00:14:15,812
+Hmm? Ever again, okay?
+
+227
+00:14:15,813 --> 00:14:19,607
+Yeah, let 'em try. Okay?
+
+228
+00:14:19,608 --> 00:14:21,192
+Oh, I missed you.
+
+229
+00:14:21,193 --> 00:14:22,443
+I missed you.
+
+230
+00:14:22,444 --> 00:14:24,779
+You wanna talk about
+what happened this morning?
+
+231
+00:14:24,780 --> 00:14:27,533
+I'm here for you. I got you.
+
+232
+00:14:29,660 --> 00:14:30,744
+My baby girl.
+
+233
+00:14:31,579 --> 00:14:32,745
+It's gonna be all right.
+
+234
+00:14:34,874 --> 00:14:37,000
+You're safe.
+You're safe, okay?
+
+235
+00:14:37,001 --> 00:14:41,963
+It's okay. It's okay.
+It's okay, baby.
+
+236
+00:15:01,817 --> 00:15:03,360
+Hey.
+
+237
+00:15:03,986 --> 00:15:05,029
+Hey.
+
+238
+00:15:07,323 --> 00:15:08,489
+You scared me.
+
+239
+00:15:08,490 --> 00:15:09,991
+Sorry.
+
+240
+00:15:09,992 --> 00:15:12,452
+I didn't think
+anybody would be here.
+
+241
+00:15:12,453 --> 00:15:14,454
+Um, what are you doing here?
+
+242
+00:15:14,455 --> 00:15:16,290
+Still haven't landed one
+on Main Street.
+
+243
+00:15:17,917 --> 00:15:21,044
+- Want to try?
+- I have to redress my eye.
+
+244
+00:15:21,045 --> 00:15:23,838
+- The tape is hard to take off.
+- Want some help?
+
+245
+00:15:23,839 --> 00:15:26,050
+I was a Webelo
+for a couple years.
+
+246
+00:15:27,092 --> 00:15:28,676
+I know the trick
+to taking a bandage off
+
+247
+00:15:28,677 --> 00:15:29,887
+without it hurting.
+
+248
+00:15:30,679 --> 00:15:31,931
+It's really gross.
+
+249
+00:15:49,657 --> 00:15:51,699
+Ew, what are you doing?
+
+250
+00:15:51,700 --> 00:15:53,868
+What? If you wet it a little,
+it'll slide right off.
+
+251
+00:15:53,869 --> 00:15:56,120
+- Not with your spit.
+- It's fine.
+
+252
+00:15:56,121 --> 00:15:59,040
+Saliva actually has
+antiseptic properties.
+
+253
+00:15:59,041 --> 00:16:01,626
+- I don't think that's true.
+- Who knows?
+
+254
+00:16:01,627 --> 00:16:04,712
+Science is constantly changing.
+That's what Will says.
+
+255
+00:16:04,713 --> 00:16:06,256
+You should hear him
+talk about it.
+
+256
+00:16:12,972 --> 00:16:15,307
+See? Easy...
+
+257
+00:16:16,767 --> 00:16:18,018
+peasy.
+
+258
+00:16:22,398 --> 00:16:24,525
+It's awful, isn't it?
+
+259
+00:16:26,026 --> 00:16:28,278
+No, it's the coolest thing
+I've ever seen.
+
+260
+00:16:30,447 --> 00:16:32,031
+Whoa.
+
+261
+00:16:36,620 --> 00:16:39,206
+I can handle it from here.
+Thanks.
+
+262
+00:16:47,840 --> 00:16:49,757
+That was crazy before, huh?
+
+263
+00:16:49,758 --> 00:16:52,260
+Lilly and Ronnie really
+went at each other.
+
+264
+00:16:52,261 --> 00:16:53,429
+Yeah.
+
+265
+00:16:57,850 --> 00:16:59,018
+{\an8}Yeah, I just...
+
+266
+00:17:00,394 --> 00:17:02,146
+{\an8}I just get
+a bad feeling. Like...
+
+267
+00:17:03,230 --> 00:17:05,440
+{\an8}this thing's not done with us.
+
+268
+00:17:05,441 --> 00:17:07,818
+{\an8}And if we have
+to face it alone, then...
+
+269
+00:17:09,528 --> 00:17:10,612
+{\an8}I know.
+
+270
+00:17:12,740 --> 00:17:13,782
+What if Lilly's right?
+
+271
+00:17:15,492 --> 00:17:17,452
+About that thing she found?
+
+272
+00:17:17,453 --> 00:17:19,913
+What if it really is
+the only way we can stop this?
+
+273
+00:17:21,415 --> 00:17:24,126
+Don't we have a better chance
+if we're together?
+
+274
+00:17:29,965 --> 00:17:32,175
+I'm not the one
+who needs convincing.
+
+275
+00:17:32,176 --> 00:17:33,802
+And Ronnie seems stubborn.
+
+276
+00:17:40,225 --> 00:17:41,642
+I got it.
+
+277
+00:17:59,036 --> 00:18:00,162
+Here goes nothing.
+
+278
+00:18:02,331 --> 00:18:06,834
+<i>♪ Young emotions ♪</i>
+
+279
+00:18:06,835 --> 00:18:08,002
+Oh shit.
+
+280
+00:18:08,003 --> 00:18:14,092
+<i>♪ Are mixed emotions ♪</i>
+
+281
+00:18:14,093 --> 00:18:20,348
+<i>♪ A world full of doubt
+But love works it out ♪</i>
+
+282
+00:18:20,349 --> 00:18:26,395
+<i>♪ These young emotions ♪</i>
+
+283
+00:18:50,921 --> 00:18:52,923
+Hallorann, are you in there?
+
+284
+00:19:03,892 --> 00:19:05,060
+Major.
+
+285
+00:19:11,692 --> 00:19:12,985
+Where you been?
+
+286
+00:19:14,278 --> 00:19:16,155
+You need a drink?
+
+287
+00:19:18,073 --> 00:19:20,409
+Drink. Drink, drink, drink.
+
+288
+00:19:24,580 --> 00:19:26,747
+New orders from Shaw.
+
+289
+00:19:26,748 --> 00:19:29,501
+Dead soldiers or not, he's still
+on the hunt for those pillars.
+
+290
+00:19:30,627 --> 00:19:32,044
+Ah, makes sense.
+
+291
+00:19:32,045 --> 00:19:34,673
+But if I was Shaw, I would stop
+that shit before he f--
+
+292
+00:19:49,897 --> 00:19:51,648
+I'll fuckin' look at it later.
+
+293
+00:19:53,859 --> 00:19:55,068
+Dick, what happened down there?
+
+294
+00:19:58,071 --> 00:19:59,697
+I think we pissed it off.
+
+295
+00:19:59,698 --> 00:20:00,991
+I meant you.
+
+296
+00:20:02,701 --> 00:20:04,620
+You stayed in those tunnels
+for hours.
+
+297
+00:20:05,120 --> 00:20:06,163
+What happened?
+
+298
+00:20:08,749 --> 00:20:09,917
+This thing I got,
+
+299
+00:20:11,210 --> 00:20:14,254
+when I was little,
+let me see things.
+
+300
+00:20:15,339 --> 00:20:16,340
+Okay.
+
+301
+00:20:17,549 --> 00:20:18,842
+What kind of things?
+
+302
+00:20:20,052 --> 00:20:21,302
+Dead ones.
+
+303
+00:20:27,935 --> 00:20:30,312
+My grandma had some
+of what I got.
+
+304
+00:20:31,230 --> 00:20:33,899
+Not as strong,
+but she had some, so...
+
+305
+00:20:35,651 --> 00:20:38,152
+she realized
+I wasn't sleeping, and why,
+
+306
+00:20:38,153 --> 00:20:40,989
+and she taught me this trick.
+Told me...
+
+307
+00:20:42,241 --> 00:20:45,535
+Said, "Dick, think
+of a great big ol' box.
+
+308
+00:20:46,411 --> 00:20:48,496
+And imagine
+putting all the things
+
+309
+00:20:48,497 --> 00:20:51,040
+you don't want to see no more
+inside the box.
+
+310
+00:20:51,041 --> 00:20:52,376
+Closing it up."
+
+311
+00:20:53,377 --> 00:20:54,544
+So I did.
+
+312
+00:20:56,129 --> 00:20:58,006
+I took all them dead things,
+
+313
+00:20:58,924 --> 00:21:01,008
+threw them in that box
+in my mind,
+
+314
+00:21:01,009 --> 00:21:03,804
+and I shoved
+that goddamn lid on tight.
+
+315
+00:21:05,889 --> 00:21:07,099
+I was nine.
+
+316
+00:21:08,267 --> 00:21:09,810
+I ain't seen them since.
+
+317
+00:21:11,270 --> 00:21:12,604
+'Til yesterday...
+
+318
+00:21:14,398 --> 00:21:16,191
+when that goddamn thing...
+
+319
+00:21:17,693 --> 00:21:22,197
+It forced itself into my head,
+ripped that lid off,
+
+320
+00:21:23,448 --> 00:21:26,702
+and laughed
+as it all came spillin' out.
+
+321
+00:21:42,384 --> 00:21:43,802
+Are they here now?
+
+322
+00:21:47,055 --> 00:21:48,140
+Can you see them?
+
+323
+00:21:52,978 --> 00:21:55,689
+My grandma,
+she used to tell me that
+
+324
+00:21:57,274 --> 00:21:59,650
+the dead, they--
+they always wander back
+
+325
+00:21:59,651 --> 00:22:01,736
+to where they died.
+
+326
+00:22:01,737 --> 00:22:04,281
+Look like one or two of 'em
+met their maker right here.
+
+327
+00:22:06,408 --> 00:22:07,534
+Do they talk to you?
+
+328
+00:22:09,411 --> 00:22:10,745
+No, no, no, no, no, no.
+
+329
+00:22:10,746 --> 00:22:14,040
+Long as I don't regard them,
+they don't even notice I'm here.
+
+330
+00:22:14,041 --> 00:22:15,917
+But, man, if I open my mouth...
+
+331
+00:22:19,046 --> 00:22:21,006
+the voices,
+they don't ever stop.
+
+332
+00:22:22,382 --> 00:22:25,468
+And they know things,
+things we don't.
+
+333
+00:22:25,469 --> 00:22:27,512
+Things the living
+aren't meant to know.
+
+334
+00:22:29,890 --> 00:22:30,974
+Like what?
+
+335
+00:22:37,981 --> 00:22:39,607
+Like how to find
+what we're looking for?
+
+336
+00:22:43,028 --> 00:22:45,112
+Did you hear a word I just said?
+
+337
+00:22:45,113 --> 00:22:46,156
+Look.
+
+338
+00:22:47,407 --> 00:22:49,076
+I just buried my wingman.
+
+339
+00:22:50,160 --> 00:22:53,622
+Okay, my best friend.
+And I almost killed my own son.
+
+340
+00:22:54,122 --> 00:22:55,373
+So, no disrespect,
+
+341
+00:22:55,374 --> 00:22:57,291
+but we both got skin
+in the game.
+
+342
+00:22:57,292 --> 00:22:59,919
+And I know it's asking a lot,
+but at the end of the day,
+
+343
+00:22:59,920 --> 00:23:03,130
+you're an airman first class
+of the United States military.
+
+344
+00:23:03,131 --> 00:23:04,924
+When shit gets real,
+it's the job.
+
+345
+00:23:04,925 --> 00:23:06,050
+Mm.
+
+346
+00:23:06,051 --> 00:23:07,468
+If this helps
+complete the mission,
+
+347
+00:23:07,469 --> 00:23:08,803
+just do it this one time,
+
+348
+00:23:08,804 --> 00:23:12,056
+and then you can-- you can
+
+349
+00:23:12,057 --> 00:23:14,809
+put it all back away,
+just like it was before.
+
+350
+00:23:14,810 --> 00:23:16,185
+Okay, so what-- what happens
+
+351
+00:23:16,186 --> 00:23:18,772
+if I can't shove it
+all away like before?
+
+352
+00:23:19,689 --> 00:23:22,734
+Hmm? You don't know.
+You don't know, do you?
+
+353
+00:23:24,069 --> 00:23:25,528
+Or you don't give a fuck.
+
+354
+00:23:25,529 --> 00:23:27,363
+Either way, all this shit is
+about what you want.
+
+355
+00:23:27,364 --> 00:23:28,489
+It's about doing what's right.
+
+356
+00:23:28,490 --> 00:23:30,866
+Oh, get the fuck out of here
+with that.
+
+357
+00:23:30,867 --> 00:23:32,159
+You know what? Shaw's calling,
+
+358
+00:23:32,160 --> 00:23:34,370
+needs his boot shined,
+you fuckin' bootlicker.
+
+359
+00:23:34,371 --> 00:23:36,038
+Man, you don't talk to me
+like that.
+
+360
+00:23:36,039 --> 00:23:37,331
+I'm your superior officer.
+
+361
+00:23:37,332 --> 00:23:39,166
+I don't give a fuck!
+
+362
+00:23:39,167 --> 00:23:40,585
+Get out!
+
+363
+00:23:42,379 --> 00:23:43,796
+Get out!
+
+364
+00:23:57,769 --> 00:24:00,688
+Now you think about
+whether you want to do
+your sworn duty,
+
+365
+00:24:00,689 --> 00:24:02,691
+or get dragged out
+of here in handcuffs.
+
+366
+00:24:04,609 --> 00:24:05,694
+Get some rest.
+
+367
+00:24:20,584 --> 00:24:21,626
+Charlotte.
+
+368
+00:24:27,799 --> 00:24:28,967
+Char?
+
+369
+00:24:35,348 --> 00:24:38,268
+What's going on? Where's Will?
+
+370
+00:24:39,227 --> 00:24:41,437
+Probably with his friends,
+
+371
+00:24:41,438 --> 00:24:44,106
+who are about the only people
+he can trust right now.
+
+372
+00:24:44,107 --> 00:24:46,485
+And you know what?
+I don't blame him.
+
+373
+00:24:47,110 --> 00:24:48,402
+Okay, hold on a minute.
+
+374
+00:24:48,403 --> 00:24:49,988
+No, you hold on a minute.
+
+375
+00:24:50,655 --> 00:24:53,241
+You put hands on our boy.
+
+376
+00:24:53,783 --> 00:24:54,868
+I know.
+
+377
+00:24:56,203 --> 00:24:57,912
+And I'm sorry, Char,
+but you know that--
+
+378
+00:24:57,913 --> 00:24:59,039
+that wasn't me.
+
+379
+00:24:59,956 --> 00:25:02,250
+It wasn't. My head was just...
+
+380
+00:25:03,543 --> 00:25:05,044
+It was all messed up
+
+381
+00:25:05,045 --> 00:25:06,838
+because of what happened
+down in that sewer.
+
+382
+00:25:08,715 --> 00:25:11,175
+And wh-- what happened to Pauly.
+
+383
+00:25:19,100 --> 00:25:20,185
+I'm sorry.
+
+384
+00:25:25,607 --> 00:25:26,650
+I'm sorry, Char.
+
+385
+00:25:27,776 --> 00:25:29,276
+I'm just...
+
+386
+00:25:29,277 --> 00:25:30,778
+trying to protect
+this goddamn country.
+
+387
+00:25:33,198 --> 00:25:34,323
+This country?
+
+388
+00:25:34,324 --> 00:25:35,407
+What?
+
+389
+00:25:35,408 --> 00:25:38,244
+You put us in a cage
+with a goddamn monster!
+
+390
+00:25:38,245 --> 00:25:40,288
+I didn't know.
+
+391
+00:25:42,040 --> 00:25:42,998
+I didn't know that.
+
+392
+00:25:42,999 --> 00:25:44,500
+Yeah, well,
+there's a lot you don't know.
+
+393
+00:25:44,501 --> 00:25:45,584
+Wait, wait, wait, wait.
+
+394
+00:25:45,585 --> 00:25:47,170
+What the hell
+is that supposed to mean?
+
+395
+00:25:48,838 --> 00:25:50,674
+Hank Grogan's at the Black Spot.
+
+396
+00:25:51,967 --> 00:25:53,008
+How'd he wind up
+there, Charlotte?
+
+397
+00:25:53,009 --> 00:25:54,176
+I put him there.
+
+398
+00:25:54,177 --> 00:25:55,303
+You--
+
+399
+00:25:55,929 --> 00:25:57,097
+Mm-hmm.
+
+400
+00:25:57,722 --> 00:26:00,057
+Yell, scream, stomp,
+
+401
+00:26:00,058 --> 00:26:01,308
+do whatever it is
+you need to do,
+
+402
+00:26:01,309 --> 00:26:02,851
+won't make a lick of difference.
+
+403
+00:26:02,852 --> 00:26:04,311
+Tomorrow morning,
+I'm getting him
+
+404
+00:26:04,312 --> 00:26:05,980
+out of town. Safe.
+
+405
+00:26:05,981 --> 00:26:07,982
+And then Will and I are
+headed back to Shreveport
+
+406
+00:26:07,983 --> 00:26:09,191
+with or without you.
+
+407
+00:26:09,192 --> 00:26:10,859
+I have a mission
+to finish, Charlotte.
+
+408
+00:26:10,860 --> 00:26:12,069
+I can't just walk away
+from that.
+
+409
+00:26:12,070 --> 00:26:13,487
+Well, then I guess
+you'll join us
+
+410
+00:26:13,488 --> 00:26:15,573
+when you can find the time
+to make things right.
+
+411
+00:26:15,574 --> 00:26:17,241
+Can't you see that's
+what I'm trying to do here?
+
+412
+00:26:17,242 --> 00:26:18,410
+Not with me.
+
+413
+00:26:19,411 --> 00:26:20,578
+With your son.
+
+414
+00:26:43,518 --> 00:26:45,686
+<i>You convinced everyone</i>
+
+415
+00:26:45,687 --> 00:26:47,731
+<i>to come and see me.</i>
+
+416
+00:26:50,191 --> 00:26:53,402
+<i>Because you're such a good friend.</i>
+
+417
+00:26:53,403 --> 00:26:57,698
+<i>But such a bad daughter!</i>
+
+418
+00:26:57,699 --> 00:27:00,243
+If you all
+take out your textbooks
+and turn to page 61.
+
+419
+00:27:04,372 --> 00:27:08,208
+Okay, so Sally has
+2X the number of apples.
+
+420
+00:27:10,795 --> 00:27:14,590
+Who's gonna help you now, crazy?
+
+421
+00:27:18,094 --> 00:27:21,430
+You'll die if you try!
+
+422
+00:27:21,431 --> 00:27:23,016
+Stay away!
+
+423
+00:27:26,895 --> 00:27:28,438
+Lilly Bainbridge!
+
+424
+00:27:30,273 --> 00:27:32,399
+Sit back down this very instant!
+
+425
+00:27:43,662 --> 00:27:45,913
+Where do you think
+you're going, young lady?
+
+426
+00:27:50,001 --> 00:27:52,086
+Her dad? Are you serious?
+
+427
+00:27:52,087 --> 00:27:53,462
+That's why she's not here.
+
+428
+00:27:53,463 --> 00:27:55,130
+Will said his mom took 'em
+there yesterday,
+
+429
+00:27:55,131 --> 00:27:57,341
+and Ronnie hasn't
+left his side since.
+
+430
+00:27:57,342 --> 00:27:58,759
+He said he'll take us
+there later,
+
+431
+00:27:58,760 --> 00:28:00,220
+but we can't tell anyone.
+
+432
+00:28:01,262 --> 00:28:03,013
+You think we can change
+her mind?
+
+433
+00:28:03,014 --> 00:28:04,932
+I don't know. We gotta try.
+
+434
+00:28:04,933 --> 00:28:07,226
+I could barely sleep last night.
+
+435
+00:28:07,227 --> 00:28:08,936
+When I brushed my teeth,
+I thought I heard voices
+
+436
+00:28:08,937 --> 00:28:10,938
+- in the pipes.
+- Voices in the pipes?
+
+437
+00:28:10,939 --> 00:28:11,939
+You too?
+
+438
+00:28:11,940 --> 00:28:14,108
+I wouldn't even go
+in there to pee.
+
+439
+00:28:14,109 --> 00:28:16,610
+So what, you just held it in?
+
+440
+00:28:16,611 --> 00:28:17,778
+Are you kidding?
+
+441
+00:28:17,779 --> 00:28:19,571
+I couldn't even do that
+if I tried.
+
+442
+00:28:19,572 --> 00:28:20,824
+I just put it--
+
+443
+00:28:23,326 --> 00:28:25,286
+Never mind. Doesn't matter.
+
+444
+00:28:26,371 --> 00:28:28,580
+Oh, come on. Please.
+You're the only person
+
+445
+00:28:28,581 --> 00:28:30,458
+I've shown
+my oozing eye scab to.
+
+446
+00:28:33,002 --> 00:28:34,003
+Fine.
+
+447
+00:28:35,630 --> 00:28:38,842
+I put a jar next to my bed,
+and I emptied it this morning.
+
+448
+00:28:40,093 --> 00:28:41,302
+Huh.
+
+449
+00:28:43,513 --> 00:28:45,723
+In medieval times,
+they called it a chamber pot.
+
+450
+00:28:45,724 --> 00:28:47,767
+Everyone peed in them,
+even knights.
+
+451
+00:28:48,393 --> 00:28:49,476
+Knights? Cool.
+
+452
+00:28:49,477 --> 00:28:52,355
+They also fought in duels
+and rescued fair maidens.
+
+453
+00:28:54,691 --> 00:28:56,150
+Oh, hey, I got you something.
+
+454
+00:28:59,779 --> 00:29:00,822
+Here it is.
+
+455
+00:29:02,240 --> 00:29:04,158
+Dug it out of my attic.
+
+456
+00:29:04,159 --> 00:29:05,784
+Supposedly,
+it belonged to a corsair
+
+457
+00:29:05,785 --> 00:29:07,995
+my ancestors knew back in Cuba.
+
+458
+00:29:07,996 --> 00:29:10,038
+I figured, I don't know,
+you might like it.
+
+459
+00:29:21,593 --> 00:29:23,762
+I love it.
+
+460
+00:29:26,181 --> 00:29:28,390
+I've always wanted
+to be a pirate.
+
+461
+00:29:28,391 --> 00:29:31,518
+Look at us.
+A pirate and a knight.
+
+462
+00:29:31,519 --> 00:29:33,854
+Guess we got next Halloween
+all figured out, huh?
+
+463
+00:29:33,855 --> 00:29:35,189
+It's a date.
+
+464
+00:29:37,150 --> 00:29:38,942
+- Oh.
+- No, I know.
+
+465
+00:29:38,943 --> 00:29:41,112
+- I didn't mean to say--
+- I didn't-- I didn't think
+you meant--
+
+466
+00:29:41,738 --> 00:29:42,864
+Sorry.
+
+467
+00:29:45,241 --> 00:29:47,576
+Hey, Margie.
+If I didn't know any better,
+
+468
+00:29:47,577 --> 00:29:49,244
+I'd think you were avoiding us.
+
+469
+00:29:49,245 --> 00:29:50,871
+Oh. Hi, Patty.
+
+470
+00:29:50,872 --> 00:29:52,956
+Everyone's still talking
+about how you escaped
+
+471
+00:29:52,957 --> 00:29:54,541
+the jaws of death.
+
+472
+00:29:54,542 --> 00:29:57,086
+At least Loony Lilly didn't
+stab both your eyes out.
+
+473
+00:29:57,712 --> 00:29:59,630
+That's not what happened.
+
+474
+00:29:59,631 --> 00:30:01,633
+Well, why don't you tell us
+about it over lunch?
+
+475
+00:30:02,550 --> 00:30:03,551
+At our table.
+
+476
+00:30:06,304 --> 00:30:07,554
+Unless you'd rather stay here
+
+477
+00:30:07,555 --> 00:30:09,891
+with Ricky Ricardo
+and the other freaks.
+
+478
+00:30:25,865 --> 00:30:27,075
+Patty?
+
+479
+00:30:27,742 --> 00:30:28,827
+Margaret?
+
+480
+00:30:30,495 --> 00:30:31,745
+I am a freak.
+
+481
+00:30:35,959 --> 00:30:37,751
+Stop!
+
+482
+00:30:37,752 --> 00:30:40,963
+Rhon? Oh my God, Rhonda.
+Just breathe! Oh my God!
+
+483
+00:30:56,354 --> 00:30:58,064
+<i>♪ Pretty little angel eyes ♪</i>
+
+484
+00:30:58,731 --> 00:31:00,774
+<i>♪ Pretty little angel eyes ♪</i>
+
+485
+00:31:00,775 --> 00:31:02,985
+<i>♪ Pretty little angel
+Pretty little angel ♪</i>
+
+486
+00:31:02,986 --> 00:31:05,487
+<i>♪Pretty little, pretty little
+Pretty little angel... ♪</i>
+
+487
+00:31:05,488 --> 00:31:06,614
+How much further?
+
+488
+00:31:07,991 --> 00:31:09,658
+Almost there, I think.
+
+489
+00:31:11,953 --> 00:31:14,162
+<i>♪ Pretty, pretty
+Pretty little angel eyes ♪</i>
+
+490
+00:31:14,163 --> 00:31:15,706
+Will! Wait up!
+
+491
+00:31:19,794 --> 00:31:21,128
+This is it.
+
+492
+00:31:21,129 --> 00:31:23,130
+Now we gotta convince Ronnie
+we have to stick together
+
+493
+00:31:23,131 --> 00:31:24,965
+to fight this thing.
+
+494
+00:31:24,966 --> 00:31:27,634
+Um, quick question.
+What if she says no?
+
+495
+00:31:28,761 --> 00:31:30,470
+Say a prayer she doesn't.
+
+496
+00:31:30,471 --> 00:31:31,805
+I don't know, man.
+
+497
+00:31:31,806 --> 00:31:35,434
+Last time I said a prayer,
+my dead <i>tío</i> almost killed us.
+
+498
+00:31:35,435 --> 00:31:38,604
+Okay, well, um...
+no prayers then.
+
+499
+00:31:38,605 --> 00:31:40,314
+Oh. Oh, Lord.
+
+500
+00:31:47,989 --> 00:31:52,159
+Wow. What is this place?
+
+501
+00:31:52,160 --> 00:31:54,912
+It's like a clubhouse for some
+of the airmen from the base.
+
+502
+00:31:54,913 --> 00:31:58,166
+So kind of like the Standpipe,
+but for grownups.
+
+503
+00:32:08,635 --> 00:32:09,677
+Who is it?
+
+504
+00:32:10,970 --> 00:32:12,263
+It's Will.
+
+505
+00:32:13,056 --> 00:32:14,891
+Rich. Come on.
+
+506
+00:32:55,473 --> 00:32:56,599
+Hello?
+
+507
+00:33:13,616 --> 00:33:14,909
+Mrs. Kersh?
+
+508
+00:34:48,669 --> 00:34:50,003
+Lilly?
+
+509
+00:34:51,255 --> 00:34:52,924
+What are you doing up here?
+
+510
+00:34:53,591 --> 00:34:55,509
+Uh, the-- the door was open.
+
+511
+00:34:56,844 --> 00:35:01,307
+Oh, it's-- it's fine.
+I just wasn't expecting anybody.
+
+512
+00:35:01,849 --> 00:35:03,101
+Are you okay?
+
+513
+00:35:04,268 --> 00:35:06,646
+I'm all right. It's just...
+
+514
+00:35:07,563 --> 00:35:10,690
+Well, we went down
+to the tunnels and--
+
+515
+00:35:10,691 --> 00:35:12,984
+Oh, Lilly.
+
+516
+00:35:12,985 --> 00:35:15,738
+- I begged you not to go.
+- We didn't have a choice.
+
+517
+00:35:16,823 --> 00:35:17,949
+And Matty...
+
+518
+00:35:19,075 --> 00:35:22,286
+Matty, he...
+
+519
+00:35:26,040 --> 00:35:27,250
+Oh, darling.
+
+520
+00:35:30,503 --> 00:35:33,171
+Oh. It's all right.
+
+521
+00:35:33,172 --> 00:35:36,007
+It's okay. Whatever it is,
+it's all going to be okay.
+
+522
+00:35:36,008 --> 00:35:38,385
+I just-- I didn't know
+who else to go to.
+
+523
+00:35:40,888 --> 00:35:43,890
+You're in the right place.
+All right?
+
+524
+00:35:43,891 --> 00:35:45,810
+It's okay.
+
+525
+00:35:46,519 --> 00:35:47,645
+It's okay.
+
+526
+00:35:51,274 --> 00:35:52,400
+There, there.
+
+527
+00:35:55,236 --> 00:35:58,865
+Oh, Lilly,
+you're safe here with me.
+
+528
+00:36:04,704 --> 00:36:07,247
+Lilly, what's the matter?
+
+529
+00:36:15,298 --> 00:36:16,424
+Have you seen him?
+
+530
+00:36:20,928 --> 00:36:22,013
+You saw him.
+
+531
+00:36:24,473 --> 00:36:25,932
+Oh, my word.
+
+532
+00:36:25,933 --> 00:36:27,977
+You did it.
+
+533
+00:36:28,728 --> 00:36:31,062
+Oh, sweetheart, you did it.
+
+534
+00:36:31,063 --> 00:36:32,606
+You did it.
+
+535
+00:36:32,607 --> 00:36:35,025
+Oh, Lilly.
+
+536
+00:36:35,026 --> 00:36:37,527
+Of course, it was you.
+
+537
+00:36:37,528 --> 00:36:39,279
+Oh, this is...
+
+538
+00:36:39,280 --> 00:36:40,739
+I know you don't understand,
+
+539
+00:36:40,740 --> 00:36:43,367
+but you brought him back.
+
+540
+00:36:46,996 --> 00:36:50,081
+It's my old costume.
+
+541
+00:36:56,797 --> 00:36:58,299
+You followed us?
+
+542
+00:36:59,258 --> 00:37:02,135
+Yes. Yes.
+
+543
+00:37:02,136 --> 00:37:05,305
+I thought he might appear
+that night in the cemetery.
+
+544
+00:37:05,306 --> 00:37:06,848
+You kids were on your bikes,
+
+545
+00:37:06,849 --> 00:37:09,476
+and I was worried
+I might miss him
+
+546
+00:37:09,477 --> 00:37:11,729
+if he--
+if he showed himself to you.
+
+547
+00:37:12,480 --> 00:37:13,647
+So-- So that was you.
+
+548
+00:37:18,986 --> 00:37:20,404
+But-- But why?
+
+549
+00:37:30,623 --> 00:37:33,542
+My father was
+a carnival performer.
+
+550
+00:37:34,669 --> 00:37:37,255
+He called himself
+"Pennywise the Dancing Clown."
+
+551
+00:37:38,673 --> 00:37:40,591
+I adored him.
+
+552
+00:37:42,176 --> 00:37:43,844
+And he was taken from me.
+
+553
+00:37:46,347 --> 00:37:48,975
+The carnival moved on,
+but I stayed in Derry.
+
+554
+00:37:50,434 --> 00:37:54,396
+I suppose you could say
+I felt... drawn.
+
+555
+00:38:08,244 --> 00:38:10,287
+Your parents are very concerned.
+
+556
+00:38:10,288 --> 00:38:11,789
+They don't believe me...
+
+557
+00:38:12,290 --> 00:38:14,541
+about Pennywise.
+
+558
+00:38:20,381 --> 00:38:22,883
+He says he wants
+to show me his carnival.
+
+559
+00:38:24,844 --> 00:38:29,389
+He's here in the pipes.
+
+560
+00:38:29,390 --> 00:38:32,600
+He tells me to come down
+to the basement at night.
+
+561
+00:38:32,601 --> 00:38:35,146
+There are no such things
+as clowns in pipes.
+
+562
+00:38:36,731 --> 00:38:38,274
+Clowns live at the circus.
+
+563
+00:38:40,568 --> 00:38:41,736
+Good girl.
+
+564
+00:38:59,337 --> 00:39:02,630
+It's okay, sweetheart.
+It's okay. It's just a balloon.
+
+565
+00:39:26,280 --> 00:39:28,366
+Hello, Mabel.
+
+566
+00:39:32,453 --> 00:39:35,623
+You finally came.
+
+567
+00:39:48,135 --> 00:39:50,721
+And you brought a friend.
+
+568
+00:39:53,349 --> 00:39:54,558
+Papa?
+
+569
+00:40:06,153 --> 00:40:08,196
+Don't look back!
+
+570
+00:40:09,865 --> 00:40:11,324
+There, Mabel!
+
+571
+00:40:21,710 --> 00:40:24,838
+- Help!
+- I'm trying! It's stuck!
+
+572
+00:40:24,839 --> 00:40:27,298
+Please, open the door!
+
+573
+00:40:27,299 --> 00:40:29,885
+Open the door!
+
+574
+00:40:30,886 --> 00:40:32,512
+Oh God! No!
+
+575
+00:40:32,513 --> 00:40:35,348
+Leave her alone!
+Oh no, please! Please!
+
+576
+00:40:40,229 --> 00:40:42,021
+Mabel--
+
+577
+00:40:58,289 --> 00:41:01,125
+No!
+
+578
+00:41:45,753 --> 00:41:50,591
+Pumpkin, it's me, Papa.
+
+579
+00:41:56,514 --> 00:42:01,894
+Oh, how I've missed you
+all these years.
+
+580
+00:42:04,605 --> 00:42:06,607
+No, no, don't be scared.
+
+581
+00:42:08,484 --> 00:42:10,319
+I can explain everything.
+
+582
+00:42:12,321 --> 00:42:15,115
+Just open the door
+and let me in.
+
+583
+00:42:24,875 --> 00:42:26,252
+That's right.
+
+584
+00:42:27,670 --> 00:42:28,796
+Open it.
+
+585
+00:42:30,297 --> 00:42:31,507
+Let me in.
+
+586
+00:42:33,384 --> 00:42:35,969
+Everything's gonna be all right.
+
+587
+00:42:46,355 --> 00:42:48,232
+<i>It was him.</i>
+
+588
+00:42:50,109 --> 00:42:52,151
+Different, perhaps changed
+
+589
+00:42:52,152 --> 00:42:56,239
+by whatever he'd been through,
+or wherever he'd been.
+
+590
+00:42:56,240 --> 00:42:59,076
+Oh, but it was him all the same.
+
+591
+00:43:00,661 --> 00:43:02,079
+A daughter knows.
+
+592
+00:43:05,499 --> 00:43:06,584
+And...
+
+593
+00:43:07,876 --> 00:43:09,253
+suddenly I...
+
+594
+00:43:10,796 --> 00:43:12,922
+oh, I felt whole again...
+
+595
+00:43:12,923 --> 00:43:16,594
+...for the first time
+since that awful day.
+
+596
+00:43:20,889 --> 00:43:23,182
+<i>But every time
+that he would return,</i>
+
+597
+00:43:23,183 --> 00:43:27,229
+<i>this shadow would steal
+my father away.</i>
+
+598
+00:43:29,148 --> 00:43:32,860
+<i>I... I had to find a way
+to free him.</i>
+
+599
+00:43:34,820 --> 00:43:37,239
+So I did what I had to
+to see him again.
+
+600
+00:43:46,582 --> 00:43:49,668
+If he could just see me
+once more as his Periwinkle,
+
+601
+00:43:50,794 --> 00:43:53,255
+remind him of the love
+that we shared,
+
+602
+00:43:54,214 --> 00:43:57,343
+I know that he'll be able
+to break free.
+
+603
+00:44:00,387 --> 00:44:01,597
+Please don't hurt me.
+
+604
+00:44:03,432 --> 00:44:04,558
+Hurt you?
+
+605
+00:44:05,809 --> 00:44:08,979
+I would never
+let anything hurt you.
+
+606
+00:44:09,897 --> 00:44:11,023
+And my friends?
+
+607
+00:44:13,233 --> 00:44:14,318
+Oh, Lilly.
+
+608
+00:44:15,694 --> 00:44:18,989
+You above all people
+should understand.
+
+609
+00:44:25,204 --> 00:44:28,749
+If you could see
+your father again, hold him,
+
+610
+00:44:29,958 --> 00:44:31,293
+be his little girl...
+
+611
+00:44:32,836 --> 00:44:34,712
+wouldn't you do everything
+you could
+
+612
+00:44:34,713 --> 00:44:36,090
+to make that happen?
+
+613
+00:44:39,218 --> 00:44:41,220
+My father is dead.
+
+614
+00:44:42,179 --> 00:44:44,515
+Oh, you know what they say
+about Derry, dear.
+
+615
+00:44:46,266 --> 00:44:48,727
+No one who dies here
+ever really dies.
+
+616
+00:44:50,813 --> 00:44:52,439
+Come with me tonight.
+
+617
+00:44:53,315 --> 00:44:54,607
+Let me show you.
+
+618
+00:44:56,110 --> 00:44:57,652
+Lilly!
+
+619
+00:45:10,708 --> 00:45:12,125
+If we're gonna go
+after this thing,
+
+620
+00:45:12,126 --> 00:45:13,960
+it needs to be all of us.
+
+621
+00:45:13,961 --> 00:45:17,505
+Uh-uh. I'm not going anywhere
+until I know my dad is safe.
+
+622
+00:45:17,506 --> 00:45:19,882
+Hey, your dad,
+he's gonna be fine.
+
+623
+00:45:19,883 --> 00:45:21,427
+Nobody knows that he's here.
+
+624
+00:45:22,845 --> 00:45:25,471
+I'm not getting separated again.
+
+625
+00:45:25,472 --> 00:45:28,976
+You guys do what you want.
+I'm staying.
+
+626
+00:45:36,191 --> 00:45:38,819
+- Well, she's stubborn.
+- I told you.
+
+627
+00:45:40,112 --> 00:45:41,572
+Yeah, well...
+
+628
+00:45:43,282 --> 00:45:44,491
+so am I.
+
+629
+00:45:45,534 --> 00:45:46,618
+Will--
+
+630
+00:45:47,911 --> 00:45:49,996
+All right, now.
+Here we go.
+
+631
+00:45:49,997 --> 00:45:52,582
+One, two.
+One, two, three, four.
+
+632
+00:45:57,379 --> 00:45:59,047
+Maybe we should wait outside.
+
+633
+00:46:01,216 --> 00:46:04,011
+Nah, I think...
+I think here's good.
+
+634
+00:46:05,971 --> 00:46:07,513
+If this thing Lilly found
+in the sewers
+
+635
+00:46:07,514 --> 00:46:09,849
+really scares it like she said,
+
+636
+00:46:09,850 --> 00:46:12,519
+it's a chance it can stop it.
+Like, for good.
+
+637
+00:46:13,687 --> 00:46:15,062
+But we think
+we'd have a better chance
+
+638
+00:46:15,063 --> 00:46:16,314
+if we could all
+be together until--
+
+639
+00:46:16,315 --> 00:46:17,607
+Enough.
+
+640
+00:46:17,608 --> 00:46:19,734
+You really expect my dad
+to let me go back down there?
+
+641
+00:46:19,735 --> 00:46:21,027
+No,
+you're not going anywhere,
+
+642
+00:46:21,028 --> 00:46:22,112
+but I get it.
+
+643
+00:46:23,322 --> 00:46:24,406
+He's worried about you.
+
+644
+00:46:25,491 --> 00:46:26,657
+Right?
+
+645
+00:46:26,658 --> 00:46:28,534
+Well, yes, sir.
+But that's-- that's not--
+
+646
+00:46:28,535 --> 00:46:30,287
+You really care
+about my daughter, don't you?
+
+647
+00:46:31,288 --> 00:46:33,749
+Uh... Yes, sir.
+
+648
+00:46:35,167 --> 00:46:38,212
+We have that in common.
+That's why I can't let her go.
+
+649
+00:46:39,671 --> 00:46:41,214
+So, what, the two of you
+
+650
+00:46:41,215 --> 00:46:42,882
+been spending a lot of time
+together then?
+
+651
+00:46:42,883 --> 00:46:45,009
+- Daddy.
+- Hush up, now.
+
+652
+00:46:45,010 --> 00:46:47,053
+You have a new gentleman friend.
+
+653
+00:46:47,054 --> 00:46:49,056
+I'm your father. I should
+know him a little better.
+
+654
+00:46:51,183 --> 00:46:52,851
+Let me ask you
+something, William.
+
+655
+00:46:55,229 --> 00:46:56,438
+What's your favorite movie?
+
+656
+00:47:02,110 --> 00:47:03,987
+That kiddie killer's
+still out there.
+
+657
+00:47:04,822 --> 00:47:06,781
+Where the hell else can we look?
+
+658
+00:47:06,782 --> 00:47:08,241
+We've already
+covered the Barren's.
+
+659
+00:47:08,242 --> 00:47:11,494
+There's a whole sewer system
+he could be hiding in.
+
+660
+00:47:11,495 --> 00:47:14,580
+I say we go in, split up,
+and search it all again.
+
+661
+00:47:14,581 --> 00:47:17,542
+How about that area
+outside the rail yards
+
+662
+00:47:17,543 --> 00:47:19,752
+where the hobos used
+to come through?
+
+663
+00:47:19,753 --> 00:47:22,755
+Tomorrow, we get the others,
+the Boone brothers, maybe,
+
+664
+00:47:22,756 --> 00:47:25,132
+- some dogs--
+- He's not there.
+
+665
+00:47:28,262 --> 00:47:30,179
+Grogan.
+
+666
+00:47:30,180 --> 00:47:32,765
+I know where he's hiding,
+and it ain't the rail yards.
+
+667
+00:47:32,766 --> 00:47:34,601
+- You serious?
+- Uh, yeah.
+
+668
+00:47:35,435 --> 00:47:37,020
+A lady called in a tip.
+
+669
+00:47:37,771 --> 00:47:40,398
+Didn't leave her name, but, uh,
+
+670
+00:47:40,399 --> 00:47:42,149
+well, considering the nature
+of the place
+
+671
+00:47:42,150 --> 00:47:44,902
+she was pointing at,
+I'd say it's a pretty safe bet.
+
+672
+00:47:44,903 --> 00:47:46,237
+Are you gonna arrest him?
+
+673
+00:47:46,238 --> 00:47:47,573
+Well, there's a problem.
+
+674
+00:47:48,824 --> 00:47:52,285
+See, when the tip came in,
+I was cleaning out my desk
+
+675
+00:47:52,286 --> 00:47:54,287
+'cause the deputy mayor
+
+676
+00:47:54,288 --> 00:47:56,455
+just relieved me of my duties.
+
+677
+00:47:56,456 --> 00:48:00,043
+Seems, uh, they've lost
+confidence in my ability to...
+
+678
+00:48:00,919 --> 00:48:02,962
+serve and protect.
+
+679
+00:48:02,963 --> 00:48:07,091
+So, no.
+No, I couldn't even...
+
+680
+00:48:07,092 --> 00:48:08,844
+...couldn't even give him
+a parking ticket.
+
+681
+00:48:10,345 --> 00:48:11,763
+What are you telling us for?
+
+682
+00:48:56,808 --> 00:48:58,810
+<i>♪ It's the wrong song... ♪</i>
+
+683
+00:48:59,686 --> 00:49:01,020
+Look who made it.
+
+684
+00:49:01,021 --> 00:49:02,730
+What's happening, man?
+
+685
+00:49:02,731 --> 00:49:06,192
+<i>♪ Your smile is lovely
+It's the wrong smile ♪</i>
+
+686
+00:49:06,193 --> 00:49:11,405
+<i>♪ It's not his smile
+But such a lovely smile ♪</i>
+
+687
+00:49:11,406 --> 00:49:15,619
+<i>♪ That it's all right with me ♪</i>
+
+688
+00:49:16,620 --> 00:49:19,956
+<i>♪ You can't know
+How happy I am ♪</i>
+
+689
+00:49:19,957 --> 00:49:21,666
+<i>♪ That we met ♪</i>
+
+690
+00:49:21,667 --> 00:49:26,796
+<i>♪ I'm strangely
+Attracted to you... ♪</i>
+
+691
+00:49:26,797 --> 00:49:30,384
+Here you go. Careful now,
+she's got some sting.
+
+692
+00:49:30,926 --> 00:49:31,969
+Thanks.
+
+693
+00:49:34,888 --> 00:49:37,724
+Ah! Young Master Will's friends.
+
+694
+00:49:38,517 --> 00:49:40,602
+- Whatcha drinkin'?
+- Two Cokes.
+
+695
+00:49:41,228 --> 00:49:42,437
+Two Cokes coming up.
+
+696
+00:49:51,571 --> 00:49:52,781
+What are they doing?
+
+697
+00:49:53,657 --> 00:49:56,242
+Uh,
+I think they're dancing.
+
+698
+00:49:56,243 --> 00:49:58,078
+What kind of dancing is that?
+
+699
+00:50:00,247 --> 00:50:01,331
+Two Cokes?
+
+700
+00:50:02,624 --> 00:50:03,667
+Thank you.
+
+701
+00:50:07,170 --> 00:50:08,879
+I think there's something wrong
+with this Coke.
+
+702
+00:50:08,880 --> 00:50:10,465
+Well, nah, you got a...
+
+703
+00:50:11,216 --> 00:50:12,426
+Air Force Coke.
+
+704
+00:50:13,844 --> 00:50:14,970
+Tastes kind of funny.
+
+705
+00:50:15,721 --> 00:50:17,430
+That's the taste
+of freedom, son.
+
+706
+00:50:17,431 --> 00:50:19,765
+<i>♪ And it's all right ♪</i>
+
+707
+00:50:19,766 --> 00:50:26,731
+<i>♪ And it's all right with me ♪</i>
+
+708
+00:50:26,732 --> 00:50:28,025
+Freedom tastes weird.
+
+709
+00:50:34,948 --> 00:50:36,907
+Oh, they did play
+<i>War of the Worlds</i>
+
+710
+00:50:36,908 --> 00:50:38,492
+at the rec center
+on base last year.
+
+711
+00:50:38,493 --> 00:50:40,745
+- I-- I-- I like that.
+- Great answer.
+
+712
+00:50:43,457 --> 00:50:45,458
+You seem like a bright
+young man, William.
+
+713
+00:50:51,173 --> 00:50:52,757
+Truth is...
+
+714
+00:50:55,469 --> 00:50:57,179
+if anything were to happen
+to me...
+
+715
+00:50:58,805 --> 00:51:00,640
+it's good to know
+someone of your character
+
+716
+00:51:01,683 --> 00:51:03,435
+is looking out for my baby girl.
+
+717
+00:51:09,274 --> 00:51:11,735
+Nothing's gonna happen
+to you or Ronnie, sir.
+
+718
+00:51:12,402 --> 00:51:13,528
+Not on my watch.
+
+719
+00:51:26,625 --> 00:51:28,042
+Oh shit.
+
+720
+00:51:28,043 --> 00:51:30,336
+Not even
+the old Hanlon charm, huh?
+
+721
+00:51:30,337 --> 00:51:32,588
+I tried. She won't budge.
+
+722
+00:51:32,589 --> 00:51:35,174
+Oh man. That sucks.
+
+723
+00:51:35,175 --> 00:51:38,303
+- What are we gonna do now?
+- Hey, Sticks, you play?
+
+724
+00:51:39,471 --> 00:51:41,430
+I don't know. A little.
+
+725
+00:51:41,431 --> 00:51:42,848
+Look, we're about to swing out,
+
+726
+00:51:42,849 --> 00:51:44,684
+but our drummer's
+a little bit, uh...
+
+727
+00:51:45,769 --> 00:51:47,229
+indisposed.
+
+728
+00:51:48,522 --> 00:51:50,273
+What do you say? Wanna sit in?
+
+729
+00:51:51,441 --> 00:51:52,858
+Oh, come on!
+
+730
+00:51:52,859 --> 00:51:56,029
+I've never seen you play before.
+What's a couple more minutes?
+
+731
+00:51:59,616 --> 00:52:00,742
+What are we playing?
+
+732
+00:52:01,368 --> 00:52:02,702
+You know how to use these?
+
+733
+00:52:10,377 --> 00:52:13,087
+<i>♪ Say, it's only a paper moon ♪</i>
+
+734
+00:52:13,088 --> 00:52:16,090
+<i>♪ Sailing over a cardboard sea ♪</i>
+
+735
+00:52:16,091 --> 00:52:18,217
+<i>♪ But it wouldn't be
+Make-believe ♪</i>
+
+736
+00:52:18,218 --> 00:52:20,887
+<i>♪ If you believed in me ♪</i>
+
+737
+00:52:25,100 --> 00:52:26,392
+- Wanna go dance?
+- Oh yeah.
+
+738
+00:52:29,229 --> 00:52:32,189
+I love Air Force Coke.
+
+739
+00:53:19,487 --> 00:53:20,613
+Go, Rich!
+
+740
+00:53:48,975 --> 00:53:51,018
+It's kinda nice
+out here, huh?
+
+741
+00:53:51,019 --> 00:53:52,645
+Just the two of us.
+
+742
+00:53:52,646 --> 00:53:55,481
+Can finally hear
+each other talk.
+
+743
+00:53:55,482 --> 00:53:57,524
+And, girl,
+let me tell you something.
+
+744
+00:53:57,525 --> 00:53:59,777
+I can listen to the sound
+of your voice till sunup.
+
+745
+00:53:59,778 --> 00:54:02,196
+You sure you don't mean
+the sound of your own?
+
+746
+00:54:02,197 --> 00:54:03,990
+Oof.
+
+747
+00:54:04,950 --> 00:54:06,451
+Come on. Light me up.
+
+748
+00:54:22,842 --> 00:54:24,928
+You guys expecting
+more people tonight?
+
+749
+00:54:25,720 --> 00:54:27,471
+No.
+
+750
+00:54:33,853 --> 00:54:35,063
+Goddamn.
+
+751
+00:54:37,983 --> 00:54:41,194
+Say, you wanna kill
+those headlights, jack?
+
+752
+00:54:43,405 --> 00:54:44,906
+What's wrong with these people?
+
+753
+00:54:54,457 --> 00:54:56,333
+Get behind me. Now.
+
